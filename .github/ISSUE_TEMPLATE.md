@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - December 12, 2025
+title: Latest 6 Papers - December 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models](https://arxiv.org/abs/2512.09928v1)** | 2025-12-10 | <details><summary>Proje...</summary><p>Project page: https://hifvla.github.io Github: https://github.com/OpenHelix-Team/HiF-VLA</p></details> |
-| **[Token Expand-Merge: Training-Free Token Compression for Vision-Language-Action Models](https://arxiv.org/abs/2512.09927v1)** | 2025-12-10 | 8 pages, 5 figures |
-| **[GAINS: Gaussian-based Inverse Rendering from Sparse Multi-View Captures](https://arxiv.org/abs/2512.09925v1)** | 2025-12-10 | 23 pages, 18 figures |
-| **[LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating](https://arxiv.org/abs/2512.09920v1)** | 2025-12-10 | 8 pages |
-| **[FALCON: Few-step Accurate Likelihoods for Continuous Flows](https://arxiv.org/abs/2512.09914v1)** | 2025-12-10 | <details><summary>Prepr...</summary><p>Preprint; NeurIPS 2025 MLSB</p></details> |
-| **[Imitative Membership Inference Attack](https://arxiv.org/abs/2509.06796v2)** | 2025-12-10 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/zealscott/IMIA</p></details> |
+| **[StereoSpace: Depth-Free Synthesis of Stereo Geometry via End-to-End Diffusion in a Canonical Space](https://arxiv.org/abs/2512.10959v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project page: https://hf.co/spaces/prs-eth/stereospace_web</p></details> |
+| **[WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World](https://arxiv.org/abs/2512.10958v1)** | 2025-12-11 | <details><summary>Prepr...</summary><p>Preprint; 80 pages, 37 figures, 29 tables; Project Page at https://worldbench.github.io/worldlens</p></details> |
+| **[SceneMaker: Open-set 3D Scene Generation with Decoupled De-occlusion and Pose Estimation Model](https://arxiv.org/abs/2512.10957v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project page: https://idea-research.github.io/SceneMaker/</p></details> |
+| **[Empowering Dynamic Urban Navigation with Stereo and Mid-Level Vision](https://arxiv.org/abs/2512.10956v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project Page: https://www.cs.virginia.edu/~tsx4zn/stereowalk/</p></details> |
+| **[Omni-Attribute: Open-vocabulary Attribute Encoder for Visual Concept Personalization](https://arxiv.org/abs/2512.10955v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/omni-attribute</p></details> |
+| **[Bidirectional Normalizing Flow: From Data to Noise and Back](https://arxiv.org/abs/2512.10953v1)** | 2025-12-11 | Tech report |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Token Expand-Merge: Training-Free Token Compression for Vision-Language-Action Models](https://arxiv.org/abs/2512.09927v1)** | 2025-12-10 | 8 pages, 5 figures |
-| **[Bayesian Networks, Markov Networks, Moralisation, Triangulation: a Categorical Perspective](https://arxiv.org/abs/2512.09908v1)** | 2025-12-10 | <details><summary>36 pa...</summary><p>36 pages. A preliminary version of this work was presented at CALCO 2025, under the title "An Algebraic Approach to Moralisation and Triangulation of Probabilistic Graphical Models''</p></details> |
-| **[HPM-KD: Hierarchical Progressive Multi-Teacher Framework for Knowledge Distillation and Efficient Model Compression](https://arxiv.org/abs/2512.09886v1)** | 2025-12-10 | 9 pages |
-| **[SAFT: Structure-Aware Fine-Tuning of LLMs for AMR-to-Text Generation](https://arxiv.org/abs/2507.13381v2)** | 2025-12-10 | <details><summary>Accep...</summary><p>Accepted at the KDD2025 Workshop on Structured Knowledge for LLMs</p></details> |
-| **[Interpretation as Linear Transformation: A Cognitive-Geometric Model of Belief and Meaning](https://arxiv.org/abs/2512.09831v1)** | 2025-12-10 | <details><summary>The f...</summary><p>The first draft of cognitive geometry model</p></details> |
-| **[RIFT: A Scalable Methodology for LLM Accelerator Fault Assessment using Reinforcement Learning](https://arxiv.org/abs/2512.09829v1)** | 2025-12-10 | <details><summary>Accep...</summary><p>Accepted in the IEEE DATE 2026 conference</p></details> |
+| **[Bidirectional Normalizing Flow: From Data to Noise and Back](https://arxiv.org/abs/2512.10953v1)** | 2025-12-11 | Tech report |
+| **[Group Diffusion: Enhancing Image Generation by Unlocking Cross-Sample Collaboration](https://arxiv.org/abs/2512.10954v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project Page: https://sichengmo.github.io/GroupDiff/</p></details> |
+| **[Towards Efficient and Effective Multi-Camera Encoding for End-to-End Driving](https://arxiv.org/abs/2512.10947v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project Page: https://jiawei-yang.github.io/Flex/</p></details> |
+| **[GaussianHeadTalk: Wobble-Free 3D Talking Heads with Audio Driven Gaussian Splatting](https://arxiv.org/abs/2512.10939v1)** | 2025-12-11 | <details><summary>IEEE/...</summary><p>IEEE/CVF Winter Conference on Applications of Computer Vision 2026</p></details> |
+| **[Any4D: Unified Feed-Forward Metric 4D Reconstruction](https://arxiv.org/abs/2512.10935v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project Website: https://any-4d.github.io/</p></details> |
+| **[SparseSwaps: Tractable LLM Pruning Mask Refinement at Scale](https://arxiv.org/abs/2512.10922v1)** | 2025-12-11 | <details><summary>15 pa...</summary><p>15 pages, 2 figures, 4 tables</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models](https://arxiv.org/abs/2512.09928v1)** | 2025-12-10 | <details><summary>Proje...</summary><p>Project page: https://hifvla.github.io Github: https://github.com/OpenHelix-Team/HiF-VLA</p></details> |
-| **[Token Expand-Merge: Training-Free Token Compression for Vision-Language-Action Models](https://arxiv.org/abs/2512.09927v1)** | 2025-12-10 | 8 pages, 5 figures |
-| **[LISN: Language-Instructed Social Navigation with VLM-based Controller Modulating](https://arxiv.org/abs/2512.09920v1)** | 2025-12-10 | 8 pages |
-| **[Imitative Membership Inference Attack](https://arxiv.org/abs/2509.06796v2)** | 2025-12-10 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/zealscott/IMIA</p></details> |
-| **[Matrix-game 2.0: An open-source real-time and streaming interactive world model](https://arxiv.org/abs/2508.13009v3)** | 2025-12-10 | <details><summary>Proje...</summary><p>Project Page: https://matrix-game-v2.github.io</p></details> |
-| **[Seedream 4.0: Toward Next-generation Multimodal Image Generation](https://arxiv.org/abs/2509.20427v3)** | 2025-12-10 | <details><summary>Seedr...</summary><p>Seedream 4.0/4.5 Technical Report</p></details> |
+| **[StereoSpace: Depth-Free Synthesis of Stereo Geometry via End-to-End Diffusion in a Canonical Space](https://arxiv.org/abs/2512.10959v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project page: https://hf.co/spaces/prs-eth/stereospace_web</p></details> |
+| **[Group Diffusion: Enhancing Image Generation by Unlocking Cross-Sample Collaboration](https://arxiv.org/abs/2512.10954v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project Page: https://sichengmo.github.io/GroupDiff/</p></details> |
+| **[E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training](https://arxiv.org/abs/2512.10950v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project website: https://qitaozhao.github.io/E-RayZer</p></details> |
+| **[Towards Efficient and Effective Multi-Camera Encoding for End-to-End Driving](https://arxiv.org/abs/2512.10947v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project Page: https://jiawei-yang.github.io/Flex/</p></details> |
+| **[ImplicitRDP: An End-to-End Visual-Force Diffusion Policy with Structural Slow-Fast Learning](https://arxiv.org/abs/2512.10946v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project page: https://implicit-rdp.github.io</p></details> |
+| **[GaussianHeadTalk: Wobble-Free 3D Talking Heads with Audio Driven Gaussian Splatting](https://arxiv.org/abs/2512.10939v1)** | 2025-12-11 | <details><summary>IEEE/...</summary><p>IEEE/CVF Winter Conference on Applications of Computer Vision 2026</p></details> |
 

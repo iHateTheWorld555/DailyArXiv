@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - December 15, 2025
+title: Latest 6 Papers - December 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[StereoSpace: Depth-Free Synthesis of Stereo Geometry via End-to-End Diffusion in a Canonical Space](https://arxiv.org/abs/2512.10959v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project page: https://hf.co/spaces/prs-eth/stereospace_web</p></details> |
-| **[WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World](https://arxiv.org/abs/2512.10958v1)** | 2025-12-11 | <details><summary>Prepr...</summary><p>Preprint; 80 pages, 37 figures, 29 tables; Project Page at https://worldbench.github.io/worldlens</p></details> |
-| **[SceneMaker: Open-set 3D Scene Generation with Decoupled De-occlusion and Pose Estimation Model](https://arxiv.org/abs/2512.10957v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project page: https://idea-research.github.io/SceneMaker/</p></details> |
-| **[Empowering Dynamic Urban Navigation with Stereo and Mid-Level Vision](https://arxiv.org/abs/2512.10956v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project Page: https://www.cs.virginia.edu/~tsx4zn/stereowalk/</p></details> |
-| **[Omni-Attribute: Open-vocabulary Attribute Encoder for Visual Concept Personalization](https://arxiv.org/abs/2512.10955v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/omni-attribute</p></details> |
-| **[Bidirectional Normalizing Flow: From Data to Noise and Back](https://arxiv.org/abs/2512.10953v1)** | 2025-12-11 | Tech report |
+| **[V-RGBX: Video Editing with Accurate Controls over Intrinsic Properties](https://arxiv.org/abs/2512.11799v1)** | 2025-12-12 | <details><summary>Proje...</summary><p>Project Page: https://aleafy.github.io/vrgbx</p></details> |
+| **[Particulate: Feed-Forward 3D Object Articulation](https://arxiv.org/abs/2512.11798v1)** | 2025-12-12 | <details><summary>Proje...</summary><p>Project page: https://ruiningli.com/particulate</p></details> |
+| **[AnchorDream: Repurposing Video Diffusion for Embodiment-Aware Robot Data Synthesis](https://arxiv.org/abs/2512.11797v1)** | 2025-12-12 | <details><summary>Proje...</summary><p>Project page: https://jay-ye.github.io/AnchorDream/</p></details> |
+| **[Structure From Tracking: Distilling Structure-Preserving Motion for Video Generation](https://arxiv.org/abs/2512.11792v1)** | 2025-12-12 | <details><summary>Proje...</summary><p>Project Website: https://sam2videox.github.io/</p></details> |
+| **[Toward a Decision Support System for Energy-Efficient Ferry Operation on Lake Constance based on Optimal Control](https://arxiv.org/abs/2512.11786v1)** | 2025-12-12 | 6 pages, 8 figures |
+| **[Universal entrywise eigenvector fluctuations in delocalized spiked matrix models and asymptotics of rounded spectral algorithms](https://arxiv.org/abs/2512.11785v1)** | 2025-12-12 | 47 pages, 3 figures |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Bidirectional Normalizing Flow: From Data to Noise and Back](https://arxiv.org/abs/2512.10953v1)** | 2025-12-11 | Tech report |
-| **[Group Diffusion: Enhancing Image Generation by Unlocking Cross-Sample Collaboration](https://arxiv.org/abs/2512.10954v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project Page: https://sichengmo.github.io/GroupDiff/</p></details> |
-| **[Towards Efficient and Effective Multi-Camera Encoding for End-to-End Driving](https://arxiv.org/abs/2512.10947v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project Page: https://jiawei-yang.github.io/Flex/</p></details> |
-| **[GaussianHeadTalk: Wobble-Free 3D Talking Heads with Audio Driven Gaussian Splatting](https://arxiv.org/abs/2512.10939v1)** | 2025-12-11 | <details><summary>IEEE/...</summary><p>IEEE/CVF Winter Conference on Applications of Computer Vision 2026</p></details> |
-| **[Any4D: Unified Feed-Forward Metric 4D Reconstruction](https://arxiv.org/abs/2512.10935v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project Website: https://any-4d.github.io/</p></details> |
-| **[SparseSwaps: Tractable LLM Pruning Mask Refinement at Scale](https://arxiv.org/abs/2512.10922v1)** | 2025-12-11 | <details><summary>15 pa...</summary><p>15 pages, 2 figures, 4 tables</p></details> |
+| **[Particulate: Feed-Forward 3D Object Articulation](https://arxiv.org/abs/2512.11798v1)** | 2025-12-12 | <details><summary>Proje...</summary><p>Project page: https://ruiningli.com/particulate</p></details> |
+| **[Toward a Decision Support System for Energy-Efficient Ferry Operation on Lake Constance based on Optimal Control](https://arxiv.org/abs/2512.11786v1)** | 2025-12-12 | 6 pages, 8 figures |
+| **[A Family of LZ78-based Universal Sequential Probability Assignments](https://arxiv.org/abs/2410.06589v2)** | 2025-12-12 | <details><summary>40 pa...</summary><p>40 pages, 5 figures, to appear in IEEE Transactions on Information Theory</p></details> |
+| **[MTTR-A: Measuring Cognitive Recovery Latency in Multi-Agent Systems](https://arxiv.org/abs/2511.20663v3)** | 2025-12-12 | preprint |
+| **[LUCID: Learning-Enabled Uncertainty-Aware Certification of Stochastic Dynamical Systems](https://arxiv.org/abs/2512.11750v1)** | 2025-12-12 | <details><summary>The m...</summary><p>The manuscript has been accepted for publication in the main track of AAAI 2026</p></details> |
+| **[REASONING COMPILER: LLM-Guided Optimizations for Efficient Model Serving](https://arxiv.org/abs/2506.01374v4)** | 2025-12-12 | NeurIPS 2025 |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[StereoSpace: Depth-Free Synthesis of Stereo Geometry via End-to-End Diffusion in a Canonical Space](https://arxiv.org/abs/2512.10959v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project page: https://hf.co/spaces/prs-eth/stereospace_web</p></details> |
-| **[Group Diffusion: Enhancing Image Generation by Unlocking Cross-Sample Collaboration](https://arxiv.org/abs/2512.10954v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project Page: https://sichengmo.github.io/GroupDiff/</p></details> |
-| **[E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training](https://arxiv.org/abs/2512.10950v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project website: https://qitaozhao.github.io/E-RayZer</p></details> |
-| **[Towards Efficient and Effective Multi-Camera Encoding for End-to-End Driving](https://arxiv.org/abs/2512.10947v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project Page: https://jiawei-yang.github.io/Flex/</p></details> |
-| **[ImplicitRDP: An End-to-End Visual-Force Diffusion Policy with Structural Slow-Fast Learning](https://arxiv.org/abs/2512.10946v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project page: https://implicit-rdp.github.io</p></details> |
-| **[GaussianHeadTalk: Wobble-Free 3D Talking Heads with Audio Driven Gaussian Splatting](https://arxiv.org/abs/2512.10939v1)** | 2025-12-11 | <details><summary>IEEE/...</summary><p>IEEE/CVF Winter Conference on Applications of Computer Vision 2026</p></details> |
+| **[Particulate: Feed-Forward 3D Object Articulation](https://arxiv.org/abs/2512.11798v1)** | 2025-12-12 | <details><summary>Proje...</summary><p>Project page: https://ruiningli.com/particulate</p></details> |
+| **[BLURR: A Boosted Low-Resource Inference for Vision-Language-Action Models](https://arxiv.org/abs/2512.11769v1)** | 2025-12-12 | <details><summary>10 pa...</summary><p>10 pages, 3 figures. Code and integration scripts will be released at this http URL: https://github.com/JijiKing-Sam/BLURR-A-Boosted-Low-Resource-Inference-for-Vision-Language-Action-Model</p></details> |
+| **[More powerful multiple testing under dependence via randomization](https://arxiv.org/abs/2305.11126v4)** | 2025-12-12 | 56 pages, 12 figures |
+| **[LUCID: Learning-Enabled Uncertainty-Aware Certification of Stochastic Dynamical Systems](https://arxiv.org/abs/2512.11750v1)** | 2025-12-12 | <details><summary>The m...</summary><p>The manuscript has been accepted for publication in the main track of AAAI 2026</p></details> |
+| **[SVG-T2I: Scaling Up Text-to-Image Latent Diffusion Model Without Variational Autoencoder](https://arxiv.org/abs/2512.11749v1)** | 2025-12-12 | <details><summary>Code ...</summary><p>Code Repository: https://github.com/KlingTeam/SVG-T2I; Model Weights: https://huggingface.co/KlingTeam/SVG-T2I</p></details> |
+| **[Misspecification-robust amortised simulation-based inference using variational methods](https://arxiv.org/abs/2509.05724v2)** | 2025-12-12 | <details><summary>Updat...</summary><p>Updated metrics, fixed typos, adjusted title</p></details> |
 

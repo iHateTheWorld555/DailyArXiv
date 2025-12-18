@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - December 18, 2025
+title: Latest 6 Papers - December 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MemFlow: Flowing Adaptive Memory for Consistent and Efficient Long Video Narratives](https://arxiv.org/abs/2512.14699v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project Page: https://sihuiji.github.io/MemFlow.github.io/</p></details> |
-| **[TimeLens: Rethinking Video Temporal Grounding with Multimodal LLMs](https://arxiv.org/abs/2512.14698v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project Page: https://timelens-arc-lab.github.io/</p></details> |
-| **[Spherical Leech Quantization for Visual Tokenization and Generation](https://arxiv.org/abs/2512.14697v1)** | 2025-12-16 | <details><summary>Tech ...</summary><p>Tech report; project page: https://zhaoyue-zephyrus.github.io/npq/</p></details> |
-| **[CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives](https://arxiv.org/abs/2512.14696v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project page: https://crisp-real2sim.github.io/CRISP-Real2Sim/</p></details> |
-| **[Love First, Know Later: Persona-Based Romantic Compatibility Through LLM Text World Engines](https://arxiv.org/abs/2512.11844v2)** | 2025-12-16 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Workshop: First Workshop on LLM Persona Modeling (Oral)</p></details> |
-| **[Native and Compact Structured Latents for 3D Generation](https://arxiv.org/abs/2512.14692v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project Page: https://microsoft.github.io/TRELLIS.2/</p></details> |
+| **[Spatia: Video Generation with Updatable Spatial Memory](https://arxiv.org/abs/2512.15716v1)** | 2025-12-17 | <details><summary>Proje...</summary><p>Project page: https://zhaojingjing713.github.io/Spatia/</p></details> |
+| **[In Pursuit of Pixel Supervision for Visual Pre-training](https://arxiv.org/abs/2512.15715v1)** | 2025-12-17 | <details><summary>Proje...</summary><p>Project page: https://github.com/facebookresearch/pixio</p></details> |
+| **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v1)** | 2025-12-17 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, conference or other essential info</p></details> |
+| **[Predictive Concept Decoders: Training Scalable End-to-End Interpretability Assistants](https://arxiv.org/abs/2512.15712v1)** | 2025-12-17 | 28 pages, 12 figures |
+| **[Gaussian Pixel Codec Avatars: A Hybrid Representation for Efficient Rendering](https://arxiv.org/abs/2512.15711v1)** | 2025-12-17 | Tech report |
+| **[GateFusion: Hierarchical Gated Cross-Modal Fusion for Active Speaker Detection](https://arxiv.org/abs/2512.15707v1)** | 2025-12-17 | <details><summary>accep...</summary><p>accepted by WACV 2026</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MemFlow: Flowing Adaptive Memory for Consistent and Efficient Long Video Narratives](https://arxiv.org/abs/2512.14699v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project Page: https://sihuiji.github.io/MemFlow.github.io/</p></details> |
-| **[Spherical Leech Quantization for Visual Tokenization and Generation](https://arxiv.org/abs/2512.14697v1)** | 2025-12-16 | <details><summary>Tech ...</summary><p>Tech report; project page: https://zhaoyue-zephyrus.github.io/npq/</p></details> |
-| **[Native and Compact Structured Latents for 3D Generation](https://arxiv.org/abs/2512.14692v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project Page: https://microsoft.github.io/TRELLIS.2/</p></details> |
-| **[A Physical Basis for Information](https://arxiv.org/abs/2407.09567v6)** | 2025-12-16 | - |
-| **[Beyond Lipschitz Continuity and Monotonicity: Fractal and Chaotic Activation Functions in Echo State Networks](https://arxiv.org/abs/2512.14675v1)** | 2025-12-16 | <details><summary>50 pa...</summary><p>50 pages, 21 figures. Extended version with full proofs, parameter sweeps, and appendices</p></details> |
-| **[ART: Articulated Reconstruction Transformer](https://arxiv.org/abs/2512.14671v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project Page: https://kyleleey.github.io/ART/</p></details> |
+| **[Predictive Concept Decoders: Training Scalable End-to-End Interpretability Assistants](https://arxiv.org/abs/2512.15712v1)** | 2025-12-17 | 28 pages, 12 figures |
+| **[GateFusion: Hierarchical Gated Cross-Modal Fusion for Active Speaker Detection](https://arxiv.org/abs/2512.15707v1)** | 2025-12-17 | <details><summary>accep...</summary><p>accepted by WACV 2026</p></details> |
+| **[VLIC: Vision-Language Models As Perceptual Judges for Human-Aligned Image Compression](https://arxiv.org/abs/2512.15701v1)** | 2025-12-17 | 14 pages, 8 figures |
+| **[A Multivariate Statistical Framework for Detection, Classification and Pre-localization of Anomalies in Water Distribution Networks](https://arxiv.org/abs/2512.15685v1)** | 2025-12-17 | <details><summary>48 pa...</summary><p>48 pages, 18 figures, 3 tables</p></details> |
+| **[SoFlow: Solution Flow Models for One-Step Generative Modeling](https://arxiv.org/abs/2512.15657v1)** | 2025-12-17 | <details><summary>Our c...</summary><p>Our code is available at https://github.com/zlab-princeton/SoFlow</p></details> |
+| **[Characterizing Mamba's Selective Memory using Auto-Encoders](https://arxiv.org/abs/2512.15653v1)** | 2025-12-17 | <details><summary>AACL ...</summary><p>AACL 2025. Oral Presentation</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Native and Compact Structured Latents for 3D Generation](https://arxiv.org/abs/2512.14692v1)** | 2025-12-16 | <details><summary>Proje...</summary><p>Project Page: https://microsoft.github.io/TRELLIS.2/</p></details> |
-| **[Misspecification-robust amortised simulation-based inference using variational methods](https://arxiv.org/abs/2509.05724v3)** | 2025-12-16 | <details><summary>Latex...</summary><p>Latex edits, fixed typos</p></details> |
-| **[VIBE: Can a VLM Read the Room?](https://arxiv.org/abs/2506.11162v2)** | 2025-12-16 | <details><summary>Findi...</summary><p>Findings of EMNLP, 2025</p></details> |
-| **[Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models](https://arxiv.org/abs/2512.14661v1)** | 2025-12-16 | HPCA 2026 |
-| **[Model-Based Reinforcement Learning in Discrete-Action Non-Markovian Reward Decision Processes](https://arxiv.org/abs/2512.14617v1)** | 2025-12-16 | <details><summary>19 pa...</summary><p>19 pages, 32 figures, includes appendix</p></details> |
-| **[PerProb: Indirectly Evaluating Memorization in Large Language Models](https://arxiv.org/abs/2512.14600v1)** | 2025-12-16 | <details><summary>Accep...</summary><p>Accepted at APSEC 2025</p></details> |
+| **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v1)** | 2025-12-17 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, conference or other essential info</p></details> |
+| **[End-to-End Training for Autoregressive Video Diffusion via Self-Resampling](https://arxiv.org/abs/2512.15702v1)** | 2025-12-17 | <details><summary>Proje...</summary><p>Project Page: https://guoyww.github.io/projects/resampling-forcing/</p></details> |
+| **[Data-driven controlled subgroup selection in clinical trials](https://arxiv.org/abs/2512.15676v1)** | 2025-12-17 | 37 pages, 10 figures |
+| **[Characterizing Mamba's Selective Memory using Auto-Encoders](https://arxiv.org/abs/2512.15653v1)** | 2025-12-17 | <details><summary>AACL ...</summary><p>AACL 2025. Oral Presentation</p></details> |
+| **[Learning continuous SOC-dependent thermal decomposition kinetics for Li-ion cathodes using KA-CRNNs](https://arxiv.org/abs/2512.15628v1)** | 2025-12-17 | <details><summary>17 pa...</summary><p>17 pages, 10 figures, 2 tables</p></details> |
+| **[Conformal Survival Bands for Risk Screening under Right-Censoring](https://arxiv.org/abs/2505.04568v4)** | 2025-12-17 | <details><summary>A key...</summary><p>A key standard assumption, conditional independent censoring, was not stated explicitly in earlier version. This has been corrected</p></details> |
 

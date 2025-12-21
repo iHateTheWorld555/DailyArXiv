@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - December 19, 2025
+title: Latest 6 Papers - December 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Spatia: Video Generation with Updatable Spatial Memory](https://arxiv.org/abs/2512.15716v1)** | 2025-12-17 | <details><summary>Proje...</summary><p>Project page: https://zhaojingjing713.github.io/Spatia/</p></details> |
-| **[In Pursuit of Pixel Supervision for Visual Pre-training](https://arxiv.org/abs/2512.15715v1)** | 2025-12-17 | <details><summary>Proje...</summary><p>Project page: https://github.com/facebookresearch/pixio</p></details> |
-| **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v1)** | 2025-12-17 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, conference or other essential info</p></details> |
-| **[Predictive Concept Decoders: Training Scalable End-to-End Interpretability Assistants](https://arxiv.org/abs/2512.15712v1)** | 2025-12-17 | 28 pages, 12 figures |
-| **[Gaussian Pixel Codec Avatars: A Hybrid Representation for Efficient Rendering](https://arxiv.org/abs/2512.15711v1)** | 2025-12-17 | Tech report |
-| **[GateFusion: Hierarchical Gated Cross-Modal Fusion for Active Speaker Detection](https://arxiv.org/abs/2512.15707v1)** | 2025-12-17 | <details><summary>accep...</summary><p>accepted by WACV 2026</p></details> |
+| **[The World is Your Canvas: Painting Promptable Events with Reference Images, Trajectories, and Text](https://arxiv.org/abs/2512.16924v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project page and code: https://worldcanvas.github.io/</p></details> |
+| **[Next-Embedding Prediction Makes Strong Vision Learners](https://arxiv.org/abs/2512.16922v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project Page: https://sihanxu.me/nepa</p></details> |
+| **[EasyV2V: A High-quality Instruction-based Video Editing Framework](https://arxiv.org/abs/2512.16920v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/easyv2v/</p></details> |
+| **[DVGT: Driving Visual Geometry Transformer](https://arxiv.org/abs/2512.16919v1)** | 2025-12-18 | <details><summary>Code ...</summary><p>Code is available at https://github.com/wzzheng/DVGT</p></details> |
+| **[Differences That Matter: Auditing Models for Capability Gap Discovery and Rectification](https://arxiv.org/abs/2512.16921v1)** | 2025-12-18 | <details><summary>proje...</summary><p>project page: https://auditdm.github.io/</p></details> |
+| **[AdaTooler-V: Adaptive Tool-Use for Images and Videos](https://arxiv.org/abs/2512.16918v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project page: https://github.com/CYWang735/AdaTooler-V</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Predictive Concept Decoders: Training Scalable End-to-End Interpretability Assistants](https://arxiv.org/abs/2512.15712v1)** | 2025-12-17 | 28 pages, 12 figures |
-| **[GateFusion: Hierarchical Gated Cross-Modal Fusion for Active Speaker Detection](https://arxiv.org/abs/2512.15707v1)** | 2025-12-17 | <details><summary>accep...</summary><p>accepted by WACV 2026</p></details> |
-| **[VLIC: Vision-Language Models As Perceptual Judges for Human-Aligned Image Compression](https://arxiv.org/abs/2512.15701v1)** | 2025-12-17 | 14 pages, 8 figures |
-| **[A Multivariate Statistical Framework for Detection, Classification and Pre-localization of Anomalies in Water Distribution Networks](https://arxiv.org/abs/2512.15685v1)** | 2025-12-17 | <details><summary>48 pa...</summary><p>48 pages, 18 figures, 3 tables</p></details> |
-| **[SoFlow: Solution Flow Models for One-Step Generative Modeling](https://arxiv.org/abs/2512.15657v1)** | 2025-12-17 | <details><summary>Our c...</summary><p>Our code is available at https://github.com/zlab-princeton/SoFlow</p></details> |
-| **[Characterizing Mamba's Selective Memory using Auto-Encoders](https://arxiv.org/abs/2512.15653v1)** | 2025-12-17 | <details><summary>AACL ...</summary><p>AACL 2025. Oral Presentation</p></details> |
+| **[Next-Embedding Prediction Makes Strong Vision Learners](https://arxiv.org/abs/2512.16922v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project Page: https://sihanxu.me/nepa</p></details> |
+| **[DVGT: Driving Visual Geometry Transformer](https://arxiv.org/abs/2512.16919v1)** | 2025-12-18 | <details><summary>Code ...</summary><p>Code is available at https://github.com/wzzheng/DVGT</p></details> |
+| **[SFTok: Bridging the Performance Gap in Discrete Tokenizers](https://arxiv.org/abs/2512.16910v1)** | 2025-12-18 | <details><summary>Under...</summary><p>Under review. Code is available at https://github.com/Neur-IO/SFTok</p></details> |
+| **[In-Context Algebra](https://arxiv.org/abs/2512.16902v1)** | 2025-12-18 | <details><summary>28 pa...</summary><p>28 pages, 18 figures. Code and data at https://algebra.baulab.info</p></details> |
+| **[Pixel Seal: Adversarial-only training for invisible image and video watermarking](https://arxiv.org/abs/2512.16874v1)** | 2025-12-18 | <details><summary>Code ...</summary><p>Code and model available at https://github.com/facebookresearch/videoseal</p></details> |
+| **[On the Universal Representation Property of Spiking Neural Networks](https://arxiv.org/abs/2512.16872v1)** | 2025-12-18 | 54 pages, 8 figures |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713v1)** | 2025-12-17 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, conference or other essential info</p></details> |
-| **[End-to-End Training for Autoregressive Video Diffusion via Self-Resampling](https://arxiv.org/abs/2512.15702v1)** | 2025-12-17 | <details><summary>Proje...</summary><p>Project Page: https://guoyww.github.io/projects/resampling-forcing/</p></details> |
-| **[Data-driven controlled subgroup selection in clinical trials](https://arxiv.org/abs/2512.15676v1)** | 2025-12-17 | 37 pages, 10 figures |
-| **[Characterizing Mamba's Selective Memory using Auto-Encoders](https://arxiv.org/abs/2512.15653v1)** | 2025-12-17 | <details><summary>AACL ...</summary><p>AACL 2025. Oral Presentation</p></details> |
-| **[Learning continuous SOC-dependent thermal decomposition kinetics for Li-ion cathodes using KA-CRNNs](https://arxiv.org/abs/2512.15628v1)** | 2025-12-17 | <details><summary>17 pa...</summary><p>17 pages, 10 figures, 2 tables</p></details> |
-| **[Conformal Survival Bands for Risk Screening under Right-Censoring](https://arxiv.org/abs/2505.04568v4)** | 2025-12-17 | <details><summary>A key...</summary><p>A key standard assumption, conditional independent censoring, was not stated explicitly in earlier version. This has been corrected</p></details> |
+| **[EasyV2V: A High-quality Instruction-based Video Editing Framework](https://arxiv.org/abs/2512.16920v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/easyv2v/</p></details> |
+| **[DVGT: Driving Visual Geometry Transformer](https://arxiv.org/abs/2512.16919v1)** | 2025-12-18 | <details><summary>Code ...</summary><p>Code is available at https://github.com/wzzheng/DVGT</p></details> |
+| **[AdaTooler-V: Adaptive Tool-Use for Images and Videos](https://arxiv.org/abs/2512.16918v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project page: https://github.com/CYWang735/AdaTooler-V</p></details> |
+| **[SFTok: Bridging the Performance Gap in Discrete Tokenizers](https://arxiv.org/abs/2512.16910v1)** | 2025-12-18 | <details><summary>Under...</summary><p>Under review. Code is available at https://github.com/Neur-IO/SFTok</p></details> |
+| **[Sceniris: A Fast Procedural Scene Generation Framework](https://arxiv.org/abs/2512.16896v1)** | 2025-12-18 | <details><summary>Code ...</summary><p>Code is available at https://github.com/rai-inst/sceniris</p></details> |
+| **[Instant Expressive Gaussian Head Avatar via 3D-Aware Expression Distillation](https://arxiv.org/abs/2512.16893v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project website is https://research.nvidia.com/labs/amri/projects/instant4d</p></details> |
 

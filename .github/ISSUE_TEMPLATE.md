@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - December 22, 2025
+title: Latest 6 Papers - December 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The World is Your Canvas: Painting Promptable Events with Reference Images, Trajectories, and Text](https://arxiv.org/abs/2512.16924v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project page and code: https://worldcanvas.github.io/</p></details> |
-| **[Next-Embedding Prediction Makes Strong Vision Learners](https://arxiv.org/abs/2512.16922v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project Page: https://sihanxu.me/nepa</p></details> |
-| **[EasyV2V: A High-quality Instruction-based Video Editing Framework](https://arxiv.org/abs/2512.16920v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/easyv2v/</p></details> |
-| **[DVGT: Driving Visual Geometry Transformer](https://arxiv.org/abs/2512.16919v1)** | 2025-12-18 | <details><summary>Code ...</summary><p>Code is available at https://github.com/wzzheng/DVGT</p></details> |
-| **[Differences That Matter: Auditing Models for Capability Gap Discovery and Rectification](https://arxiv.org/abs/2512.16921v1)** | 2025-12-18 | <details><summary>proje...</summary><p>project page: https://auditdm.github.io/</p></details> |
-| **[AdaTooler-V: Adaptive Tool-Use for Images and Videos](https://arxiv.org/abs/2512.16918v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project page: https://github.com/CYWang735/AdaTooler-V</p></details> |
+| **[Both Semantics and Reconstruction Matter: Making Representation Encoders Ready for Text-to-Image Generation and Editing](https://arxiv.org/abs/2512.17909v1)** | 2025-12-19 | <details><summary>Proje...</summary><p>Project Page: https://jshilong.github.io/PS-VAE-PAGE/</p></details> |
+| **[Dexterous World Models](https://arxiv.org/abs/2512.17907v1)** | 2025-12-19 | <details><summary>Proje...</summary><p>Project Page: snuvclab.github.io/dwm</p></details> |
+| **[Distributionally Robust Imitation Learning: Layered Control Architecture for Certifiable Autonomy](https://arxiv.org/abs/2512.17899v1)** | 2025-12-19 | 18 pages, 5 figures |
+| **[RadarGen: Automotive Radar Point Cloud Generation from Cameras](https://arxiv.org/abs/2512.17897v1)** | 2025-12-19 | <details><summary>Proje...</summary><p>Project page: https://radargen.github.io/</p></details> |
+| **[Prefix Trees Improve Memory Consumption in Large-Scale Continuous-Time Stochastic Models](https://arxiv.org/abs/2512.17892v1)** | 2025-12-19 | 21 pages, 2 figures |
+| **[SpecCLIP: Aligning and Translating Spectroscopic Measurements for Stars](https://arxiv.org/abs/2507.01939v4)** | 2025-12-19 | <details><summary>29 pa...</summary><p>29 pages, 8 figures, 6 tables. Accepted for publication in ApJ. Comments welcome</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Next-Embedding Prediction Makes Strong Vision Learners](https://arxiv.org/abs/2512.16922v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project Page: https://sihanxu.me/nepa</p></details> |
-| **[DVGT: Driving Visual Geometry Transformer](https://arxiv.org/abs/2512.16919v1)** | 2025-12-18 | <details><summary>Code ...</summary><p>Code is available at https://github.com/wzzheng/DVGT</p></details> |
-| **[SFTok: Bridging the Performance Gap in Discrete Tokenizers](https://arxiv.org/abs/2512.16910v1)** | 2025-12-18 | <details><summary>Under...</summary><p>Under review. Code is available at https://github.com/Neur-IO/SFTok</p></details> |
-| **[In-Context Algebra](https://arxiv.org/abs/2512.16902v1)** | 2025-12-18 | <details><summary>28 pa...</summary><p>28 pages, 18 figures. Code and data at https://algebra.baulab.info</p></details> |
-| **[Pixel Seal: Adversarial-only training for invisible image and video watermarking](https://arxiv.org/abs/2512.16874v1)** | 2025-12-18 | <details><summary>Code ...</summary><p>Code and model available at https://github.com/facebookresearch/videoseal</p></details> |
-| **[On the Universal Representation Property of Spiking Neural Networks](https://arxiv.org/abs/2512.16872v1)** | 2025-12-18 | 54 pages, 8 figures |
+| **[Both Semantics and Reconstruction Matter: Making Representation Encoders Ready for Text-to-Image Generation and Editing](https://arxiv.org/abs/2512.17909v1)** | 2025-12-19 | <details><summary>Proje...</summary><p>Project Page: https://jshilong.github.io/PS-VAE-PAGE/</p></details> |
+| **[SpecCLIP: Aligning and Translating Spectroscopic Measurements for Stars](https://arxiv.org/abs/2507.01939v4)** | 2025-12-19 | <details><summary>29 pa...</summary><p>29 pages, 8 figures, 6 tables. Accepted for publication in ApJ. Comments welcome</p></details> |
+| **[Asymptotic behaviour of galactic small-scale dynamos at modest magnetic Prandtl number](https://arxiv.org/abs/2512.17885v1)** | 2025-12-19 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 3 tables</p></details> |
+| **[Towards Human-Guided, Data-Centric LLM Co-Pilots](https://arxiv.org/abs/2501.10321v3)** | 2025-12-19 | <details><summary>Savel...</summary><p>Saveliev, Liu & Seedat contributed equally</p></details> |
+| **[Foundations for an Abstract Proof Theory in the Context of Horn Rules](https://arxiv.org/abs/2304.05697v2)** | 2025-12-19 | <details><summary>This ...</summary><p>This paper is currently under review</p></details> |
+| **[Pix2NPHM: Learning to Regress NPHM Reconstructions From a Single Image](https://arxiv.org/abs/2512.17773v1)** | 2025-12-19 | <details><summary>Proje...</summary><p>Project website: https://simongiebenhain.github.io/Pix2NPHM/ , Video: https://www.youtube.com/watch?v=MgpEJC5p1Ts</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[EasyV2V: A High-quality Instruction-based Video Editing Framework](https://arxiv.org/abs/2512.16920v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/easyv2v/</p></details> |
-| **[DVGT: Driving Visual Geometry Transformer](https://arxiv.org/abs/2512.16919v1)** | 2025-12-18 | <details><summary>Code ...</summary><p>Code is available at https://github.com/wzzheng/DVGT</p></details> |
-| **[AdaTooler-V: Adaptive Tool-Use for Images and Videos](https://arxiv.org/abs/2512.16918v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project page: https://github.com/CYWang735/AdaTooler-V</p></details> |
-| **[SFTok: Bridging the Performance Gap in Discrete Tokenizers](https://arxiv.org/abs/2512.16910v1)** | 2025-12-18 | <details><summary>Under...</summary><p>Under review. Code is available at https://github.com/Neur-IO/SFTok</p></details> |
-| **[Sceniris: A Fast Procedural Scene Generation Framework](https://arxiv.org/abs/2512.16896v1)** | 2025-12-18 | <details><summary>Code ...</summary><p>Code is available at https://github.com/rai-inst/sceniris</p></details> |
-| **[Instant Expressive Gaussian Head Avatar via 3D-Aware Expression Distillation](https://arxiv.org/abs/2512.16893v1)** | 2025-12-18 | <details><summary>Proje...</summary><p>Project website is https://research.nvidia.com/labs/amri/projects/instant4d</p></details> |
+| **[Mapping the Podcast Ecosystem with the Structured Podcast Research Corpus](https://arxiv.org/abs/2411.07892v2)** | 2025-12-19 | 9 pages, 3 figures |
+| **[mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs](https://arxiv.org/abs/2512.15692v2)** | 2025-12-19 | <details><summary>Revis...</summary><p>Revised Introduction, Related Work, and Appendix. Additional minor notational and grammatical fixes</p></details> |
+| **[Delayed Acceptance Slice Sampling](https://arxiv.org/abs/2512.17868v1)** | 2025-12-19 | 37 pages, 4 figures |
+| **[NeuRehab: A Reinforcement Learning and Spiking Neural Network-Based Rehab Automation Framework](https://arxiv.org/abs/2512.17841v1)** | 2025-12-19 | <details><summary>18 pa...</summary><p>18 pages, 22 figures, 3 tables, for submission to IOP Neuromorphic Computing and Engineering</p></details> |
+| **[The Diffusion Duality](https://arxiv.org/abs/2506.10892v3)** | 2025-12-19 | <details><summary>ICML ...</summary><p>ICML 2025. We provide the code at: https://github.com/s-sahoo/duo [v3] includes improved theory, clearer presentation, and a new future work section</p></details> |
+| **[Foundations for an Abstract Proof Theory in the Context of Horn Rules](https://arxiv.org/abs/2304.05697v2)** | 2025-12-19 | <details><summary>This ...</summary><p>This paper is currently under review</p></details> |
 

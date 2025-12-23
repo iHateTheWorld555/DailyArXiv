@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - December 23, 2025
+title: Latest 6 Papers - December 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Both Semantics and Reconstruction Matter: Making Representation Encoders Ready for Text-to-Image Generation and Editing](https://arxiv.org/abs/2512.17909v1)** | 2025-12-19 | <details><summary>Proje...</summary><p>Project Page: https://jshilong.github.io/PS-VAE-PAGE/</p></details> |
-| **[Dexterous World Models](https://arxiv.org/abs/2512.17907v1)** | 2025-12-19 | <details><summary>Proje...</summary><p>Project Page: snuvclab.github.io/dwm</p></details> |
-| **[Distributionally Robust Imitation Learning: Layered Control Architecture for Certifiable Autonomy](https://arxiv.org/abs/2512.17899v1)** | 2025-12-19 | 18 pages, 5 figures |
-| **[RadarGen: Automotive Radar Point Cloud Generation from Cameras](https://arxiv.org/abs/2512.17897v1)** | 2025-12-19 | <details><summary>Proje...</summary><p>Project page: https://radargen.github.io/</p></details> |
-| **[Prefix Trees Improve Memory Consumption in Large-Scale Continuous-Time Stochastic Models](https://arxiv.org/abs/2512.17892v1)** | 2025-12-19 | 21 pages, 2 figures |
-| **[SpecCLIP: Aligning and Translating Spectroscopic Measurements for Stars](https://arxiv.org/abs/2507.01939v4)** | 2025-12-19 | <details><summary>29 pa...</summary><p>29 pages, 8 figures, 6 tables. Accepted for publication in ApJ. Comments welcome</p></details> |
+| **[The Prism Hypothesis: Harmonizing Semantic and Pixel Representations via Unified Autoencoding](https://arxiv.org/abs/2512.19693v1)** | 2025-12-22 | <details><summary>Code ...</summary><p>Code link: https://github.com/WeichenFan/UAE</p></details> |
+| **[Interact2Ar: Full-Body Human-Human Interaction Generation via Autoregressive Diffusion Models](https://arxiv.org/abs/2512.19692v1)** | 2025-12-22 | <details><summary>Proje...</summary><p>Project Page: https://pabloruizponce.com/papers/Interact2Ar</p></details> |
+| **[Visual-Aware CoT: Achieving High-Fidelity Visual Consistency in Unified Models](https://arxiv.org/abs/2512.19686v1)** | 2025-12-22 | <details><summary>Proje...</summary><p>Project Page: https://zixuan-ye.github.io/VACoT/</p></details> |
+| **[From Indoor to Open World: Revealing the Spatial Reasoning Gap in MLLMs](https://arxiv.org/abs/2512.19683v1)** | 2025-12-22 | <details><summary>Proje...</summary><p>Project page: https://harmlesssr.github.io/openbench/</p></details> |
+| **[Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies](https://arxiv.org/abs/2508.20072v3)** | 2025-12-22 | <details><summary>New e...</summary><p>New experiments on VL retention and new ablations. 18 pages</p></details> |
+| **[GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators](https://arxiv.org/abs/2512.19682v1)** | 2025-12-22 | <details><summary>Our c...</summary><p>Our codes are available at https://github.com/Gen-Verse/GenEnv</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Both Semantics and Reconstruction Matter: Making Representation Encoders Ready for Text-to-Image Generation and Editing](https://arxiv.org/abs/2512.17909v1)** | 2025-12-19 | <details><summary>Proje...</summary><p>Project Page: https://jshilong.github.io/PS-VAE-PAGE/</p></details> |
-| **[SpecCLIP: Aligning and Translating Spectroscopic Measurements for Stars](https://arxiv.org/abs/2507.01939v4)** | 2025-12-19 | <details><summary>29 pa...</summary><p>29 pages, 8 figures, 6 tables. Accepted for publication in ApJ. Comments welcome</p></details> |
-| **[Asymptotic behaviour of galactic small-scale dynamos at modest magnetic Prandtl number](https://arxiv.org/abs/2512.17885v1)** | 2025-12-19 | <details><summary>10 pa...</summary><p>10 pages, 3 figures, 3 tables</p></details> |
-| **[Towards Human-Guided, Data-Centric LLM Co-Pilots](https://arxiv.org/abs/2501.10321v3)** | 2025-12-19 | <details><summary>Savel...</summary><p>Saveliev, Liu & Seedat contributed equally</p></details> |
-| **[Foundations for an Abstract Proof Theory in the Context of Horn Rules](https://arxiv.org/abs/2304.05697v2)** | 2025-12-19 | <details><summary>This ...</summary><p>This paper is currently under review</p></details> |
-| **[Pix2NPHM: Learning to Regress NPHM Reconstructions From a Single Image](https://arxiv.org/abs/2512.17773v1)** | 2025-12-19 | <details><summary>Proje...</summary><p>Project website: https://simongiebenhain.github.io/Pix2NPHM/ , Video: https://www.youtube.com/watch?v=MgpEJC5p1Ts</p></details> |
+| **[Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies](https://arxiv.org/abs/2508.20072v3)** | 2025-12-22 | <details><summary>New e...</summary><p>New experiments on VL retention and new ablations. 18 pages</p></details> |
+| **[Bottom-up Policy Optimization: Your Language Model Policy Secretly Contains Internal Policies](https://arxiv.org/abs/2512.19673v1)** | 2025-12-22 | <details><summary>Prepr...</summary><p>Preprint. Our code is available at https://github.com/Trae1ounG/BuPO</p></details> |
+| **[Beyond CLIP: Knowledge-Enhanced Multimodal Transformers for Cross-Modal Alignment in Diabetic Retinopathy Diagnosis](https://arxiv.org/abs/2512.19663v1)** | 2025-12-22 | 14 pages, 14 figures |
+| **[Deep Legendre Transform](https://arxiv.org/abs/2512.19649v1)** | 2025-12-22 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 (poster). NeurIPS page: https://neurips.cc/virtual/2025/loc/san-diego/poster/120307</p></details> |
+| **[Empowering LLMs with Structural Role Inference for Zero-Shot Graph Learning](https://arxiv.org/abs/2511.00898v2)** | 2025-12-22 | <details><summary>This ...</summary><p>This submission has been withdrawn by the authors due to a fundamental error in the methodology that affects the validity of the main results</p></details> |
+| **[GraphGeo: Multi-Agent Debate Framework for Visual Geo-localization with Heterogeneous Graph Neural Networks](https://arxiv.org/abs/2511.00908v2)** | 2025-12-22 | <details><summary>This ...</summary><p>This submission has been withdrawn by the authors due to a fundamental error in the methodology that affects the validity of the main results</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Mapping the Podcast Ecosystem with the Structured Podcast Research Corpus](https://arxiv.org/abs/2411.07892v2)** | 2025-12-19 | 9 pages, 3 figures |
-| **[mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs](https://arxiv.org/abs/2512.15692v2)** | 2025-12-19 | <details><summary>Revis...</summary><p>Revised Introduction, Related Work, and Appendix. Additional minor notational and grammatical fixes</p></details> |
-| **[Delayed Acceptance Slice Sampling](https://arxiv.org/abs/2512.17868v1)** | 2025-12-19 | 37 pages, 4 figures |
-| **[NeuRehab: A Reinforcement Learning and Spiking Neural Network-Based Rehab Automation Framework](https://arxiv.org/abs/2512.17841v1)** | 2025-12-19 | <details><summary>18 pa...</summary><p>18 pages, 22 figures, 3 tables, for submission to IOP Neuromorphic Computing and Engineering</p></details> |
-| **[The Diffusion Duality](https://arxiv.org/abs/2506.10892v3)** | 2025-12-19 | <details><summary>ICML ...</summary><p>ICML 2025. We provide the code at: https://github.com/s-sahoo/duo [v3] includes improved theory, clearer presentation, and a new future work section</p></details> |
-| **[Foundations for an Abstract Proof Theory in the Context of Horn Rules](https://arxiv.org/abs/2304.05697v2)** | 2025-12-19 | <details><summary>This ...</summary><p>This paper is currently under review</p></details> |
+| **[Bridging the Gap Between Scientific Laws Derived by AI Systems and Canonical Knowledge via Abductive Inference with AI-Noether](https://arxiv.org/abs/2509.23004v2)** | 2025-12-22 | <details><summary>47 Pa...</summary><p>47 Pages (20+appendix), 14 Figures, Preprint: Updated for recent submission</p></details> |
+| **[Empowering LLMs with Structural Role Inference for Zero-Shot Graph Learning](https://arxiv.org/abs/2511.00898v2)** | 2025-12-22 | <details><summary>This ...</summary><p>This submission has been withdrawn by the authors due to a fundamental error in the methodology that affects the validity of the main results</p></details> |
+| **[D3MAS: Decompose, Deduce, and Distribute for Enhanced Knowledge Sharing in Multi-Agent Systems](https://arxiv.org/abs/2510.10585v2)** | 2025-12-22 | <details><summary>This ...</summary><p>This submission has been withdrawn by the authors due to a fundamental error in the methodology that affects the validity of the main results</p></details> |
+| **[The Best of Both Worlds: Hybridizing Neural Operators and Solvers for Stable Long-Horizon Inference](https://arxiv.org/abs/2512.19643v1)** | 2025-12-22 | 18 pages, 7 figures |
+| **[RAPID-LLM: Resilience-Aware Performance analysis of Infrastructure for Distributed LLM Training and Inference](https://arxiv.org/abs/2512.19606v1)** | 2025-12-22 | 11 pages, 12 figures |
+| **[Patlak Parametric Image Estimation from Dynamic PET Using Diffusion Model Prior](https://arxiv.org/abs/2512.19584v1)** | 2025-12-22 | 10 pages, 9 figures |
 

@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - December 25, 2025
+title: Latest 6 Papers - December 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SemanticGen: Video Generation in Semantic Space](https://arxiv.org/abs/2512.20619v1)** | 2025-12-23 | <details><summary>Proje...</summary><p>Project page: https://jianhongbai.github.io/SemanticGen/</p></details> |
-| **[Active Intelligence in Video Avatars via Closed-loop World Modeling](https://arxiv.org/abs/2512.20615v1)** | 2025-12-23 | <details><summary>Proje...</summary><p>Project Page: https://xuanhuahe.github.io/ORCA/</p></details> |
-| **[FedPOD: the deployable units of training for federated learning](https://arxiv.org/abs/2512.20610v1)** | 2025-12-23 | <details><summary>12 pa...</summary><p>12 pages, 12 figures, MICCAI</p></details> |
-| **[Repurposing Video Diffusion Transformers for Robust Point Tracking](https://arxiv.org/abs/2512.20606v1)** | 2025-12-23 | <details><summary>Proje...</summary><p>Project Page: https://cvlab-kaist.github.io/DiTracker/</p></details> |
-| **[MoE-DiffuSeq: Enhancing Long-Document Diffusion Models with Sparse Attention and Mixture of Experts](https://arxiv.org/abs/2512.20604v1)** | 2025-12-23 | Under submission |
-| **[Cube Bench: A Benchmark for Spatial Visual Reasoning in MLLMs](https://arxiv.org/abs/2512.20595v1)** | 2025-12-23 | <details><summary>27 pa...</summary><p>27 pages, 5 figures, 9 tables. Cube available at https://github.com/dana-23/cube-bench</p></details> |
+| **[HiStream: Efficient High-Resolution Video Generation via Redundancy-Eliminated Streaming](https://arxiv.org/abs/2512.21338v1)** | 2025-12-24 | <details><summary>Proje...</summary><p>Project Page: http://haonanqiu.com/projects/HiStream.html</p></details> |
+| **[Beyond Memorization: A Multi-Modal Ordinal Regression Benchmark to Expose Popularity Bias in Vision-Language Models](https://arxiv.org/abs/2512.21337v1)** | 2025-12-24 | <details><summary>Proje...</summary><p>Project page: https://sytwu.github.io/BeyondMemo/</p></details> |
+| **[Autonomous Uncertainty Quantification for Computational Point-of-care Sensors](https://arxiv.org/abs/2512.21335v1)** | 2025-12-24 | 18 Pages, 5 Figures |
+| **[Fast SAM2 with Text-Driven Token Pruning](https://arxiv.org/abs/2512.21333v1)** | 2025-12-24 | 28 pages, 9 figures |
+| **[Parallel Token Prediction for Language Models](https://arxiv.org/abs/2512.21323v1)** | 2025-12-24 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
+| **[Complex variational autoencoders admit Kähler structure](https://arxiv.org/abs/2511.15172v3)** | 2025-12-24 | <details><summary>Corre...</summary><p>Corrections and improvements</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Repurposing Video Diffusion Transformers for Robust Point Tracking](https://arxiv.org/abs/2512.20606v1)** | 2025-12-23 | <details><summary>Proje...</summary><p>Project Page: https://cvlab-kaist.github.io/DiTracker/</p></details> |
-| **[On the near-tightness of $χ\leq 2r$: a general $σ$-ary construction and a binary case via LFSRs](https://arxiv.org/abs/2512.20598v1)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted to LATIN 2026. 16 pages, 0 figures</p></details> |
-| **[Do Generalized-Gamma Scale Mixtures of Normals Fit Large Image Datasets?](https://arxiv.org/abs/2512.17038v2)** | 2025-12-23 | <details><summary>25 pa...</summary><p>25 pages main text, 21 figures, 7 tables, 6 pages appendix</p></details> |
-| **[FlashVLM: Text-Guided Visual Token Selection for Large Multimodal Models](https://arxiv.org/abs/2512.20561v1)** | 2025-12-23 | Under submission |
-| **[Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model](https://arxiv.org/abs/2512.13507v3)** | 2025-12-23 | <details><summary>Seeda...</summary><p>Seedance 1.5 pro Technical Report</p></details> |
-| **[Memorize-and-Generate: Towards Long-Term Consistency in Real-Time Video Generation](https://arxiv.org/abs/2512.18741v2)** | 2025-12-23 | <details><summary>Code ...</summary><p>Code will be released at https://github.com/Xilluill/MAG</p></details> |
+| **[HiStream: Efficient High-Resolution Video Generation via Redundancy-Eliminated Streaming](https://arxiv.org/abs/2512.21338v1)** | 2025-12-24 | <details><summary>Proje...</summary><p>Project Page: http://haonanqiu.com/projects/HiStream.html</p></details> |
+| **[Fast SAM2 with Text-Driven Token Pruning](https://arxiv.org/abs/2512.21333v1)** | 2025-12-24 | 28 pages, 9 figures |
+| **[Parallel Token Prediction for Language Models](https://arxiv.org/abs/2512.21323v1)** | 2025-12-24 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
+| **[An Allele-Centric Pan-Graph-Matrix Representation for Scalable Pangenome Analysis](https://arxiv.org/abs/2512.21320v1)** | 2025-12-24 | <details><summary>11 Pa...</summary><p>11 Pages, 2 Figures, 1 Table</p></details> |
+| **[Alternating Gradient Flows: A Theory of Feature Learning in Two-layer Neural Networks](https://arxiv.org/abs/2506.06489v4)** | 2025-12-24 | <details><summary>40 pa...</summary><p>40 pages, 8 figures, NeurIPS 2025</p></details> |
+| **[DiTSinger: Scaling Singing Voice Synthesis with Diffusion Transformer and Implicit Alignment](https://arxiv.org/abs/2510.09016v2)** | 2025-12-24 | <details><summary>ICASS...</summary><p>ICASSP26 under review. Demo page: https://nju-jet.github.io/DiTSinger</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Do Generalized-Gamma Scale Mixtures of Normals Fit Large Image Datasets?](https://arxiv.org/abs/2512.17038v2)** | 2025-12-23 | <details><summary>25 pa...</summary><p>25 pages main text, 21 figures, 7 tables, 6 pages appendix</p></details> |
-| **[Information-theoretic signatures of causality in Bayesian networks and hypergraphs](https://arxiv.org/abs/2512.20552v1)** | 2025-12-23 | 20 pages, 3 figures |
-| **[Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model](https://arxiv.org/abs/2512.13507v3)** | 2025-12-23 | <details><summary>Seeda...</summary><p>Seedance 1.5 pro Technical Report</p></details> |
-| **[Over-the-Air Goal-Oriented Communications](https://arxiv.org/abs/2512.20533v1)** | 2025-12-23 | <details><summary>35 pa...</summary><p>35 pages, 9 figures. Book chapter</p></details> |
-| **[SirenPose: Dynamic Scene Reconstruction via Geometric Supervision](https://arxiv.org/abs/2512.20531v1)** | 2025-12-23 | Under submission |
-| **[Improving Local Training in Federated Learning via Temperature Scaling](https://arxiv.org/abs/2401.09986v3)** | 2025-12-23 | 56 pages |
+| **[HiStream: Efficient High-Resolution Video Generation via Redundancy-Eliminated Streaming](https://arxiv.org/abs/2512.21338v1)** | 2025-12-24 | <details><summary>Proje...</summary><p>Project Page: http://haonanqiu.com/projects/HiStream.html</p></details> |
+| **[Autonomous Uncertainty Quantification for Computational Point-of-care Sensors](https://arxiv.org/abs/2512.21335v1)** | 2025-12-24 | 18 Pages, 5 Figures |
+| **[Fast SAM2 with Text-Driven Token Pruning](https://arxiv.org/abs/2512.21333v1)** | 2025-12-24 | 28 pages, 9 figures |
+| **[Learning to Solve PDEs on Neural Shape Representations](https://arxiv.org/abs/2512.21311v1)** | 2025-12-24 | <details><summary>Artic...</summary><p>Article webpage link: https://welschinger.github.io/Learning-to-Solve-PDEs-on-Neural-Shape-Representations/</p></details> |
+| **[Huber-robust likelihood ratio tests for composite nulls and alternatives](https://arxiv.org/abs/2408.14015v8)** | 2025-12-24 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Information Theory</p></details> |
+| **[AnyAD: Unified Any-Modality Anomaly Detection in Incomplete Multi-Sequence MRI](https://arxiv.org/abs/2512.21264v1)** | 2025-12-24 | 15 pages, 8 figures |
 

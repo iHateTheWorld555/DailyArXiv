@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - December 29, 2025
+title: Latest 6 Papers - December 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HiStream: Efficient High-Resolution Video Generation via Redundancy-Eliminated Streaming](https://arxiv.org/abs/2512.21338v1)** | 2025-12-24 | <details><summary>Proje...</summary><p>Project Page: http://haonanqiu.com/projects/HiStream.html</p></details> |
-| **[Beyond Memorization: A Multi-Modal Ordinal Regression Benchmark to Expose Popularity Bias in Vision-Language Models](https://arxiv.org/abs/2512.21337v1)** | 2025-12-24 | <details><summary>Proje...</summary><p>Project page: https://sytwu.github.io/BeyondMemo/</p></details> |
-| **[Autonomous Uncertainty Quantification for Computational Point-of-care Sensors](https://arxiv.org/abs/2512.21335v1)** | 2025-12-24 | 18 Pages, 5 Figures |
-| **[Fast SAM2 with Text-Driven Token Pruning](https://arxiv.org/abs/2512.21333v1)** | 2025-12-24 | 28 pages, 9 figures |
-| **[Parallel Token Prediction for Language Models](https://arxiv.org/abs/2512.21323v1)** | 2025-12-24 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
-| **[Complex variational autoencoders admit Kähler structure](https://arxiv.org/abs/2511.15172v3)** | 2025-12-24 | <details><summary>Corre...</summary><p>Corrections and improvements</p></details> |
+| **[Experimental End-to-End Optimization of Directly Modulated Laser-based IM/DD Transmission](https://arxiv.org/abs/2508.19910v2)** | 2025-12-26 | <details><summary>10 pa...</summary><p>10 pages, 10 figures, published in journal of lightwave technology</p></details> |
+| **[Pruning as a Game: Equilibrium-Driven Sparsification of Neural Networks](https://arxiv.org/abs/2512.22106v1)** | 2025-12-26 | <details><summary>Prepr...</summary><p>Preprint. Under review / to be submitted to a conference</p></details> |
+| **[Learning Association via Track-Detection Matching for Multi-Object Tracking](https://arxiv.org/abs/2512.22105v1)** | 2025-12-26 | <details><summary>14 pa...</summary><p>14 pages (+4 for references), 8 tables, 4 figures</p></details> |
+| **[Explainable Multimodal Regression via Information Decomposition](https://arxiv.org/abs/2512.22102v1)** | 2025-12-26 | <details><summary>Proje...</summary><p>Project Page: https://github.com/zhaozhaoma/PIDReg</p></details> |
+| **[Rewards-based image analysis in microscopy](https://arxiv.org/abs/2502.18522v2)** | 2025-12-26 | 41 pages, 11 figures |
+| **[Introducing TrGLUE and SentiTurca: A Comprehensive Benchmark for Turkish General Language Understanding and Sentiment Analysis](https://arxiv.org/abs/2512.22100v1)** | 2025-12-26 | <details><summary>under...</summary><p>under review by Springer</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HiStream: Efficient High-Resolution Video Generation via Redundancy-Eliminated Streaming](https://arxiv.org/abs/2512.21338v1)** | 2025-12-24 | <details><summary>Proje...</summary><p>Project Page: http://haonanqiu.com/projects/HiStream.html</p></details> |
-| **[Fast SAM2 with Text-Driven Token Pruning](https://arxiv.org/abs/2512.21333v1)** | 2025-12-24 | 28 pages, 9 figures |
-| **[Parallel Token Prediction for Language Models](https://arxiv.org/abs/2512.21323v1)** | 2025-12-24 | <details><summary>Prepr...</summary><p>Preprint. Under review</p></details> |
-| **[An Allele-Centric Pan-Graph-Matrix Representation for Scalable Pangenome Analysis](https://arxiv.org/abs/2512.21320v1)** | 2025-12-24 | <details><summary>11 Pa...</summary><p>11 Pages, 2 Figures, 1 Table</p></details> |
-| **[Alternating Gradient Flows: A Theory of Feature Learning in Two-layer Neural Networks](https://arxiv.org/abs/2506.06489v4)** | 2025-12-24 | <details><summary>40 pa...</summary><p>40 pages, 8 figures, NeurIPS 2025</p></details> |
-| **[DiTSinger: Scaling Singing Voice Synthesis with Diffusion Transformer and Implicit Alignment](https://arxiv.org/abs/2510.09016v2)** | 2025-12-24 | <details><summary>ICASS...</summary><p>ICASSP26 under review. Demo page: https://nju-jet.github.io/DiTSinger</p></details> |
+| **[Explainable Multimodal Regression via Information Decomposition](https://arxiv.org/abs/2512.22102v1)** | 2025-12-26 | <details><summary>Proje...</summary><p>Project Page: https://github.com/zhaozhaoma/PIDReg</p></details> |
+| **[Introducing TrGLUE and SentiTurca: A Comprehensive Benchmark for Turkish General Language Understanding and Sentiment Analysis](https://arxiv.org/abs/2512.22100v1)** | 2025-12-26 | <details><summary>under...</summary><p>under review by Springer</p></details> |
+| **[APTx Neuron: A Unified Trainable Neuron Architecture Integrating Activation and Computation](https://arxiv.org/abs/2507.14270v6)** | 2025-12-26 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 1 table. Includes a GitHub repository for MNIST experiments and a PyPI package for APTx Neuron implementation</p></details> |
+| **[Real-Time Streamable Generative Speech Restoration with Flow Matching](https://arxiv.org/abs/2512.19442v2)** | 2025-12-26 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[An Efficient Embedding Based Ad Retrieval with GPU-Powered Feature Interaction](https://arxiv.org/abs/2511.22460v2)** | 2025-12-26 | 9 pages, 4 figures |
+| **[Direction Finding with Sparse Arrays Based on Variable Window Size Spatial Smoothing](https://arxiv.org/abs/2512.22024v1)** | 2025-12-26 | 2 figures, 5 pages |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HiStream: Efficient High-Resolution Video Generation via Redundancy-Eliminated Streaming](https://arxiv.org/abs/2512.21338v1)** | 2025-12-24 | <details><summary>Proje...</summary><p>Project Page: http://haonanqiu.com/projects/HiStream.html</p></details> |
-| **[Autonomous Uncertainty Quantification for Computational Point-of-care Sensors](https://arxiv.org/abs/2512.21335v1)** | 2025-12-24 | 18 Pages, 5 Figures |
-| **[Fast SAM2 with Text-Driven Token Pruning](https://arxiv.org/abs/2512.21333v1)** | 2025-12-24 | 28 pages, 9 figures |
-| **[Learning to Solve PDEs on Neural Shape Representations](https://arxiv.org/abs/2512.21311v1)** | 2025-12-24 | <details><summary>Artic...</summary><p>Article webpage link: https://welschinger.github.io/Learning-to-Solve-PDEs-on-Neural-Shape-Representations/</p></details> |
-| **[Huber-robust likelihood ratio tests for composite nulls and alternatives](https://arxiv.org/abs/2408.14015v8)** | 2025-12-24 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Information Theory</p></details> |
-| **[AnyAD: Unified Any-Modality Anomaly Detection in Incomplete Multi-Sequence MRI](https://arxiv.org/abs/2512.21264v1)** | 2025-12-24 | 15 pages, 8 figures |
+| **[Explainable Multimodal Regression via Information Decomposition](https://arxiv.org/abs/2512.22102v1)** | 2025-12-26 | <details><summary>Proje...</summary><p>Project Page: https://github.com/zhaozhaoma/PIDReg</p></details> |
+| **[Modeling Microenvironment Trajectories on Spatial Transcriptomics with NicheFlow](https://arxiv.org/abs/2511.00977v2)** | 2025-12-26 | <details><summary>37 pa...</summary><p>37 pages, 15 figures, to appear in NeurIPS 2025</p></details> |
+| **[Differentially Private Feature Release for Wireless Sensing: Adaptive Privacy Budget Allocation on CSI Spectrograms](https://arxiv.org/abs/2512.20323v2)** | 2025-12-26 | 19pages,4figures |
+| **[Real-Time Streamable Generative Speech Restoration with Flow Matching](https://arxiv.org/abs/2512.19442v2)** | 2025-12-26 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[SpidR: Learning Fast and Stable Linguistic Units for Spoken Language Models Without Supervision](https://arxiv.org/abs/2512.20308v2)** | 2025-12-26 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research. 30 pages, 16 figures</p></details> |
+| **[SWE-RM: Execution-free Feedback For Software Engineering Agents](https://arxiv.org/abs/2512.21919v1)** | 2025-12-26 | 21 pages |
 

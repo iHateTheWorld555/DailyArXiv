@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - December 30, 2025
+title: Latest 6 Papers - December 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Experimental End-to-End Optimization of Directly Modulated Laser-based IM/DD Transmission](https://arxiv.org/abs/2508.19910v2)** | 2025-12-26 | <details><summary>10 pa...</summary><p>10 pages, 10 figures, published in journal of lightwave technology</p></details> |
-| **[Pruning as a Game: Equilibrium-Driven Sparsification of Neural Networks](https://arxiv.org/abs/2512.22106v1)** | 2025-12-26 | <details><summary>Prepr...</summary><p>Preprint. Under review / to be submitted to a conference</p></details> |
-| **[Learning Association via Track-Detection Matching for Multi-Object Tracking](https://arxiv.org/abs/2512.22105v1)** | 2025-12-26 | <details><summary>14 pa...</summary><p>14 pages (+4 for references), 8 tables, 4 figures</p></details> |
-| **[Explainable Multimodal Regression via Information Decomposition](https://arxiv.org/abs/2512.22102v1)** | 2025-12-26 | <details><summary>Proje...</summary><p>Project Page: https://github.com/zhaozhaoma/PIDReg</p></details> |
-| **[Rewards-based image analysis in microscopy](https://arxiv.org/abs/2502.18522v2)** | 2025-12-26 | 41 pages, 11 figures |
-| **[Introducing TrGLUE and SentiTurca: A Comprehensive Benchmark for Turkish General Language Understanding and Sentiment Analysis](https://arxiv.org/abs/2512.22100v1)** | 2025-12-26 | <details><summary>under...</summary><p>under review by Springer</p></details> |
+| **[Stream-DiffVSR: Low-Latency Streamable Video Super-Resolution via Auto-Regressive Diffusion](https://arxiv.org/abs/2512.23709v1)** | 2025-12-29 | <details><summary>Proje...</summary><p>Project page: https://jamichss.github.io/stream-diffvsr-project-page/</p></details> |
+| **[Training AI Co-Scientists Using Rubric Rewards](https://arxiv.org/abs/2512.23707v1)** | 2025-12-29 | <details><summary>11 pa...</summary><p>11 pages in the main paper, total 119 including sample outputs in the Appendix</p></details> |
+| **[Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object Depth and Normal Estimation](https://arxiv.org/abs/2512.23705v1)** | 2025-12-29 | <details><summary>Proje...</summary><p>Project Page: https://daniellli.github.io/projects/DKT/; Code: https://github.com/Daniellli/DKT; Dataset: https://huggingface.co/datasets/Daniellesry/TransPhy3D</p></details> |
+| **[Robo-Dopamine: General Process Reward Modeling for High-Precision Robotic Manipulation](https://arxiv.org/abs/2512.23703v1)** | 2025-12-29 | 27 pages, 11 figures |
+| **[OpenPBR: Novel Features and Implementation Details](https://arxiv.org/abs/2512.23696v1)** | 2025-12-29 | <details><summary>Part ...</summary><p>Part of Physically Based Shading in Theory and Practice, SIGGRAPH 2025 Course</p></details> |
+| **[PROFASR-BENCH: A Benchmark for Context-Conditioned ASR in High-Stakes Professional Speech](https://arxiv.org/abs/2512.23686v1)** | 2025-12-29 | <details><summary>Bench...</summary><p>Benchmark dataset and evaluation suite. Data and code available at: https://huggingface.co/datasets/prdeepakbabu/ProfASR-Bench https://github.com/prdeepakbabu/ProfASR-Bench</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Explainable Multimodal Regression via Information Decomposition](https://arxiv.org/abs/2512.22102v1)** | 2025-12-26 | <details><summary>Proje...</summary><p>Project Page: https://github.com/zhaozhaoma/PIDReg</p></details> |
-| **[Introducing TrGLUE and SentiTurca: A Comprehensive Benchmark for Turkish General Language Understanding and Sentiment Analysis](https://arxiv.org/abs/2512.22100v1)** | 2025-12-26 | <details><summary>under...</summary><p>under review by Springer</p></details> |
-| **[APTx Neuron: A Unified Trainable Neuron Architecture Integrating Activation and Computation](https://arxiv.org/abs/2507.14270v6)** | 2025-12-26 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 1 table. Includes a GitHub repository for MNIST experiments and a PyPI package for APTx Neuron implementation</p></details> |
-| **[Real-Time Streamable Generative Speech Restoration with Flow Matching](https://arxiv.org/abs/2512.19442v2)** | 2025-12-26 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[An Efficient Embedding Based Ad Retrieval with GPU-Powered Feature Interaction](https://arxiv.org/abs/2511.22460v2)** | 2025-12-26 | 9 pages, 4 figures |
-| **[Direction Finding with Sparse Arrays Based on Variable Window Size Spatial Smoothing](https://arxiv.org/abs/2512.22024v1)** | 2025-12-26 | 2 figures, 5 pages |
+| **[End-to-End Test-Time Training for Long Context](https://arxiv.org/abs/2512.23675v1)** | 2025-12-29 | <details><summary>Code:...</summary><p>Code: https://github.com/test-time-training/e2e</p></details> |
+| **[IDT: A Physically Grounded Transformer for Feed-Forward Multi-View Intrinsic Decomposition](https://arxiv.org/abs/2512.23667v1)** | 2025-12-29 | 10 pages 4 figures |
+| **[Timepoint-Specific Benchmarking of Deep Learning Models for Glioblastoma Follow-Up MRI](https://arxiv.org/abs/2511.18595v2)** | 2025-12-29 | 15 pages, 4 figures |
+| **[Forecasting Clinical Risk from Textual Time Series: Structuring Narratives for Temporal AI in Healthcare](https://arxiv.org/abs/2504.10340v5)** | 2025-12-29 | <details><summary>AAAI ...</summary><p>AAAI AI for Social Impact 2026. Shahriar Noroozizadeh, Sayantan Kumar (authors contributed equally)</p></details> |
+| **[Trustworthy Machine Learning under Distribution Shifts](https://arxiv.org/abs/2512.23524v1)** | 2025-12-29 | PhD Thesis |
+| **[Hierarchical Decision Mamba Meets Agentic AI: A Novel Approach for RAN Slicing in 6G](https://arxiv.org/abs/2512.23502v1)** | 2025-12-29 | <details><summary>Manus...</summary><p>Manuscript under review in IEEE Networking Letters. Contents may change at any time without notice</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Explainable Multimodal Regression via Information Decomposition](https://arxiv.org/abs/2512.22102v1)** | 2025-12-26 | <details><summary>Proje...</summary><p>Project Page: https://github.com/zhaozhaoma/PIDReg</p></details> |
-| **[Modeling Microenvironment Trajectories on Spatial Transcriptomics with NicheFlow](https://arxiv.org/abs/2511.00977v2)** | 2025-12-26 | <details><summary>37 pa...</summary><p>37 pages, 15 figures, to appear in NeurIPS 2025</p></details> |
-| **[Differentially Private Feature Release for Wireless Sensing: Adaptive Privacy Budget Allocation on CSI Spectrograms](https://arxiv.org/abs/2512.20323v2)** | 2025-12-26 | 19pages,4figures |
-| **[Real-Time Streamable Generative Speech Restoration with Flow Matching](https://arxiv.org/abs/2512.19442v2)** | 2025-12-26 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[SpidR: Learning Fast and Stable Linguistic Units for Spoken Language Models Without Supervision](https://arxiv.org/abs/2512.20308v2)** | 2025-12-26 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research. 30 pages, 16 figures</p></details> |
-| **[SWE-RM: Execution-free Feedback For Software Engineering Agents](https://arxiv.org/abs/2512.21919v1)** | 2025-12-26 | 21 pages |
+| **[Stream-DiffVSR: Low-Latency Streamable Video Super-Resolution via Auto-Regressive Diffusion](https://arxiv.org/abs/2512.23709v1)** | 2025-12-29 | <details><summary>Proje...</summary><p>Project page: https://jamichss.github.io/stream-diffvsr-project-page/</p></details> |
+| **[End-to-End Test-Time Training for Long Context](https://arxiv.org/abs/2512.23675v1)** | 2025-12-29 | <details><summary>Code:...</summary><p>Code: https://github.com/test-time-training/e2e</p></details> |
+| **[Automating the Analysis of Parsing Algorithms (and other Dynamic Programs)](https://arxiv.org/abs/2512.23665v1)** | 2025-12-29 | <details><summary>2021 ...</summary><p>2021 manuscript; accepted by TACL but not revised for publication</p></details> |
+| **[Information is localized in growing network models](https://arxiv.org/abs/2512.23622v1)** | 2025-12-29 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 1 table</p></details> |
+| **[From geometry to dynamics: Learning overdamped Langevin dynamics from sparse observations with geometric constraints](https://arxiv.org/abs/2512.23566v1)** | 2025-12-29 | <details><summary>12+50...</summary><p>12+50 pages, 6 figures; An earlier account of this work has previously appeared in arXiv:2301.08102 and arXiv:2304.00423 ; main methodology remains the same, this version includes additional numerical experiments and theory</p></details> |
+| **[Machine Unlearning using Forgetting Neural Networks](https://arxiv.org/abs/2410.22374v2)** | 2025-12-29 | <details><summary>12 Pa...</summary><p>12 Pages, Accepted at ICAART 2026 - 18th International Conference on Agents and Artificial Intelligence</p></details> |
 

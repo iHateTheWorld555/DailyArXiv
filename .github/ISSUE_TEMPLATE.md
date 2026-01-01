@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - January 01, 2026
+title: Latest 6 Papers - January 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Stream-DiffVSR: Low-Latency Streamable Video Super-Resolution via Auto-Regressive Diffusion](https://arxiv.org/abs/2512.23709v1)** | 2025-12-29 | <details><summary>Proje...</summary><p>Project page: https://jamichss.github.io/stream-diffvsr-project-page/</p></details> |
-| **[Training AI Co-Scientists Using Rubric Rewards](https://arxiv.org/abs/2512.23707v1)** | 2025-12-29 | <details><summary>11 pa...</summary><p>11 pages in the main paper, total 119 including sample outputs in the Appendix</p></details> |
-| **[Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object Depth and Normal Estimation](https://arxiv.org/abs/2512.23705v1)** | 2025-12-29 | <details><summary>Proje...</summary><p>Project Page: https://daniellli.github.io/projects/DKT/; Code: https://github.com/Daniellli/DKT; Dataset: https://huggingface.co/datasets/Daniellesry/TransPhy3D</p></details> |
-| **[Robo-Dopamine: General Process Reward Modeling for High-Precision Robotic Manipulation](https://arxiv.org/abs/2512.23703v1)** | 2025-12-29 | 27 pages, 11 figures |
-| **[OpenPBR: Novel Features and Implementation Details](https://arxiv.org/abs/2512.23696v1)** | 2025-12-29 | <details><summary>Part ...</summary><p>Part of Physically Based Shading in Theory and Practice, SIGGRAPH 2025 Course</p></details> |
-| **[PROFASR-BENCH: A Benchmark for Context-Conditioned ASR in High-Stakes Professional Speech](https://arxiv.org/abs/2512.23686v1)** | 2025-12-29 | <details><summary>Bench...</summary><p>Benchmark dataset and evaluation suite. Data and code available at: https://huggingface.co/datasets/prdeepakbabu/ProfASR-Bench https://github.com/prdeepakbabu/ProfASR-Bench</p></details> |
+| **[SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time](https://arxiv.org/abs/2512.25075v1)** | 2025-12-31 | <details><summary>Proje...</summary><p>Project page: https://zheninghuang.github.io/Space-Time-Pilot/ Code: https://github.com/ZheningHuang/spacetimepilot</p></details> |
+| **[GaMO: Geometry-aware Multi-view Diffusion Outpainting for Sparse-View 3D Reconstruction](https://arxiv.org/abs/2512.25073v1)** | 2025-12-31 | <details><summary>Proje...</summary><p>Project page: https://yichuanh.github.io/GaMO/</p></details> |
+| **[Edit3r: Instant 3D Scene Editing from Sparse Unposed Images](https://arxiv.org/abs/2512.25071v1)** | 2025-12-31 | <details><summary>Proje...</summary><p>Project page: https://edit3r.github.io/edit3r/</p></details> |
+| **[Coordinated Humanoid Manipulation with Choice Policies](https://arxiv.org/abs/2512.25072v1)** | 2025-12-31 | <details><summary>Code ...</summary><p>Code and Website: https://choice-policy.github.io/</p></details> |
+| **[Scaling Open-Ended Reasoning to Predict the Future](https://arxiv.org/abs/2512.25070v1)** | 2025-12-31 | 45 pages |
+| **[From Inpainting to Editing: A Self-Bootstrapping Framework for Context-Rich Visual Dubbing](https://arxiv.org/abs/2512.25066v1)** | 2025-12-31 | <details><summary>Proje...</summary><p>Project Page https://hjrphoebus.github.io/X-Dub</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[End-to-End Test-Time Training for Long Context](https://arxiv.org/abs/2512.23675v1)** | 2025-12-29 | <details><summary>Code:...</summary><p>Code: https://github.com/test-time-training/e2e</p></details> |
-| **[IDT: A Physically Grounded Transformer for Feed-Forward Multi-View Intrinsic Decomposition](https://arxiv.org/abs/2512.23667v1)** | 2025-12-29 | 10 pages 4 figures |
-| **[Timepoint-Specific Benchmarking of Deep Learning Models for Glioblastoma Follow-Up MRI](https://arxiv.org/abs/2511.18595v2)** | 2025-12-29 | 15 pages, 4 figures |
-| **[Forecasting Clinical Risk from Textual Time Series: Structuring Narratives for Temporal AI in Healthcare](https://arxiv.org/abs/2504.10340v5)** | 2025-12-29 | <details><summary>AAAI ...</summary><p>AAAI AI for Social Impact 2026. Shahriar Noroozizadeh, Sayantan Kumar (authors contributed equally)</p></details> |
-| **[Trustworthy Machine Learning under Distribution Shifts](https://arxiv.org/abs/2512.23524v1)** | 2025-12-29 | PhD Thesis |
-| **[Hierarchical Decision Mamba Meets Agentic AI: A Novel Approach for RAN Slicing in 6G](https://arxiv.org/abs/2512.23502v1)** | 2025-12-29 | <details><summary>Manus...</summary><p>Manuscript under review in IEEE Networking Letters. Contents may change at any time without notice</p></details> |
+| **[From Inpainting to Editing: A Self-Bootstrapping Framework for Context-Rich Visual Dubbing](https://arxiv.org/abs/2512.25066v1)** | 2025-12-31 | <details><summary>Proje...</summary><p>Project Page https://hjrphoebus.github.io/X-Dub</p></details> |
+| **[End-to-End Test-Time Training for Long Context](https://arxiv.org/abs/2512.23675v2)** | 2025-12-31 | <details><summary>Code:...</summary><p>Code: https://github.com/test-time-training/e2e</p></details> |
+| **[Evaluating the Impact of Compression Techniques on the Robustness of CNNs under Natural Corruptions](https://arxiv.org/abs/2512.24971v1)** | 2025-12-31 | <details><summary>Accep...</summary><p>Accepted for publication at the 2025 International Conference on Machine Learning and Applications (ICMLA). IEEE Catalog Number: CFP25592-ART</p></details> |
+| **[ReVision: A Dataset and Baseline VLM for Privacy-Preserving Task-Oriented Visual Instruction Rewriting](https://arxiv.org/abs/2502.14780v2)** | 2025-12-31 | <details><summary>Accep...</summary><p>Accepted and to appear in IJCNLP-AACL 2025</p></details> |
+| **[HAROOD: A Benchmark for Out-of-distribution Generalization in Sensor-based Human Activity Recognition](https://arxiv.org/abs/2512.10807v3)** | 2025-12-31 | Accepted by KDD 2026 |
+| **[OxygenREC: An Instruction-Following Generative Framework for E-commerce Recommendation](https://arxiv.org/abs/2512.22386v2)** | 2025-12-31 | 37 pages, 7 figures |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Stream-DiffVSR: Low-Latency Streamable Video Super-Resolution via Auto-Regressive Diffusion](https://arxiv.org/abs/2512.23709v1)** | 2025-12-29 | <details><summary>Proje...</summary><p>Project page: https://jamichss.github.io/stream-diffvsr-project-page/</p></details> |
-| **[End-to-End Test-Time Training for Long Context](https://arxiv.org/abs/2512.23675v1)** | 2025-12-29 | <details><summary>Code:...</summary><p>Code: https://github.com/test-time-training/e2e</p></details> |
-| **[Automating the Analysis of Parsing Algorithms (and other Dynamic Programs)](https://arxiv.org/abs/2512.23665v1)** | 2025-12-29 | <details><summary>2021 ...</summary><p>2021 manuscript; accepted by TACL but not revised for publication</p></details> |
-| **[Information is localized in growing network models](https://arxiv.org/abs/2512.23622v1)** | 2025-12-29 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 1 table</p></details> |
-| **[From geometry to dynamics: Learning overdamped Langevin dynamics from sparse observations with geometric constraints](https://arxiv.org/abs/2512.23566v1)** | 2025-12-29 | <details><summary>12+50...</summary><p>12+50 pages, 6 figures; An earlier account of this work has previously appeared in arXiv:2301.08102 and arXiv:2304.00423 ; main methodology remains the same, this version includes additional numerical experiments and theory</p></details> |
-| **[Machine Unlearning using Forgetting Neural Networks](https://arxiv.org/abs/2410.22374v2)** | 2025-12-29 | <details><summary>12 Pa...</summary><p>12 Pages, Accepted at ICAART 2026 - 18th International Conference on Agents and Artificial Intelligence</p></details> |
+| **[Edit3r: Instant 3D Scene Editing from Sparse Unposed Images](https://arxiv.org/abs/2512.25071v1)** | 2025-12-31 | <details><summary>Proje...</summary><p>Project page: https://edit3r.github.io/edit3r/</p></details> |
+| **[Coordinated Humanoid Manipulation with Choice Policies](https://arxiv.org/abs/2512.25072v1)** | 2025-12-31 | <details><summary>Code ...</summary><p>Code and Website: https://choice-policy.github.io/</p></details> |
+| **[Sequential Bayesian parameter-state estimation in dynamical systems with noisy and incomplete observations via a variational framework](https://arxiv.org/abs/2512.25056v1)** | 2025-12-31 | 31 pages, 8 figures |
+| **[End-to-End Test-Time Training for Long Context](https://arxiv.org/abs/2512.23675v2)** | 2025-12-31 | <details><summary>Code:...</summary><p>Code: https://github.com/test-time-training/e2e</p></details> |
+| **[ResponseRank: Data-Efficient Reward Modeling through Preference Strength Learning](https://arxiv.org/abs/2512.25023v1)** | 2025-12-31 | NeurIPS 2025 |
+| **[Discovery and inference beyond linearity by integrating Bayesian regression, tree ensembles and Shapley values](https://arxiv.org/abs/2505.00571v2)** | 2025-12-31 | <details><summary>Main ...</summary><p>Main body: 25 pages, 8 figures; Supplementary material: 48 pages, 15 figures</p></details> |
 

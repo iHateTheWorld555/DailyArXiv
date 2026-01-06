@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - January 06, 2026
+title: Latest 6 Papers - January 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AdaGaR: Adaptive Gabor Representation for Dynamic Scene Reconstruction](https://arxiv.org/abs/2601.00796v1)** | 2026-01-02 | <details><summary>Proje...</summary><p>Project page: https://jiewenchan.github.io/AdaGaR/</p></details> |
-| **[Distributed Sparse Linear Regression under Communication Constraints](https://arxiv.org/abs/2301.04022v2)** | 2026-01-02 | 50 pages, 5 figures |
-| **[Geometry of Reason: Spectral Signatures of Valid Mathematical Reasoning](https://arxiv.org/abs/2601.00791v1)** | 2026-01-02 | <details><summary>58 pa...</summary><p>58 pages, 19 figures, Under Review</p></details> |
-| **[Categorical Reparameterization with Denoising Diffusion models](https://arxiv.org/abs/2601.00781v1)** | 2026-01-02 | working paper |
-| **[Semantic Anchor Transport: Robust Test-Time Adaptation for Vision-Language Models](https://arxiv.org/abs/2411.17002v3)** | 2026-01-02 | <details><summary>Added...</summary><p>Added additional figures to communicate the algorithm</p></details> |
-| **[Investigating the Viability of Employing Multi-modal Large Language Models in the Context of Audio Deepfake Detection](https://arxiv.org/abs/2601.00777v1)** | 2026-01-02 | <details><summary>Accep...</summary><p>Accepted at IJCB 2025</p></details> |
+| **[ExposeAnyone: Personalized Audio-to-Expression Diffusion Models Are Robust Zero-Shot Face Forgery Detectors](https://arxiv.org/abs/2601.02359v1)** | 2026-01-05 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, 11 tables; project page: https://mapooon.github.io/ExposeAnyonePage/</p></details> |
+| **[VINO: A Unified Visual Generator with Interleaved OmniModal Context](https://arxiv.org/abs/2601.02358v1)** | 2026-01-05 | <details><summary>Proje...</summary><p>Project page: https://sotamak1r.github.io/VINO-web/</p></details> |
+| **[SpatialBench: Can Agents Analyze Real-World Spatial Biology Data?](https://arxiv.org/abs/2512.21907v2)** | 2026-01-05 | <details><summary>10 pa...</summary><p>10 pages, 9 figures, 4 tables; NeurIPS 2024 format</p></details> |
+| **[Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes](https://arxiv.org/abs/2601.02356v1)** | 2026-01-05 | <details><summary>Proje...</summary><p>Project page: https://sparkstj.github.io/talk2move</p></details> |
+| **[Explainable AI Technique in Lung Cancer Detection Using Convolutional Neural Networks](https://arxiv.org/abs/2508.10196v2)** | 2026-01-05 | <details><summary>11 pa...</summary><p>11 pages, 9 figures, 4 tables. Undergraduate research project report</p></details> |
+| **[Scaling Open-Ended Reasoning to Predict the Future](https://arxiv.org/abs/2512.25070v2)** | 2026-01-05 | 45 pages |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Two Deep Learning Approaches for Automated Segmentation of Left Ventricle in Cine Cardiac MRI](https://arxiv.org/abs/2601.00794v1)** | 2026-01-02 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, published in ICBBB 2022</p></details> |
-| **[Geometry of Reason: Spectral Signatures of Valid Mathematical Reasoning](https://arxiv.org/abs/2601.00791v1)** | 2026-01-02 | <details><summary>58 pa...</summary><p>58 pages, 19 figures, Under Review</p></details> |
-| **[A Magnified View into Heterogeneous-ISA Thread Migration Performance without State Transformation](https://arxiv.org/abs/2512.24530v2)** | 2026-01-02 | <details><summary>Edit:...</summary><p>Edit: Removed bogus journal footnote</p></details> |
-| **[Memory Bank Compression for Continual Adaptation of Large Language Models](https://arxiv.org/abs/2601.00756v1)** | 2026-01-02 | <details><summary>Accep...</summary><p>Accepted to the 41st ACM/SIGAPP Symposium on Applied Computing (SAC '26)</p></details> |
-| **[The Curse of Depth in Large Language Models](https://arxiv.org/abs/2502.05795v3)** | 2026-01-02 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
-| **[BSAT: B-Spline Adaptive Tokenizer for Long-Term Time Series Forecasting](https://arxiv.org/abs/2601.00698v1)** | 2026-01-02 | 20 pages, 7 figures |
+| **[ExposeAnyone: Personalized Audio-to-Expression Diffusion Models Are Robust Zero-Shot Face Forgery Detectors](https://arxiv.org/abs/2601.02359v1)** | 2026-01-05 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, 11 tables; project page: https://mapooon.github.io/ExposeAnyonePage/</p></details> |
+| **[VINO: A Unified Visual Generator with Interleaved OmniModal Context](https://arxiv.org/abs/2601.02358v1)** | 2026-01-05 | <details><summary>Proje...</summary><p>Project page: https://sotamak1r.github.io/VINO-web/</p></details> |
+| **[Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes](https://arxiv.org/abs/2601.02356v1)** | 2026-01-05 | <details><summary>Proje...</summary><p>Project page: https://sparkstj.github.io/talk2move</p></details> |
+| **[Differential Privacy for Transformer Embeddings of Text with Nonparametric Variational Information Bottleneck](https://arxiv.org/abs/2601.02307v1)** | 2026-01-05 | 11 pages, 2 figures |
+| **[Di- is for Directed: First-Order Directed Type Theory via Dinaturality](https://arxiv.org/abs/2409.10237v2)** | 2026-01-05 | <details><summary>41 pa...</summary><p>41 pages, POPL 2026. Extended version with Appendix. Previously known as "Directed equality with dinaturality"</p></details> |
+| **[Language as a Wave Phenomenon: Iso-Energetic Phase-Locking and Semantic Interference in Neural Networks](https://arxiv.org/abs/2512.01208v2)** | 2026-01-05 | <details><summary>Major...</summary><p>Major Revision. Title changed to reflect the new theoretical framework. Complete narrative shift from "Optimization Efficiency" to "Iso-Energetic Phase Coding" and "Optical Hardware Compatibility". Replaced ISMR diagnostics with Holographic Optical Learning simulations and mechanistic "Dual-Regime" phase analysis. Comparison with spectral baselines (FNet) added</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Semantic Anchor Transport: Robust Test-Time Adaptation for Vision-Language Models](https://arxiv.org/abs/2411.17002v3)** | 2026-01-02 | <details><summary>Added...</summary><p>Added additional figures to communicate the algorithm</p></details> |
-| **[A Machine Learning Framework for Off Ball Defensive Role and Performance Evaluation in Football](https://arxiv.org/abs/2601.00748v1)** | 2026-01-02 | 40 pages, 16 figures |
-| **[Designing an Optimal Sensor Network via Minimizing Information Loss](https://arxiv.org/abs/2512.05940v2)** | 2026-01-02 | <details><summary>37 pa...</summary><p>37 pages, 15 figures. Camera-ready version; accepted to Bayesian Analysis</p></details> |
-| **[PrivTune: Efficient and Privacy-Preserving Fine-Tuning of Large Language Models via Device-Cloud Collaboration](https://arxiv.org/abs/2512.08809v2)** | 2026-01-02 | <details><summary>Accep...</summary><p>Accepted at IEEE INFOCOM 2026 (full version)</p></details> |
-| **[Sorbet: A Neuromorphic Hardware-Compatible Transformer-Based Spiking Language Model](https://arxiv.org/abs/2409.15298v2)** | 2026-01-02 | <details><summary>Accep...</summary><p>Accepted by ICML 2025. Camera-ready version</p></details> |
-| **[IRPO: Scaling the Bradley-Terry Model via Reinforcement Learning](https://arxiv.org/abs/2601.00677v1)** | 2026-01-02 | 14 pages, 4 figures |
+| **[Explainable AI Technique in Lung Cancer Detection Using Convolutional Neural Networks](https://arxiv.org/abs/2508.10196v2)** | 2026-01-05 | <details><summary>11 pa...</summary><p>11 pages, 9 figures, 4 tables. Undergraduate research project report</p></details> |
+| **[Vision-Language Reasoning for Geolocalization: A Reinforcement Learning Approach](https://arxiv.org/abs/2601.00388v2)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026. Project Page: https://github.com/aialt/geo-r</p></details> |
+| **[BEDS: Bayesian Emergent Dissipative Structures](https://arxiv.org/abs/2601.02329v1)** | 2026-01-05 | 19 pages |
+| **[Prithvi-Complimentary Adaptive Fusion Encoder (CAFE): unlocking full-potential for flood inundation mapping](https://arxiv.org/abs/2601.02315v1)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted at CV4EO Workshop @ WACV 2026</p></details> |
+| **[POSEIDON: Physics-Optimized Seismic Energy Inference and Detection Operating Network](https://arxiv.org/abs/2601.02264v1)** | 2026-01-05 | 8 pages, 14 figures |
+| **[Learning Evolving Latent Strategies for Multi-Agent Language Systems without Model Fine-Tuning](https://arxiv.org/abs/2512.20629v3)** | 2026-01-05 | <details><summary>17 pa...</summary><p>17 pages, 5 figures. Code available at https://github.com/wltang-dev/Latent-Strategy-RL-Agent</p></details> |
 

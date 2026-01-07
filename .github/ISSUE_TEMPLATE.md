@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - January 07, 2026
+title: Latest 6 Papers - January 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ExposeAnyone: Personalized Audio-to-Expression Diffusion Models Are Robust Zero-Shot Face Forgery Detectors](https://arxiv.org/abs/2601.02359v1)** | 2026-01-05 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, 11 tables; project page: https://mapooon.github.io/ExposeAnyonePage/</p></details> |
-| **[VINO: A Unified Visual Generator with Interleaved OmniModal Context](https://arxiv.org/abs/2601.02358v1)** | 2026-01-05 | <details><summary>Proje...</summary><p>Project page: https://sotamak1r.github.io/VINO-web/</p></details> |
-| **[SpatialBench: Can Agents Analyze Real-World Spatial Biology Data?](https://arxiv.org/abs/2512.21907v2)** | 2026-01-05 | <details><summary>10 pa...</summary><p>10 pages, 9 figures, 4 tables; NeurIPS 2024 format</p></details> |
-| **[Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes](https://arxiv.org/abs/2601.02356v1)** | 2026-01-05 | <details><summary>Proje...</summary><p>Project page: https://sparkstj.github.io/talk2move</p></details> |
-| **[Explainable AI Technique in Lung Cancer Detection Using Convolutional Neural Networks](https://arxiv.org/abs/2508.10196v2)** | 2026-01-05 | <details><summary>11 pa...</summary><p>11 pages, 9 figures, 4 tables. Undergraduate research project report</p></details> |
-| **[Scaling Open-Ended Reasoning to Predict the Future](https://arxiv.org/abs/2512.25070v2)** | 2026-01-05 | 45 pages |
+| **[Muses: Designing, Composing, Generating Nonexistent Fantasy 3D Creatures without Training](https://arxiv.org/abs/2601.03256v1)** | 2026-01-06 | <details><summary>Proje...</summary><p>Project page: https://luhexiao.github.io/Muses.github.io/</p></details> |
+| **[Aligning Text, Images, and 3D Structure Token-by-Token](https://arxiv.org/abs/2506.08002v2)** | 2026-01-06 | <details><summary>Proje...</summary><p>Project webpage: https://glab-caltech.github.io/kyvo/</p></details> |
+| **[Characterizing the Robustness of Black-Box LLM Planners Under Perturbed Observations with Adaptive Stress Testing](https://arxiv.org/abs/2505.05665v3)** | 2026-01-06 | <details><summary>30 pa...</summary><p>30 pages, 24 figures, 6 tables</p></details> |
+| **[STReasoner: Empowering LLMs for Spatio-Temporal Reasoning in Time Series via Spatial-Aware Reinforcement Learning](https://arxiv.org/abs/2601.03248v1)** | 2026-01-06 | <details><summary>prepr...</summary><p>preprint, we release our code publicly at https://github.com/LingFengGold/STReasoner</p></details> |
+| **[inRAN: Interpretable Online Bayesian Learning for Network Automation in Open Radio Access Networks](https://arxiv.org/abs/2601.03219v1)** | 2026-01-06 | <details><summary>This ...</summary><p>This paper is accepted by IEEE INFOCOM 2026</p></details> |
+| **[Adapting Web Agents with Synthetic Supervision](https://arxiv.org/abs/2511.06101v2)** | 2026-01-06 | 21 pages, 6 figures |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ExposeAnyone: Personalized Audio-to-Expression Diffusion Models Are Robust Zero-Shot Face Forgery Detectors](https://arxiv.org/abs/2601.02359v1)** | 2026-01-05 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, 11 tables; project page: https://mapooon.github.io/ExposeAnyonePage/</p></details> |
-| **[VINO: A Unified Visual Generator with Interleaved OmniModal Context](https://arxiv.org/abs/2601.02358v1)** | 2026-01-05 | <details><summary>Proje...</summary><p>Project page: https://sotamak1r.github.io/VINO-web/</p></details> |
-| **[Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes](https://arxiv.org/abs/2601.02356v1)** | 2026-01-05 | <details><summary>Proje...</summary><p>Project page: https://sparkstj.github.io/talk2move</p></details> |
-| **[Differential Privacy for Transformer Embeddings of Text with Nonparametric Variational Information Bottleneck](https://arxiv.org/abs/2601.02307v1)** | 2026-01-05 | 11 pages, 2 figures |
-| **[Di- is for Directed: First-Order Directed Type Theory via Dinaturality](https://arxiv.org/abs/2409.10237v2)** | 2026-01-05 | <details><summary>41 pa...</summary><p>41 pages, POPL 2026. Extended version with Appendix. Previously known as "Directed equality with dinaturality"</p></details> |
-| **[Language as a Wave Phenomenon: Iso-Energetic Phase-Locking and Semantic Interference in Neural Networks](https://arxiv.org/abs/2512.01208v2)** | 2026-01-05 | <details><summary>Major...</summary><p>Major Revision. Title changed to reflect the new theoretical framework. Complete narrative shift from "Optimization Efficiency" to "Iso-Energetic Phase Coding" and "Optical Hardware Compatibility". Replaced ISMR diagnostics with Holographic Optical Learning simulations and mechanistic "Dual-Regime" phase analysis. Comparison with spectral baselines (FNet) added</p></details> |
+| **[Sparse Knowledge Distillation: A Mathematical Framework for Probability-Domain Temperature Scaling and Multi-Stage Compression](https://arxiv.org/abs/2601.03195v1)** | 2026-01-06 | <details><summary>Machi...</summary><p>Machine learning theory. Develops an axiomatic, operator-agnostic framework for probability-domain knowledge distillation, including bias--variance analysis of sparse students, homotopy-based multi-stage pruning, $O(1/n)$ convergence guarantees, and equivalence classes of probability-domain softening operators. Theoretical analysis only</p></details> |
+| **[Multi-Modal Data-Enhanced Foundation Models for Prediction and Control in Wireless Networks: A Survey](https://arxiv.org/abs/2601.03181v1)** | 2026-01-06 | <details><summary>5 fig...</summary><p>5 figures, 7 tables, IEEE COMST</p></details> |
+| **[DiT-JSCC: Rethinking Deep JSCC with Diffusion Transformers and Semantic Representations](https://arxiv.org/abs/2601.03112v1)** | 2026-01-06 | <details><summary>14pag...</summary><p>14pages, 14figures, 2tables</p></details> |
+| **[From Muscle to Text with MyoText: sEMG to Text via Finger Classification and Transformer-Based Decoding](https://arxiv.org/abs/2601.03098v1)** | 2026-01-06 | <details><summary>25 pa...</summary><p>25 pages, 11 tables, 11 figures</p></details> |
+| **[ELMM: Efficient Lightweight Multimodal Large Language Models for Multimodal Knowledge Graph Completion](https://arxiv.org/abs/2510.16753v2)** | 2026-01-06 | 14 pages, 5 figures |
+| **[Joint Encoding of KV-Cache Blocks for Scalable LLM Serving](https://arxiv.org/abs/2601.03067v1)** | 2026-01-06 | <details><summary>12 pa...</summary><p>12 pages, 16 figures, 2 tables</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Explainable AI Technique in Lung Cancer Detection Using Convolutional Neural Networks](https://arxiv.org/abs/2508.10196v2)** | 2026-01-05 | <details><summary>11 pa...</summary><p>11 pages, 9 figures, 4 tables. Undergraduate research project report</p></details> |
-| **[Vision-Language Reasoning for Geolocalization: A Reinforcement Learning Approach](https://arxiv.org/abs/2601.00388v2)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026. Project Page: https://github.com/aialt/geo-r</p></details> |
-| **[BEDS: Bayesian Emergent Dissipative Structures](https://arxiv.org/abs/2601.02329v1)** | 2026-01-05 | 19 pages |
-| **[Prithvi-Complimentary Adaptive Fusion Encoder (CAFE): unlocking full-potential for flood inundation mapping](https://arxiv.org/abs/2601.02315v1)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted at CV4EO Workshop @ WACV 2026</p></details> |
-| **[POSEIDON: Physics-Optimized Seismic Energy Inference and Detection Operating Network](https://arxiv.org/abs/2601.02264v1)** | 2026-01-05 | 8 pages, 14 figures |
-| **[Learning Evolving Latent Strategies for Multi-Agent Language Systems without Model Fine-Tuning](https://arxiv.org/abs/2512.20629v3)** | 2026-01-05 | <details><summary>17 pa...</summary><p>17 pages, 5 figures. Code available at https://github.com/wltang-dev/Latent-Strategy-RL-Agent</p></details> |
+| **[A High-Fidelity Digital Twin for Robotic Manipulation Based on 3D Gaussian Splatting](https://arxiv.org/abs/2601.03200v1)** | 2026-01-06 | <details><summary>Under...</summary><p>Under review of Journal of Robot Learning</p></details> |
+| **[DIP: Dynamic In-Context Planner For Diffusion Language Models](https://arxiv.org/abs/2601.03199v1)** | 2026-01-06 | 4 pages |
+| **[Iterative Topic Taxonomy Induction with LLMs: A Case Study of Electoral Advertising](https://arxiv.org/abs/2510.15125v2)** | 2026-01-06 | Under-submission |
+| **[DiffBench Meets DiffAgent: End-to-End LLM-Driven Diffusion Acceleration Code Generation](https://arxiv.org/abs/2601.03178v1)** | 2026-01-06 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
+| **[Dynamic Hyperparameter Importance for Efficient Multi-Objective Optimization](https://arxiv.org/abs/2601.03166v1)** | 2026-01-06 | <details><summary>Submi...</summary><p>Submitted to IJCAI 2026</p></details> |
+| **[Self-Verification is All You Need To Pass The Japanese Bar Examination](https://arxiv.org/abs/2601.03144v1)** | 2026-01-06 | <details><summary>https...</summary><p>https://github.com/shinandrew/self_verification</p></details> |
 

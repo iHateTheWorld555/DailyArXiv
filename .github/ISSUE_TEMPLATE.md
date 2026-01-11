@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - January 09, 2026
+title: Latest 6 Papers - January 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Prediction Intervals for Interim Events in Randomized Clinical Trials with Time-to-Event Endpoints](https://arxiv.org/abs/2601.04192v1)** | 2026-01-07 | 35 pages, 18 figures |
-| **[Embedding Autonomous Agents in Resource-Constrained Robotic Platforms](https://arxiv.org/abs/2601.04191v1)** | 2026-01-07 | <details><summary>This ...</summary><p>This is an open-access, author-archived version of a manuscript published in European Conference on Multi-Agent Systems 2025</p></details> |
-| **[ImLoc: Revisiting Visual Localization with Image-based Representation](https://arxiv.org/abs/2601.04185v1)** | 2026-01-07 | <details><summary>Code ...</summary><p>Code will be available at https://github.com/cvg/Hierarchical-Localization</p></details> |
-| **[Rapid Mixing at the Uniqueness Threshold](https://arxiv.org/abs/2411.03413v3)** | 2026-01-07 | <details><summary>Remov...</summary><p>Remove the incorrectly claimed square-root spectral independence result for the critical graphical Ising model; see Remark 1.6 for details</p></details> |
-| **[Transforming Video Subjective Testing with Training, Engagement, and Real-Time Feedback](https://arxiv.org/abs/2601.04184v1)** | 2026-01-07 | <details><summary>Accep...</summary><p>Accepted at 5th Workshop on Image/Video/Audio Quality Assessment in Computer Vision, VLM and Diffusion Model (WVAQ), at IEEE/CVF WACV 2026</p></details> |
-| **[HONEYBEE: Efficient Role-based Access Control for Vector Databases via Dynamic Partitioning[Technical Report]](https://arxiv.org/abs/2505.01538v3)** | 2026-01-07 | <details><summary>Accep...</summary><p>Accepted by SIGMOD 2026</p></details> |
+| **[Mesh4D: 4D Mesh Reconstruction and Tracking from Monocular Video](https://arxiv.org/abs/2601.05251v1)** | 2026-01-08 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, project page: https://mesh-4d.github.io/</p></details> |
+| **[QNeRF: Neural Radiance Fields on a Simulated Gate-Based Quantum Computer](https://arxiv.org/abs/2601.05250v1)** | 2026-01-08 | <details><summary>30 pa...</summary><p>30 pages, 15 figures, 11 tables; project page: https://4dqv.mpi-inf.mpg.de/QNeRF/</p></details> |
+| **[Random Models and Guarded Logic](https://arxiv.org/abs/2601.05247v1)** | 2026-01-08 | <details><summary>This ...</summary><p>This is the full version of a paper that appears in the Proceedings of STACS 2026</p></details> |
+| **[Pixel-Perfect Visual Geometry Estimation](https://arxiv.org/abs/2601.05246v1)** | 2026-01-08 | <details><summary>Code:...</summary><p>Code: https://github.com/gangweix/pixel-perfect-depth</p></details> |
+| **[GREx: Generalized Referring Expression Segmentation, Comprehension, and Generation](https://arxiv.org/abs/2601.05244v1)** | 2026-01-08 | <details><summary>IJCV,...</summary><p>IJCV, Project Page: https://henghuiding.com/GREx/</p></details> |
+| **[Generate, Transfer, Adapt: Learning Functional Dexterous Grasping from a Single Human Demonstration](https://arxiv.org/abs/2601.05243v1)** | 2026-01-08 | <details><summary>Proje...</summary><p>Project Page: https://cordex-manipulation.github.io/</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ImLoc: Revisiting Visual Localization with Image-based Representation](https://arxiv.org/abs/2601.04185v1)** | 2026-01-07 | <details><summary>Code ...</summary><p>Code will be available at https://github.com/cvg/Hierarchical-Localization</p></details> |
-| **[Transforming Video Subjective Testing with Training, Engagement, and Real-Time Feedback](https://arxiv.org/abs/2601.04184v1)** | 2026-01-07 | <details><summary>Accep...</summary><p>Accepted at 5th Workshop on Image/Video/Audio Quality Assessment in Computer Vision, VLM and Diffusion Model (WVAQ), at IEEE/CVF WACV 2026</p></details> |
-| **[FedDUAL: A Dual-Strategy with Adaptive Loss and Dynamic Aggregation for Mitigating Data Heterogeneity in Federated Learning](https://arxiv.org/abs/2412.04416v2)** | 2026-01-07 | <details><summary>Trans...</summary><p>Transactions on Machine Learning Research (TMLR)</p></details> |
-| **[Clinical Data Goes MEDS? Let's OWL make sense of it](https://arxiv.org/abs/2601.04164v1)** | 2026-01-07 | <details><summary>12 pa...</summary><p>12 pages, 5 tables, 4 figures</p></details> |
-| **[Attention Needs to Focus: A Unified Perspective on Attention Allocation](https://arxiv.org/abs/2601.00919v2)** | 2026-01-07 | preprint |
-| **[The Mean-Field Dynamics of Transformers](https://arxiv.org/abs/2512.01868v3)** | 2026-01-07 | <details><summary>to ap...</summary><p>to appear as Proceedings of the ICM2026, Philadelphia, USA</p></details> |
+| **[Pixel-Perfect Visual Geometry Estimation](https://arxiv.org/abs/2601.05246v1)** | 2026-01-08 | <details><summary>Code:...</summary><p>Code: https://github.com/gangweix/pixel-perfect-depth</p></details> |
+| **[Plenoptic Video Generation](https://arxiv.org/abs/2601.05239v1)** | 2026-01-08 | <details><summary>Proje...</summary><p>Project Page: https://research.nvidia.com/labs/dir/plenopticdreamer/</p></details> |
+| **[Spontaneous emergence of linguistic statistical laws in images via artificial neural networks](https://arxiv.org/abs/2501.18620v2)** | 2026-01-08 | 10 figures |
+| **[Forking-Sequences](https://arxiv.org/abs/2510.04487v4)** | 2026-01-08 | <details><summary>Prese...</summary><p>Presented at the GPU-Accelerated and Scalable Optimization (ScaleOpt) Workshop, NeurIPS 2025</p></details> |
+| **[A Lightweight and Explainable Vision-Language Framework for Crop Disease Visual Question Answering](https://arxiv.org/abs/2601.05143v1)** | 2026-01-08 | <details><summary>Prepr...</summary><p>Preprint, manuscript is under review</p></details> |
+| **[Simulation-based population inference of LISA's Galactic binaries: Bypassing the global fit](https://arxiv.org/abs/2506.22543v2)** | 2026-01-08 | <details><summary>20 pa...</summary><p>20 pages, 12 figures, 3 tables</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Sound Event Detection with Boundary-Aware Optimization and Inference](https://arxiv.org/abs/2601.04178v1)** | 2026-01-07 | <details><summary>Submi...</summary><p>Submitted to IEEE Signal Processing Letters</p></details> |
-| **[Agentic Rubrics as Contextual Verifiers for SWE Agents](https://arxiv.org/abs/2601.04171v1)** | 2026-01-07 | 31 pages, 11 Figures |
-| **[Expectation Propagation for Distributed Inference in Grant-Free Cell-Free Massive MIMO](https://arxiv.org/abs/2601.04166v1)** | 2026-01-07 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, submitted for possible journal publication</p></details> |
-| **[Analyzing Reasoning Consistency in Large Multimodal Models under Cross-Modal Conflicts](https://arxiv.org/abs/2601.04073v1)** | 2026-01-07 | 10 pages, 5 figures |
-| **[Mind the Generative Details: Direct Localized Detail Preference Optimization for Video Diffusion Models](https://arxiv.org/abs/2601.04068v1)** | 2026-01-07 | Under Review |
-| **[Statistical Inference in Large Multi-way Networks](https://arxiv.org/abs/2512.02203v2)** | 2026-01-07 | Working paper |
+| **[Mesh4D: 4D Mesh Reconstruction and Tracking from Monocular Video](https://arxiv.org/abs/2601.05251v1)** | 2026-01-08 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, project page: https://mesh-4d.github.io/</p></details> |
+| **[Stochastic Deep Learning: A Probabilistic Framework for Modeling Uncertainty in Structured Temporal Data](https://arxiv.org/abs/2601.05227v1)** | 2026-01-08 | 20 pages, 6330 words |
+| **[HAFix: History-Augmented Large Language Models for Bug Fixing](https://arxiv.org/abs/2501.09135v3)** | 2026-01-08 | <details><summary>Evalu...</summary><p>Evaluated HAFix on two datasets (BugsInPy, Defects4J) and three LLMs (CodeLlama, DeepSeek-Coder, DeepSeek-Coder-V2) and optimized the figures and tables for better readability</p></details> |
+| **[From Policy to Logic for Efficient and Interpretable Coverage Assessment](https://arxiv.org/abs/2601.01266v2)** | 2026-01-08 | <details><summary>Accep...</summary><p>Accepted at AIMedHealth @ AAAI 2026</p></details> |
+| **[Multivector Reranking in the Era of Strong First-Stage Retrievers](https://arxiv.org/abs/2601.05200v1)** | 2026-01-08 | <details><summary>17 pa...</summary><p>17 pages, 2 figures, ECIR 2026</p></details> |
+| **[Spacecube: A fast inverse hyperspectral georectification system](https://arxiv.org/abs/2601.05181v1)** | 2026-01-08 | <details><summary>9 pag...</summary><p>9 pages, 16 figures. source code available after peer-reviewed publication</p></details> |
 

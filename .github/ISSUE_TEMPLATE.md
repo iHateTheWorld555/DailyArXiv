@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - January 12, 2026
+title: Latest 6 Papers - January 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Mesh4D: 4D Mesh Reconstruction and Tracking from Monocular Video](https://arxiv.org/abs/2601.05251v1)** | 2026-01-08 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, project page: https://mesh-4d.github.io/</p></details> |
-| **[QNeRF: Neural Radiance Fields on a Simulated Gate-Based Quantum Computer](https://arxiv.org/abs/2601.05250v1)** | 2026-01-08 | <details><summary>30 pa...</summary><p>30 pages, 15 figures, 11 tables; project page: https://4dqv.mpi-inf.mpg.de/QNeRF/</p></details> |
-| **[Random Models and Guarded Logic](https://arxiv.org/abs/2601.05247v1)** | 2026-01-08 | <details><summary>This ...</summary><p>This is the full version of a paper that appears in the Proceedings of STACS 2026</p></details> |
-| **[Pixel-Perfect Visual Geometry Estimation](https://arxiv.org/abs/2601.05246v1)** | 2026-01-08 | <details><summary>Code:...</summary><p>Code: https://github.com/gangweix/pixel-perfect-depth</p></details> |
-| **[GREx: Generalized Referring Expression Segmentation, Comprehension, and Generation](https://arxiv.org/abs/2601.05244v1)** | 2026-01-08 | <details><summary>IJCV,...</summary><p>IJCV, Project Page: https://henghuiding.com/GREx/</p></details> |
-| **[Generate, Transfer, Adapt: Learning Functional Dexterous Grasping from a Single Human Demonstration](https://arxiv.org/abs/2601.05243v1)** | 2026-01-08 | <details><summary>Proje...</summary><p>Project Page: https://cordex-manipulation.github.io/</p></details> |
+| **[When quantum resources backfire: Non-gaussianity and symplectic coherence in noisy bosonic circuits](https://arxiv.org/abs/2510.07264v2)** | 2026-01-09 | 64 pages, 6 figures |
+| **[Mobility Trajectories from Network-Driven Markov Dynamics](https://arxiv.org/abs/2601.06020v1)** | 2026-01-09 | 22 pages, 6 figures |
+| **[From Fact to Judgment: Investigating the Impact of Task Framing on LLM Conviction in Dialogue Systems](https://arxiv.org/abs/2511.10871v2)** | 2026-01-09 | 11 pages, 3 figures |
+| **[Co-Training Vision Language Models for Remote Sensing Multi-task Learning](https://arxiv.org/abs/2511.21272v2)** | 2026-01-09 | 14 pages, 6 figures |
+| **[Don't Break the Cache: An Evaluation of Prompt Caching for Long-Horizon Agentic Tasks](https://arxiv.org/abs/2601.06007v1)** | 2026-01-09 | 15 pages, 8 figures |
+| **[Discriminative-Generative Target Speaker Extraction with Decoder-Only Language Models](https://arxiv.org/abs/2601.06006v1)** | 2026-01-09 | 16 pages,6 figures |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Pixel-Perfect Visual Geometry Estimation](https://arxiv.org/abs/2601.05246v1)** | 2026-01-08 | <details><summary>Code:...</summary><p>Code: https://github.com/gangweix/pixel-perfect-depth</p></details> |
-| **[Plenoptic Video Generation](https://arxiv.org/abs/2601.05239v1)** | 2026-01-08 | <details><summary>Proje...</summary><p>Project Page: https://research.nvidia.com/labs/dir/plenopticdreamer/</p></details> |
-| **[Spontaneous emergence of linguistic statistical laws in images via artificial neural networks](https://arxiv.org/abs/2501.18620v2)** | 2026-01-08 | 10 figures |
-| **[Forking-Sequences](https://arxiv.org/abs/2510.04487v4)** | 2026-01-08 | <details><summary>Prese...</summary><p>Presented at the GPU-Accelerated and Scalable Optimization (ScaleOpt) Workshop, NeurIPS 2025</p></details> |
-| **[A Lightweight and Explainable Vision-Language Framework for Crop Disease Visual Question Answering](https://arxiv.org/abs/2601.05143v1)** | 2026-01-08 | <details><summary>Prepr...</summary><p>Preprint, manuscript is under review</p></details> |
-| **[Simulation-based population inference of LISA's Galactic binaries: Bypassing the global fit](https://arxiv.org/abs/2506.22543v2)** | 2026-01-08 | <details><summary>20 pa...</summary><p>20 pages, 12 figures, 3 tables</p></details> |
+| **[Co-Training Vision Language Models for Remote Sensing Multi-task Learning](https://arxiv.org/abs/2511.21272v2)** | 2026-01-09 | 14 pages, 6 figures |
+| **[CyberGFM: Graph Foundation Models for Lateral Movement Detection in Enterprise Networks](https://arxiv.org/abs/2601.05988v1)** | 2026-01-09 | <details><summary>17 pa...</summary><p>17 pages; 11 figures; 8 tables</p></details> |
+| **[Monadic Context Engineering](https://arxiv.org/abs/2512.22431v3)** | 2026-01-09 | <details><summary>The a...</summary><p>The authors have decided to withdraw this manuscript, as the ideas presented in the paper are not yet sufficiently mature and require further development and refinement</p></details> |
+| **[Reflect3r: Single-View 3D Stereo Reconstruction Aided by Mirror Reflections](https://arxiv.org/abs/2509.20607v2)** | 2026-01-09 | <details><summary>3DV 2...</summary><p>3DV 2026. Code and Data Available at https://jingwu2121.github.io/reflect3r/</p></details> |
+| **[Adapting Vision Transformers to Ultra-High Resolution Semantic Segmentation with Relay Tokens](https://arxiv.org/abs/2601.05927v1)** | 2026-01-09 | <details><summary>13 pa...</summary><p>13 pages +3 pages of suppmat</p></details> |
+| **[Distilling Lightweight Domain Experts from Large ML Models by Identifying Relevant Subspaces](https://arxiv.org/abs/2601.05913v1)** | 2026-01-09 | <details><summary>20 pa...</summary><p>20 pages + supplement</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Mesh4D: 4D Mesh Reconstruction and Tracking from Monocular Video](https://arxiv.org/abs/2601.05251v1)** | 2026-01-08 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, project page: https://mesh-4d.github.io/</p></details> |
-| **[Stochastic Deep Learning: A Probabilistic Framework for Modeling Uncertainty in Structured Temporal Data](https://arxiv.org/abs/2601.05227v1)** | 2026-01-08 | 20 pages, 6330 words |
-| **[HAFix: History-Augmented Large Language Models for Bug Fixing](https://arxiv.org/abs/2501.09135v3)** | 2026-01-08 | <details><summary>Evalu...</summary><p>Evaluated HAFix on two datasets (BugsInPy, Defects4J) and three LLMs (CodeLlama, DeepSeek-Coder, DeepSeek-Coder-V2) and optimized the figures and tables for better readability</p></details> |
-| **[From Policy to Logic for Efficient and Interpretable Coverage Assessment](https://arxiv.org/abs/2601.01266v2)** | 2026-01-08 | <details><summary>Accep...</summary><p>Accepted at AIMedHealth @ AAAI 2026</p></details> |
-| **[Multivector Reranking in the Era of Strong First-Stage Retrievers](https://arxiv.org/abs/2601.05200v1)** | 2026-01-08 | <details><summary>17 pa...</summary><p>17 pages, 2 figures, ECIR 2026</p></details> |
-| **[Spacecube: A fast inverse hyperspectral georectification system](https://arxiv.org/abs/2601.05181v1)** | 2026-01-08 | <details><summary>9 pag...</summary><p>9 pages, 16 figures. source code available after peer-reviewed publication</p></details> |
+| **[Discriminative-Generative Target Speaker Extraction with Decoder-Only Language Models](https://arxiv.org/abs/2601.06006v1)** | 2026-01-09 | 16 pages,6 figures |
+| **[The Molecular Structure of Thought: Mapping the Topology of Long Chain-of-Thought Reasoning](https://arxiv.org/abs/2601.06002v1)** | 2026-01-09 | Preprint |
+| **[Adaptive Conditional Contrast-Agnostic Deformable Image Registration with Uncertainty Estimation](https://arxiv.org/abs/2601.05981v1)** | 2026-01-09 | <details><summary>Accep...</summary><p>Accepted by ieee transactions on Medical Imaging</p></details> |
+| **[Efficient Bayesian Computation Using Plug-and-Play Priors for Poisson Inverse Problems](https://arxiv.org/abs/2503.16222v2)** | 2026-01-09 | 35 pages, 19 figures |
+| **[Distilling Feedback into Memory-as-a-Tool](https://arxiv.org/abs/2601.05960v1)** | 2026-01-09 | <details><summary>Code:...</summary><p>Code: https://github.com/vicgalle/feedback-memory-as-a-tool Data: https://huggingface.co/datasets/vicgalle/rubric-feedback-bench</p></details> |
+| **[Let Me Think! A Long Chain-of-Thought Can Be Worth Exponentially Many Short Ones](https://arxiv.org/abs/2505.21825v2)** | 2026-01-09 | <details><summary>Publi...</summary><p>Published at NeurIPS 2025</p></details> |
 

@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - January 13, 2026
+title: Latest 6 Papers - January 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[When quantum resources backfire: Non-gaussianity and symplectic coherence in noisy bosonic circuits](https://arxiv.org/abs/2510.07264v2)** | 2026-01-09 | 64 pages, 6 figures |
-| **[Mobility Trajectories from Network-Driven Markov Dynamics](https://arxiv.org/abs/2601.06020v1)** | 2026-01-09 | 22 pages, 6 figures |
-| **[From Fact to Judgment: Investigating the Impact of Task Framing on LLM Conviction in Dialogue Systems](https://arxiv.org/abs/2511.10871v2)** | 2026-01-09 | 11 pages, 3 figures |
-| **[Co-Training Vision Language Models for Remote Sensing Multi-task Learning](https://arxiv.org/abs/2511.21272v2)** | 2026-01-09 | 14 pages, 6 figures |
-| **[Don't Break the Cache: An Evaluation of Prompt Caching for Long-Horizon Agentic Tasks](https://arxiv.org/abs/2601.06007v1)** | 2026-01-09 | 15 pages, 8 figures |
-| **[Discriminative-Generative Target Speaker Extraction with Decoder-Only Language Models](https://arxiv.org/abs/2601.06006v1)** | 2026-01-09 | 16 pages,6 figures |
+| **[Tuning-free Visual Effect Transfer across Videos](https://arxiv.org/abs/2601.07833v1)** | 2026-01-12 | <details><summary>Proje...</summary><p>Project Page: $\href{https://tuningfreevisualeffects-maker.github.io/Tuning-free-Visual-Effect-Transfer-across-Videos-Project-Page/}{this\ URL}$</p></details> |
+| **[MHLA: Restoring Expressivity of Linear Attention via Token-Level Multi-Head](https://arxiv.org/abs/2601.07832v1)** | 2026-01-12 | <details><summary>Code:...</summary><p>Code: https://github.com/DAGroup-PKU/MHLA/ Project website: https://dagroup-pku.github.io/MHLA/</p></details> |
+| **[Failure-Aware RL: Reliable Offline-to-Online Reinforcement Learning with Self-Recovery for Real-World Manipulation](https://arxiv.org/abs/2601.07821v1)** | 2026-01-12 | <details><summary>Proje...</summary><p>Project page: https://failure-aware-rl.github.io</p></details> |
+| **[Learning the Value of Value Learning](https://arxiv.org/abs/2511.17714v4)** | 2026-01-12 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, mathematical appendix</p></details> |
+| **[CLAPS: Posterior-Aware Conformal Intervals via Last-Layer Laplace](https://arxiv.org/abs/2512.01384v3)** | 2026-01-12 | <details><summary>Revis...</summary><p>Revised for clarity and correctness; improved exposition and fixed minor issues</p></details> |
+| **[The Power of Iterative Filtering for Supervised Learning with (Heavy) Contamination](https://arxiv.org/abs/2505.20177v2)** | 2026-01-12 | 36 pages |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Co-Training Vision Language Models for Remote Sensing Multi-task Learning](https://arxiv.org/abs/2511.21272v2)** | 2026-01-09 | 14 pages, 6 figures |
-| **[CyberGFM: Graph Foundation Models for Lateral Movement Detection in Enterprise Networks](https://arxiv.org/abs/2601.05988v1)** | 2026-01-09 | <details><summary>17 pa...</summary><p>17 pages; 11 figures; 8 tables</p></details> |
-| **[Monadic Context Engineering](https://arxiv.org/abs/2512.22431v3)** | 2026-01-09 | <details><summary>The a...</summary><p>The authors have decided to withdraw this manuscript, as the ideas presented in the paper are not yet sufficiently mature and require further development and refinement</p></details> |
-| **[Reflect3r: Single-View 3D Stereo Reconstruction Aided by Mirror Reflections](https://arxiv.org/abs/2509.20607v2)** | 2026-01-09 | <details><summary>3DV 2...</summary><p>3DV 2026. Code and Data Available at https://jingwu2121.github.io/reflect3r/</p></details> |
-| **[Adapting Vision Transformers to Ultra-High Resolution Semantic Segmentation with Relay Tokens](https://arxiv.org/abs/2601.05927v1)** | 2026-01-09 | <details><summary>13 pa...</summary><p>13 pages +3 pages of suppmat</p></details> |
-| **[Distilling Lightweight Domain Experts from Large ML Models by Identifying Relevant Subspaces](https://arxiv.org/abs/2601.05913v1)** | 2026-01-09 | <details><summary>20 pa...</summary><p>20 pages + supplement</p></details> |
+| **[Tuning-free Visual Effect Transfer across Videos](https://arxiv.org/abs/2601.07833v1)** | 2026-01-12 | <details><summary>Proje...</summary><p>Project Page: $\href{https://tuningfreevisualeffects-maker.github.io/Tuning-free-Visual-Effect-Transfer-across-Videos-Project-Page/}{this\ URL}$</p></details> |
+| **[MHLA: Restoring Expressivity of Linear Attention via Token-Level Multi-Head](https://arxiv.org/abs/2601.07832v1)** | 2026-01-12 | <details><summary>Code:...</summary><p>Code: https://github.com/DAGroup-PKU/MHLA/ Project website: https://dagroup-pku.github.io/MHLA/</p></details> |
+| **[Learning the Value of Value Learning](https://arxiv.org/abs/2511.17714v4)** | 2026-01-12 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, mathematical appendix</p></details> |
+| **[Non-Convex Portfolio Optimization via Energy-Based Models: A Comparative Analysis Using the Thermodynamic HypergRaphical Model Library (THRML) for Index Tracking](https://arxiv.org/abs/2601.07792v1)** | 2026-01-12 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. GPU-accelerated energy-based models for cardinality-constrained index tracking</p></details> |
+| **[Interpreting Transformers Through Attention Head Intervention](https://arxiv.org/abs/2601.04398v3)** | 2026-01-12 | updated abstract |
+| **[AptaFind: A lightweight local interface for automated aptamer curation from scientific literature](https://arxiv.org/abs/2601.07684v1)** | 2026-01-12 | <details><summary>for a...</summary><p>for associated source code, see https://github.com/usnistgov/aptafind</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Discriminative-Generative Target Speaker Extraction with Decoder-Only Language Models](https://arxiv.org/abs/2601.06006v1)** | 2026-01-09 | 16 pages,6 figures |
-| **[The Molecular Structure of Thought: Mapping the Topology of Long Chain-of-Thought Reasoning](https://arxiv.org/abs/2601.06002v1)** | 2026-01-09 | Preprint |
-| **[Adaptive Conditional Contrast-Agnostic Deformable Image Registration with Uncertainty Estimation](https://arxiv.org/abs/2601.05981v1)** | 2026-01-09 | <details><summary>Accep...</summary><p>Accepted by ieee transactions on Medical Imaging</p></details> |
-| **[Efficient Bayesian Computation Using Plug-and-Play Priors for Poisson Inverse Problems](https://arxiv.org/abs/2503.16222v2)** | 2026-01-09 | 35 pages, 19 figures |
-| **[Distilling Feedback into Memory-as-a-Tool](https://arxiv.org/abs/2601.05960v1)** | 2026-01-09 | <details><summary>Code:...</summary><p>Code: https://github.com/vicgalle/feedback-memory-as-a-tool Data: https://huggingface.co/datasets/vicgalle/rubric-feedback-bench</p></details> |
-| **[Let Me Think! A Long Chain-of-Thought Can Be Worth Exponentially Many Short Ones](https://arxiv.org/abs/2505.21825v2)** | 2026-01-09 | <details><summary>Publi...</summary><p>Published at NeurIPS 2025</p></details> |
+| **[StarFlow: Generating Structured Workflow Outputs From Sketch Images](https://arxiv.org/abs/2503.21889v2)** | 2026-01-12 | <details><summary>To be...</summary><p>To be presented at EACL2026</p></details> |
+| **[Kinship Data Benchmark for Multi-hop Reasoning](https://arxiv.org/abs/2601.07794v1)** | 2026-01-12 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, 9 tables</p></details> |
+| **[Non-Convex Portfolio Optimization via Energy-Based Models: A Comparative Analysis Using the Thermodynamic HypergRaphical Model Library (THRML) for Index Tracking](https://arxiv.org/abs/2601.07792v1)** | 2026-01-12 | <details><summary>10 pa...</summary><p>10 pages, 5 figures. GPU-accelerated energy-based models for cardinality-constrained index tracking</p></details> |
+| **[Benchmarking Small Language Models and Small Reasoning Language Models on System Log Severity Classification](https://arxiv.org/abs/2601.07790v1)** | 2026-01-12 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 7 tables</p></details> |
+| **[The Complexity of Games with Randomised Control](https://arxiv.org/abs/2601.07775v1)** | 2026-01-12 | <details><summary>28 pa...</summary><p>28 pages including appendices, accepted to FoSSaCS 2026</p></details> |
+| **[THETA: Triangulated Hand-State Estimation for Teleoperation and Automation in Robotic Hand Control](https://arxiv.org/abs/2601.07768v1)** | 2026-01-12 | <details><summary>The 1...</summary><p>The 11th International Conference on Engineering and Emerging Technologies (ICEET) 2025</p></details> |
 

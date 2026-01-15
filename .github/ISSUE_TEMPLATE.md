@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - January 15, 2026
+title: Latest 6 Papers - January 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RAVEN: Erasing Invisible Watermarks via Novel View Synthesis](https://arxiv.org/abs/2601.08832v1)** | 2026-01-13 | 13 pages |
-| **[3AM: Segment Anything with Geometric Consistency in Videos](https://arxiv.org/abs/2601.08831v1)** | 2026-01-13 | <details><summary>Proje...</summary><p>Project page: https://jayisaking.github.io/3AM-Page/</p></details> |
-| **[Modeling LLM Agent Reviewer Dynamics in Elo-Ranked Review System](https://arxiv.org/abs/2601.08829v1)** | 2026-01-13 | <details><summary>In su...</summary><p>In submission. The first two authors contributed equally</p></details> |
-| **[Motion Attribution for Video Generation](https://arxiv.org/abs/2601.08828v1)** | 2026-01-13 | <details><summary>See t...</summary><p>See the project website at https://research.nvidia.com/labs/sil/projects/MOTIVE/</p></details> |
-| **[SemiETPicker: Fast and Label-Efficient Particle Picking for CryoET Tomography Using Semi-Supervised Learning](https://arxiv.org/abs/2510.22454v2)** | 2026-01-13 | <details><summary>IEEE ...</summary><p>IEEE International Symposium on Biomedical Imaging (ISBI) 2026</p></details> |
-| **[A two-step approach to production frontier estimation and the Matsuoka's distribution](https://arxiv.org/abs/2311.06086v3)** | 2026-01-13 | <details><summary>Suple...</summary><p>Suplementary material is presented along with the paper</p></details> |
+| **[Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning](https://arxiv.org/abs/2601.09708v1)** | 2026-01-14 | <details><summary>Proje...</summary><p>Project page: https://jasper0314-huang.github.io/fast-thinkact/</p></details> |
+| **[Causality-enhanced Decision-Making for Autonomous Mobile Robots in Dynamic Environments](https://arxiv.org/abs/2504.11901v4)** | 2026-01-14 | <details><summary>Causa...</summary><p>Causal Discovery and Inference - Robot Autonomy - Human-Robot Spatial Interaction - Decision-Making</p></details> |
+| **[LLM-Based Emulation of the Radio Resource Control Layer: Towards AI-Native RAN Protocols](https://arxiv.org/abs/2505.16821v4)** | 2026-01-14 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication. Focuses on applying LLMs to 5G RRC protocol generation; primary: cs.NI; cross-list: eess.SP, cs.LG</p></details> |
+| **[Efficient Camera-Controlled Video Generation of Static Scenes via Sparse Diffusion and 3D Rendering](https://arxiv.org/abs/2601.09697v1)** | 2026-01-14 | <details><summary>Proje...</summary><p>Project page: https://ayushtewari.com/projects/srender/</p></details> |
+| **[SPARK: Safe Protective and Assistive Robot Kit](https://arxiv.org/abs/2502.03132v3)** | 2026-01-14 | <details><summary>Prese...</summary><p>Presented at IFAC Symposium on Robotics</p></details> |
+| **[Empathy Applicability Modeling for General Health Queries](https://arxiv.org/abs/2601.09696v1)** | 2026-01-14 | In Submission to ACL |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RAVEN: Erasing Invisible Watermarks via Novel View Synthesis](https://arxiv.org/abs/2601.08832v1)** | 2026-01-13 | 13 pages |
-| **[FastFLUX: Pruning FLUX with Block-wise Replacement and Sandwich Training](https://arxiv.org/abs/2506.10035v3)** | 2026-01-13 | 14 pages |
-| **[LWM-Spectro: A Foundation Model for Wireless Baseband Signal Spectrograms](https://arxiv.org/abs/2601.08780v1)** | 2026-01-13 | 6 pages, 5 figures |
-| **[MVGGT: Multimodal Visual Geometry Grounded Transformer for Multiview 3D Referring Expression Segmentation](https://arxiv.org/abs/2601.06874v2)** | 2026-01-13 | <details><summary>Proje...</summary><p>Project Website: https://sosppxo.github.io/mvggt.github.io/</p></details> |
-| **[Temporal Smoothness-Aware Rate-Distortion Optimized 4D Gaussian Splatting](https://arxiv.org/abs/2507.17336v3)** | 2026-01-13 | <details><summary>24 pa...</summary><p>24 pages, 10 figures, NeurIPS 2025</p></details> |
-| **[Quantization Error Propagation: Revisiting Layer-Wise Post-Training Quantization](https://arxiv.org/abs/2504.09629v3)** | 2026-01-13 | <details><summary>29 pa...</summary><p>29 pages, 3 figures, Accepted at NeurIPS 2025</p></details> |
+| **[LLMs can Compress LLMs: Adaptive Pruning by Agents](https://arxiv.org/abs/2601.09694v1)** | 2026-01-14 | 17 Pages |
+| **[Representing Molecules with Algebraic Data Types: Beyond SMILES and SELFIES](https://arxiv.org/abs/2501.13633v4)** | 2026-01-14 | 3 Figures |
+| **[MISA: Memory-Efficient LLMs Optimization with Module-wise Importance Sampling](https://arxiv.org/abs/2511.00056v3)** | 2026-01-14 | <details><summary>This ...</summary><p>This paper is accepted to Neural Information Processing Systems (NeurIPS) 2025</p></details> |
+| **[Energy-Entropy Regularization: The True Power of Minimal Looped Transformers](https://arxiv.org/abs/2601.09588v1)** | 2026-01-14 | 19 pages, 2 figures |
+| **[Head Pursuit: Probing Attention Specialization in Multimodal Transformers](https://arxiv.org/abs/2510.21518v2)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 (spotlight)</p></details> |
+| **[The Spectral Representations Of The Simple Hypothesis Testing Problem](https://arxiv.org/abs/2601.09564v1)** | 2026-01-14 | 16 Pages |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[3AM: Segment Anything with Geometric Consistency in Videos](https://arxiv.org/abs/2601.08831v1)** | 2026-01-13 | <details><summary>Proje...</summary><p>Project page: https://jayisaking.github.io/3AM-Page/</p></details> |
-| **[SemiETPicker: Fast and Label-Efficient Particle Picking for CryoET Tomography Using Semi-Supervised Learning](https://arxiv.org/abs/2510.22454v2)** | 2026-01-13 | <details><summary>IEEE ...</summary><p>IEEE International Symposium on Biomedical Imaging (ISBI) 2026</p></details> |
-| **[MixServe: An Automatic Distributed Serving System for MoE Models with Hybrid Parallelism Based on Fused Communication Algorithm](https://arxiv.org/abs/2601.08800v1)** | 2026-01-13 | <details><summary>Submi...</summary><p>Submitted to ICDCS 2026</p></details> |
-| **[The Molecular Structure of Thought: Mapping the Topology of Long Chain-of-Thought Reasoning](https://arxiv.org/abs/2601.06002v2)** | 2026-01-13 | Preprint |
-| **[FastFLUX: Pruning FLUX with Block-wise Replacement and Sandwich Training](https://arxiv.org/abs/2506.10035v3)** | 2026-01-13 | 14 pages |
-| **[MVGGT: Multimodal Visual Geometry Grounded Transformer for Multiview 3D Referring Expression Segmentation](https://arxiv.org/abs/2601.06874v2)** | 2026-01-13 | <details><summary>Proje...</summary><p>Project Website: https://sosppxo.github.io/mvggt.github.io/</p></details> |
+| **[Fast-ThinkAct: Efficient Vision-Language-Action Reasoning via Verbalizable Latent Planning](https://arxiv.org/abs/2601.09708v1)** | 2026-01-14 | <details><summary>Proje...</summary><p>Project page: https://jasper0314-huang.github.io/fast-thinkact/</p></details> |
+| **[Causality-enhanced Decision-Making for Autonomous Mobile Robots in Dynamic Environments](https://arxiv.org/abs/2504.11901v4)** | 2026-01-14 | <details><summary>Causa...</summary><p>Causal Discovery and Inference - Robot Autonomy - Human-Robot Spatial Interaction - Decision-Making</p></details> |
+| **[Contrastive Geometric Learning Unlocks Unified Structure- and Ligand-Based Drug Design](https://arxiv.org/abs/2601.09693v1)** | 2026-01-14 | <details><summary>ELLIS...</summary><p>ELLIS ML4Molecules Workshop 2025, ELLIS Unconference, Copenhagen 2025</p></details> |
+| **[Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning](https://arxiv.org/abs/2601.09667v1)** | 2026-01-14 | Work in Progress |
+| **[Dynamics-Aligned Latent Imagination in Contextual World Models for Zero-Shot Generalization](https://arxiv.org/abs/2508.20294v2)** | 2026-01-14 | <details><summary>31 pa...</summary><p>31 pages, 4 figures, accepted to NeurIPS 2025</p></details> |
+| **[A Taxonomy and Review of Algorithms for Modeling and Predicting Human Driver Behavior](https://arxiv.org/abs/2006.08832v4)** | 2026-01-14 | <details><summary>This ...</summary><p>This revision has been accepted for publication in the Proceedings of the IEEE. The final version is available on IEEE Xplore</p></details> |
 

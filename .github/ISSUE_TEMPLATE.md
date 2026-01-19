@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - January 19, 2026
+title: Latest 6 Papers - January 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[WildRayZer: Self-supervised Large View Synthesis in Dynamic Environments](https://arxiv.org/abs/2601.10716v1)** | 2026-01-15 | <details><summary>Proje...</summary><p>Project Page: https://wild-rayzer.cs.virginia.edu/</p></details> |
-| **[DInf-Grid: A Neural Differential Equation Solver with Differentiable Feature Grids](https://arxiv.org/abs/2601.10715v1)** | 2026-01-15 | <details><summary>25 pa...</summary><p>25 pages; 16 figures; project page: https://4dqv.mpi-inf.mpg.de/DInf-Grid/</p></details> |
-| **[Alterbute: Editing Intrinsic Attributes of Objects in Images](https://arxiv.org/abs/2601.10714v1)** | 2026-01-15 | <details><summary>Proje...</summary><p>Project page is available at https://talreiss.github.io/alterbute/</p></details> |
-| **[UFO Trees: Practical and Provably-Efficient Parallel Batch-Dynamic Trees](https://arxiv.org/abs/2601.10706v1)** | 2026-01-15 | <details><summary>To ap...</summary><p>To appear in PPoPP 2026</p></details> |
-| **[Communication-Efficient and Privacy-Adaptable Mechanism -- a Federated Learning Scheme with Convergence Analysis](https://arxiv.org/abs/2601.10701v1)** | 2026-01-15 | <details><summary>19 pa...</summary><p>19 pages, 5 figures. This work is submitted in part to the 2026 IEEE International Symposium on Information Theory (ISIT). arXiv admin note: substantial text overlap with arXiv:2501.12046</p></details> |
-| **[Perfect Secret Key Generation for a class of Hypergraphical Sources](https://arxiv.org/abs/2601.10697v1)** | 2026-01-15 | <details><summary>19 pa...</summary><p>19 pages, 1 figure. A shorter version has been submitted to ISIT 2026. Comments welcome</p></details> |
+| **[UniX: Unifying Autoregression and Diffusion for Chest X-Ray Understanding and Generation](https://arxiv.org/abs/2601.11522v1)** | 2026-01-16 | <details><summary>Codes...</summary><p>Codes and models are available at https://github.com/ZrH42/UniX</p></details> |
+| **[Predictive Modeling of Power Outages during Extreme Events: Integrating Weather and Socio-Economic Factors](https://arxiv.org/abs/2512.22699v2)** | 2026-01-16 | <details><summary>This ...</summary><p>This is a preprint of a manuscript currently under review at Electric Power Systems Research. The content may be subject to change following peer review</p></details> |
+| **[ShapeR: Robust Conditional 3D Shape Generation from Casual Captures](https://arxiv.org/abs/2601.11514v1)** | 2026-01-16 | <details><summary>Proje...</summary><p>Project Page: http://facebookresearch.github.io/ShapeR Video: https://www.youtube.com/watch?v=EbY30KAA55I</p></details> |
+| **[Capacity Constraints Make Admissions Processes Less Predictable](https://arxiv.org/abs/2601.11513v1)** | 2026-01-16 | <details><summary>This ...</summary><p>This paper was accepted to the 2026 AAAI Conference on Artificial Intelligence AI for Social Impact Track</p></details> |
+| **[From Aggregation to Selection: User-Validated Distributed Social Recommendation](https://arxiv.org/abs/2505.21388v3)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted by HCRS@WWW 2026</p></details> |
+| **[On the Probability of First Success in Differential Evolution: Hazard Identities and Tail Bounds](https://arxiv.org/abs/2601.11499v1)** | 2026-01-16 | <details><summary>All c...</summary><p>All codes are publically available at https://github.com/snenovgmailcom/lshade_hazard_project</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Controllable Financial Market Generation with Diffusion Guided Meta Agent](https://arxiv.org/abs/2408.12991v3)** | 2026-01-15 | <details><summary>To ap...</summary><p>To appear in The Fortieth AAAI Conference on Artificial Intelligence (AAAI-26 Oral)</p></details> |
-| **[On the origin of neural scaling laws: from random graphs to natural language](https://arxiv.org/abs/2601.10684v1)** | 2026-01-15 | 33 pages |
-| **[Implementation of Oblivious Transfer over Binary-Input AWGN Channels by Polar Codes](https://arxiv.org/abs/2601.10682v1)** | 2026-01-15 | 64 pages, 3 figures |
-| **[Single-Stage Huffman Encoder for ML Compression](https://arxiv.org/abs/2601.10673v1)** | 2026-01-15 | 5 pages, 4 figures |
-| **[Transforming Crises into Opportunities: From Chaos to Urban Antifragility](https://arxiv.org/abs/2601.10658v1)** | 2026-01-15 | <details><summary>32 pa...</summary><p>32 pages, 20 figures, 4 tables</p></details> |
-| **[On the Failure of Latent State Persistence in Large Language Models](https://arxiv.org/abs/2505.10571v4)** | 2026-01-15 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 9 tables</p></details> |
+| **[ShapeR: Robust Conditional 3D Shape Generation from Casual Captures](https://arxiv.org/abs/2601.11514v1)** | 2026-01-16 | <details><summary>Proje...</summary><p>Project Page: http://facebookresearch.github.io/ShapeR Video: https://www.youtube.com/watch?v=EbY30KAA55I</p></details> |
+| **[Conditional Distribution Compression via the Kernel Conditional Mean Embedding](https://arxiv.org/abs/2504.10139v4)** | 2026-01-16 | <details><summary>76 pa...</summary><p>76 pages, 32 figures, accepted into NeurIPS 2025</p></details> |
+| **[Learning Semantic-Geometric Task Graph-Representations from Human Demonstrations](https://arxiv.org/abs/2601.11460v1)** | 2026-01-16 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, preprint</p></details> |
+| **[Probabilistic Mission Design for Neuro-Symbolic Unmanned Aircraft Systems](https://arxiv.org/abs/2501.01439v2)** | 2026-01-16 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2406.03454</p></details> |
+| **[Isotropy-Optimized Contrastive Learning for Semantic Course Recommendation](https://arxiv.org/abs/2601.11427v1)** | 2026-01-16 | 7 pages, 7 figures |
+| **[Zero-Shot Detection of Elastic Transient Morphology Across Physical Systems](https://arxiv.org/abs/2601.11415v1)** | 2026-01-16 | <details><summary>17 pa...</summary><p>17 pages, 6 figures. Supplemental material included</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Alterbute: Editing Intrinsic Attributes of Objects in Images](https://arxiv.org/abs/2601.10714v1)** | 2026-01-15 | <details><summary>Proje...</summary><p>Project page is available at https://talreiss.github.io/alterbute/</p></details> |
-| **[Pareto-Grid-Guided Large Language Models for Fast and High-Quality Heuristics Design in Multi-Objective Combinatorial Optimization](https://arxiv.org/abs/2507.20923v3)** | 2026-01-15 | Accepted at AAAI-26 |
-| **[RoutIR: Fast Serving of Retrieval Pipelines for Retrieval-Augmented Generation](https://arxiv.org/abs/2601.10644v1)** | 2026-01-15 | 17 pages, 1 figure |
-| **[Differentially Private Inference for Longitudinal Linear Regression](https://arxiv.org/abs/2601.10626v1)** | 2026-01-15 | 68 pages, 3 figures |
-| **[An Improved Privacy and Utility Analysis of Differentially Private SGD with Bounded Domain and Smooth Losses](https://arxiv.org/abs/2502.17772v4)** | 2026-01-15 | <details><summary>19 pa...</summary><p>19 pages, 5 figures, accepted by AAAI 2026</p></details> |
-| **[A Bayesian Discrete Framework for Enhancing Decision-Making Processes in Clinical Trial Designs and Evaluations](https://arxiv.org/abs/2601.10615v1)** | 2026-01-15 | <details><summary>44 pa...</summary><p>44 pages, 5 figures, 4 tables</p></details> |
+| **[IMS: Intelligent Hardware Monitoring System for Secure SoCs](https://arxiv.org/abs/2601.11447v1)** | 2026-01-16 | <details><summary>The f...</summary><p>The final version is accepted for publication at the Design, Automation & Test in Europe Conference (DATE) 2026</p></details> |
+| **[Latent Space Inference via Paired Autoencoders](https://arxiv.org/abs/2601.11397v1)** | 2026-01-16 | 21 pages, 7 figures |
+| **[Think-Clip-Sample: Slow-Fast Frame Selection for Video Understanding](https://arxiv.org/abs/2601.11359v1)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted by ICASSP2026</p></details> |
+| **[Multivector Reranking in the Era of Strong First-Stage Retrievers](https://arxiv.org/abs/2601.05200v3)** | 2026-01-16 | <details><summary>17 pa...</summary><p>17 pages, 2 figures, ECIR 2026</p></details> |
+| **[A Safety Report on GPT-5.2, Gemini 3 Pro, Qwen3-VL, Grok 4.1 Fast, Nano Banana Pro, and Seedream 4.5](https://arxiv.org/abs/2601.10527v2)** | 2026-01-16 | 41 pages, 22 figures |
+| **[Incentive Mechanism Design for Privacy-Preserving Decentralized Blockchain Relayers](https://arxiv.org/abs/2601.06699v2)** | 2026-01-16 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 

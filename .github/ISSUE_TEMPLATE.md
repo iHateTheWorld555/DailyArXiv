@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - February 02, 2026
+title: Latest 6 Papers - February 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RedSage: A Cybersecurity Generalist LLM](https://arxiv.org/abs/2601.22159v1)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted on ICLR 2026; Project page: https://risys-lab.github.io/RedSage/</p></details> |
-| **[One-step Latent-free Image Generation with Pixel Mean Flows](https://arxiv.org/abs/2601.22158v1)** | 2026-01-29 | Technical report |
-| **[Hybrid Linear Attention Done Right: Efficient Distillation and Effective Architectures for Extremely Long Contexts](https://arxiv.org/abs/2601.22156v1)** | 2026-01-29 | 20 pages, 8 figures |
-| **[Exploring Reasoning Reward Model for Agents](https://arxiv.org/abs/2601.22154v1)** | 2026-01-29 | <details><summary>Proje...</summary><p>Project page: https://github.com/kxfan2002/Reagent</p></details> |
-| **[DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation](https://arxiv.org/abs/2601.22153v1)** | 2026-01-29 | <details><summary>Proje...</summary><p>Project Page: https://www.infinitescript.com/project/dynamic-vla/ GitHub: https://github.com/hzxie/DynamicVLA</p></details> |
-| **[Late Breaking Results: Conversion of Neural Networks into Logic Flows for Edge Computing](https://arxiv.org/abs/2601.22151v1)** | 2026-01-29 | accepted by DATE2026 |
+| **[From Cold Start to Active Learning: Embedding-Based Scan Selection for Medical Image Segmentation](https://arxiv.org/abs/2601.18532v2)** | 2026-01-30 | <details><summary>19 pa...</summary><p>19 pages without references</p></details> |
+| **[User Prompting Strategies and Prompt Enhancement Methods for Open-Set Object Detection in XR Environments](https://arxiv.org/abs/2601.23281v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted by IEEE VR 2026: GenAI-XR workshop</p></details> |
+| **[A Continual Offline Reinforcement Learning Benchmark for Navigation Tasks](https://arxiv.org/abs/2506.02883v2)** | 2026-01-30 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2412.14865</p></details> |
+| **[FOCUS: DLLMs Know How to Tame Their Compute Bound](https://arxiv.org/abs/2601.23278v1)** | 2026-01-30 | 22 pages, 15 figures |
+| **[Multi-agent Coordination via Flow Matching](https://arxiv.org/abs/2511.05005v2)** | 2026-01-30 | ICLR 2026 |
+| **[Expert Evaluation and the Limits of Human Feedback in Mental Health AI Safety Testing](https://arxiv.org/abs/2601.18061v2)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 7 pages of appendix, 21 tables</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[One-step Latent-free Image Generation with Pixel Mean Flows](https://arxiv.org/abs/2601.22158v1)** | 2026-01-29 | Technical report |
-| **[Hybrid Linear Attention Done Right: Efficient Distillation and Effective Architectures for Extremely Long Contexts](https://arxiv.org/abs/2601.22156v1)** | 2026-01-29 | 20 pages, 8 figures |
-| **[Late Breaking Results: Conversion of Neural Networks into Logic Flows for Edge Computing](https://arxiv.org/abs/2601.22151v1)** | 2026-01-29 | accepted by DATE2026 |
-| **[Think Twice: Branch-and-Rethink Reasoning Reward Model](https://arxiv.org/abs/2510.23596v3)** | 2026-01-29 | <details><summary>Sourc...</summary><p>Source Code: https://github.com/yzjiao/BR-RM. Model Checkpoints: https://huggingface.co/nvidia/Qwen3-Nemotron-14B-BRRM and https://huggingface.co/nvidia/Qwen3-Nemotron-8B-BRRM</p></details> |
-| **[Reasoning While Asking: Transforming Reasoning Large Language Models from Passive Solvers to Proactive Inquirers](https://arxiv.org/abs/2601.22139v1)** | 2026-01-29 | <details><summary>The m...</summary><p>The manuscript is under review</p></details> |
-| **[EditYourself: Audio-Driven Generation and Manipulation of Talking Head Videos with Diffusion Transformers](https://arxiv.org/abs/2601.22127v1)** | 2026-01-29 | <details><summary>Proje...</summary><p>Project page: https://edit-yourself.github.io/</p></details> |
+| **[FC-KAN: Function Combinations in Kolmogorov-Arnold Networks](https://arxiv.org/abs/2409.01763v4)** | 2026-01-30 | 17 pages |
+| **[On the Separability of Information in Diffusion Models](https://arxiv.org/abs/2509.23937v4)** | 2026-01-30 | <details><summary>27 pa...</summary><p>27 pages + references, 19 figures. v4: Re-organized the paper to focus on separability of information</p></details> |
+| **[The Mean-Field Dynamics of Transformers](https://arxiv.org/abs/2512.01868v4)** | 2026-01-30 | <details><summary>to ap...</summary><p>to appear as Proceedings of the ICM2026, Philadelphia, USA</p></details> |
+| **[Compressed Set Representations based on Set Difference](https://arxiv.org/abs/2601.23240v1)** | 2026-01-30 | <details><summary>To be...</summary><p>To be presented at LATIN 2026</p></details> |
+| **[Tackling air quality with SAPIENS](https://arxiv.org/abs/2601.23215v1)** | 2026-01-30 | 24 pages, 13 figures |
+| **[Disentangling multispecific antibody function with graph neural networks](https://arxiv.org/abs/2601.23212v1)** | 2026-01-30 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, code available at https://github.com/prescient-design/synapse</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Hybrid Linear Attention Done Right: Efficient Distillation and Effective Architectures for Extremely Long Contexts](https://arxiv.org/abs/2601.22156v1)** | 2026-01-29 | 20 pages, 8 figures |
-| **[DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation](https://arxiv.org/abs/2601.22153v1)** | 2026-01-29 | <details><summary>Proje...</summary><p>Project Page: https://www.infinitescript.com/project/dynamic-vla/ GitHub: https://github.com/hzxie/DynamicVLA</p></details> |
-| **[Information-geometry-driven graph sequential growth](https://arxiv.org/abs/2601.22106v1)** | 2026-01-29 | 23 pages, 10 figures |
-| **[What the flock knows that the birds do not: exploring the emergence of joint agency in multi-agent active inference](https://arxiv.org/abs/2511.10835v2)** | 2026-01-29 | <details><summary>21 pa...</summary><p>21 pages, 3 figures, appendix</p></details> |
-| **[The Economics of No-regret Learning Algorithms](https://arxiv.org/abs/2601.22079v1)** | 2026-01-29 | <details><summary>Accep...</summary><p>Accepted to Advances in Economics and Econometrics: Thirteenth World Congress, Volume 2</p></details> |
-| **[Where Do the Joules Go? Diagnosing Inference Energy Consumption](https://arxiv.org/abs/2601.22076v1)** | 2026-01-29 | <details><summary>The M...</summary><p>The ML.ENERGY Leaderboard v3.0 is open https://ml.energy/leaderboard</p></details> |
+| **[User Prompting Strategies and Prompt Enhancement Methods for Open-Set Object Detection in XR Environments](https://arxiv.org/abs/2601.23281v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted by IEEE VR 2026: GenAI-XR workshop</p></details> |
+| **[FOCUS: DLLMs Know How to Tame Their Compute Bound](https://arxiv.org/abs/2601.23278v1)** | 2026-01-30 | 22 pages, 15 figures |
+| **[Multi-agent Coordination via Flow Matching](https://arxiv.org/abs/2511.05005v2)** | 2026-01-30 | ICLR 2026 |
+| **[Outcome-Conditioned Reasoning Distillation for Resolving Software Issues](https://arxiv.org/abs/2601.23257v1)** | 2026-01-30 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 5 tables</p></details> |
+| **[Training-Free Test-Time Adaptation with Brownian Distance Covariance in Vision-Language Models](https://arxiv.org/abs/2601.23253v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted in ICASSP 2026</p></details> |
+| **[Nested Slice Sampling: Vectorized Nested Sampling for GPU-Accelerated Inference](https://arxiv.org/abs/2601.23252v1)** | 2026-01-30 | 54 pages, 11 figures |
 

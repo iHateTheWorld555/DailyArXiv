@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - February 06, 2026
+title: Latest 6 Papers - February 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Protein Autoregressive Modeling via Multiscale Structure Generation](https://arxiv.org/abs/2602.04883v1)** | 2026-02-04 | <details><summary>ByteD...</summary><p>ByteDance Seed Tech Report; Page: https://par-protein.github.io/</p></details> |
-| **[MIGHTY: Hermite Spline-based Efficient Trajectory Planning](https://arxiv.org/abs/2511.10822v3)** | 2026-02-04 | 10 pages, 12 figures |
-| **[CoWTracker: Tracking by Warping instead of Correlation](https://arxiv.org/abs/2602.04877v1)** | 2026-02-04 | <details><summary>Proje...</summary><p>Project website: cowtracker.github.io</p></details> |
-| **[Subliminal Effects in Your Data: A General Mechanism via Log-Linearity](https://arxiv.org/abs/2602.04863v1)** | 2026-02-04 | <details><summary>Code ...</summary><p>Code available at https://github.com/ishaqadenali/logit-linear-selection</p></details> |
-| **[Capacity Bounds on Doppler OFDM Channels](https://arxiv.org/abs/2602.04862v1)** | 2026-02-04 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, submitted to ISIT 2026</p></details> |
-| **[From Evaluation to Design: Using Potential Energy Surface Smoothness Metrics to Guide Machine Learning Interatomic Potential Architectures](https://arxiv.org/abs/2602.04861v1)** | 2026-02-04 | <details><summary>13 pa...</summary><p>13 pages main text, 10 pages reference & appendix, 8 figures</p></details> |
+| **[SwimBird: Eliciting Switchable Reasoning Mode in Hybrid Autoregressive MLLMs](https://arxiv.org/abs/2602.06040v1)** | 2026-02-05 | <details><summary>Proje...</summary><p>Project Page: https://accio-lab.github.io/SwimBird</p></details> |
+| **[CommCP: Efficient Multi-Agent Coordination via LLM-Based Communication with Conformal Prediction](https://arxiv.org/abs/2602.06038v1)** | 2026-02-05 | <details><summary>IEEE ...</summary><p>IEEE International Conference on Robotics and Automation (ICRA 2026); Project Website: https://comm-cp.github.io/</p></details> |
+| **[Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation](https://arxiv.org/abs/2602.06032v1)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
+| **[AP-OOD: Attention Pooling for Out-of-Distribution Detection](https://arxiv.org/abs/2602.06031v1)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
+| **[Language Models and Logic Programs for Trustworthy Tax Reasoning](https://arxiv.org/abs/2508.21051v3)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
+| **[Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory](https://arxiv.org/abs/2602.06025v1)** | 2026-02-05 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ViktorAxelsen/BudgetMem</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Protein Autoregressive Modeling via Multiscale Structure Generation](https://arxiv.org/abs/2602.04883v1)** | 2026-02-04 | <details><summary>ByteD...</summary><p>ByteDance Seed Tech Report; Page: https://par-protein.github.io/</p></details> |
-| **[CoWTracker: Tracking by Warping instead of Correlation](https://arxiv.org/abs/2602.04877v1)** | 2026-02-04 | <details><summary>Proje...</summary><p>Project website: cowtracker.github.io</p></details> |
-| **[From Evaluation to Design: Using Potential Energy Surface Smoothness Metrics to Guide Machine Learning Interatomic Potential Architectures](https://arxiv.org/abs/2602.04861v1)** | 2026-02-04 | <details><summary>13 pa...</summary><p>13 pages main text, 10 pages reference & appendix, 8 figures</p></details> |
-| **[XtraLight-MedMamba for Classification of Neoplastic Tubular Adenomas](https://arxiv.org/abs/2602.04819v1)** | 2026-02-04 | 13 pages, 8 figures |
-| **[SE-Bench: Benchmarking Self-Evolution with Knowledge Internalization](https://arxiv.org/abs/2602.04811v1)** | 2026-02-04 | Under review |
-| **[OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models](https://arxiv.org/abs/2602.04804v1)** | 2026-02-04 | <details><summary>Code ...</summary><p>Code will be released soon</p></details> |
+| **[GenArena: How Can We Achieve Human-Aligned Evaluation for Visual Generation Tasks?](https://arxiv.org/abs/2602.06013v1)** | 2026-02-05 | <details><summary>Proje...</summary><p>Project Page: https://genarena.github.io/, Code: https://github.com/ruihanglix/genarena</p></details> |
+| **[Orthogonal Self-Attention](https://arxiv.org/abs/2602.05996v1)** | 2026-02-05 | Preprint |
+| **[Geographically-aware Transformer-based Traffic Forecasting for Urban Motorway Digital Twins](https://arxiv.org/abs/2602.05983v1)** | 2026-02-05 | <details><summary>IEEE ...</summary><p>IEEE IV2026 37th IEEE Intelligent Vehicles Symposium</p></details> |
+| **[Living with Data: Exploring Physicalization Approaches to Sedentary Behavior Intervention for Older Adults in Everyday Life](https://arxiv.org/abs/2509.11059v3)** | 2026-02-05 | Accepted by CHI'26 |
+| **[Characterizing Human Semantic Navigation in Concept Production as Trajectories in Embedding Space](https://arxiv.org/abs/2602.05971v1)** | 2026-02-05 | <details><summary>10 pa...</summary><p>10 pages, 6 figures (excluding refs/appendix). Accepted to ICLR 2026</p></details> |
+| **[Quantum Reinforcement Learning with Transformers for the Capacitated Vehicle Routing Problem](https://arxiv.org/abs/2602.05920v1)** | 2026-02-05 | 22 pages, 12 figures |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Marginal Likelihood Inference for Fitting Dynamical Survival Analysis Models to Epidemic Count Data](https://arxiv.org/abs/2602.04855v1)** | 2026-02-04 | <details><summary>25 pa...</summary><p>25 pages, 2 figures and 6 tables</p></details> |
-| **[Beyond Fixed Frames: Dynamic Character-Aligned Speech Tokenization](https://arxiv.org/abs/2601.23174v2)** | 2026-02-04 | 18 pages, 3 figures |
-| **[Attention Consistency Regularization for Interpretable Early-Exit Neural Networks](https://arxiv.org/abs/2601.08891v2)** | 2026-02-04 | 2 pages, 1 figure |
-| **[Toward Reliable and Explainable Nail Disease Classification: Leveraging Adversarial Training and Grad-CAM Visualization](https://arxiv.org/abs/2602.04820v1)** | 2026-02-04 | <details><summary>6 pag...</summary><p>6 pages, 12 figures. This is the author's accepted manuscript of a paper accepted for publication in the Proceedings of the 16th International IEEE Conference on Computing, Communication and Networking Technologies (ICCCNT 2025). The final published version will be available via IEEE Xplore</p></details> |
-| **[Patterns for a New Generation: AI and Agents](https://arxiv.org/abs/2506.09696v3)** | 2026-02-04 | <details><summary>10 pa...</summary><p>10 pages with 4 page appendix; to appear in Proceedings of Pattern Languages of Programs 2025</p></details> |
-| **[Accurate and scalable exchange-correlation with deep learning](https://arxiv.org/abs/2506.14665v4)** | 2026-02-04 | <details><summary>Main:...</summary><p>Main: 13 pages plus references, 11 figures and tables. Supplementary information: 19 pages, 12 figures and tables. v2 update: fix rendering of figure 1 and part of figure 5 in Safari PDF viewer. v3 update: update author information and fix typo. v4 update: The Skala model and inference code are available under MIT license at https://github.com/microsoft/skala</p></details> |
+| **[Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation](https://arxiv.org/abs/2602.06032v1)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
+| **[Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory](https://arxiv.org/abs/2602.06025v1)** | 2026-02-05 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ViktorAxelsen/BudgetMem</p></details> |
+| **[Multi-Token Prediction via Self-Distillation](https://arxiv.org/abs/2602.06019v1)** | 2026-02-05 | <details><summary>8 pag...</summary><p>8 pages and 5 figures in the main body</p></details> |
+| **[Characterizing and Modeling the GitHub Security Advisories Review Pipeline](https://arxiv.org/abs/2602.06009v1)** | 2026-02-05 | <details><summary>Paper...</summary><p>Paper accepted at 23rd International Mining Software Repositories Conference (MSR 2026)</p></details> |
+| **[Modern Minimal Perfect Hashing: A Survey](https://arxiv.org/abs/2506.06536v3)** | 2026-02-05 | <details><summary>Versi...</summary><p>Version 3 includes brief measurements of cache faults</p></details> |
+| **[DietGlance: Dietary Monitoring and Personalized Analysis at a Glance with Knowledge-Empowered AI Assistant](https://arxiv.org/abs/2502.01317v3)** | 2026-02-05 | <details><summary>47 pa...</summary><p>47 pages, 14 figures. Accepted by ACM Transactions on Computing for Healthcare</p></details> |
 

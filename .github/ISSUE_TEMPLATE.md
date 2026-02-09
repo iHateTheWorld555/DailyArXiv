@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - February 09, 2026
+title: Latest 6 Papers - February 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SwimBird: Eliciting Switchable Reasoning Mode in Hybrid Autoregressive MLLMs](https://arxiv.org/abs/2602.06040v1)** | 2026-02-05 | <details><summary>Proje...</summary><p>Project Page: https://accio-lab.github.io/SwimBird</p></details> |
-| **[CommCP: Efficient Multi-Agent Coordination via LLM-Based Communication with Conformal Prediction](https://arxiv.org/abs/2602.06038v1)** | 2026-02-05 | <details><summary>IEEE ...</summary><p>IEEE International Conference on Robotics and Automation (ICRA 2026); Project Website: https://comm-cp.github.io/</p></details> |
-| **[Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation](https://arxiv.org/abs/2602.06032v1)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
-| **[AP-OOD: Attention Pooling for Out-of-Distribution Detection](https://arxiv.org/abs/2602.06031v1)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
-| **[Language Models and Logic Programs for Trustworthy Tax Reasoning](https://arxiv.org/abs/2508.21051v3)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
-| **[Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory](https://arxiv.org/abs/2602.06025v1)** | 2026-02-05 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ViktorAxelsen/BudgetMem</p></details> |
+| **[MedMO: Grounding and Understanding Multimodal Large Language Model for Medical Images](https://arxiv.org/abs/2602.06965v1)** | 2026-02-06 | <details><summary>21 pa...</summary><p>21 pages, 6 figures and 4 tables</p></details> |
+| **[InftyThink+: Effective and Efficient Infinite-Horizon Reasoning via Reinforcement Learning](https://arxiv.org/abs/2602.06960v1)** | 2026-02-06 | <details><summary>Proje...</summary><p>Project Page: https://zju-real.github.io/InftyThink-Plus Code: https://github.com/ZJU-REAL/InftyThink-Plus</p></details> |
+| **[CineScene: Implicit 3D as Effective Scene Representation for Cinematic Video Generation](https://arxiv.org/abs/2602.06959v1)** | 2026-02-06 | <details><summary>Proje...</summary><p>Project website: https://karine-huang.github.io/CineScene/</p></details> |
+| **[Improving Credit Card Fraud Detection with an Optimized Explainable Boosting Machine](https://arxiv.org/abs/2602.06955v1)** | 2026-02-06 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, 5 tables</p></details> |
+| **[DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos](https://arxiv.org/abs/2602.06949v1)** | 2026-02-06 | <details><summary>Proje...</summary><p>Project page: https://dreamdojo-world.github.io/</p></details> |
+| **[Optimal Derivative Feedback Control for an Active Magnetic Levitation System: An Experimental Study on Data-Driven Approaches](https://arxiv.org/abs/2602.06944v1)** | 2026-02-06 | <details><summary>10 pa...</summary><p>10 pages, 9 figures. Preprint; manuscript under journal review</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GenArena: How Can We Achieve Human-Aligned Evaluation for Visual Generation Tasks?](https://arxiv.org/abs/2602.06013v1)** | 2026-02-05 | <details><summary>Proje...</summary><p>Project Page: https://genarena.github.io/, Code: https://github.com/ruihanglix/genarena</p></details> |
-| **[Orthogonal Self-Attention](https://arxiv.org/abs/2602.05996v1)** | 2026-02-05 | Preprint |
-| **[Geographically-aware Transformer-based Traffic Forecasting for Urban Motorway Digital Twins](https://arxiv.org/abs/2602.05983v1)** | 2026-02-05 | <details><summary>IEEE ...</summary><p>IEEE IV2026 37th IEEE Intelligent Vehicles Symposium</p></details> |
-| **[Living with Data: Exploring Physicalization Approaches to Sedentary Behavior Intervention for Older Adults in Everyday Life](https://arxiv.org/abs/2509.11059v3)** | 2026-02-05 | Accepted by CHI'26 |
-| **[Characterizing Human Semantic Navigation in Concept Production as Trajectories in Embedding Space](https://arxiv.org/abs/2602.05971v1)** | 2026-02-05 | <details><summary>10 pa...</summary><p>10 pages, 6 figures (excluding refs/appendix). Accepted to ICLR 2026</p></details> |
-| **[Quantum Reinforcement Learning with Transformers for the Capacitated Vehicle Routing Problem](https://arxiv.org/abs/2602.05920v1)** | 2026-02-05 | 22 pages, 12 figures |
+| **[code_transformed: The Influence of Large Language Models on Code](https://arxiv.org/abs/2506.12014v2)** | 2026-02-06 | EACL 2026 Findings |
+| **[Dataset Distillation as Pushforward Optimal Quantization](https://arxiv.org/abs/2501.07681v3)** | 2026-02-06 | <details><summary>ICLR ...</summary><p>ICLR 2026, https://openreview.net/forum?id=FMSp8AUF3m</p></details> |
+| **[Reciprocal Latent Fields for Precomputed Sound Propagation](https://arxiv.org/abs/2602.06937v1)** | 2026-02-06 | <details><summary>Tempo...</summary><p>Temporary pre-print, will be updated. In review at a conference</p></details> |
+| **[RMT-KD: Random Matrix Theoretic Causal Knowledge Distillation](https://arxiv.org/abs/2509.15724v4)** | 2026-02-06 | <details><summary>5 pag...</summary><p>5 pages, submitted to ICASSP 2026, September 2025</p></details> |
+| **[Seeing Beyond Redundancy: Task Complexity's Role in Vision Token Specialization in VLLMs](https://arxiv.org/abs/2602.06914v1)** | 2026-02-06 | 25 pages |
+| **[Encoding syntactic objects and Merge operations in function spaces](https://arxiv.org/abs/2507.13501v2)** | 2026-02-06 | <details><summary>48 pa...</summary><p>48 pages, LaTeX, 4 png figures; v2: expository changes</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Splat and Distill: Augmenting Teachers with Feed-Forward 3D Reconstruction For 3D-Aware Distillation](https://arxiv.org/abs/2602.06032v1)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026</p></details> |
-| **[Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory](https://arxiv.org/abs/2602.06025v1)** | 2026-02-05 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ViktorAxelsen/BudgetMem</p></details> |
-| **[Multi-Token Prediction via Self-Distillation](https://arxiv.org/abs/2602.06019v1)** | 2026-02-05 | <details><summary>8 pag...</summary><p>8 pages and 5 figures in the main body</p></details> |
-| **[Characterizing and Modeling the GitHub Security Advisories Review Pipeline](https://arxiv.org/abs/2602.06009v1)** | 2026-02-05 | <details><summary>Paper...</summary><p>Paper accepted at 23rd International Mining Software Repositories Conference (MSR 2026)</p></details> |
-| **[Modern Minimal Perfect Hashing: A Survey](https://arxiv.org/abs/2506.06536v3)** | 2026-02-05 | <details><summary>Versi...</summary><p>Version 3 includes brief measurements of cache faults</p></details> |
-| **[DietGlance: Dietary Monitoring and Personalized Analysis at a Glance with Knowledge-Empowered AI Assistant](https://arxiv.org/abs/2502.01317v3)** | 2026-02-05 | <details><summary>47 pa...</summary><p>47 pages, 14 figures. Accepted by ACM Transactions on Computing for Healthcare</p></details> |
+| **[InftyThink+: Effective and Efficient Infinite-Horizon Reasoning via Reinforcement Learning](https://arxiv.org/abs/2602.06960v1)** | 2026-02-06 | <details><summary>Proje...</summary><p>Project Page: https://zju-real.github.io/InftyThink-Plus Code: https://github.com/ZJU-REAL/InftyThink-Plus</p></details> |
+| **[RMT-KD: Random Matrix Theoretic Causal Knowledge Distillation](https://arxiv.org/abs/2509.15724v4)** | 2026-02-06 | <details><summary>5 pag...</summary><p>5 pages, submitted to ICASSP 2026, September 2025</p></details> |
+| **[Aligned Novel View Image and Geometry Synthesis via Cross-modal Attention Instillation](https://arxiv.org/abs/2506.11924v3)** | 2026-02-06 | <details><summary>Proje...</summary><p>Project page at https://cvlab-kaist.github.io/MoAI</p></details> |
+| **[AR as an Evaluation Playground: Bridging Metrics and Visual Perception of Computer Vision Models](https://arxiv.org/abs/2508.04102v2)** | 2026-02-06 | <details><summary>Accep...</summary><p>Accepted at MMSys 2026</p></details> |
+| **[AFD-INSTRUCTION: A Comprehensive Antibody Instruction Dataset with Functional Annotations for LLM-Based Understanding and Design](https://arxiv.org/abs/2602.04916v2)** | 2026-02-06 | <details><summary>Accep...</summary><p>Accepted by ICLR 2026</p></details> |
+| **[Bridging Symbolic Control and Neural Reasoning in LLM Agents: Structured Cognitive Loop with a Governance Layer](https://arxiv.org/abs/2511.17673v4)** | 2026-02-06 | <details><summary>This ...</summary><p>This revised version strengthens the architectural clarity and conceptual coherence of the manuscript. In particular, it formalizes Soft Symbolic Control as a dedicated Governance layer distinct from the R-CCAM loop, clarifying its structural role beyond the earlier meta-prompt add-on formulation</p></details> |
 

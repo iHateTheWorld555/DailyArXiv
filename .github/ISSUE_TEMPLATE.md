@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - February 13, 2026
+title: Latest 6 Papers - February 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SurfPhase: 3D Interfacial Dynamics in Two-Phase Flows from Sparse Videos](https://arxiv.org/abs/2602.11154v1)** | 2026-02-11 | <details><summary>The f...</summary><p>The first two authors contributed equally. Project website: https://yuegao.me/SurfPhase</p></details> |
-| **[Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling](https://arxiv.org/abs/2602.11146v1)** | 2026-02-11 | <details><summary>Code:...</summary><p>Code: https://github.com/HKUST-C4G/diffusion-rm</p></details> |
-| **[SCRAPL: Scattering Transform with Random Paths for Machine Learning](https://arxiv.org/abs/2602.11145v1)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026. Code, audio samples, and Python package provided at https://christhetree.github.io/scrapl/</p></details> |
-| **[APEX: Learning Adaptive High-Platform Traversal for Humanoid Robots](https://arxiv.org/abs/2602.11143v1)** | 2026-02-11 | <details><summary>Proje...</summary><p>Project Website: https://apex-humanoid.github.io/</p></details> |
-| **[Data-Efficient Hierarchical Goal-Conditioned Reinforcement Learning via Normalizing Flows](https://arxiv.org/abs/2602.11142v1)** | 2026-02-11 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, IEEE International Conference on Robotics and Automation 2026</p></details> |
-| **[Reed-Muller Error-Correction Code Encoder for SFQ-to-CMOS Interface Circuits](https://arxiv.org/abs/2602.11140v1)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Applied Superconductivity</p></details> |
+| **[Decoupled Diffusion Sampling for Inverse Problems on Function Spaces](https://arxiv.org/abs/2601.23280v2)** | 2026-02-12 | Under review |
+| **[Coprime Bivariate Bicycle Codes and Their Layouts on Cold Atoms](https://arxiv.org/abs/2408.10001v6)** | 2026-02-12 | accepted by quantum |
+| **[Transmit or Idle: Efficient AoI Optimal Transmission Policy for Gossiping Receivers](https://arxiv.org/abs/2602.12264v1)** | 2026-02-12 | <details><summary>To ap...</summary><p>To appear in IEEE ICC 2026</p></details> |
+| **[Optimal Parallel Algorithms for Convex Hulls in 2D and 3D under Noisy Primitive Operations](https://arxiv.org/abs/2506.17507v2)** | 2026-02-12 | <details><summary>17 pa...</summary><p>17 pages, 3 figures. Accepted at the 37th Canadian Conference on Computational Geometry, 2025. This version fixes a bug in the analysis of our 3D hull algorithm</p></details> |
+| **[Do language models accommodate their users? A study of linguistic convergence](https://arxiv.org/abs/2508.03276v2)** | 2026-02-12 | EACL 2026 |
+| **[On the implicit regularization of Langevin dynamics with projected noise](https://arxiv.org/abs/2602.12257v1)** | 2026-02-12 | 30 pages, 1 figure |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SCRAPL: Scattering Transform with Random Paths for Machine Learning](https://arxiv.org/abs/2602.11145v1)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026. Code, audio samples, and Python package provided at https://christhetree.github.io/scrapl/</p></details> |
-| **[An Allele-Centric Pan-Graph-Matrix Representation for Scalable Pangenome Analysis](https://arxiv.org/abs/2512.21320v2)** | 2026-02-11 | <details><summary>11 Pa...</summary><p>11 Pages, 2 Figures, 1 Table</p></details> |
-| **[PALM: Path-aware LLM-based Test Generation with Comprehension](https://arxiv.org/abs/2506.19287v2)** | 2026-02-11 | 11 pages, v2 |
-| **[MoToRec: Sparse-Regularized Multimodal Tokenization for Cold-Start Recommendation](https://arxiv.org/abs/2602.11062v1)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 (Main Track)</p></details> |
-| **[Deformation-Recovery Diffusion Model (DRDM): Instance Deformation for Image Manipulation and Synthesis](https://arxiv.org/abs/2407.07295v3)** | 2026-02-11 | <details><summary>accep...</summary><p>accepted by Medical Image Analysis</p></details> |
-| **[Generalized Langevin Models of Linear Agent-Based Systems: Strategic Influence Through Environmental Coupling](https://arxiv.org/abs/2602.11037v1)** | 2026-02-11 | 7 pages, 3 figures |
+| **[Stroke of Surprise: Progressive Semantic Illusions in Vector Sketching](https://arxiv.org/abs/2602.12280v1)** | 2026-02-12 | <details><summary>Proje...</summary><p>Project page: https://stroke-of-surprise.github.io/ Code: https://github.com/stroke-of-surprise/Stroke-Of-Surprise</p></details> |
+| **[A technical curriculum on language-oriented artificial intelligence in translation and specialised communication](https://arxiv.org/abs/2602.12251v1)** | 2026-02-12 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, EAMT 2026, TAITT Workshop</p></details> |
+| **[6G Empowering Future Robotics: A Vision for Next-Generation Autonomous Systems](https://arxiv.org/abs/2602.12246v1)** | 2026-02-12 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 2 tables, submitted to IEEE magazine publication</p></details> |
+| **[Moonshine v2: Ergodic Streaming Encoder ASR for Latency-Critical Speech Applications](https://arxiv.org/abs/2602.12241v1)** | 2026-02-12 | 7 pages, 5 figures |
+| **[Hyperparameter Transfer with Mixture-of-Expert Layers](https://arxiv.org/abs/2601.20205v2)** | 2026-02-12 | 25 Pages, 18 Figures |
+| **[Detecting Overflow in Compressed Token Representations for Retrieval-Augmented Generation](https://arxiv.org/abs/2602.12235v1)** | 2026-02-12 | <details><summary>Accep...</summary><p>Accepted to EACL 2026 Student Research Workshop. 14 pages, 6 tables, 1 figure</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling](https://arxiv.org/abs/2602.11146v1)** | 2026-02-11 | <details><summary>Code:...</summary><p>Code: https://github.com/HKUST-C4G/diffusion-rm</p></details> |
-| **[Expanding the Capabilities of Reinforcement Learning via Text Feedback](https://arxiv.org/abs/2602.02482v2)** | 2026-02-11 | 43 pages, 6 figures |
-| **[A Doubly Robust Machine Learning Approach for Disentangling Treatment Effect Heterogeneity with Functional Outcomes](https://arxiv.org/abs/2602.11118v1)** | 2026-02-11 | 20 pages, 4 figures |
-| **[FastFlow: Accelerating The Generative Flow Matching Models with Bandit Inference](https://arxiv.org/abs/2602.11105v1)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted at International Conference on Learning Representations (ICLR) 2026</p></details> |
-| **[WHEREIS: IP Address Registration Geo-Consistency](https://arxiv.org/abs/2602.11102v1)** | 2026-02-11 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2308.12436</p></details> |
-| **[Digging for Data: Experiments in Rock Pile Characterization Using Only Proprioceptive Sensing in Excavation](https://arxiv.org/abs/2602.11082v1)** | 2026-02-11 | <details><summary>Accep...</summary><p>Accepted for publication in the IEEE Transactions on Field Robotics</p></details> |
+| **[Federated Gaussian Process Learning via Pseudo-Representations for Large-Scale Multi-Robot Systems](https://arxiv.org/abs/2602.12243v1)** | 2026-02-12 | <details><summary>Accep...</summary><p>Accepted at 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)</p></details> |
+| **[Towards Autonomous Mathematics Research](https://arxiv.org/abs/2602.10177v2)** | 2026-02-12 | <details><summary>35 pa...</summary><p>35 pages. Accompanied blog post https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/</p></details> |
+| **[Moonshine v2: Ergodic Streaming Encoder ASR for Latency-Critical Speech Applications](https://arxiv.org/abs/2602.12241v1)** | 2026-02-12 | 7 pages, 5 figures |
+| **[Tiny is not small enough: High-quality, low-resource facial animation models through hybrid knowledge distillation](https://arxiv.org/abs/2507.18352v3)** | 2026-02-12 | <details><summary>Accep...</summary><p>Accepted to ACM TOG 2025 (SIGGRAPH journal track); Project page: https://electronicarts.github.io/tiny-voice2face/</p></details> |
+| **[Batch-based Bayesian Optimal Experimental Design in Linear Inverse Problems](https://arxiv.org/abs/2602.12234v1)** | 2026-02-12 | 25 pages, 5 figures |
+| **[Causal Schrödinger Bridges: Constrained Optimal Transport on Structural Manifolds](https://arxiv.org/abs/2602.08535v2)** | 2026-02-12 | 12 pages, 8 figures |
 

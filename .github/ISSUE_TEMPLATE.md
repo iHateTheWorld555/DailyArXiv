@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - February 16, 2026
+title: Latest 6 Papers - February 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Decoupled Diffusion Sampling for Inverse Problems on Function Spaces](https://arxiv.org/abs/2601.23280v2)** | 2026-02-12 | Under review |
-| **[Coprime Bivariate Bicycle Codes and Their Layouts on Cold Atoms](https://arxiv.org/abs/2408.10001v6)** | 2026-02-12 | accepted by quantum |
-| **[Transmit or Idle: Efficient AoI Optimal Transmission Policy for Gossiping Receivers](https://arxiv.org/abs/2602.12264v1)** | 2026-02-12 | <details><summary>To ap...</summary><p>To appear in IEEE ICC 2026</p></details> |
-| **[Optimal Parallel Algorithms for Convex Hulls in 2D and 3D under Noisy Primitive Operations](https://arxiv.org/abs/2506.17507v2)** | 2026-02-12 | <details><summary>17 pa...</summary><p>17 pages, 3 figures. Accepted at the 37th Canadian Conference on Computational Geometry, 2025. This version fixes a bug in the analysis of our 3D hull algorithm</p></details> |
-| **[Do language models accommodate their users? A study of linguistic convergence](https://arxiv.org/abs/2508.03276v2)** | 2026-02-12 | EACL 2026 |
-| **[On the implicit regularization of Langevin dynamics with projected noise](https://arxiv.org/abs/2602.12257v1)** | 2026-02-12 | 30 pages, 1 figure |
+| **[Conversational Image Segmentation: Grounding Abstract Concepts with Scalable Supervision](https://arxiv.org/abs/2602.13195v1)** | 2026-02-13 | <details><summary>Proje...</summary><p>Project webpage: https://glab-caltech.github.io/converseg/</p></details> |
+| **[Semantic Chunking and the Entropy of Natural Language](https://arxiv.org/abs/2602.13194v1)** | 2026-02-13 | 29 pages, 9 figures |
+| **[CoPE-VideoLM: Codec Primitives For Efficient Video Language Models](https://arxiv.org/abs/2602.13191v1)** | 2026-02-13 | <details><summary>Proje...</summary><p>Project Page: https://sayands.github.io/cope/</p></details> |
+| **[Learning-based Radio Link Failure Prediction Based on Measurement Dataset in Railway Environments](https://arxiv.org/abs/2511.08851v3)** | 2026-02-13 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, 2 tables, and submitted to 2026 IEEE ICC Workshops</p></details> |
+| **[Profiling systematic uncertainties in Simulation-Based Inference with Factorizable Normalizing Flows](https://arxiv.org/abs/2602.13184v1)** | 2026-02-13 | 25 pages, 14 figures |
+| **[Anytime-Valid Inference in Adaptive Experiments: Covariate Adjustment and Balanced Power](https://arxiv.org/abs/2506.20523v4)** | 2026-02-13 | 14 pages, 5 figures |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Stroke of Surprise: Progressive Semantic Illusions in Vector Sketching](https://arxiv.org/abs/2602.12280v1)** | 2026-02-12 | <details><summary>Proje...</summary><p>Project page: https://stroke-of-surprise.github.io/ Code: https://github.com/stroke-of-surprise/Stroke-Of-Surprise</p></details> |
-| **[A technical curriculum on language-oriented artificial intelligence in translation and specialised communication](https://arxiv.org/abs/2602.12251v1)** | 2026-02-12 | <details><summary>10 pa...</summary><p>10 pages, 1 figure, EAMT 2026, TAITT Workshop</p></details> |
-| **[6G Empowering Future Robotics: A Vision for Next-Generation Autonomous Systems](https://arxiv.org/abs/2602.12246v1)** | 2026-02-12 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 2 tables, submitted to IEEE magazine publication</p></details> |
-| **[Moonshine v2: Ergodic Streaming Encoder ASR for Latency-Critical Speech Applications](https://arxiv.org/abs/2602.12241v1)** | 2026-02-12 | 7 pages, 5 figures |
-| **[Hyperparameter Transfer with Mixture-of-Expert Layers](https://arxiv.org/abs/2601.20205v2)** | 2026-02-12 | 25 Pages, 18 Figures |
-| **[Detecting Overflow in Compressed Token Representations for Retrieval-Augmented Generation](https://arxiv.org/abs/2602.12235v1)** | 2026-02-12 | <details><summary>Accep...</summary><p>Accepted to EACL 2026 Student Research Workshop. 14 pages, 6 tables, 1 figure</p></details> |
+| **[CoPE-VideoLM: Codec Primitives For Efficient Video Language Models](https://arxiv.org/abs/2602.13191v1)** | 2026-02-13 | <details><summary>Proje...</summary><p>Project Page: https://sayands.github.io/cope/</p></details> |
+| **[Learning-based Radio Link Failure Prediction Based on Measurement Dataset in Railway Environments](https://arxiv.org/abs/2511.08851v3)** | 2026-02-13 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, 2 tables, and submitted to 2026 IEEE ICC Workshops</p></details> |
+| **[Profiling systematic uncertainties in Simulation-Based Inference with Factorizable Normalizing Flows](https://arxiv.org/abs/2602.13184v1)** | 2026-02-13 | 25 pages, 14 figures |
+| **[Complex to Rational Fast Matrix Multiplication](https://arxiv.org/abs/2602.13171v1)** | 2026-02-13 | 21 pages, 2 tables |
+| **[TrustMee: Self-Verifying Remote Attestation Evidence](https://arxiv.org/abs/2602.13148v1)** | 2026-02-13 | 17 pages, 12 figures |
+| **[Mathematics and Machine Creativity: A Survey on Bridging Mathematics with AI](https://arxiv.org/abs/2412.16543v4)** | 2026-02-13 | <details><summary>This ...</summary><p>This article is withdrawn due to internal authorship and supervisory considerations that require clarification before the work can proceed in its current form. After further review, I believe it is appropriate to pause and formally resolve these matters to ensure full compliance with institutional and collaborative research policies</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Federated Gaussian Process Learning via Pseudo-Representations for Large-Scale Multi-Robot Systems](https://arxiv.org/abs/2602.12243v1)** | 2026-02-12 | <details><summary>Accep...</summary><p>Accepted at 25th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2026)</p></details> |
-| **[Towards Autonomous Mathematics Research](https://arxiv.org/abs/2602.10177v2)** | 2026-02-12 | <details><summary>35 pa...</summary><p>35 pages. Accompanied blog post https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/</p></details> |
-| **[Moonshine v2: Ergodic Streaming Encoder ASR for Latency-Critical Speech Applications](https://arxiv.org/abs/2602.12241v1)** | 2026-02-12 | 7 pages, 5 figures |
-| **[Tiny is not small enough: High-quality, low-resource facial animation models through hybrid knowledge distillation](https://arxiv.org/abs/2507.18352v3)** | 2026-02-12 | <details><summary>Accep...</summary><p>Accepted to ACM TOG 2025 (SIGGRAPH journal track); Project page: https://electronicarts.github.io/tiny-voice2face/</p></details> |
-| **[Batch-based Bayesian Optimal Experimental Design in Linear Inverse Problems](https://arxiv.org/abs/2602.12234v1)** | 2026-02-12 | 25 pages, 5 figures |
-| **[Causal Schrödinger Bridges: Constrained Optimal Transport on Structural Manifolds](https://arxiv.org/abs/2602.08535v2)** | 2026-02-12 | 12 pages, 8 figures |
+| **[DRL-Based Beam Positioning for LEO Satellite Constellations with Weighted Least Squares](https://arxiv.org/abs/2511.08852v2)** | 2026-02-13 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, 1 table, and submitted to 2026 IEEE ICC Workshops</p></details> |
+| **[Profiling systematic uncertainties in Simulation-Based Inference with Factorizable Normalizing Flows](https://arxiv.org/abs/2602.13184v1)** | 2026-02-13 | 25 pages, 14 figures |
+| **[Anytime-Valid Inference in Adaptive Experiments: Covariate Adjustment and Balanced Power](https://arxiv.org/abs/2506.20523v4)** | 2026-02-13 | 14 pages, 5 figures |
+| **[Complex to Rational Fast Matrix Multiplication](https://arxiv.org/abs/2602.13171v1)** | 2026-02-13 | 21 pages, 2 tables |
+| **[In-Context Autonomous Network Incident Response: An End-to-End Large Language Model Agent Approach](https://arxiv.org/abs/2602.13156v1)** | 2026-02-13 | <details><summary>2026 ...</summary><p>2026 AAAI Summer Symposium on Human-Aware AI Agents for the Cyber Battlefield</p></details> |
+| **[FlashSchNet: Fast and Accurate Coarse-Grained Neural Network Molecular Dynamics](https://arxiv.org/abs/2602.13140v1)** | 2026-02-13 | <details><summary>Code ...</summary><p>Code is at https://github.com/UNITES-Lab/flash-molecular-dynamics</p></details> |
 

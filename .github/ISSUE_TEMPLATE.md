@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - February 25, 2026
+title: Latest 6 Papers - February 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device](https://arxiv.org/abs/2602.20161v1)** | 2026-02-23 | <details><summary>Proje...</summary><p>Project page: https://amshaker.github.io/Mobile-O/</p></details> |
-| **[tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction](https://arxiv.org/abs/2602.20160v1)** | 2026-02-23 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Project Page: https://cwchenwang.github.io/tttLRM</p></details> |
-| **[A Very Big Video Reasoning Suite](https://arxiv.org/abs/2602.20159v1)** | 2026-02-23 | <details><summary>Homep...</summary><p>Homepage: https://video-reason.com/</p></details> |
-| **[JUCAL: Jointly Calibrating Aleatoric and Epistemic Uncertainty in Classification Tasks](https://arxiv.org/abs/2602.20153v1)** | 2026-02-23 | <details><summary>11 pa...</summary><p>11 pages + appendix. Preliminary version of an ongoing project that will be expanded with furhter evaluations</p></details> |
-| **[Behavior Learning (BL): Learning Hierarchical Optimization Structures from Data](https://arxiv.org/abs/2602.20152v1)** | 2026-02-23 | ICLR 2026 |
-| **[Simulation-Ready Cluttered Scene Estimation via Physics-aware Joint Shape and Pose Optimization](https://arxiv.org/abs/2602.20150v1)** | 2026-02-23 | <details><summary>15 pa...</summary><p>15 pages, 13 figures, in submission</p></details> |
+| **[Language Models use Lookbacks to Track Beliefs](https://arxiv.org/abs/2505.14685v3)** | 2026-02-24 | <details><summary>38 pa...</summary><p>38 pages, 50 figures. Code and data at https://belief.baulab.info/</p></details> |
+| **[Test-Time Training with KV Binding Is Secretly Linear Attention](https://arxiv.org/abs/2602.21204v1)** | 2026-02-24 | <details><summary>Webpa...</summary><p>Webpage: https://research.nvidia.com/labs/sil/projects/tttla/</p></details> |
+| **[Recursive Self-Aggregation Unlocks Deep Thinking in Large Language Models](https://arxiv.org/abs/2509.26626v2)** | 2026-02-24 | <details><summary>23 pa...</summary><p>23 pages, 10 figures. Project page: https://rsa-llm.github.io/</p></details> |
+| **[Squint: Fast Visual Reinforcement Learning for Sim-to-Real Robotics](https://arxiv.org/abs/2602.21203v1)** | 2026-02-24 | <details><summary>For w...</summary><p>For website and code, see https://aalmuzairee.github.io/squint</p></details> |
+| **[Multi-Vector Index Compression in Any Modality](https://arxiv.org/abs/2602.21202v1)** | 2026-02-24 | 12 pages, 4 figures |
+| **[Splittable Spanning Trees and Balanced Forests in Dense Random Graphs](https://arxiv.org/abs/2507.12707v3)** | 2026-02-24 | 13 pages, 2 figures |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction](https://arxiv.org/abs/2602.20160v1)** | 2026-02-23 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Project Page: https://cwchenwang.github.io/tttLRM</p></details> |
-| **[JUCAL: Jointly Calibrating Aleatoric and Epistemic Uncertainty in Classification Tasks](https://arxiv.org/abs/2602.20153v1)** | 2026-02-23 | <details><summary>11 pa...</summary><p>11 pages + appendix. Preliminary version of an ongoing project that will be expanded with furhter evaluations</p></details> |
-| **[Towards a Science of AI Agent Reliability](https://arxiv.org/abs/2602.16666v2)** | 2026-02-23 | <details><summary>Inter...</summary><p>Interactive dashboard available at: https://hal.cs.princeton.edu/reliability</p></details> |
-| **[KNIGHT: Knowledge Graph-Driven Multiple-Choice Question Generation with Adaptive Hardness Calibration](https://arxiv.org/abs/2602.20135v1)** | 2026-02-23 | <details><summary>Accep...</summary><p>Accepted at the Third Conference on Parsimony and Learning (CPAL 2026). 36 pages, 12 figures. (Equal contribution: Yasaman Amou Jafari and Mahdi Noori.)</p></details> |
-| **[VidEoMT: Your ViT is Secretly Also a Video Segmentation Model](https://arxiv.org/abs/2602.17807v2)** | 2026-02-23 | <details><summary>CVPR ...</summary><p>CVPR 2025. Code: https://www.tue-mps.org/videomt/</p></details> |
-| **[CQ-CiM: Hardware-Aware Embedding Shaping for Robust CiM-Based Retrieval](https://arxiv.org/abs/2602.20083v1)** | 2026-02-23 | Accepted by DAC'26 |
+| **[Multi-Vector Index Compression in Any Modality](https://arxiv.org/abs/2602.21202v1)** | 2026-02-24 | 12 pages, 4 figures |
+| **[Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking](https://arxiv.org/abs/2602.21196v1)** | 2026-02-24 | 14 pages, 6 figures |
+| **[Scaling State-Space Models on Multiple GPUs with Tensor Parallelism](https://arxiv.org/abs/2602.21144v1)** | 2026-02-24 | <details><summary>Submi...</summary><p>Submitted to 46th IEEE International Conference on Distributed Computing Systems (ICDCS 2026)</p></details> |
+| **[Mapping Gemma3 onto an Edge Dataflow Architecture](https://arxiv.org/abs/2602.06063v2)** | 2026-02-24 | <details><summary>Origi...</summary><p>Original Version, data shall be updated</p></details> |
+| **[An Expert Schema for Evaluating Large Language Model Errors in Scholarly Question-Answering Systems](https://arxiv.org/abs/2602.21059v1)** | 2026-02-24 | <details><summary>24 pa...</summary><p>24 pages, 2 figures. Accepted at ACM CHI conference on Human Factors in Computing Systems, 2026</p></details> |
+| **[T1: One-to-One Channel-Head Binding for Multivariate Time-Series Imputation](https://arxiv.org/abs/2602.21043v1)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction](https://arxiv.org/abs/2602.20160v1)** | 2026-02-23 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Project Page: https://cwchenwang.github.io/tttLRM</p></details> |
-| **[JUCAL: Jointly Calibrating Aleatoric and Epistemic Uncertainty in Classification Tasks](https://arxiv.org/abs/2602.20153v1)** | 2026-02-23 | <details><summary>11 pa...</summary><p>11 pages + appendix. Preliminary version of an ongoing project that will be expanded with furhter evaluations</p></details> |
-| **[TROLL: Trust Regions improve Reinforcement Learning for Large Language Models](https://arxiv.org/abs/2510.03817v3)** | 2026-02-23 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2026</p></details> |
-| **[Adaptive Underwater Acoustic Communications with Limited Feedback: An AoI-Aware Hierarchical Bandit Approach](https://arxiv.org/abs/2602.20105v1)** | 2026-02-23 | <details><summary>6 pag...</summary><p>6 pages, 9 figures, Accepted for IEEE Globecom 2025</p></details> |
-| **[BarrierSteer: LLM Safety via Learning Barrier Steering](https://arxiv.org/abs/2602.20102v1)** | 2026-02-23 | <details><summary>This ...</summary><p>This paper introduces SafeBarrier, a framework that enforces safety in large language models by steering their latent representations with control barrier functions during inference, reducing adversarial and unsafe outputs</p></details> |
-| **[Proof by Mechanization: Cubic Diophantine Equation Satisfiability is $Σ^0_1$-Complete](https://arxiv.org/abs/2510.00759v6)** | 2026-02-23 | <details><summary>32 pa...</summary><p>32 pages. Formalized in Rocq; includes certified reduction from Hilbert proof checking to cubic Diophantine systems and consequences for single equations</p></details> |
+| **[Recursive Self-Aggregation Unlocks Deep Thinking in Large Language Models](https://arxiv.org/abs/2509.26626v2)** | 2026-02-24 | <details><summary>23 pa...</summary><p>23 pages, 10 figures. Project page: https://rsa-llm.github.io/</p></details> |
+| **[Squint: Fast Visual Reinforcement Learning for Sim-to-Real Robotics](https://arxiv.org/abs/2602.21203v1)** | 2026-02-24 | <details><summary>For w...</summary><p>For website and code, see https://aalmuzairee.github.io/squint</p></details> |
+| **[A Time-Varying and Covariate-Dependent Correlation Model for Multivariate Longitudinal Studies](https://arxiv.org/abs/2602.21200v1)** | 2026-02-24 | <details><summary>23 pa...</summary><p>23 pages, 5 figures, 1 table</p></details> |
+| **[Causal Claims in Economics](https://arxiv.org/abs/2501.06873v2)** | 2026-02-24 | <details><summary>Data,...</summary><p>Data, code, prompts, and workflow documentation are publicly available at our GitHub repository: https://github.com/prashgarg/CausalClaimsInEconomics</p></details> |
+| **[Scaling State-Space Models on Multiple GPUs with Tensor Parallelism](https://arxiv.org/abs/2602.21144v1)** | 2026-02-24 | <details><summary>Submi...</summary><p>Submitted to 46th IEEE International Conference on Distributed Computing Systems (ICDCS 2026)</p></details> |
+| **[A Benchmark for Deep Information Synthesis](https://arxiv.org/abs/2602.21143v1)** | 2026-02-24 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
 

@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - February 27, 2026
+title: Latest 6 Papers - March 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Neu-PiG: Neural Preconditioned Grids for Fast Dynamic Surface Reconstruction on Long Sequences](https://arxiv.org/abs/2602.22212v1)** | 2026-02-25 | <details><summary>CVPR ...</summary><p>CVPR 2026, Code: https://github.com/vc-bonn/neu-pig</p></details> |
-| **[Solaris: Building a Multiplayer Video World Model in Minecraft](https://arxiv.org/abs/2602.22208v1)** | 2026-02-25 | <details><summary>Proje...</summary><p>Project website: https://solaris-wm.github.io/</p></details> |
-| **[TimeBlind: A Spatio-Temporal Compositionality Benchmark for Video LLMs](https://arxiv.org/abs/2602.00288v3)** | 2026-02-25 | <details><summary>For c...</summary><p>For code and data, see https://baiqi-li.github.io/timeblind_project/</p></details> |
-| **[Local Bayesian Regression](https://arxiv.org/abs/2602.22203v1)** | 2026-02-25 | <details><summary>28 pa...</summary><p>28 pages; statistical Research Report, Department of Mathematics, University of Oslo, August 1994, but arXiv'd in February 2026. A journal paper can be written up based on this report, requiring though numerical studies and good illustrations</p></details> |
-| **[SumTablets: A Transliteration Dataset of Sumerian Tablets](https://arxiv.org/abs/2602.22200v1)** | 2026-02-25 | <details><summary>11 pa...</summary><p>11 pages with 3 figures</p></details> |
-| **[Off-The-Shelf Image-to-Image Models Are All You Need To Defeat Image Protection Schemes](https://arxiv.org/abs/2602.22197v1)** | 2026-02-25 | <details><summary>This ...</summary><p>This work has been accepted for publication at the IEEE Conference on Secure and Trustworthy Machine Learning (SaTML). The final version will be available on IEEE Xplore. To IEEE SaTML 2026</p></details> |
+| **[Joint Optimization for 4D Human-Scene Reconstruction in the Wild](https://arxiv.org/abs/2501.02158v2)** | 2026-02-26 | <details><summary>Proje...</summary><p>Project Page: https://vail-ucla.github.io/JOSH/</p></details> |
+| **[VGG-T$^3$: Offline Feed-Forward 3D Reconstruction at Scale](https://arxiv.org/abs/2602.23361v1)** | 2026-02-26 | <details><summary>CVPR ...</summary><p>CVPR 2026, Project page: https://research.nvidia.com/labs/dvl/projects/vgg-ttt</p></details> |
+| **[SeeThrough3D: Occlusion Aware 3D Control in Text-to-Image Generation](https://arxiv.org/abs/2602.23359v1)** | 2026-02-26 | <details><summary>Proje...</summary><p>Project page: https://seethrough3d.github.io. Accepted at CVPR 2026</p></details> |
+| **[A Dataset is Worth 1 MB](https://arxiv.org/abs/2602.23358v1)** | 2026-02-26 | 23 pages, 9 figures |
+| **[Sensor Generalization for Adaptive Sensing in Event-based Object Detection via Joint Distribution Training](https://arxiv.org/abs/2602.23357v1)** | 2026-02-26 | <details><summary>12 pa...</summary><p>12 pages, International Conference on Pattern Recognition Applications and Methods</p></details> |
+| **[SOTAlign: Semi-Supervised Alignment of Unimodal Vision and Language Models via Optimal Transport](https://arxiv.org/abs/2602.23353v1)** | 2026-02-26 | Preprint |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SumTablets: A Transliteration Dataset of Sumerian Tablets](https://arxiv.org/abs/2602.22200v1)** | 2026-02-25 | <details><summary>11 pa...</summary><p>11 pages with 3 figures</p></details> |
-| **[NRGPT: An Energy-based Alternative for GPT](https://arxiv.org/abs/2512.16762v2)** | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026 main conference</p></details> |
-| **[Quad Length Codes for Lossless Compression of e4m3](https://arxiv.org/abs/2602.17849v2)** | 2026-02-25 | <details><summary>The f...</summary><p>The first version proposed lossless compression of BFloat16 using dual length codes. This version proposes lossless compression of e4m3 using quad length codes. The versions will be merged later</p></details> |
-| **[Giving Meaning to Movements: Challenges and Opportunities in Expanding Communication by Pairing Unaided AAC with Speech Generated Messages](https://arxiv.org/abs/2602.22131v1)** | 2026-02-25 | <details><summary>To ap...</summary><p>To appear in Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI '26)</p></details> |
-| **[QuantVLA: Scale-Calibrated Post-Training Quantization for Vision-Language-Action Models](https://arxiv.org/abs/2602.20309v2)** | 2026-02-25 | CVPR2026 |
-| **[Compressing Language Models for Specialized Domains](https://arxiv.org/abs/2502.18424v2)** | 2026-02-25 | EACL 2026 |
+| **[A Dataset is Worth 1 MB](https://arxiv.org/abs/2602.23358v1)** | 2026-02-26 | 23 pages, 9 figures |
+| **[SemanticVocoder: Bridging Audio Generation and Audio Understanding via Semantic Latents](https://arxiv.org/abs/2602.23333v1)** | 2026-02-26 | <details><summary>Demo:...</summary><p>Demo: https://zeyuxie29.github.io/SemanticVocoder/</p></details> |
+| **[Invariant Transformation and Resampling based Epistemic-Uncertainty Reduction](https://arxiv.org/abs/2602.23315v1)** | 2026-02-26 | 5 pages, 5 figures |
+| **[PGVMS: A Prompt-Guided Unified Framework for Virtual Multiplex IHC Staining with Pathological Semantic Learning](https://arxiv.org/abs/2602.23292v1)** | 2026-02-26 | Accepted by TMI |
+| **[Real-Time Stream Compaction for Sparse Machine Learning on FPGAs](https://arxiv.org/abs/2602.23281v1)** | 2026-02-26 | 8 pages |
+| **[Safety First: Psychological Safety as the Key to AI Transformation](https://arxiv.org/abs/2602.23279v1)** | 2026-02-26 | 26 pages |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Neu-PiG: Neural Preconditioned Grids for Fast Dynamic Surface Reconstruction on Long Sequences](https://arxiv.org/abs/2602.22212v1)** | 2026-02-25 | <details><summary>CVPR ...</summary><p>CVPR 2026, Code: https://github.com/vc-bonn/neu-pig</p></details> |
-| **[CalmReminder: A Design Probe for Parental Engagement with Children with Hyperactivity, Augmented by Real-Time Motion Sensing with a Watch](https://arxiv.org/abs/2602.16893v2)** | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted by ACM CHI Conference on Human Factors in Computing Systems(CHI'26)</p></details> |
-| **[NRGPT: An Energy-based Alternative for GPT](https://arxiv.org/abs/2512.16762v2)** | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026 main conference</p></details> |
-| **[Heuristic Adaptation of Potentially Misspecified Domain Support for Likelihood-Free Inference in Stochastic Dynamical Systems](https://arxiv.org/abs/2510.26656v3)** | 2026-02-25 | 20 pages, 18 figures |
-| **[WeaveTime: Stream from Earlier Frames into Emergent Memory in VideoLLMs](https://arxiv.org/abs/2602.22142v1)** | 2026-02-25 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026 (preview; camera-ready in preparation)</p></details> |
-| **[Active operator learning with predictive uncertainty quantification for partial differential equations](https://arxiv.org/abs/2503.03178v4)** | 2026-02-25 | <details><summary>Submi...</summary><p>Submitted to the Journal of Computational Physics</p></details> |
+| **[Toward Expert Investment Teams:A Multi-Agent LLM System with Fine-Grained Trading Tasks](https://arxiv.org/abs/2602.23330v1)** | 2026-02-26 | 14 pages, 3 figures |
+| **[DropVLA: An Action-Level Backdoor Attack on Vision--Language--Action Models](https://arxiv.org/abs/2510.10932v2)** | 2026-02-26 | <details><summary>8 pag...</summary><p>8 pages, 6 tables, 3 figures. Under review</p></details> |
+| **[Invariant Transformation and Resampling based Epistemic-Uncertainty Reduction](https://arxiv.org/abs/2602.23315v1)** | 2026-02-26 | 5 pages, 5 figures |
+| **[Why Pass@k Optimization Can Degrade Pass@1: Prompt Interference in LLM Post-training](https://arxiv.org/abs/2602.21189v2)** | 2026-02-26 | <details><summary>updat...</summary><p>updated related work discussion</p></details> |
+| **[ThinkOmni: Lifting Textual Reasoning to Omni-modal Scenarios via Guidance Decoding](https://arxiv.org/abs/2602.23306v1)** | 2026-02-26 | Accept by ICLR 2026 |
+| **[Identifiability of Treatment Effects with Unobserved Spatially Varying Confounders](https://arxiv.org/abs/2602.23291v1)** | 2026-02-26 | 8 pages, 1 figure |
 

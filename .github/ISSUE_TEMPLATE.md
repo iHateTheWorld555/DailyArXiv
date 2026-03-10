@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - March 10, 2026
+title: Latest 6 Papers - March 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion](https://arxiv.org/abs/2603.06577v1)** | 2026-03-06 | <details><summary>Proje...</summary><p>Project page: https://omni-diffusion.github.io</p></details> |
-| **[BEVLM: Distilling Semantic Knowledge from LLMs into Bird's-Eye View Representations](https://arxiv.org/abs/2603.06576v1)** | 2026-03-06 | <details><summary>4 fig...</summary><p>4 figures, 6 tables in the main paper, 32 pages in total</p></details> |
-| **[Fly360: Omnidirectional Obstacle Avoidance within Drone View](https://arxiv.org/abs/2603.06573v1)** | 2026-03-06 | 16 pages, 10 figures |
-| **[SCOPE: Scene-Contextualized Incremental Few-Shot 3D Segmentation](https://arxiv.org/abs/2603.06572v1)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
-| **[Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders](https://arxiv.org/abs/2603.06569v1)** | 2026-03-06 | <details><summary>Pengu...</summary><p>Penguin-VL Technical Report; Code: https://github.com/tencent-ailab/Penguin-VL</p></details> |
-| **[Admittance Matrix Concentration Inequalities for Understanding Uncertain Power Networks](https://arxiv.org/abs/2510.17798v2)** | 2026-03-06 | 9 pages, 2 figures |
+| **[Scale Space Diffusion](https://arxiv.org/abs/2603.08709v1)** | 2026-03-09 | <details><summary>Proje...</summary><p>Project website: https://prateksha.github.io/projects/scale-space-diffusion/ . The first two authors contributed equally</p></details> |
+| **[FVG-PT: Adaptive Foreground View-Guided Prompt Tuning for Vision-Language Models](https://arxiv.org/abs/2603.08708v1)** | 2026-03-09 | <details><summary>27 Pa...</summary><p>27 Pages, 9 Figures, 15 Tables</p></details> |
+| **[Agentic Critical Training](https://arxiv.org/abs/2603.08706v1)** | 2026-03-09 | <details><summary>Proje...</summary><p>Project page: https://attention-is-all-i-need.github.io/ACT/</p></details> |
+| **[Evaluating Financial Intelligence in Large Language Models: Benchmarking SuperInvesting AI with LLM Engines](https://arxiv.org/abs/2603.08704v1)** | 2026-03-09 | <details><summary>12 pa...</summary><p>12 pages, 6 Figures, 5 Tables</p></details> |
+| **[DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy](https://arxiv.org/abs/2506.20668v2)** | 2026-03-09 | <details><summary>11 pa...</summary><p>11 pages. Published at ICRA 2026</p></details> |
+| **[HiAR: Efficient Autoregressive Long Video Generation via Hierarchical Denoising](https://arxiv.org/abs/2603.08703v1)** | 2026-03-09 | <details><summary>Proje...</summary><p>Project page: https://jacky-hate.github.io/HiAR/ Code: https://github.com/Jacky-hate/HiAR</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Causal Interpretation of Neural Network Computations with Contribution Decomposition](https://arxiv.org/abs/2603.06557v1)** | 2026-03-06 | <details><summary>32 pa...</summary><p>32 pages, 19 figures. ICLR 2026 poster</p></details> |
-| **[SPoT: Subpixel Placement of Tokens in Vision Transformers](https://arxiv.org/abs/2507.01654v2)** | 2026-03-06 | <details><summary>Appea...</summary><p>Appeared in Workshop on Efficient Computing under Limited Resources: Visual Computing (ICCV 2025). Code available at https://github.com/dsb-ifi/SPoT</p></details> |
-| **[NOBLE: Accelerating Transformers with Nonlinear Low-Rank Branches](https://arxiv.org/abs/2603.06492v1)** | 2026-03-06 | <details><summary>14 pa...</summary><p>14 pages, 5 figures, 5 tables</p></details> |
-| **[A Systematic Evaluation of the Potential of Carbon-Aware Execution for Scientific Workflows](https://arxiv.org/abs/2508.14625v4)** | 2026-03-06 | <details><summary>This ...</summary><p>This is a pre-print of our paper</p></details> |
-| **[Symbolic Higher-Order Analysis of Multivariate Time Series](https://arxiv.org/abs/2506.00508v2)** | 2026-03-06 | <details><summary>15 pa...</summary><p>15 pages (5 pages main manuscript and 10 pages supplemental material), 9 figures (2 main manuscript and 7 supplemental material)</p></details> |
-| **[Fast polynomial computations with space constraints](https://arxiv.org/abs/2511.11267v3)** | 2026-03-06 | <details><summary>Docum...</summary><p>Document presented as the author's habilitation thesis</p></details> |
+| **[Offline-First Large Language Model Architecture for AI-Assisted Learning with Adaptive Response Levels in Low-Connectivity Environments](https://arxiv.org/abs/2603.03339v2)** | 2026-03-09 | <details><summary>16 pa...</summary><p>16 pages, 2 table, 10 figures</p></details> |
+| **[A Multi-Objective Optimization Approach for Sustainable AI-Driven Entrepreneurship in Resilient Economies](https://arxiv.org/abs/2603.08692v1)** | 2026-03-09 | 35 Pages, |
+| **[Benchmarking Language Modeling for Lossless Compression of Full-Fidelity Audio](https://arxiv.org/abs/2603.08683v1)** | 2026-03-09 | <details><summary>Submi...</summary><p>Submitted for review at Interspeech 2026, 7 pages, 5 figures</p></details> |
+| **[Do Schwartz Higher-Order Values Help Sentence-Level Human Value Detection? A Study of Hierarchical Gating and Calibration](https://arxiv.org/abs/2602.00913v2)** | 2026-03-09 | <details><summary>Code:...</summary><p>Code: https://github.com/VictorMYeste/human-value-detection, models: https://huggingface.co/papers/2602.00913, 27 pages, 4 figures</p></details> |
+| **[Test-Time Modification: Inverse Domain Transformation for Robust Perception](https://arxiv.org/abs/2512.13454v3)** | 2026-03-09 | Preprint |
+| **[DualFlexKAN: Dual-stage Kolmogorov-Arnold Networks with Independent Function Control](https://arxiv.org/abs/2603.08583v1)** | 2026-03-09 | 22 pages, 12 figures |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Estimation and exclusion restrictions in clustered linear models](https://arxiv.org/abs/2508.12860v2)** | 2026-03-06 | 48 pages, 3 figures |
-| **[Conditionally Site-Independent Neural Evolution of Antibody Sequences](https://arxiv.org/abs/2602.18982v2)** | 2026-03-06 | <details><summary>24 pa...</summary><p>24 pages, 14 figures. Currently under review</p></details> |
-| **[SPoT: Subpixel Placement of Tokens in Vision Transformers](https://arxiv.org/abs/2507.01654v2)** | 2026-03-06 | <details><summary>Appea...</summary><p>Appeared in Workshop on Efficient Computing under Limited Resources: Visual Computing (ICCV 2025). Code available at https://github.com/dsb-ifi/SPoT</p></details> |
-| **[Shoot First, Ask Questions Later? Building Rational Agents that Explore and Act Like People](https://arxiv.org/abs/2510.20886v2)** | 2026-03-06 | ICLR 2026 |
-| **[Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis](https://arxiv.org/abs/2603.06507v1)** | 2026-03-06 | <details><summary>proje...</summary><p>project webpage: https://bfl.ai/research/self-flow</p></details> |
-| **[CFEAR-Teach-and-Repeat: Fast and Accurate Radar-only Localization](https://arxiv.org/abs/2603.06501v1)** | 2026-03-06 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the IEEE International Conference on Robotics and Automation (ICRA), 2026</p></details> |
+| **[HiAR: Efficient Autoregressive Long Video Generation via Hierarchical Denoising](https://arxiv.org/abs/2603.08703v1)** | 2026-03-09 | <details><summary>Proje...</summary><p>Project page: https://jacky-hate.github.io/HiAR/ Code: https://github.com/Jacky-hate/HiAR</p></details> |
+| **[Offline-First Large Language Model Architecture for AI-Assisted Learning with Adaptive Response Levels in Low-Connectivity Environments](https://arxiv.org/abs/2603.03339v2)** | 2026-03-09 | <details><summary>16 pa...</summary><p>16 pages, 2 table, 10 figures</p></details> |
+| **[What to Make Sense of in the Era of LLM? A Perspective from the Structure and Efforts in Sensemaking](https://arxiv.org/abs/2603.08604v1)** | 2026-03-09 | <details><summary>CHI 2...</summary><p>CHI 2024 Sensemaking Workshop https://sites.google.com/view/chi2024-sensemaking-workshop/home?pli=1</p></details> |
+| **[Online Sparse Synthetic Aperture Radar Imaging](https://arxiv.org/abs/2603.08582v1)** | 2026-03-09 | <details><summary>IEEE ...</summary><p>IEEE Radar Conference 2026</p></details> |
+| **[Drift-to-Action Controllers: Budgeted Interventions with Online Risk Certificates](https://arxiv.org/abs/2603.08578v1)** | 2026-03-09 | <details><summary>Publi...</summary><p>Published as a conference paper at CAO Workshop at ICLR 2026</p></details> |
+| **[Scalable Neural Vocoder from Range-Null Space Decomposition](https://arxiv.org/abs/2603.08574v1)** | 2026-03-09 | <details><summary>30 pa...</summary><p>30 pages, 30 figures, 21 tables, Extension journal</p></details> |
 

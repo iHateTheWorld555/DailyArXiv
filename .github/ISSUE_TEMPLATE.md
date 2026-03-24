@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - March 24, 2026
+title: Latest 6 Papers - March 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation](https://arxiv.org/abs/2603.20192v1)** | 2026-03-20 | <details><summary>ICLR ...</summary><p>ICLR 2026 Camera Ready Version. Code and Models: https://jiazheng-xing.github.io/lumosx-home/</p></details> |
-| **[CoVR-R:Reason-Aware Composed Video Retrieval](https://arxiv.org/abs/2603.20190v1)** | 2026-03-20 | CVPR 2026 (findings) |
-| **[Wildfire Spread Scenarios: Increasing Sample Diversity of Segmentation Diffusion Models with Training-Free Methods](https://arxiv.org/abs/2603.20188v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted at NLDL 2026. This version contains small corrections compared to the initial publication, see appendix for details</p></details> |
-| **[VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking](https://arxiv.org/abs/2603.20185v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
-| **[Kolmogorov-Arnold causal generative models](https://arxiv.org/abs/2603.20184v1)** | 2026-03-20 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 3 tables, 5 algorithms, preprint</p></details> |
-| **[Latent Action Diffusion for Cross-Embodiment Manipulation](https://arxiv.org/abs/2506.14608v4)** | 2026-03-20 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Accepted to the 2026 IEEE International Conference on Robotics & Automation (ICRA). Website: https://mimicrobotics.github.io/lad/</p></details> |
+| **[WorldCache: Content-Aware Caching for Accelerated Video World Models](https://arxiv.org/abs/2603.22286v1)** | 2026-03-23 | 33 Pages |
+| **[End-to-End Training for Unified Tokenization and Latent Denoising](https://arxiv.org/abs/2603.22283v1)** | 2026-03-23 | <details><summary>First...</summary><p>First two authors contributed equally. Project: https://xingjianbai.com/unite-tokenization-generation/ Code: https://github.com/ShivamDuggal4/UNITE-tokenization-generation</p></details> |
+| **[UniMotion: A Unified Framework for Motion-Text-Vision Understanding and Generation](https://arxiv.org/abs/2603.22282v1)** | 2026-03-23 | 42 pages, 16 figures |
+| **[ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model](https://arxiv.org/abs/2603.22281v1)** | 2026-03-23 | 10 pages, 5 figures |
+| **[The Dual Mechanisms of Spatial Reasoning in Vision-Language Models](https://arxiv.org/abs/2603.22278v1)** | 2026-03-23 | 26 pages, 35 figures |
+| **[Scaling DoRA: High-Rank Adaptation via Factored Norms and Fused Kernels](https://arxiv.org/abs/2603.22276v1)** | 2026-03-23 | <details><summary>30 pa...</summary><p>30 pages, 15 figures, 15 tables, including appendices. Code and data at https://github.com/sockeye44/dorafactors</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TinyML Enhances CubeSat Mission Capabilities](https://arxiv.org/abs/2603.20174v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted at the 17th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS) 2026</p></details> |
-| **[DETECT: Data-Driven Evaluation of Treatments Enabled by Classification Transformers](https://arxiv.org/abs/2511.07213v3)** | 2026-03-20 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, 2 tables, presented and awarded Best Paper Runner-Up at the IEEE ICDM 2025 UGHS Symposium</p></details> |
-| **[Information Geometry via the Q-Root Transform](https://arxiv.org/abs/2603.20081v1)** | 2026-03-20 | <details><summary>16 pa...</summary><p>16 pages. Extended version of arXiv: 2506.00485</p></details> |
-| **[Self-Distilled Reasoner: On-Policy Self-Distillation for Large Language Models](https://arxiv.org/abs/2601.18734v3)** | 2026-03-20 | <details><summary>code ...</summary><p>code is released here: https://github.com/siyan-zhao/OPSD</p></details> |
-| **[Rep2Text: Decoding Full Text from a Single LLM Token Representation](https://arxiv.org/abs/2511.06571v2)** | 2026-03-20 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 6 tables</p></details> |
-| **[Capacity-Achieving BBT Polar Codes with Interleaver-Assisted BP Decoding](https://arxiv.org/abs/2603.19938v1)** | 2026-03-20 | 33 pages, 13 figures |
+| **[WorldCache: Content-Aware Caching for Accelerated Video World Models](https://arxiv.org/abs/2603.22286v1)** | 2026-03-23 | 33 Pages |
+| **[End-to-End Training for Unified Tokenization and Latent Denoising](https://arxiv.org/abs/2603.22283v1)** | 2026-03-23 | <details><summary>First...</summary><p>First two authors contributed equally. Project: https://xingjianbai.com/unite-tokenization-generation/ Code: https://github.com/ShivamDuggal4/UNITE-tokenization-generation</p></details> |
+| **[ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model](https://arxiv.org/abs/2603.22281v1)** | 2026-03-23 | 10 pages, 5 figures |
+| **[UniDex: A Robot Foundation Suite for Universal Dexterous Hand Control from Egocentric Human Videos](https://arxiv.org/abs/2603.22264v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[ShapDBM: Exploring Decision Boundary Maps in Shapley Space](https://arxiv.org/abs/2603.22235v1)** | 2026-03-23 | <details><summary>7 pag...</summary><p>7 pages and 4 figures</p></details> |
+| **[Benchmarking Deep Learning Models for Aerial LiDAR Point Cloud Semantic Segmentation under Real Acquisition Conditions: A Case Study in Navarre](https://arxiv.org/abs/2603.22229v1)** | 2026-03-23 | 6 pages, 2 figures |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation](https://arxiv.org/abs/2603.20192v1)** | 2026-03-20 | <details><summary>ICLR ...</summary><p>ICLR 2026 Camera Ready Version. Code and Models: https://jiazheng-xing.github.io/lumosx-home/</p></details> |
-| **[CoVR-R:Reason-Aware Composed Video Retrieval](https://arxiv.org/abs/2603.20190v1)** | 2026-03-20 | CVPR 2026 (findings) |
-| **[Kolmogorov-Arnold causal generative models](https://arxiv.org/abs/2603.20184v1)** | 2026-03-20 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 3 tables, 5 algorithms, preprint</p></details> |
-| **[TinyML Enhances CubeSat Mission Capabilities](https://arxiv.org/abs/2603.20174v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted at the 17th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS) 2026</p></details> |
-| **[Understanding and Optimizing Multi-Stage AI Inference Pipelines](https://arxiv.org/abs/2504.09775v5)** | 2026-03-20 | <details><summary>Infer...</summary><p>Inference System Design for Multi-Stage AI Inference Pipelines. 13 Pages, 15 Figues, 3 Tables</p></details> |
-| **[Posterior inference via Hill's prediction model](https://arxiv.org/abs/2603.20071v1)** | 2026-03-20 | 23 pages, 7 figures |
+| **[WorldCache: Content-Aware Caching for Accelerated Video World Models](https://arxiv.org/abs/2603.22286v1)** | 2026-03-23 | 33 Pages |
+| **[End-to-End Training for Unified Tokenization and Latent Denoising](https://arxiv.org/abs/2603.22283v1)** | 2026-03-23 | <details><summary>First...</summary><p>First two authors contributed equally. Project: https://xingjianbai.com/unite-tokenization-generation/ Code: https://github.com/ShivamDuggal4/UNITE-tokenization-generation</p></details> |
+| **[UniMotion: A Unified Framework for Motion-Text-Vision Understanding and Generation](https://arxiv.org/abs/2603.22282v1)** | 2026-03-23 | 42 pages, 16 figures |
+| **[Scaling DoRA: High-Rank Adaptation via Factored Norms and Fused Kernels](https://arxiv.org/abs/2603.22276v1)** | 2026-03-23 | <details><summary>30 pa...</summary><p>30 pages, 15 figures, 15 tables, including appendices. Code and data at https://github.com/sockeye44/dorafactors</p></details> |
+| **[DexDrummer: In-Hand, Contact-Rich, and Long-Horizon Dexterous Robot Drumming](https://arxiv.org/abs/2603.22263v1)** | 2026-03-23 | <details><summary>Websi...</summary><p>Website: https://dexdrummer.github.io/</p></details> |
+| **[Greater accessibility can amplify discrimination in generative AI](https://arxiv.org/abs/2603.22260v1)** | 2026-03-23 | Preprint |
 

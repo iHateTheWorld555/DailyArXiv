@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - March 25, 2026
+title: Latest 6 Papers - March 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[WorldCache: Content-Aware Caching for Accelerated Video World Models](https://arxiv.org/abs/2603.22286v1)** | 2026-03-23 | 33 Pages |
-| **[End-to-End Training for Unified Tokenization and Latent Denoising](https://arxiv.org/abs/2603.22283v1)** | 2026-03-23 | <details><summary>First...</summary><p>First two authors contributed equally. Project: https://xingjianbai.com/unite-tokenization-generation/ Code: https://github.com/ShivamDuggal4/UNITE-tokenization-generation</p></details> |
-| **[UniMotion: A Unified Framework for Motion-Text-Vision Understanding and Generation](https://arxiv.org/abs/2603.22282v1)** | 2026-03-23 | 42 pages, 16 figures |
-| **[ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model](https://arxiv.org/abs/2603.22281v1)** | 2026-03-23 | 10 pages, 5 figures |
-| **[The Dual Mechanisms of Spatial Reasoning in Vision-Language Models](https://arxiv.org/abs/2603.22278v1)** | 2026-03-23 | 26 pages, 35 figures |
-| **[Scaling DoRA: High-Rank Adaptation via Factored Norms and Fused Kernels](https://arxiv.org/abs/2603.22276v1)** | 2026-03-23 | <details><summary>30 pa...</summary><p>30 pages, 15 figures, 15 tables, including appendices. Code and data at https://github.com/sockeye44/dorafactors</p></details> |
+| **[OccAny: Generalized Unconstrained Urban 3D Occupancy](https://arxiv.org/abs/2603.23502v1)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Project page: https://valeoai.github.io/OccAny/</p></details> |
+| **[MedObvious: Exposing the Medical Moravec's Paradox in VLMs via Clinical Triage](https://arxiv.org/abs/2603.23501v1)** | 2026-03-24 | 11 Pages |
+| **[DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models](https://arxiv.org/abs/2603.23499v1)** | 2026-03-24 | <details><summary>Proje...</summary><p>Project page: https://cvlab-kaist.github.io/DA-Flow</p></details> |
+| **[VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions](https://arxiv.org/abs/2603.23495v1)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
+| **[Foveated Diffusion: Efficient Spatially Adaptive Image and Video Generation](https://arxiv.org/abs/2603.23491v1)** | 2026-03-24 | <details><summary>Proje...</summary><p>Project website at https://bchao1.github.io/foveated-diffusion</p></details> |
+| **[From Product Hilbert Spaces to the Generalized Koopman Operator and the Nonlinear Fundamental Lemma](https://arxiv.org/abs/2508.07494v2)** | 2026-03-24 | <details><summary>Revis...</summary><p>Revisions compared to first version: formal analysis of the generalized Koopman composition operator, exact bilinear form with finite-dimensional input Hilbert space for input-affine systems, quantitative persistency of excitation notion for infinite-dimensional bilinear systems, nonlinear fundamental lemma in terms of Hankel operators and frames, addition soft-robotic manipulator example</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[WorldCache: Content-Aware Caching for Accelerated Video World Models](https://arxiv.org/abs/2603.22286v1)** | 2026-03-23 | 33 Pages |
-| **[End-to-End Training for Unified Tokenization and Latent Denoising](https://arxiv.org/abs/2603.22283v1)** | 2026-03-23 | <details><summary>First...</summary><p>First two authors contributed equally. Project: https://xingjianbai.com/unite-tokenization-generation/ Code: https://github.com/ShivamDuggal4/UNITE-tokenization-generation</p></details> |
-| **[ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model](https://arxiv.org/abs/2603.22281v1)** | 2026-03-23 | 10 pages, 5 figures |
-| **[UniDex: A Robot Foundation Suite for Universal Dexterous Hand Control from Egocentric Human Videos](https://arxiv.org/abs/2603.22264v1)** | 2026-03-23 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[ShapDBM: Exploring Decision Boundary Maps in Shapley Space](https://arxiv.org/abs/2603.22235v1)** | 2026-03-23 | <details><summary>7 pag...</summary><p>7 pages and 4 figures</p></details> |
-| **[Benchmarking Deep Learning Models for Aerial LiDAR Point Cloud Semantic Segmentation under Real Acquisition Conditions: A Case Study in Navarre](https://arxiv.org/abs/2603.22229v1)** | 2026-03-23 | 6 pages, 2 figures |
+| **[DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models](https://arxiv.org/abs/2603.23499v1)** | 2026-03-24 | <details><summary>Proje...</summary><p>Project page: https://cvlab-kaist.github.io/DA-Flow</p></details> |
+| **[VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions](https://arxiv.org/abs/2603.23495v1)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
+| **[One View Is Enough! Monocular Training for In-the-Wild Novel View Generation](https://arxiv.org/abs/2603.23488v1)** | 2026-03-24 | 34 pages, 16 figures |
+| **[Task-Oriented Data Synthesis and Control-Rectify Sampling for Remote Sensing Semantic Segmentation](https://arxiv.org/abs/2512.16740v2)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs](https://arxiv.org/abs/2603.23481v1)** | 2026-03-24 | <details><summary>https...</summary><p>https://plan-lab.github.io/projects/vtam/</p></details> |
+| **[RealMaster: Lifting Rendered Scenes into Photorealistic Video](https://arxiv.org/abs/2603.23462v1)** | 2026-03-24 | <details><summary>Proje...</summary><p>Project page: https://danacohen95.github.io/RealMaster/</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[WorldCache: Content-Aware Caching for Accelerated Video World Models](https://arxiv.org/abs/2603.22286v1)** | 2026-03-23 | 33 Pages |
-| **[End-to-End Training for Unified Tokenization and Latent Denoising](https://arxiv.org/abs/2603.22283v1)** | 2026-03-23 | <details><summary>First...</summary><p>First two authors contributed equally. Project: https://xingjianbai.com/unite-tokenization-generation/ Code: https://github.com/ShivamDuggal4/UNITE-tokenization-generation</p></details> |
-| **[UniMotion: A Unified Framework for Motion-Text-Vision Understanding and Generation](https://arxiv.org/abs/2603.22282v1)** | 2026-03-23 | 42 pages, 16 figures |
-| **[Scaling DoRA: High-Rank Adaptation via Factored Norms and Fused Kernels](https://arxiv.org/abs/2603.22276v1)** | 2026-03-23 | <details><summary>30 pa...</summary><p>30 pages, 15 figures, 15 tables, including appendices. Code and data at https://github.com/sockeye44/dorafactors</p></details> |
-| **[DexDrummer: In-Hand, Contact-Rich, and Long-Horizon Dexterous Robot Drumming](https://arxiv.org/abs/2603.22263v1)** | 2026-03-23 | <details><summary>Websi...</summary><p>Website: https://dexdrummer.github.io/</p></details> |
-| **[Greater accessibility can amplify discrimination in generative AI](https://arxiv.org/abs/2603.22260v1)** | 2026-03-23 | Preprint |
+| **[OccAny: Generalized Unconstrained Urban 3D Occupancy](https://arxiv.org/abs/2603.23502v1)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Project page: https://valeoai.github.io/OccAny/</p></details> |
+| **[VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions](https://arxiv.org/abs/2603.23495v1)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
+| **[One View Is Enough! Monocular Training for In-the-Wild Novel View Generation](https://arxiv.org/abs/2603.23488v1)** | 2026-03-24 | 34 pages, 16 figures |
+| **[InverFill: One-Step Inversion for Enhanced Few-Step Diffusion Inpainting](https://arxiv.org/abs/2603.23463v1)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted to CVPR'26 (Main Conference)</p></details> |
+| **[RealMaster: Lifting Rendered Scenes into Photorealistic Video](https://arxiv.org/abs/2603.23462v1)** | 2026-03-24 | <details><summary>Proje...</summary><p>Project page: https://danacohen95.github.io/RealMaster/</p></details> |
+| **[Identification and estimation of causal mechanisms in cluster-randomized trials with post-treatment confounding using Bayesian nonparametrics](https://arxiv.org/abs/2510.16673v2)** | 2026-03-24 | 78 pages |
 

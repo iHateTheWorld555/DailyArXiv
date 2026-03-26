@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - March 26, 2026
+title: Latest 6 Papers - March 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[OccAny: Generalized Unconstrained Urban 3D Occupancy](https://arxiv.org/abs/2603.23502v1)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Project page: https://valeoai.github.io/OccAny/</p></details> |
-| **[MedObvious: Exposing the Medical Moravec's Paradox in VLMs via Clinical Triage](https://arxiv.org/abs/2603.23501v1)** | 2026-03-24 | 11 Pages |
-| **[DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models](https://arxiv.org/abs/2603.23499v1)** | 2026-03-24 | <details><summary>Proje...</summary><p>Project page: https://cvlab-kaist.github.io/DA-Flow</p></details> |
-| **[VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions](https://arxiv.org/abs/2603.23495v1)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
-| **[Foveated Diffusion: Efficient Spatially Adaptive Image and Video Generation](https://arxiv.org/abs/2603.23491v1)** | 2026-03-24 | <details><summary>Proje...</summary><p>Project website at https://bchao1.github.io/foveated-diffusion</p></details> |
-| **[From Product Hilbert Spaces to the Generalized Koopman Operator and the Nonlinear Fundamental Lemma](https://arxiv.org/abs/2508.07494v2)** | 2026-03-24 | <details><summary>Revis...</summary><p>Revisions compared to first version: formal analysis of the generalized Koopman composition operator, exact bilinear form with finite-dimensional input Hilbert space for input-affine systems, quantitative persistency of excitation notion for infinite-dimensional bilinear systems, nonlinear fundamental lemma in terms of Hankel operators and frames, addition soft-robotic manipulator example</p></details> |
+| **[DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving](https://arxiv.org/abs/2603.24587v1)** | 2026-03-25 | first version |
+| **[Towards Training-Free Scene Text Editing](https://arxiv.org/abs/2603.24571v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
+| **[Anti-I2V: Safeguarding your photos from malicious image-to-video generation](https://arxiv.org/abs/2603.24570v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 (Main Conference)</p></details> |
+| **[POLY-SIM: Polyglot Speaker Identification with Missing Modality Grand Challenge 2026 Evaluation Plan](https://arxiv.org/abs/2603.24569v1)** | 2026-03-25 | <details><summary>Grand...</summary><p>Grand challenge at ACM MM 2026</p></details> |
+| **[Algorithms with Calibrated Machine Learning Predictions](https://arxiv.org/abs/2502.02861v4)** | 2026-03-25 | <details><summary>Match...</summary><p>Matches the camera-ready version accepted at ICML 2025</p></details> |
+| **[Team of Thoughts: Efficient Test-time Scaling of Agentic Systems through Orchestrated Tool Calling](https://arxiv.org/abs/2602.16485v2)** | 2026-03-25 | 8 pages |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models](https://arxiv.org/abs/2603.23499v1)** | 2026-03-24 | <details><summary>Proje...</summary><p>Project page: https://cvlab-kaist.github.io/DA-Flow</p></details> |
-| **[VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions](https://arxiv.org/abs/2603.23495v1)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
-| **[One View Is Enough! Monocular Training for In-the-Wild Novel View Generation](https://arxiv.org/abs/2603.23488v1)** | 2026-03-24 | 34 pages, 16 figures |
-| **[Task-Oriented Data Synthesis and Control-Rectify Sampling for Remote Sensing Semantic Segmentation](https://arxiv.org/abs/2512.16740v2)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026</p></details> |
-| **[VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs](https://arxiv.org/abs/2603.23481v1)** | 2026-03-24 | <details><summary>https...</summary><p>https://plan-lab.github.io/projects/vtam/</p></details> |
-| **[RealMaster: Lifting Rendered Scenes into Photorealistic Video](https://arxiv.org/abs/2603.23462v1)** | 2026-03-24 | <details><summary>Proje...</summary><p>Project page: https://danacohen95.github.io/RealMaster/</p></details> |
+| **[DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving](https://arxiv.org/abs/2603.24587v1)** | 2026-03-25 | first version |
+| **[Chameleon: Episodic Memory for Long-Horizon Robotic Manipulation](https://arxiv.org/abs/2603.24576v1)** | 2026-03-25 | <details><summary>Code ...</summary><p>Code is available at https://github.com/gxyes/MARS_Chameleon</p></details> |
+| **[Anti-I2V: Safeguarding your photos from malicious image-to-video generation](https://arxiv.org/abs/2603.24570v1)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 (Main Conference)</p></details> |
+| **[The combinatorial structure and value distributions of plateaued functions](https://arxiv.org/abs/2410.00611v3)** | 2026-03-25 | <details><summary>Copy ...</summary><p>Copy of the published version, appearing in Journal of Cryptology</p></details> |
+| **[From Liar Paradox to Incongruent Sets: A Normal Form for Self-Reference](https://arxiv.org/abs/2603.24527v1)** | 2026-03-25 | 46 pages |
+| **[Principled Steering via Null-space Projection for Jailbreak Defense in Vision-Language Models](https://arxiv.org/abs/2603.22094v2)** | 2026-03-25 | CVPR 2026 |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[OccAny: Generalized Unconstrained Urban 3D Occupancy](https://arxiv.org/abs/2603.23502v1)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Project page: https://valeoai.github.io/OccAny/</p></details> |
-| **[VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions](https://arxiv.org/abs/2603.23495v1)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026</p></details> |
-| **[One View Is Enough! Monocular Training for In-the-Wild Novel View Generation](https://arxiv.org/abs/2603.23488v1)** | 2026-03-24 | 34 pages, 16 figures |
-| **[InverFill: One-Step Inversion for Enhanced Few-Step Diffusion Inpainting](https://arxiv.org/abs/2603.23463v1)** | 2026-03-24 | <details><summary>Accep...</summary><p>Accepted to CVPR'26 (Main Conference)</p></details> |
-| **[RealMaster: Lifting Rendered Scenes into Photorealistic Video](https://arxiv.org/abs/2603.23462v1)** | 2026-03-24 | <details><summary>Proje...</summary><p>Project page: https://danacohen95.github.io/RealMaster/</p></details> |
-| **[Identification and estimation of causal mechanisms in cluster-randomized trials with post-treatment confounding using Bayesian nonparametrics](https://arxiv.org/abs/2510.16673v2)** | 2026-03-24 | 78 pages |
+| **[DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving](https://arxiv.org/abs/2603.24587v1)** | 2026-03-25 | first version |
+| **[Fast Relax-and-Round Unit Commitment with Sub-hourly Mechanical and Ramp Constraints](https://arxiv.org/abs/2602.03977v4)** | 2026-03-25 | 9 pages, 7 figures |
+| **[Fast Relax-and-Round Unit Commitment with Economic Horizons](https://arxiv.org/abs/2603.15934v2)** | 2026-03-25 | <details><summary>6 pag...</summary><p>6 pages (journal limit), 6 figures</p></details> |
+| **[Bayesian Component Separation for DESI LAE Automated Spectroscopic Redshifts and Photometric Targeting](https://arxiv.org/abs/2504.06870v2)** | 2026-03-25 | 20 pages, 11 figures |
+| **[Team of Thoughts: Efficient Test-time Scaling of Agentic Systems through Orchestrated Tool Calling](https://arxiv.org/abs/2602.16485v2)** | 2026-03-25 | 8 pages |
+| **[Let it Snow! Animating 3D Gaussian Scenes with Dynamic Weather Effects via Physics-Guided Score Distillation](https://arxiv.org/abs/2504.05296v4)** | 2026-03-25 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Project webpage: https://galfiebelman.github.io/let-it-snow/</p></details> |
 

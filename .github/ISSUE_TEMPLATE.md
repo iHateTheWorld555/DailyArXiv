@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - April 06, 2026
+title: Latest 6 Papers - April 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[EventHub: Data Factory for Generalizable Event-Based Stereo Networks without Active Sensors](https://arxiv.org/abs/2604.02331v1)** | 2026-04-02 | <details><summary>CVPR ...</summary><p>CVPR 2026. Project Page: https://bartn8.github.io/eventhub/ Code: https://github.com/bartn8/eventhub</p></details> |
-| **[ActionParty: Multi-Subject Action Binding in Generative Video Games](https://arxiv.org/abs/2604.02330v1)** | 2026-04-02 | <details><summary>Proje...</summary><p>Project page: https://action-party.github.io/</p></details> |
-| **[Modulate-and-Map: Crossmodal Feature Mapping with Cross-View Modulation for 3D Anomaly Detection](https://arxiv.org/abs/2604.02328v1)** | 2026-04-02 | <details><summary>Accep...</summary><p>Accepted at CVPR Findings 2026</p></details> |
-| **[Steerable Visual Representations](https://arxiv.org/abs/2604.02327v1)** | 2026-04-02 | preprint |
-| **[Beyond Referring Expressions: Scenario Comprehension Visual Grounding](https://arxiv.org/abs/2604.02323v1)** | 2026-04-02 | <details><summary>20 pa...</summary><p>20 pages, 18 figures, Project Page: https://catherine-r-he.github.io/RSC/</p></details> |
-| **[Batched Contextual Reinforcement: A Task-Scaling Law for Efficient Reasoning](https://arxiv.org/abs/2604.02322v1)** | 2026-04-02 | <details><summary>43 pa...</summary><p>43 pages, 5 figures, 24 tables</p></details> |
+| **[CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning](https://arxiv.org/abs/2604.03231v1)** | 2026-04-03 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 5 tables</p></details> |
+| **[Are Statistical Methods Obsolete in the Era of Deep Learning? A Study of ODE Inverse Problems](https://arxiv.org/abs/2505.21723v3)** | 2026-04-03 | <details><summary>35 pa...</summary><p>35 pages, 11 figures (main text)</p></details> |
+| **[VOSR: A Vision-Only Generative Model for Image Super-Resolution](https://arxiv.org/abs/2604.03225v1)** | 2026-04-03 | Accepted by CVPR2026 |
+| **[HyperCT: Low-Rank Hypernet for Unified Chest CT Analysis](https://arxiv.org/abs/2604.03224v1)** | 2026-04-03 | MIDL 2026 |
+| **[Unmixing the Crowd: Learning Mixture-to-Set Speaker Embeddings for Enrollment-Free Target Speech Extraction](https://arxiv.org/abs/2604.03219v1)** | 2026-04-03 | <details><summary>Submi...</summary><p>Submitted to ISCA Interspeech 2026</p></details> |
+| **[BAS: A Decision-Theoretic Approach to Evaluating Large Language Model Confidence](https://arxiv.org/abs/2604.03216v1)** | 2026-04-03 | <details><summary>24 pa...</summary><p>24 pages, 7 figures, 6 tables</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Steerable Visual Representations](https://arxiv.org/abs/2604.02327v1)** | 2026-04-02 | preprint |
-| **[A Simple Baseline for Streaming Video Understanding](https://arxiv.org/abs/2604.02317v1)** | 2026-04-02 | <details><summary>Proje...</summary><p>Project page: https://simple-stream.github.io/</p></details> |
-| **[Topological Effects in Neural Network Field Theory](https://arxiv.org/abs/2604.02313v1)** | 2026-04-02 | 55 pages, 8 figures |
-| **[Trapping and commutative Boolean networks](https://arxiv.org/abs/2604.02303v1)** | 2026-04-02 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2404.03553</p></details> |
-| **[Crystalite: A Lightweight Transformer for Efficient Crystal Modeling](https://arxiv.org/abs/2604.02270v1)** | 2026-04-02 | <details><summary>39 pa...</summary><p>39 pages, 13 figures. Code available at: https://github.com/joshrosie/crystalite</p></details> |
-| **[SPAR: Single-Pass Any-Resolution ViT for Open-vocabulary Segmentation](https://arxiv.org/abs/2604.02252v1)** | 2026-04-02 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
+| **[HyperCT: Low-Rank Hypernet for Unified Chest CT Analysis](https://arxiv.org/abs/2604.03224v1)** | 2026-04-03 | MIDL 2026 |
+| **[A Tsetlin Machine-driven Intrusion Detection System for Next-Generation IoMT Security](https://arxiv.org/abs/2604.03205v1)** | 2026-04-03 | <details><summary>8 pag...</summary><p>8 pages, 15 figures, 9 tables. Accepted at the 7th Silicon Valley Cybersecurity Conference (SVCC 2026), California, USA</p></details> |
+| **[Learning the Signature of Memorization in Autoregressive Language Models](https://arxiv.org/abs/2604.03199v1)** | 2026-04-03 | <details><summary>Prepr...</summary><p>Preprint. 10 pages, 4 figures, 12 tables</p></details> |
+| **[The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling](https://arxiv.org/abs/2604.03191v1)** | 2026-04-03 | 11 pages, 1 figure |
+| **[From Gaussian Fading to Gilbert-Elliott: Bridging Physical and Link-Layer Channel Models in Closed Form](https://arxiv.org/abs/2604.03160v1)** | 2026-04-03 | <details><summary>22 pa...</summary><p>22 pages, 7 figures, 1 table</p></details> |
+| **[TokenDance: Scaling Multi-Agent LLM Serving via Collective KV Cache Sharing](https://arxiv.org/abs/2604.03143v1)** | 2026-04-03 | <details><summary>14 pa...</summary><p>14 pages, 14 figures, arXiv:submit/7438760 [cs.DC], preprint under review</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond Referring Expressions: Scenario Comprehension Visual Grounding](https://arxiv.org/abs/2604.02323v1)** | 2026-04-02 | <details><summary>20 pa...</summary><p>20 pages, 18 figures, Project Page: https://catherine-r-he.github.io/RSC/</p></details> |
-| **[Batched Contextual Reinforcement: A Task-Scaling Law for Efficient Reasoning](https://arxiv.org/abs/2604.02322v1)** | 2026-04-02 | <details><summary>43 pa...</summary><p>43 pages, 5 figures, 24 tables</p></details> |
-| **[Large-scale Codec Avatars: The Unreasonable Effectiveness of Large-scale Avatar Pretraining](https://arxiv.org/abs/2604.02320v1)** | 2026-04-02 | <details><summary>Accep...</summary><p>Accepted in CVPR2026. Website: https://junxuan-li.github.io/lca</p></details> |
-| **[PARD-SSM: Probabilistic Cyber-Attack Regime Detection via Variational Switching State-Space Models](https://arxiv.org/abs/2604.02299v1)** | 2026-04-02 | <details><summary>18 pa...</summary><p>18 pages, 3 figures, 3 tables, code available on GitHub</p></details> |
-| **[SPAR: Single-Pass Any-Resolution ViT for Open-vocabulary Segmentation](https://arxiv.org/abs/2604.02252v1)** | 2026-04-02 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
-| **[Smoothing the Landscape: Causal Structure Learning via Diffusion Denoising Objectives](https://arxiv.org/abs/2604.02250v1)** | 2026-04-02 | <details><summary>To ap...</summary><p>To appear in the Proceedings of the 5th Conference on Causal Learning and Reasoning (CLeaR 2026)</p></details> |
+| **[Are Statistical Methods Obsolete in the Era of Deep Learning? A Study of ODE Inverse Problems](https://arxiv.org/abs/2505.21723v3)** | 2026-04-03 | <details><summary>35 pa...</summary><p>35 pages, 11 figures (main text)</p></details> |
+| **[VOSR: A Vision-Only Generative Model for Image Super-Resolution](https://arxiv.org/abs/2604.03225v1)** | 2026-04-03 | Accepted by CVPR2026 |
+| **[Coupled Control, Structured Memory, and Verifiable Action in Agentic AI (SCRAT -- Stochastic Control with Retrieval and Auditable Trajectories): A Comparative Perspective from Squirrel Locomotion and Scatter-Hoarding](https://arxiv.org/abs/2604.03201v1)** | 2026-04-03 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, 3 tables</p></details> |
+| **[Learning the Signature of Memorization in Autoregressive Language Models](https://arxiv.org/abs/2604.03199v1)** | 2026-04-03 | <details><summary>Prepr...</summary><p>Preprint. 10 pages, 4 figures, 12 tables</p></details> |
+| **[Beyond the Parameters: A Technical Survey of Contextual Enrichment in Large Language Models: From In-Context Prompting to Causal Retrieval-Augmented Generation](https://arxiv.org/abs/2604.03174v1)** | 2026-04-03 | 7 pages, 4 tables |
+| **[Chart-RL: Policy Optimization Reinforcement Learning for Enhanced Visual Reasoning in Chart Question Answering with Vision Language Models](https://arxiv.org/abs/2604.03157v1)** | 2026-04-03 | <details><summary>In Pr...</summary><p>In Proceedings of the 32nd ACM-SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026)</p></details> |
 

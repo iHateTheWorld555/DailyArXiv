@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - April 08, 2026
+title: Latest 6 Papers - April 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision](https://arxiv.org/abs/2604.04934v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026, Project Page: https://hyunsoocha.github.io/vanast/</p></details> |
-| **[PointTPA: Dynamic Network Parameter Adaptation for 3D Scene Understanding](https://arxiv.org/abs/2604.04933v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. The code is available at https://github.com/H-EmbodVis/PointTPA</p></details> |
-| **[Beyond the Final Actor: Modeling the Dual Roles of Creator and Editor for Fine-Grained LLM-Generated Text Detection](https://arxiv.org/abs/2604.04932v1)** | 2026-04-06 | <details><summary>ACL 2...</summary><p>ACL 2026 Accepted Paper</p></details> |
-| **[Weakly Convex Ridge Regularization for 3D Non-Cartesian MRI Reconstruction](https://arxiv.org/abs/2603.27158v2)** | 2026-04-06 | <details><summary>8 fig...</summary><p>8 figures and 2 tables</p></details> |
-| **[Your Pre-trained Diffusion Model Secretly Knows Restoration](https://arxiv.org/abs/2604.04924v1)** | 2026-04-06 | <details><summary>Proje...</summary><p>Project page: https://sudraj2002.github.io/yptpage/</p></details> |
-| **[Stratifying Reinforcement Learning with Signal Temporal Logic](https://arxiv.org/abs/2604.04923v1)** | 2026-04-06 | 8 pages, 13 figures |
+| **[Paper Circle: An Open-source Multi-agent Research Discovery and Analysis Framework](https://arxiv.org/abs/2604.06170v1)** | 2026-04-07 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 8 tables, ACL main (Oral)</p></details> |
+| **[In-Place Test-Time Training](https://arxiv.org/abs/2604.06169v1)** | 2026-04-07 | <details><summary>ICLR ...</summary><p>ICLR 2026 Oral Presentation; Code is released at https://github.com/ByteDance-Seed/In-Place-TTT</p></details> |
+| **[Action Images: End-to-End Policy Learning via Multiview Video Generation](https://arxiv.org/abs/2604.06168v1)** | 2026-04-07 | <details><summary>Proje...</summary><p>Project Page: https://actionimages.github.io/</p></details> |
+| **[Sim-CLIP: Unsupervised Siamese Adversarial Fine-Tuning for Robust and Semantically-Rich Vision-Language Models](https://arxiv.org/abs/2407.14971v3)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted at IJCNN 2026</p></details> |
+| **[DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models](https://arxiv.org/abs/2604.06161v1)** | 2026-04-07 | <details><summary>Proje...</summary><p>Project page: https://yzmblog.github.io/projects/DiffHDR/</p></details> |
+| **[The Character Error Vector: Decomposable errors for page-level OCR evaluation](https://arxiv.org/abs/2604.06160v1)** | 2026-04-07 | <details><summary>6643 ...</summary><p>6643 words, 5 figures, 15 tables</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision](https://arxiv.org/abs/2604.04934v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026, Project Page: https://hyunsoocha.github.io/vanast/</p></details> |
-| **[TriAttention: Efficient Long Reasoning with Trigonometric KV Compression](https://arxiv.org/abs/2604.04921v1)** | 2026-04-06 | <details><summary>Code ...</summary><p>Code is available at https://github.com/WeianMao/triattention</p></details> |
-| **[SpatialEdit: Benchmarking Fine-Grained Image Spatial Editing](https://arxiv.org/abs/2604.04911v1)** | 2026-04-06 | <details><summary>Code:...</summary><p>Code: https://github.com/EasonXiao-888/SpatialEdit</p></details> |
-| **[MLorc: Momentum Low-rank Compression for Memory Efficient Large Language Model Adaptation](https://arxiv.org/abs/2506.01897v4)** | 2026-04-06 | AISTATS 2026 |
-| **[Free-Range Gaussians: Non-Grid-Aligned Generative 3D Gaussian Reconstruction](https://arxiv.org/abs/2604.04874v1)** | 2026-04-06 | <details><summary>Proje...</summary><p>Project Page: https://free-range-gaussians.github.io</p></details> |
-| **[Complete invariants of atomic clouds under rigid motion with Lipschitz continuous metrics in a polynomial time](https://arxiv.org/abs/2303.13486v2)** | 2026-04-06 | <details><summary>The s...</summary><p>The second 47-page version updated notations and substantially clarified the first 15-page version. The proofs about the strength of a geometric simplex have moved to another paper at arXiv:2602.17630. The latest version is maintained at http://kurlin.org/projects/cloud-isometry-spaces/SCD.pdf</p></details> |
+| **[Paper Circle: An Open-source Multi-agent Research Discovery and Analysis Framework](https://arxiv.org/abs/2604.06170v1)** | 2026-04-07 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 8 tables, ACL main (Oral)</p></details> |
+| **[PoM: A Linear-Time Replacement for Attention with the Polynomial Mixer](https://arxiv.org/abs/2604.06129v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted to CVPR Findings 2026</p></details> |
+| **[Computational relative entropy](https://arxiv.org/abs/2509.20472v2)** | 2026-04-07 | <details><summary>Feedb...</summary><p>Feedback welcome, v2 with reworked Appendix A</p></details> |
+| **[Artificial Intelligence and the Structure of Mathematics](https://arxiv.org/abs/2604.06107v1)** | 2026-04-07 | 45 pages |
+| **[Extending ZACH-ViT to Robust Medical Imaging: Corruption and Adversarial Stress Testing in Low-Data Regimes](https://arxiv.org/abs/2604.06099v1)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026 Workshop (PHAROS-AIF-MIH)</p></details> |
+| **[Chiplet-Based RISC-V SoC with Modular AI Acceleration](https://arxiv.org/abs/2509.18355v5)** | 2026-04-07 | <details><summary>3 pag...</summary><p>3 pages, 3 figures, 2 tables, 3rd IEEE International Conference of Computational Intelligence and Network Systems 2025</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PointTPA: Dynamic Network Parameter Adaptation for 3D Scene Understanding](https://arxiv.org/abs/2604.04933v1)** | 2026-04-06 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. The code is available at https://github.com/H-EmbodVis/PointTPA</p></details> |
-| **[Your Pre-trained Diffusion Model Secretly Knows Restoration](https://arxiv.org/abs/2604.04924v1)** | 2026-04-06 | <details><summary>Proje...</summary><p>Project page: https://sudraj2002.github.io/yptpage/</p></details> |
-| **[General Geospatial Inference with a Population Dynamics Foundation Model](https://arxiv.org/abs/2411.07207v6)** | 2026-04-06 | <details><summary>updat...</summary><p>updated access information</p></details> |
-| **[A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens](https://arxiv.org/abs/2604.04913v1)** | 2026-04-06 | <details><summary>CVPR ...</summary><p>CVPR 2026. Code and weights: https://deltatok.github.io</p></details> |
-| **[Are Latent Reasoning Models Easily Interpretable?](https://arxiv.org/abs/2604.04902v1)** | 2026-04-06 | Preprint |
-| **[Free-Range Gaussians: Non-Grid-Aligned Generative 3D Gaussian Reconstruction](https://arxiv.org/abs/2604.04874v1)** | 2026-04-06 | <details><summary>Proje...</summary><p>Project Page: https://free-range-gaussians.github.io</p></details> |
+| **[In-Place Test-Time Training](https://arxiv.org/abs/2604.06169v1)** | 2026-04-07 | <details><summary>ICLR ...</summary><p>ICLR 2026 Oral Presentation; Code is released at https://github.com/ByteDance-Seed/In-Place-TTT</p></details> |
+| **[Large-scale Codec Avatars: The Unreasonable Effectiveness of Large-scale Avatar Pretraining](https://arxiv.org/abs/2604.02320v2)** | 2026-04-07 | <details><summary>Accep...</summary><p>Accepted in CVPR2026. Website: https://junxuan-li.github.io/lca</p></details> |
+| **[Fail Faster: Staging and Fast Randomness for High-Performance PBT](https://arxiv.org/abs/2503.19797v2)** | 2026-04-07 | <details><summary>25 pa...</summary><p>25 pages, 18 figures, under review at OOPSLA</p></details> |
+| **[Signature Placement in Post-Quantum TLS Certificate Hierarchies: An Experimental Study of ML-DSA and SLH-DSA in TLS 1.3 Authentication](https://arxiv.org/abs/2604.06100v1)** | 2026-04-07 | <details><summary>42 pa...</summary><p>42 pages, 20 figures, 14 tables. Experimental study of post-quantum TLS 1.3 authentication with ML-DSA and SLH-DSA certificate hierarchies</p></details> |
+| **[Chiplet-Based RISC-V SoC with Modular AI Acceleration](https://arxiv.org/abs/2509.18355v5)** | 2026-04-07 | <details><summary>3 pag...</summary><p>3 pages, 3 figures, 2 tables, 3rd IEEE International Conference of Computational Intelligence and Network Systems 2025</p></details> |
+| **[Routing Attacks in Ethereum PoS: A Systematic Exploration](https://arxiv.org/abs/2505.07713v2)** | 2026-04-07 | <details><summary>26 pa...</summary><p>26 pages, 10 figures, to be published in Financial Cryptography and Data Security 2026</p></details> |
 

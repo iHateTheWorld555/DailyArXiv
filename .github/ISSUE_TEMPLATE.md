@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - April 14, 2026
+title: Latest 6 Papers - April 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tango: Taming Visual Signals for Efficient Video Large Language Models](https://arxiv.org/abs/2604.09547v1)** | 2026-04-10 | <details><summary>Code ...</summary><p>Code is available at https://github.com/xjtupanda/Tango</p></details> |
-| **[ANTIC: Adaptive Neural Temporal In-situ Compressor](https://arxiv.org/abs/2604.09543v1)** | 2026-04-10 | <details><summary>31 pa...</summary><p>31 pages, 19 figures, 9 Tables</p></details> |
-| **[Trans-RAG: Query-Centric Vector Transformation for Secure Cross-Organizational Retrieval](https://arxiv.org/abs/2604.09541v1)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted by DASFAA 2026</p></details> |
-| **[Many Preferences, Few Policies: Towards Scalable Language Model Personalization](https://arxiv.org/abs/2604.04144v2)** | 2026-04-10 | Fixed typos |
-| **[Squeeze Evolve: Unified Multi-Model Orchestration for Verifier-Free Evolution](https://arxiv.org/abs/2604.07725v2)** | 2026-04-10 | <details><summary>40 Pa...</summary><p>40 Pages, Project Page: https://squeeze-evolve.github.io/</p></details> |
-| **[EgoTL: Egocentric Think-Aloud Chains for Long-Horizon Tasks](https://arxiv.org/abs/2604.09535v1)** | 2026-04-10 | <details><summary>https...</summary><p>https://ego-tl.github.io/</p></details> |
+| **[Solving Physics Olympiad via Reinforcement Learning on Physics Simulators](https://arxiv.org/abs/2604.11805v1)** | 2026-04-13 | <details><summary>Proje...</summary><p>Project Webpage - https://sim2reason.github.io/</p></details> |
+| **[OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation](https://arxiv.org/abs/2604.11804v1)** | 2026-04-13 | <details><summary>Proje...</summary><p>Project page: https://correr-zhou.github.io/OmniShow/</p></details> |
+| **[Saar-Voice: A Multi-Speaker Saarbrücken Dialect Speech Corpus](https://arxiv.org/abs/2604.11803v1)** | 2026-04-13 | <details><summary>accep...</summary><p>accepted at DialRes-LREC26</p></details> |
+| **[LottieGPT: Tokenizing Vector Animation for Autoregressive Generation](https://arxiv.org/abs/2604.11792v1)** | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Project Page: https://lottiegpt.github.io/</p></details> |
+| **[A Mechanistic Analysis of Looped Reasoning Language Models](https://arxiv.org/abs/2604.11791v1)** | 2026-04-13 | 39 pages, 63 figures |
+| **[Incremental Data-Driven Policy Synthesis via Game Abstractions](https://arxiv.org/abs/2511.11545v2)** | 2026-04-13 | <details><summary>Prese...</summary><p>Presented at the 40th Annual AAAI Conference on Artificial Intelligence AAAI'26 (Oral)</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ANTIC: Adaptive Neural Temporal In-situ Compressor](https://arxiv.org/abs/2604.09543v1)** | 2026-04-10 | <details><summary>31 pa...</summary><p>31 pages, 19 figures, 9 Tables</p></details> |
-| **[Trans-RAG: Query-Centric Vector Transformation for Secure Cross-Organizational Retrieval](https://arxiv.org/abs/2604.09541v1)** | 2026-04-10 | <details><summary>Accep...</summary><p>Accepted by DASFAA 2026</p></details> |
-| **[A Θ(m^9) ternary minimum-cost network flow LP model of the Assignment Problem polytope with applications to hard combinatorial optimization problems](https://arxiv.org/abs/1610.00353v13)** | 2026-04-10 | <details><summary>PDF C...</summary><p>PDF Copy of the actual version that was published + Results of an assessment by the Grok AI</p></details> |
-| **[Semantic Rate-Distortion for Bounded Multi-Agent Communication: Capacity-Derived Semantic Spaces and the Communication Cost of Alignment](https://arxiv.org/abs/2604.09521v1)** | 2026-04-10 | <details><summary>34 pa...</summary><p>34 pages, 13 figures. Code: https://github.com/alch3mistdev/semantic-rate-distortion</p></details> |
-| **[Do Generalized-Gamma Scale Mixtures of Normals Fit Large Image Datasets?](https://arxiv.org/abs/2512.17038v3)** | 2026-04-10 | <details><summary>22 pa...</summary><p>22 pages main text, 21 figures, 7 tables, 10 pages appendix</p></details> |
-| **[DSVTLA: Deep Swin Vision Transformer-Based Transfer Learning Architecture for Multi-Type Cancer Histopathological Cancer Image Classification](https://arxiv.org/abs/2604.09468v1)** | 2026-04-10 | 25 [ages. 9 Figures |
+| **[LottieGPT: Tokenizing Vector Animation for Autoregressive Generation](https://arxiv.org/abs/2604.11792v1)** | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Project Page: https://lottiegpt.github.io/</p></details> |
+| **[HDR Video Generation via Latent Alignment with Logarithmic Encoding](https://arxiv.org/abs/2604.11788v1)** | 2026-04-13 | <details><summary>https...</summary><p>https://HDR-LumiVid.github.io</p></details> |
+| **[HistLens: Mapping Idea Change across Concepts and Corpora](https://arxiv.org/abs/2604.11749v1)** | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 MainConference</p></details> |
+| **[Learning Long-term Motion Embeddings for Efficient Kinematics Generation](https://arxiv.org/abs/2604.11737v1)** | 2026-04-13 | <details><summary>for t...</summary><p>for the project page and code, view https://compvis.github.io/long-term-motion</p></details> |
+| **[A Metamorphic Testing Perspective on Knowledge Distillation for Language Models of Code: Does the Student Deeply Mimic the Teacher?](https://arxiv.org/abs/2511.05476v4)** | 2026-04-13 | <details><summary>This ...</summary><p>This paper is a revised version of a manuscript currently under revision at the Journal of Systems and Software</p></details> |
+| **[Statistical inference for a multiscale stochastic model of enzyme kinetics via propagation of chaos](https://arxiv.org/abs/2409.06565v3)** | 2026-04-13 | <details><summary>Remov...</summary><p>Removed functional central limit theorem and added new results to the parameter inference section</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tango: Taming Visual Signals for Efficient Video Large Language Models](https://arxiv.org/abs/2604.09547v1)** | 2026-04-10 | <details><summary>Code ...</summary><p>Code is available at https://github.com/xjtupanda/Tango</p></details> |
-| **[Squeeze Evolve: Unified Multi-Model Orchestration for Verifier-Free Evolution](https://arxiv.org/abs/2604.07725v2)** | 2026-04-10 | <details><summary>40 Pa...</summary><p>40 Pages, Project Page: https://squeeze-evolve.github.io/</p></details> |
-| **[Envisioning the Future, One Step at a Time](https://arxiv.org/abs/2604.09527v1)** | 2026-04-10 | <details><summary>CVPR ...</summary><p>CVPR 2026. For code and models, see http://compvis.github.io/myriad</p></details> |
-| **[Do Generalized-Gamma Scale Mixtures of Normals Fit Large Image Datasets?](https://arxiv.org/abs/2512.17038v3)** | 2026-04-10 | <details><summary>22 pa...</summary><p>22 pages main text, 21 figures, 7 tables, 10 pages appendix</p></details> |
-| **[SubQuad: Near-Quadratic-Free Structure Inference with Distribution-Balanced Objectives in Adaptive Receptor framework](https://arxiv.org/abs/2602.17330v3)** | 2026-04-10 | 27 pages, 9 figures |
-| **[Distribution-free two-sample testing with blurred total variation distance](https://arxiv.org/abs/2602.05862v2)** | 2026-04-10 | 47 pages, 4 figures |
+| **[A Mechanistic Analysis of Looped Reasoning Language Models](https://arxiv.org/abs/2604.11791v1)** | 2026-04-13 | 39 pages, 63 figures |
+| **[HDR Video Generation via Latent Alignment with Logarithmic Encoding](https://arxiv.org/abs/2604.11788v1)** | 2026-04-13 | <details><summary>https...</summary><p>https://HDR-LumiVid.github.io</p></details> |
+| **[AtlasKV: Augmenting LLMs with Billion-Scale Knowledge Graphs in 20GB VRAM](https://arxiv.org/abs/2510.17934v2)** | 2026-04-13 | ICLR 2026 |
+| **[Inferring Change Points in Regression via Sample Weighting](https://arxiv.org/abs/2604.11746v1)** | 2026-04-13 | 70 pages, 11 figures |
+| **[Collaborative Multi-Agent Scripts Generation for Enhancing Imperfect-Information Reasoning in Murder Mystery Games](https://arxiv.org/abs/2604.11741v1)** | 2026-04-13 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, Findings of ACL 2026</p></details> |
+| **[A Metamorphic Testing Perspective on Knowledge Distillation for Language Models of Code: Does the Student Deeply Mimic the Teacher?](https://arxiv.org/abs/2511.05476v4)** | 2026-04-13 | <details><summary>This ...</summary><p>This paper is a revised version of a manuscript currently under revision at the Journal of Systems and Software</p></details> |
 

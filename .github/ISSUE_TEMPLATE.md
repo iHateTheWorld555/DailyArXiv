@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - April 16, 2026
+title: Latest 6 Papers - April 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Lyra 2.0: Explorable Generative 3D Worlds](https://arxiv.org/abs/2604.13036v1)** | 2026-04-14 | <details><summary>Proje...</summary><p>Project Page: https://research.nvidia.com/labs/sil/projects/lyra2/</p></details> |
-| **[SceneCritic: A Symbolic Evaluator for 3D Indoor Scene Synthesis](https://arxiv.org/abs/2604.13035v1)** | 2026-04-14 | <details><summary>Proje...</summary><p>Project Page: https://lab-spell.github.io/SceneCritic/</p></details> |
-| **[Generative Refinement Networks for Visual Synthesis](https://arxiv.org/abs/2604.13030v1)** | 2026-04-14 | <details><summary>code:...</summary><p>code: https://github.com/MGenAI/GRN</p></details> |
-| **[Conflated Inverse Modeling to Generate Diverse and Temperature-Change Inducing Urban Vegetation Patterns](https://arxiv.org/abs/2604.13028v1)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted to the CVPR 2026 EarthVision Workshop</p></details> |
-| **[Point Prompting: Counterfactual Tracking with Video Diffusion Models](https://arxiv.org/abs/2510.11715v2)** | 2026-04-14 | <details><summary>ICLR ...</summary><p>ICLR 2026. Project link: https://point-prompting.github.io</p></details> |
-| **[A complexity phase transition at the EPR Hamiltonian](https://arxiv.org/abs/2604.13026v1)** | 2026-04-14 | 47 pages, 8 figures |
+| **[Seedance 2.0: Advancing Video Generation for World Complexity](https://arxiv.org/abs/2604.14148v1)** | 2026-04-15 | <details><summary>Seeda...</summary><p>Seedance 2.0 Model Card</p></details> |
+| **[ROSE: Retrieval-Oriented Segmentation Enhancement](https://arxiv.org/abs/2604.14147v1)** | 2026-04-15 | <details><summary>CVPR ...</summary><p>CVPR 2026 Findings, Project Page: https://henghuiding.com/ROSE/</p></details> |
+| **[From $P(y|x)$ to $P(y)$: Investigating Reinforcement Learning in Pre-train Space](https://arxiv.org/abs/2604.14142v1)** | 2026-04-15 | <details><summary>Prepr...</summary><p>Preprint. Our code is available at https://github.com/Trae1ounG/Pretrain_Space_RLVR</p></details> |
+| **[Geometric Context Transformer for Streaming 3D Reconstruction](https://arxiv.org/abs/2604.14141v1)** | 2026-04-15 | <details><summary>Proje...</summary><p>Project page: https://technology.robbyant.com/lingbot-map Code: https://github.com/robbyant/lingbot-map</p></details> |
+| **[LongCoT: Benchmarking Long-Horizon Chain-of-Thought Reasoning](https://arxiv.org/abs/2604.14140v1)** | 2026-04-15 | <details><summary>Long-...</summary><p>Long-Horizon Reasoning Benchmark</p></details> |
+| **[From Feelings to Metrics: Understanding and Formalizing How Users Vibe-Test LLMs](https://arxiv.org/abs/2604.14137v1)** | 2026-04-15 | <details><summary>TLDR:...</summary><p>TLDR: Under review. 42 pages, 18 figures. Code and data at https://itay1itzhak.github.io/vibe-testing-llms Subjects: Computation and Language (cs.CL); Machine Learning (cs.LG)</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A complexity phase transition at the EPR Hamiltonian](https://arxiv.org/abs/2604.13026v1)** | 2026-04-14 | 47 pages, 8 figures |
-| **[Model Compression vs. Adversarial Robustness: An Empirical Study on Language Models for Code](https://arxiv.org/abs/2508.03949v2)** | 2026-04-14 | <details><summary>This ...</summary><p>This paper is a revised version of a manuscript currently under revision at Empirical Software Engineering Journal</p></details> |
-| **[Towards Generalized Certified Robustness with Multi-Norm Training](https://arxiv.org/abs/2410.03000v3)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted by TMLR 2026</p></details> |
-| **[Building evidence-based knowledge bases from full-text literature for disease-specific biomedical reasoning](https://arxiv.org/abs/2603.28325v3)** | 2026-04-14 | <details><summary>30 pa...</summary><p>30 pages, 5 figures, 12 tables</p></details> |
-| **[MetFuse: Figurative Fusion between Metonymy and Metaphor](https://arxiv.org/abs/2604.12919v1)** | 2026-04-14 | ACL 2026 |
-| **[One View Is Enough! Monocular Training for In-the-Wild Novel View Generation](https://arxiv.org/abs/2603.23488v2)** | 2026-04-14 | 36 pages, 17 figures |
+| **[Geometric Context Transformer for Streaming 3D Reconstruction](https://arxiv.org/abs/2604.14141v1)** | 2026-04-15 | <details><summary>Proje...</summary><p>Project page: https://technology.robbyant.com/lingbot-map Code: https://github.com/robbyant/lingbot-map</p></details> |
+| **[HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System](https://arxiv.org/abs/2604.14125v1)** | 2026-04-15 | <details><summary>Proje...</summary><p>Project Page: https://tianshuoy.github.io/HiVLA-page/</p></details> |
+| **[ReproMIA: A Comprehensive Analysis of Model Reprogramming for Proactive Membership Inference Attacks](https://arxiv.org/abs/2603.28942v3)** | 2026-04-15 | <details><summary>This ...</summary><p>This version was posted without enough prior discussion with my collaborator. Thus, it is being withdrawn pending further internal review. The authors do not wish this version to be considered part of the active scientific record in its current form</p></details> |
+| **[IGen: Scalable Data Generation for Robot Learning from Open-World Images](https://arxiv.org/abs/2512.01773v2)** | 2026-04-15 | <details><summary>8 pag...</summary><p>8 pages, 8 figures; Accepted to CVPR 2026</p></details> |
+| **[HAMLET: Switch your Vision-Language-Action Model into a History-Aware Policy](https://arxiv.org/abs/2510.00695v3)** | 2026-04-15 | <details><summary>ICLR ...</summary><p>ICLR 2026. Project page: https://myungkyukoo.github.io/hamlet/</p></details> |
+| **[OneHOI: Unifying Human-Object Interaction Generation and Editing](https://arxiv.org/abs/2604.14062v1)** | 2026-04-15 | <details><summary>Accep...</summary><p>Accepted at CVPR2026. This paper moves toward unifying HOI generation and editing within a single model</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[KG-Hopper: Empowering Compact Open LLMs with Knowledge Graph Reasoning via Reinforcement Learning](https://arxiv.org/abs/2603.21440v4)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted to IJCNN 2026</p></details> |
-| **[Model Compression vs. Adversarial Robustness: An Empirical Study on Language Models for Code](https://arxiv.org/abs/2508.03949v2)** | 2026-04-14 | <details><summary>This ...</summary><p>This paper is a revised version of a manuscript currently under revision at Empirical Software Engineering Journal</p></details> |
-| **[On causal inference with marked point process data](https://arxiv.org/abs/2604.12977v1)** | 2026-04-14 | 82 pages |
-| **[Are Pretrained Image Matchers Good Enough for SAR-Optical Satellite Registration?](https://arxiv.org/abs/2604.10217v2)** | 2026-04-14 | <details><summary>CVPR ...</summary><p>CVPR 2026 Image Matching Workshop</p></details> |
-| **[Efficient Retrieval Scaling with Hierarchical Indexing for Large Scale Recommendation](https://arxiv.org/abs/2604.12965v1)** | 2026-04-14 | 11 pages, 5 figures |
-| **[Grasp in Gaussians: Fast Monocular Reconstruction of Dynamic Hand-Object Interactions](https://arxiv.org/abs/2604.12929v1)** | 2026-04-14 | <details><summary>Proje...</summary><p>Project page: https://aidilayce.github.io/GraG-page/</p></details> |
+| **[Seedance 2.0: Advancing Video Generation for World Complexity](https://arxiv.org/abs/2604.14148v1)** | 2026-04-15 | <details><summary>Seeda...</summary><p>Seedance 2.0 Model Card</p></details> |
+| **[Geometric Context Transformer for Streaming 3D Reconstruction](https://arxiv.org/abs/2604.14141v1)** | 2026-04-15 | <details><summary>Proje...</summary><p>Project page: https://technology.robbyant.com/lingbot-map Code: https://github.com/robbyant/lingbot-map</p></details> |
+| **[UI-Zoomer: Uncertainty-Driven Adaptive Zoom-In for GUI Grounding](https://arxiv.org/abs/2604.14113v1)** | 2026-04-15 | <details><summary>Proje...</summary><p>Project Page: https://zju-real.github.io/UI-Zoomer Code: https://github.com/ZJU-REAL/UI-Zoomer</p></details> |
+| **[ReproMIA: A Comprehensive Analysis of Model Reprogramming for Proactive Membership Inference Attacks](https://arxiv.org/abs/2603.28942v3)** | 2026-04-15 | <details><summary>This ...</summary><p>This version was posted without enough prior discussion with my collaborator. Thus, it is being withdrawn pending further internal review. The authors do not wish this version to be considered part of the active scientific record in its current form</p></details> |
+| **[From Weights to Activations: Is Steering the Next Frontier of Adaptation?](https://arxiv.org/abs/2604.14090v1)** | 2026-04-15 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 (Main)</p></details> |
+| **[Towards Unconstrained Human-Object Interaction](https://arxiv.org/abs/2604.14069v1)** | 2026-04-15 | <details><summary>Accep...</summary><p>Accepted to the 20th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2026)</p></details> |
 

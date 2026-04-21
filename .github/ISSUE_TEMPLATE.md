@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - April 20, 2026
+title: Latest 6 Papers - April 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories](https://arxiv.org/abs/2604.15311v1)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026. Project page: https://rockeycoss.github.io/leapalign/</p></details> |
-| **[TokenLight: Precise Lighting Control in Images using Attribute Tokens](https://arxiv.org/abs/2604.15310v1)** | 2026-04-16 | 32 pages, CVPR 2026 |
-| **[RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework](https://arxiv.org/abs/2604.15308v1)** | 2026-04-16 | <details><summary>Proje...</summary><p>Project page: https://hgao-cv.github.io/RAD-2</p></details> |
-| **[Think in Latent Thoughts: A New Paradigm for Gloss-Free Sign Language Translation](https://arxiv.org/abs/2604.15301v1)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Main</p></details> |
-| **[AnimationBench: Are Video Models Good at Character-Centric Animation?](https://arxiv.org/abs/2604.15299v1)** | 2026-04-16 | <details><summary>Proje...</summary><p>Project Page: https://animationbench.github.io Code: https://github.com/VideoVerses/AnimationBench</p></details> |
-| **[Benchmarking Optimizers for MLPs in Tabular Deep Learning](https://arxiv.org/abs/2604.15297v1)** | 2026-04-16 | <details><summary>Code:...</summary><p>Code: https://github.com/yandex-research/tabular-dl-optimizers</p></details> |
+| **[MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval](https://arxiv.org/abs/2604.18584v1)** | 2026-04-20 | <details><summary>ICLR ...</summary><p>ICLR 2026; Website: http://mathnet.mit.edu</p></details> |
+| **[MUA: Mobile Ultra-detailed Animatable Avatars](https://arxiv.org/abs/2604.18583v1)** | 2026-04-20 | <details><summary>Proje...</summary><p>Project page: https://vcai.mpi-inf.mpg.de/projects/MUA/</p></details> |
+| **[Self-Correcting Text-to-Video Generation with Misalignment Detection and Localized Refinement](https://arxiv.org/abs/2411.15115v3)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted to ACL 2026 Findings. Project page: https://video-repair.github.io</p></details> |
+| **[Sessa: Selective State Space Attention](https://arxiv.org/abs/2604.18580v1)** | 2026-04-20 | <details><summary>Code ...</summary><p>Code available at: https://github.com/LibratioAI/sessa</p></details> |
+| **[ReCap: Lightweight Referential Grounding for Coherent Story Visualization](https://arxiv.org/abs/2604.18575v1)** | 2026-04-20 | <details><summary>Diffu...</summary><p>Diffusion Models, Story Visualization</p></details> |
+| **[Back into Plato's Cave: Examining Cross-modal Representational Convergence at Scale](https://arxiv.org/abs/2604.18572v1)** | 2026-04-20 | <details><summary>Proje...</summary><p>Project page: http://akoepke.github.io/cave_umwelten/</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Bandwidth Cost of Locally Repairable Convertible Codes in the Global Merge Regime](https://arxiv.org/abs/2604.15282v1)** | 2026-04-16 | <details><summary>This ...</summary><p>This is an extended version of an IEEE ISIT 2026 paper with the same title</p></details> |
-| **[Beyond Augmentation: Cross-Modal Transformer Fusion with Bi-directional Attention for Low-Data Aneurysm Screening](https://arxiv.org/abs/2512.22185v2)** | 2026-04-16 | <details><summary>We ha...</summary><p>We had major improvements in this second draft. Please refer to this version only</p></details> |
-| **[Stability and Generalization in Looped Transformers](https://arxiv.org/abs/2604.15259v1)** | 2026-04-16 | <details><summary>11 ma...</summary><p>11 main pages, 27 total</p></details> |
-| **[TokenGS: Decoupling 3D Gaussian Prediction from Pixels with Learnable Tokens](https://arxiv.org/abs/2604.15239v1)** | 2026-04-16 | <details><summary>Proje...</summary><p>Project page: https://research.nvidia.com/labs/toronto-ai/tokengs</p></details> |
-| **[PixelDiT: Pixel Diffusion Transformers for Image Generation](https://arxiv.org/abs/2511.20645v2)** | 2026-04-16 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
-| **[Geometric Context Transformer for Streaming 3D Reconstruction](https://arxiv.org/abs/2604.14141v2)** | 2026-04-16 | <details><summary>Proje...</summary><p>Project page: https://technology.robbyant.com/lingbot-map Code: https://github.com/robbyant/lingbot-map</p></details> |
+| **[Sessa: Selective State Space Attention](https://arxiv.org/abs/2604.18580v1)** | 2026-04-20 | <details><summary>Code ...</summary><p>Code available at: https://github.com/LibratioAI/sessa</p></details> |
+| **[Mechanisms of Multimodal Synchronization: Insights from Decoder-Based Video-Text-to-Speech Synthesis](https://arxiv.org/abs/2411.17690v3)** | 2026-04-20 | <details><summary>30 pa...</summary><p>30 pages, Decoder-only model, Speech Synthesis</p></details> |
+| **[AnchorSeg: Language Grounded Query Banks for Reasoning Segmentation](https://arxiv.org/abs/2604.18562v1)** | 2026-04-20 | <details><summary>This ...</summary><p>This work has been accepted to ACL 2026, please refer to https://github.com/rui-qian/AnchorSeg</p></details> |
+| **[Advancing Vision Transformer with Enhanced Spatial Priors](https://arxiv.org/abs/2604.18549v1)** | 2026-04-20 | <details><summary>Accep...</summary><p>Accepted by TPAMI2026</p></details> |
+| **[MetaCloak-JPEG: JPEG-Robust Adversarial Perturbation for Preventing Unauthorized DreamBooth-Based Deepfake Generation](https://arxiv.org/abs/2604.18537v1)** | 2026-04-20 | 8 pages, 5 figures |
+| **[SpatialStack: Layered Geometry-Language Fusion for 3D VLM Spatial Reasoning](https://arxiv.org/abs/2603.27437v2)** | 2026-04-20 | <details><summary>CVPR ...</summary><p>CVPR 2026, Project Website: https://spatial-stack.github.io/</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Bidirectional Cross-Modal Prompting for Event-Frame Asymmetric Stereo](https://arxiv.org/abs/2604.15312v1)** | 2026-04-16 | <details><summary>CVPR ...</summary><p>CVPR 2026. Code URL: https://github.com/xnh97/Bi-CMPStereo</p></details> |
-| **[cuRoboV2: Dynamics-Aware Motion Generation with Depth-Fused Distance Fields for High-DoF Robots](https://arxiv.org/abs/2603.05493v2)** | 2026-04-16 | <details><summary>cuRob...</summary><p>cuRoboV2 Technical Report with code url</p></details> |
-| **[How Do LLMs and VLMs Understand Viewpoint Rotation Without Vision? An Interpretability Study](https://arxiv.org/abs/2604.15294v1)** | 2026-04-16 | <details><summary>Publi...</summary><p>Published as a main-conference paper at The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)</p></details> |
-| **[Model Capability Dominates: Inference-Time Optimization Lessons from AIMO 3](https://arxiv.org/abs/2603.27844v2)** | 2026-04-16 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 10 tables. Kaggle AIMO 3 competition entry. Code and notebooks: https://github.com/nat-nischw/model-capability-dominates-lessons-aimo3</p></details> |
-| **[On a Probability Inequality for Order Statistics with Applications to Bootstrap, Conformal Prediction, and more](https://arxiv.org/abs/2604.15229v1)** | 2026-04-16 | 65 pages, 10 figures |
-| **[IMPACTX: improving model performance by appropriately constraining the training with teacher explanations](https://arxiv.org/abs/2502.12222v2)** | 2026-04-16 | <details><summary>Publi...</summary><p>Published on Artificial Intelligence Review</p></details> |
+| **[ReCap: Lightweight Referential Grounding for Coherent Story Visualization](https://arxiv.org/abs/2604.18575v1)** | 2026-04-20 | <details><summary>Diffu...</summary><p>Diffusion Models, Story Visualization</p></details> |
+| **[Latent Phase-Shift Rollback: Inference-Time Error Correction via Residual Stream Monitoring and KV-Cache Steering](https://arxiv.org/abs/2604.18567v1)** | 2026-04-20 | Under Review |
+| **[How to sketch a learning algorithm](https://arxiv.org/abs/2604.07328v2)** | 2026-04-20 | <details><summary>Impro...</summary><p>Improved presentation and simplified Algorithm 4</p></details> |
+| **[Inference-Time Distillation: Cost-Efficient Agents Without Fine-Tuning or Manual Prompt Engineering](https://arxiv.org/abs/2512.02543v3)** | 2026-04-20 | 21 pages, 4 figures |
+| **[Fast and Forgettable: A Controlled Study of Novices' Performance, Learning, Workload, and Emotion in AI-Assisted and Human Pair Programming Paradigms](https://arxiv.org/abs/2604.18538v1)** | 2026-04-20 | <details><summary>for o...</summary><p>for online appendices, see https://doi.org/10.5281/zenodo.19665253</p></details> |
+| **[BBP transition and the leading eigenvector of the spiked Wigner model with inhomogeneous noise](https://arxiv.org/abs/2604.18523v1)** | 2026-04-20 | 21 pages, 7 figures |
 

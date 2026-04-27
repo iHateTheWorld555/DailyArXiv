@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - April 27, 2026
+title: Latest 6 Papers - April 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Seeing Fast and Slow: Learning the Flow of Time in Videos](https://arxiv.org/abs/2604.21931v1)** | 2026-04-23 | <details><summary>Proje...</summary><p>Project page: https://seeing-fast-and-slow.github.io/</p></details> |
-| **[Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability](https://arxiv.org/abs/2604.21930v1)** | 2026-04-23 | 12 pages, 2 figures |
-| **[Fine-Tuning Regimes Define Distinct Continual Learning Problems](https://arxiv.org/abs/2604.21927v1)** | 2026-04-23 | 14 pages, 3 figures |
-| **[Seeing Without Eyes: 4D Human-Scene Understanding from Wearable IMUs](https://arxiv.org/abs/2604.21926v1)** | 2026-04-23 | <details><summary>Proje...</summary><p>Project page: https://tianhang-cheng.github.io/IMU4D</p></details> |
-| **[Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps](https://arxiv.org/abs/2604.19533v3)** | 2026-04-23 | <details><summary>Updat...</summary><p>Updated leaderboard with newer models</p></details> |
-| **[Context Unrolling in Omni Models](https://arxiv.org/abs/2604.21921v1)** | 2026-04-23 | Report |
+| **[Beyond N-gram: Data-Aware X-GRAM Extraction for Efficient Embedding Parameter Scaling](https://arxiv.org/abs/2604.21724v2)** | 2026-04-24 | <details><summary>29 pa...</summary><p>29 pages, 9 figures, 13 tables</p></details> |
+| **[Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities](https://arxiv.org/abs/2604.22749v1)** | 2026-04-24 | <details><summary>FAccT...</summary><p>FAccT '26, June 25-28, 2026, Montreal, QC, Canada</p></details> |
+| **[Code for All: Educational Applications of the "Vibe Coding" Hackathon in Programming Education across All Skill Levels](https://arxiv.org/abs/2604.22747v1)** | 2026-04-24 | 15 pages, 14 figures |
+| **[Relaxation-Informed Training of Neural Network Surrogate Models](https://arxiv.org/abs/2604.22746v1)** | 2026-04-24 | 35 pages, 5 figures |
+| **[FlowForge: A Staged Local Rollout Engine for Flow-Field Prediction](https://arxiv.org/abs/2604.18953v2)** | 2026-04-24 | <details><summary>Main ...</summary><p>Main paper: 13 pages, 6 figures, 2 tables. Appendix: 17 pages, 7 figures, 1 table. arXiv preprint</p></details> |
+| **[Multiplex Hypergraph Modeling of Higher Order Structures in Psychometric Networks](https://arxiv.org/abs/2604.22744v1)** | 2026-04-24 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 2 tables</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ATOM: A Pretrained Neural Operator for Multitask Molecular Dynamics](https://arxiv.org/abs/2510.05482v2)** | 2026-04-23 | Accepted at ICLR2026 |
-| **[Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models](https://arxiv.org/abs/2604.21896v1)** | 2026-04-23 | 14 figures, 3 tables |
-| **[Revealing Geography-Driven Signals in Zone-Level Claim Frequency Models: An Empirical Study using Environmental and Visual Predictors](https://arxiv.org/abs/2604.21893v1)** | 2026-04-23 | 35 pages, 8 figures |
-| **[Neuromorphic Computing Based on Parametrically-Driven Oscillators and Frequency Combs](https://arxiv.org/abs/2604.21861v1)** | 2026-04-23 | 7 pages, 5 figures |
-| **[Bounding the Black Box: A Statistical Certification Framework for AI Risk Regulation](https://arxiv.org/abs/2604.21854v1)** | 2026-04-23 | 11 pages |
-| **[Variance Geometry of Exact Pauli-Detecting Codes: Continuous Landscapes Beyond Stabilizers](https://arxiv.org/abs/2604.21800v1)** | 2026-04-23 | 30 pages, 1 figure |
+| **[Beyond N-gram: Data-Aware X-GRAM Extraction for Efficient Embedding Parameter Scaling](https://arxiv.org/abs/2604.21724v2)** | 2026-04-24 | <details><summary>29 pa...</summary><p>29 pages, 9 figures, 13 tables</p></details> |
+| **[Beyond Linearity in Attention Projections: The Case for Nonlinear Queries](https://arxiv.org/abs/2603.13381v2)** | 2026-04-24 | <details><summary>Accep...</summary><p>Accepted at the ICLR 2026 GRaM workshop: https://openreview.net/forum?id=pwdnneFiNZ#discussion</p></details> |
+| **[Differentiable Filtering for Learning Hidden Markov Models](https://arxiv.org/abs/2511.10571v2)** | 2026-04-24 | <details><summary>20 pa...</summary><p>20 pages, 8 figures, accepted to conference: L4DC 2026</p></details> |
+| **[DVGT-2: Vision-Geometry-Action Model for Autonomous Driving at Scale](https://arxiv.org/abs/2604.00813v3)** | 2026-04-24 | <details><summary>Code ...</summary><p>Code is available at https://github.com/wzzheng/DVGT</p></details> |
+| **[An Efficient Wireless iBCI Headstage with Adaptive ADC Sample Rate](https://arxiv.org/abs/2604.21247v2)** | 2026-04-24 | <details><summary>EMBC'...</summary><p>EMBC'26, 7 pages, version 2</p></details> |
+| **[EV-CLIP: Efficient Visual Prompt Adaptation for CLIP in Few-shot Action Recognition under Visual Challenges](https://arxiv.org/abs/2604.22595v1)** | 2026-04-24 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 6 tables</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Seeing Fast and Slow: Learning the Flow of Time in Videos](https://arxiv.org/abs/2604.21931v1)** | 2026-04-23 | <details><summary>Proje...</summary><p>Project page: https://seeing-fast-and-slow.github.io/</p></details> |
-| **[Vista4D: Video Reshooting with 4D Point Clouds](https://arxiv.org/abs/2604.21915v1)** | 2026-04-23 | <details><summary>24 pa...</summary><p>24 pages, 20 figures, CVPR 2026, see project page at https://eyeline-labs.github.io/Vista4D</p></details> |
-| **[Nonparametric f-Modeling for Empirical Bayes Inference with Unequal and Unknown Variances](https://arxiv.org/abs/2604.21865v1)** | 2026-04-23 | 31 pages, 3 figures |
-| **[Bounding the Black Box: A Statistical Certification Framework for AI Risk Regulation](https://arxiv.org/abs/2604.21854v1)** | 2026-04-23 | 11 pages |
-| **[Sampling from the Hardcore Model on Random Regular Bipartite Graphs above the Uniqueness Threshold](https://arxiv.org/abs/2604.21847v1)** | 2026-04-23 | 35 pages |
-| **[Black-Box Skill Stealing Attack from Proprietary LLM Agents: An Empirical Study](https://arxiv.org/abs/2604.21829v1)** | 2026-04-23 | Preprint |
+| **[FlowForge: A Staged Local Rollout Engine for Flow-Field Prediction](https://arxiv.org/abs/2604.18953v2)** | 2026-04-24 | <details><summary>Main ...</summary><p>Main paper: 13 pages, 6 figures, 2 tables. Appendix: 17 pages, 7 figures, 1 table. arXiv preprint</p></details> |
+| **[GCImOpt: Learning efficient goal-conditioned policies by imitating optimal trajectories](https://arxiv.org/abs/2604.22724v1)** | 2026-04-24 | <details><summary>Accep...</summary><p>Accepted for publication at the 8th Annual Conference on Learning for Dynamics and Control (L4DC 2026). 16 pages (including appendix), 1 figure. For project website, see https://jongoiko.github.io/gcimopt/</p></details> |
+| **[Unlocking the Edge deployment and ondevice acceleration of multi-LoRA enabled one-for-all foundational LLM](https://arxiv.org/abs/2604.18655v2)** | 2026-04-24 | Accepted at ACL 2026 |
+| **[Asymmetric Goal Drift in Coding Agents Under Value Conflict](https://arxiv.org/abs/2603.03456v2)** | 2026-04-24 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Published as a workshop paper in Lifelong Agents @ ICLR 2026</p></details> |
+| **[Sparse Network Inference under Imperfect Detection and its Application to Ecological Networks](https://arxiv.org/abs/2604.18820v2)** | 2026-04-24 | 13 pages, 4 figures |
+| **[Inferring Equivalence Classes from Legacy Undocumented Embedded Binaries for ISO 26262-Compliant Testing](https://arxiv.org/abs/2604.22673v1)** | 2026-04-24 | <details><summary>Paper...</summary><p>Paper Accepted at EASE 26</p></details> |
 

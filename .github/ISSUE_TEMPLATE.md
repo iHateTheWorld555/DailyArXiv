@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - April 29, 2026
+title: Latest 6 Papers - May 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[World-R1: Reinforcing 3D Constraints for Text-to-Video Generation](https://arxiv.org/abs/2604.24764v1)** | 2026-04-27 | <details><summary>Proje...</summary><p>Project Page: https://aka.ms/world-r1, Code: https://github.com/microsoft/World-R1</p></details> |
-| **[Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation](https://arxiv.org/abs/2604.24763v1)** | 2026-04-27 | <details><summary>Proje...</summary><p>Project page: https://tuna-ai.org/tuna-2</p></details> |
-| **[MAGIC-TTS: Fine-Grained Controllable Speech Synthesis with Explicit Local Duration and Pause Control](https://arxiv.org/abs/2604.21164v2)** | 2026-04-27 | <details><summary>Relea...</summary><p>Release MAGIC-TTS code, pretrained models, and demo: https://github.com/yongaifadian1/MAGIC-TTS, https://huggingface.co/maimai11/MAGIC-TTS, https://yongaifadian1.github.io/MAGIC-TTS/</p></details> |
-| **[Personalized Worked Example Generation from Student Code Submissions using Pattern-based Knowledge Components](https://arxiv.org/abs/2604.24758v1)** | 2026-04-27 | <details><summary>Accep...</summary><p>Accepted to the Thirteenth ACM Conference on Learning @ Scale (L@S 2026)</p></details> |
-| **[A Strongly Polynomial Algorithm for Arctic Auctions](https://arxiv.org/abs/2604.24756v1)** | 2026-04-27 | 52 pages |
-| **[Game-Time: Evaluating Temporal Dynamics in Spoken Language Models](https://arxiv.org/abs/2509.26388v3)** | 2026-04-27 | <details><summary>Accep...</summary><p>Accepted to ICASSP 2026</p></details> |
+| **[Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models](https://arxiv.org/abs/2604.26951v1)** | 2026-04-29 | <details><summary>15 pa...</summary><p>15 pages, 3 figures. Code: https://github.com/PKU-YuanGroup/TIDE</p></details> |
+| **[Three-Step Nav: A Hierarchical Global-Local Planner for Zero-Shot Vision-and-Language Navigation](https://arxiv.org/abs/2604.26946v1)** | 2026-04-29 | <details><summary>Accep...</summary><p>Accepted to AISTATS 2026. Code: https://github.com/ZoeyZheng0/3-step-Nav</p></details> |
+| **[World2VLM: Distilling World Model Imagination into VLMs for Dynamic Spatial Reasoning](https://arxiv.org/abs/2604.26934v1)** | 2026-04-29 | <details><summary>The c...</summary><p>The code is available at https://github.com/WanyueZhang-ai/World2VLM. The dataset is available at https://huggingface.co/datasets/WanyueZhang/World2VLM</p></details> |
+| **[ClassEval-Pro: A Cross-Domain Benchmark for Class-Level Code Generation](https://arxiv.org/abs/2604.26923v1)** | 2026-04-29 | <details><summary>Accep...</summary><p>Accepted to AIware 2026. Code and data available at https://github.com/ian-Kappa/ClassEval-Pro</p></details> |
+| **[Causal Learning with Neural Assemblies](https://arxiv.org/abs/2604.26919v1)** | 2026-04-29 | 8 pages, 11 figures |
+| **[AnimateAnyMesh++: A Flexible 4D Foundation Model for High-Fidelity Text-Driven Mesh Animation](https://arxiv.org/abs/2604.26917v1)** | 2026-04-29 | <details><summary>14 pa...</summary><p>14 pages, TPAMI submission, code url: https://github.com/JarrentWu1031/AnimateAnyMesh-pp</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Faster by Design: Interactive Aerodynamics via Neural Surrogates Trained on Expert-Validated CFD](https://arxiv.org/abs/2604.18491v2)** | 2026-04-27 | 7 pages, 4 figures |
-| **[Learning to Rotate: Temporal and Semantic Rotary Encoding for Sequential Modeling](https://arxiv.org/abs/2604.24717v1)** | 2026-04-27 | 8 pages, 3 figures |
-| **[Case-Specific Rubrics for Clinical AI Evaluation: Methodology, Validation, and LLM-Clinician Agreement Across 823 Encounters](https://arxiv.org/abs/2604.24710v1)** | 2026-04-27 | <details><summary>14 pa...</summary><p>14 pages, 2 figures, 3 tables, submitted to JAMIA</p></details> |
-| **[Diffusion-Guided Feature Selection via Nishimori Temperature: Noise-Based Spectral Embedding](https://arxiv.org/abs/2604.24692v1)** | 2026-04-27 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, extended version (with noise shift proof) of DSPA2026 article</p></details> |
-| **[The Last Human-Written Paper: Agent-Native Research Artifacts](https://arxiv.org/abs/2604.24658v1)** | 2026-04-27 | <details><summary>45 pa...</summary><p>45 pages, 15 figures, 14 tables</p></details> |
-| **[Optimal Predicate Pushdown Synthesis](https://arxiv.org/abs/2604.13351v3)** | 2026-04-27 | <details><summary>45 pa...</summary><p>45 pages, 9 figures, 7 tables. Extended version (with appendices) of the PLDI 2026 paper</p></details> |
+| **[Stochastic Scaling Limits and Synchronization by Noise in Deep Transformer Models](https://arxiv.org/abs/2604.26898v1)** | 2026-04-29 | 55 pages, 6 figures |
+| **[Edge AI for Automotive Vulnerable Road User Safety: Deployable Detection via Knowledge Distillation](https://arxiv.org/abs/2604.26857v1)** | 2026-04-29 | 6 pages, 3 figures |
+| **[FASTER: Rethinking Real-Time Flow VLAs](https://arxiv.org/abs/2603.19199v2)** | 2026-04-29 | <details><summary>Proje...</summary><p>Project page: https://innovator-zero.github.io/FASTER</p></details> |
+| **[HalluCiteChecker: A Lightweight Toolkit for Hallucinated Citation Detection and Verification in the Era of AI Scientists](https://arxiv.org/abs/2604.26835v1)** | 2026-04-29 | Work In Progress |
+| **[MesonGS++: Post-training Compression of 3D Gaussian Splatting with Hyperparameter Searching](https://arxiv.org/abs/2604.26799v1)** | 2026-04-29 | <details><summary>https...</summary><p>https://github.com/mmlab-sigs/mesongs_plus</p></details> |
+| **[FedPF: Accurate Target Privacy Preserving Federated Learning Balancing Fairness and Utility](https://arxiv.org/abs/2510.26841v2)** | 2026-04-29 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, 33 conference, The paper has been accepted by ICDCS conference</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Dimensional Type Systems and Deterministic Memory Management: Design-Time Semantic Preservation in Native Compilation](https://arxiv.org/abs/2603.16437v6)** | 2026-04-27 | <details><summary>33 pa...</summary><p>33 pages, 8 tables, 3 appendices with extended examples</p></details> |
-| **[Passage-Aware Structural Mapping for RGB-D Visual SLAM](https://arxiv.org/abs/2604.24707v1)** | 2026-04-27 | 5 pages, 5 figures |
-| **[LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory](https://arxiv.org/abs/2603.03269v2)** | 2026-04-27 | <details><summary>Proje...</summary><p>Project page: https://LoGeR-project.github.io/</p></details> |
-| **[The 1/W Law: An Analytical Study of Context-Length Routing Topology and GPU Generation Gains for LLM Inference Energy Efficiency](https://arxiv.org/abs/2603.17280v2)** | 2026-04-27 | Work in progress |
-| **[Information bottleneck for learning the phase space of dynamics from high-dimensional experimental data](https://arxiv.org/abs/2604.24662v1)** | 2026-04-27 | <details><summary>12 pa...</summary><p>12 pages including references, 7 figures, 4 appendix pages with 4 appendix figures</p></details> |
-| **[Benefits and Costs of Adaptive Sampling](https://arxiv.org/abs/2604.24652v1)** | 2026-04-27 | 41 pages, 3 figures |
+| **[Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models](https://arxiv.org/abs/2604.26951v1)** | 2026-04-29 | <details><summary>15 pa...</summary><p>15 pages, 3 figures. Code: https://github.com/PKU-YuanGroup/TIDE</p></details> |
+| **[World2VLM: Distilling World Model Imagination into VLMs for Dynamic Spatial Reasoning](https://arxiv.org/abs/2604.26934v1)** | 2026-04-29 | <details><summary>The c...</summary><p>The code is available at https://github.com/WanyueZhang-ai/World2VLM. The dataset is available at https://huggingface.co/datasets/WanyueZhang/World2VLM</p></details> |
+| **[On the Learning Curves of Revenue Maximization](https://arxiv.org/abs/2604.26922v1)** | 2026-04-29 | <details><summary>To ap...</summary><p>To appear in the 58th ACM Symposium on Theory of Computing (STOC 2026)</p></details> |
+| **[A Decision-Theoretic Formalisation of Steganography With Applications to LLM Monitoring](https://arxiv.org/abs/2602.23163v3)** | 2026-04-29 | <details><summary>First...</summary><p>First two authors contributed equally</p></details> |
+| **[FaaSMoE: A Serverless Framework for Multi-Tenant Mixture-of-Experts Serving](https://arxiv.org/abs/2604.26881v1)** | 2026-04-29 | <details><summary>Accep...</summary><p>Accepted for publication in the 9th International Workshop on Edge Systems, Analytics and Networking (EdgeSys 2026)</p></details> |
+| **[FASTER: Rethinking Real-Time Flow VLAs](https://arxiv.org/abs/2603.19199v2)** | 2026-04-29 | <details><summary>Proje...</summary><p>Project page: https://innovator-zero.github.io/FASTER</p></details> |
 

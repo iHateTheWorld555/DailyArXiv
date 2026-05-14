@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - May 14, 2026
+title: Latest 6 Papers - May 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture](https://arxiv.org/abs/2605.12500v1)** | 2026-05-12 | <details><summary>Proje...</summary><p>Project page: https://github.com/OpenSenseNova/SenseNova-U1</p></details> |
-| **[EgoForce: Forearm-Guided Camera-Space 3D Hand Pose from a Monocular Egocentric Camera](https://arxiv.org/abs/2605.12498v1)** | 2026-05-12 | <details><summary>23 pa...</summary><p>23 pages, 19 figures and 10 tables; project page: https://dfki-av.github.io/EgoForce (source code, data and demo available); SIGGRAPH 2026 Conference</p></details> |
-| **[From Web to Pixels: Bringing Agentic Search into Visual Perception](https://arxiv.org/abs/2605.12497v1)** | 2026-05-12 | <details><summary>Proje...</summary><p>Project page: https://pixel-searcher.github.io/</p></details> |
-| **[CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives](https://arxiv.org/abs/2605.12496v1)** | 2026-05-12 | <details><summary>Proje...</summary><p>Project page: https://yihao-meng.github.io/CausalCine/</p></details> |
-| **[AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward](https://arxiv.org/abs/2605.12495v1)** | 2026-05-12 | ICML2026 |
-| **[LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues](https://arxiv.org/abs/2605.12493v1)** | 2026-05-12 | Work in Progress |
+| **[WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data](https://arxiv.org/abs/2605.13846v1)** | 2026-05-13 | <details><summary>https...</summary><p>https://github.com/Ziheng-Zhang-AUS/WARDEN</p></details> |
+| **[What is Learnable in Valiant's Theory of the Learnable?](https://arxiv.org/abs/2605.13840v1)** | 2026-05-13 | <details><summary>Abstr...</summary><p>Abstract shortened for arXiv</p></details> |
+| **[R-DMesh: Video-Guided 3D Animation via Rectified Dynamic Mesh Flow](https://arxiv.org/abs/2605.13838v1)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted by SIGGRAPH 2026, Project Page: https://r-dmesh.github.io/ Code URL: https://github.com/Tencent-Hunyuan/R-DMesh</p></details> |
+| **[Topology-Preserving Neural Operator Learning via Hodge Decomposition](https://arxiv.org/abs/2605.13834v1)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted at ICML 2026. Code available at https://github.com/ContinuumCoder/Hodge-Spectral-Duality</p></details> |
+| **[Do Activation Verbalization Methods Convey Privileged Information?](https://arxiv.org/abs/2509.13316v4)** | 2026-05-13 | <details><summary>ICML ...</summary><p>ICML 2026. 41 pages, 23 tables, 6 figures</p></details> |
+| **[Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context](https://arxiv.org/abs/2605.13831v1)** | 2026-05-13 | work in progress |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[EgoForce: Forearm-Guided Camera-Space 3D Hand Pose from a Monocular Egocentric Camera](https://arxiv.org/abs/2605.12498v1)** | 2026-05-12 | <details><summary>23 pa...</summary><p>23 pages, 19 figures and 10 tables; project page: https://dfki-av.github.io/EgoForce (source code, data and demo available); SIGGRAPH 2026 Conference</p></details> |
-| **[CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives](https://arxiv.org/abs/2605.12496v1)** | 2026-05-12 | <details><summary>Proje...</summary><p>Project page: https://yihao-meng.github.io/CausalCine/</p></details> |
-| **[Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Transformation](https://arxiv.org/abs/2605.12492v1)** | 2026-05-12 | <details><summary>Techn...</summary><p>Technical report v1 (30 pages, 19 figures, project page: https://spherelab.ai/pion/)</p></details> |
-| **[Elastic Attention Cores for Scalable Vision Transformers](https://arxiv.org/abs/2605.12491v1)** | 2026-05-12 | <details><summary>Proje...</summary><p>Project repository here: https://github.com/alansong1322/VECA</p></details> |
-| **[KV-Fold: One-Step KV-Cache Recurrence for Long-Context Inference](https://arxiv.org/abs/2605.12471v1)** | 2026-05-12 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 6 tables</p></details> |
-| **[Coevolutionary Continuous Discrete Diffusion: Make Your Diffusion Language Model a Latent Reasoner](https://arxiv.org/abs/2510.03206v2)** | 2026-05-12 | <details><summary>29 pa...</summary><p>29 pages. Accepted to ICML 2026</p></details> |
+| **[What is Learnable in Valiant's Theory of the Learnable?](https://arxiv.org/abs/2605.13840v1)** | 2026-05-13 | <details><summary>Abstr...</summary><p>Abstract shortened for arXiv</p></details> |
+| **[R-DMesh: Video-Guided 3D Animation via Rectified Dynamic Mesh Flow](https://arxiv.org/abs/2605.13838v1)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted by SIGGRAPH 2026, Project Page: https://r-dmesh.github.io/ Code URL: https://github.com/Tencent-Hunyuan/R-DMesh</p></details> |
+| **[Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context](https://arxiv.org/abs/2605.13831v1)** | 2026-05-13 | work in progress |
+| **[Zatom-1: Towards a Multimodal Foundation Model for 3D Molecules and Materials](https://arxiv.org/abs/2602.22251v4)** | 2026-05-13 | <details><summary>38 pa...</summary><p>38 pages, 10 figures, 15 tables. ICLR 2026 FM4Science. Code, data, and model weights are available at https://github.com/Zatom-AI/zatom</p></details> |
+| **[Parallel Scan Recurrent Neural Quantum States for Scalable Variational Monte Carlo](https://arxiv.org/abs/2605.13807v1)** | 2026-05-13 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, 6 tables</p></details> |
+| **[Local Information-Theoretic Security via Euclidean Geometry](https://arxiv.org/abs/2510.13661v2)** | 2026-05-13 | 48 pages, 12 figures |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture](https://arxiv.org/abs/2605.12500v1)** | 2026-05-12 | <details><summary>Proje...</summary><p>Project page: https://github.com/OpenSenseNova/SenseNova-U1</p></details> |
-| **[AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward](https://arxiv.org/abs/2605.12495v1)** | 2026-05-12 | ICML2026 |
-| **[Elastic Attention Cores for Scalable Vision Transformers](https://arxiv.org/abs/2605.12491v1)** | 2026-05-12 | <details><summary>Proje...</summary><p>Project repository here: https://github.com/alansong1322/VECA</p></details> |
-| **[KV-Fold: One-Step KV-Cache Recurrence for Long-Context Inference](https://arxiv.org/abs/2605.12471v1)** | 2026-05-12 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 6 tables</p></details> |
-| **[Reconstructing Sepsis Trajectories from Clinical Case Reports using LLMs: the Textual Time Series Corpus for Sepsis](https://arxiv.org/abs/2504.12326v3)** | 2026-05-12 | <details><summary>Confe...</summary><p>Conference on Health, Inference, and Learning (CHIL 2026)</p></details> |
-| **[AOI-SSL: Self-Supervised Framework for Efficient Segmentation of Wire-bonded Semiconductors In Optical Inspection](https://arxiv.org/abs/2605.12430v1)** | 2026-05-12 | <details><summary>Accep...</summary><p>Accepted to the AI4RWC Workshop at CVPR 2026</p></details> |
+| **[Zatom-1: Towards a Multimodal Foundation Model for 3D Molecules and Materials](https://arxiv.org/abs/2602.22251v4)** | 2026-05-13 | <details><summary>38 pa...</summary><p>38 pages, 10 figures, 15 tables. ICLR 2026 FM4Science. Code, data, and model weights are available at https://github.com/Zatom-AI/zatom</p></details> |
+| **[Parallel Scan Recurrent Neural Quantum States for Scalable Variational Monte Carlo](https://arxiv.org/abs/2605.13807v1)** | 2026-05-13 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, 6 tables</p></details> |
+| **[FrameSkip: Learning from Fewer but More Informative Frames in VLA Training](https://arxiv.org/abs/2605.13757v1)** | 2026-05-13 | <details><summary>GitHu...</summary><p>GitHub: https://github.com/ZGC-EmbodyAI/FrameSkip</p></details> |
+| **[Macroscopic Activity-Based Modeling of Urban Active Mobility](https://arxiv.org/abs/2605.13742v1)** | 2026-05-13 | 29 pages |
+| **[KVServe: Service-Aware KV Cache Compression for Communication-Efficient Disaggregated LLM Serving](https://arxiv.org/abs/2605.13734v1)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted by SIGCOMM 2026</p></details> |
+| **[Learning to Optimize Radiotherapy Plans via Fluence Maps Diffusion Model Generation and LSTM-based Optimization](https://arxiv.org/abs/2605.13713v1)** | 2026-05-13 | <details><summary>Early...</summary><p>Early Accept at MICCAI 2026</p></details> |
 

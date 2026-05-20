@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - May 19, 2026
+title: Latest 6 Papers - May 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation](https://arxiv.org/abs/2605.16258v1)** | 2026-05-15 | <details><summary>Code:...</summary><p>Code: https://github.com/wzzheng/IVGT/</p></details> |
-| **[DexJoCo: A Benchmark and Toolkit for Task-Oriented Dexterous Manipulation on MuJoCo](https://arxiv.org/abs/2605.16257v1)** | 2026-05-15 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, project page is available at: https://dexjoco.github.io</p></details> |
-| **[Active Learners as Efficient PRP Rerankers](https://arxiv.org/abs/2605.14236v2)** | 2026-05-15 | <details><summary>13 pa...</summary><p>13 pages, 7 figures. Preprint</p></details> |
-| **[How to Train Your Advisor: Steering Black-Box LLMs with Advisor Models](https://arxiv.org/abs/2510.02453v3)** | 2026-05-15 | <details><summary>Inter...</summary><p>International Conference on Machine Learning (ICML) 2026</p></details> |
-| **[Dynamics-Level Watermarking of Flow Matching Models with Random Codes](https://arxiv.org/abs/2605.16239v1)** | 2026-05-15 | <details><summary>18 pa...</summary><p>18 pages, 3 figures, code available at: https://github.com/ShuchanWang/flow-matching-dynamics-watermarking</p></details> |
-| **[Universal Magnetic Structure Prediction from Atomic Coordinates with Near-Experimental Accuracy](https://arxiv.org/abs/2605.16230v1)** | 2026-05-15 | 9 pages, 3 figures |
+| **[Atoms of Thought: Universal EEG Representation Learning with Microstates](https://arxiv.org/abs/2605.20182v1)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted by the 3rd International Workshop on Multimodal and Responsible Affective Computing (MRAC 2025). 8 pages of main text, 23 pages total, 5 figures, 4 tables</p></details> |
+| **[From Seeing to Thinking: Decoupling Perception and Reasoning Improves Post-Training of Vision-Language Models](https://arxiv.org/abs/2605.20177v1)** | 2026-05-19 | <details><summary>19 pa...</summary><p>19 pages, 9 figures; Accepted to ICML 2026; Project Page: https://ucsc-vlaa.github.io/VLM-CapCurriculum/</p></details> |
+| **[ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning](https://arxiv.org/abs/2605.20176v1)** | 2026-05-19 | <details><summary>24 pa...</summary><p>24 pages, 9 figures; Project Page: https://ucsc-vlaa.github.io/ClinSeekAgent/</p></details> |
+| **[Multi-axis Analysis of Image Manipulation Localization](https://arxiv.org/abs/2605.20174v1)** | 2026-05-19 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 5 tables</p></details> |
+| **[A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents](https://arxiv.org/abs/2605.20173v1)** | 2026-05-19 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, 6 tables. Companion repo at https://github.com/vasundras/agent-runtime-patterns</p></details> |
+| **[One in Eight OpenAlex Abstracts Has Integrity Issues](https://arxiv.org/abs/2605.20168v1)** | 2026-05-19 | 10 pages, 5 figures |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation](https://arxiv.org/abs/2605.16258v1)** | 2026-05-15 | <details><summary>Code:...</summary><p>Code: https://github.com/wzzheng/IVGT/</p></details> |
-| **[Layer Equivalence Is Not a Property of Layers Alone: How You Test Redundancy Changes What You Find](https://arxiv.org/abs/2605.16234v1)** | 2026-05-15 | <details><summary>40 pa...</summary><p>40 pages, 8 figures, 24 tables. Code and frozen JSON logs are not public during write-up; the authors plan to open https://github.com/Gpgabriel25/ProtocolGapDiagnostic</p></details> |
-| **[Why Empirical p-Values Are Not Uniform: Reference Samples, Dependence, and PIT Backtesting](https://arxiv.org/abs/2605.16221v1)** | 2026-05-15 | 16 pages, 5 figures |
-| **[Performance Gains in Quantum SAT Solvers Using ESOP Encoding](https://arxiv.org/abs/2605.16202v1)** | 2026-05-15 | 18 pages, 6 figures |
-| **[Sparsity Moves Computation: How FFN Architecture Reshapes Attention in Small Transformers](https://arxiv.org/abs/2605.09403v2)** | 2026-05-15 | Preprint |
-| **[Discrete Cosine Transform Based Decorrelated Attention for Vision Transformers](https://arxiv.org/abs/2405.13901v6)** | 2026-05-15 | <details><summary>This ...</summary><p>This paper has been accepted to IJCAI-ECAI 2026</p></details> |
+| **[Addressing prior dependence in hierarchical Bayesian modeling for PTA data analysis II: Noise and SGWB inference through parameter decorrelation](https://arxiv.org/abs/2511.01959v2)** | 2026-05-19 | <details><summary>27 pa...</summary><p>27 pages, 5 figures. Extended analysis and appendix added. Submitted to the Astronomy and Computing special issue HPC in Cosmology and Astrophysics</p></details> |
+| **[BuildArena: A Physics-Aligned Interactive Benchmark of LLMs for Engineering Construction](https://arxiv.org/abs/2510.16559v5)** | 2026-05-19 | 33 pages, 10 figures |
+| **[PiKV: KV Cache Management System for Mixture of Experts](https://arxiv.org/abs/2508.06526v3)** | 2026-05-19 | <details><summary>Githu...</summary><p>Github Link: https://github.com/NoakLiu/PiKV</p></details> |
+| **[Tail Annealing for Heavy-Tailed Flow Matching](https://arxiv.org/abs/2605.20068v1)** | 2026-05-19 | 18 pages |
+| **[Cyclotomic finite-field Fourier spectra: Galois descent, native subfields, and residual coding](https://arxiv.org/abs/2605.20062v1)** | 2026-05-19 | 20 pages |
+| **[The Last Human-Written Paper: Agent-Native Research Artifacts](https://arxiv.org/abs/2604.24658v3)** | 2026-05-19 | <details><summary>46 pa...</summary><p>46 pages, 15 figures, 14 tables</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LymphNode: A Plug-and-Play Access Control Method for Deep Neural Networks](https://arxiv.org/abs/2605.16227v1)** | 2026-05-15 | <details><summary>Accep...</summary><p>Accepted by the 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2026). Author accepted manuscript. 14 pages, 6 figures</p></details> |
-| **[Why Empirical p-Values Are Not Uniform: Reference Samples, Dependence, and PIT Backtesting](https://arxiv.org/abs/2605.16221v1)** | 2026-05-15 | 16 pages, 5 figures |
-| **[Flatness-based trajectory planning for 3D overhead cranes with friction compensation and collision avoidance](https://arxiv.org/abs/2510.24457v2)** | 2026-05-15 | <details><summary>6 pag...</summary><p>6 pages, 8 figures. Final version, after peer review and acceptance, submitted to the 23rd IFAC World Congress</p></details> |
-| **[Neural simulation-based inference of the Higgs trilinear self-coupling via off-shell Higgs production](https://arxiv.org/abs/2507.02032v2)** | 2026-05-15 | <details><summary>27 pa...</summary><p>27 pages, 17 figures, 2 tables; v2: revised and improved version of the manuscript as accepted for publication in EPJC</p></details> |
-| **[KV Cache Offloading for Context-Intensive Tasks](https://arxiv.org/abs/2604.08426v4)** | 2026-05-15 | Preprint |
-| **[Multi-Fidelity Flow Matching: Cascaded Refinement of PDE Solutions](https://arxiv.org/abs/2605.16118v1)** | 2026-05-15 | <details><summary>27 pa...</summary><p>27 pages, 2 figures, 7 tables. Preprint</p></details> |
+| **[ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning](https://arxiv.org/abs/2605.20176v1)** | 2026-05-19 | <details><summary>24 pa...</summary><p>24 pages, 9 figures; Project Page: https://ucsc-vlaa.github.io/ClinSeekAgent/</p></details> |
+| **[LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation](https://arxiv.org/abs/2605.18739v2)** | 2026-05-19 | <details><summary>Code,...</summary><p>Code, model, and demos are available at https://github.com/NVlabs/LongLive</p></details> |
+| **[Addressing prior dependence in hierarchical Bayesian modeling for PTA data analysis II: Noise and SGWB inference through parameter decorrelation](https://arxiv.org/abs/2511.01959v2)** | 2026-05-19 | <details><summary>27 pa...</summary><p>27 pages, 5 figures. Extended analysis and appendix added. Submitted to the Astronomy and Computing special issue HPC in Cosmology and Astrophysics</p></details> |
+| **[LLM-MC-Affect: LLM-Based Monte Carlo Modeling of Affective Trajectories and Latent Ambiguity for Interpersonal Dynamic Insight](https://arxiv.org/abs/2601.03645v2)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted to the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)</p></details> |
+| **[When Does Model Collapse Occur in Structured Interactive Learning?](https://arxiv.org/abs/2605.20151v1)** | 2026-05-19 | 57 pages, 12 figures |
+| **[Neurosymbolic Learning for Inference-Time Argumentation](https://arxiv.org/abs/2605.20098v1)** | 2026-05-19 | Under review |
 

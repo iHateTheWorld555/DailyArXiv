@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - May 21, 2026
+title: Latest 6 Papers - May 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Atoms of Thought: Universal EEG Representation Learning with Microstates](https://arxiv.org/abs/2605.20182v1)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted by the 3rd International Workshop on Multimodal and Responsible Affective Computing (MRAC 2025). 8 pages of main text, 23 pages total, 5 figures, 4 tables</p></details> |
-| **[From Seeing to Thinking: Decoupling Perception and Reasoning Improves Post-Training of Vision-Language Models](https://arxiv.org/abs/2605.20177v1)** | 2026-05-19 | <details><summary>19 pa...</summary><p>19 pages, 9 figures; Accepted to ICML 2026; Project Page: https://ucsc-vlaa.github.io/VLM-CapCurriculum/</p></details> |
-| **[ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning](https://arxiv.org/abs/2605.20176v1)** | 2026-05-19 | <details><summary>24 pa...</summary><p>24 pages, 9 figures; Project Page: https://ucsc-vlaa.github.io/ClinSeekAgent/</p></details> |
-| **[Multi-axis Analysis of Image Manipulation Localization](https://arxiv.org/abs/2605.20174v1)** | 2026-05-19 | <details><summary>28 pa...</summary><p>28 pages, 5 figures, 5 tables</p></details> |
-| **[A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents](https://arxiv.org/abs/2605.20173v1)** | 2026-05-19 | <details><summary>25 pa...</summary><p>25 pages, 2 figures, 6 tables. Companion repo at https://github.com/vasundras/agent-runtime-patterns</p></details> |
-| **[One in Eight OpenAlex Abstracts Has Integrity Issues](https://arxiv.org/abs/2605.20168v1)** | 2026-05-19 | 10 pages, 5 figures |
+| **[Which Way Did It Move? Diagnosing and Overcoming Directional Motion Blindness in Video-LLMs](https://arxiv.org/abs/2605.22823v1)** | 2026-05-21 | <details><summary>Prepr...</summary><p>Preprint. 59 pages, including appendix. Code: https://github.com/KHU-VLL/DeltaDirect</p></details> |
+| **[Integrable Elasticity via Neural Demand Potentials](https://arxiv.org/abs/2605.22820v1)** | 2026-05-21 | 44 pages, 7 figures |
+| **[Cambrian-P: Pose-Grounded Video Understanding](https://arxiv.org/abs/2605.22819v1)** | 2026-05-21 | <details><summary>Proje...</summary><p>Project Page: https://cambrian-mllm.github.io/</p></details> |
+| **[MotiMotion: Motion-Controlled Video Generation with Visual Reasoning](https://arxiv.org/abs/2605.22818v1)** | 2026-05-21 | <details><summary>ICML ...</summary><p>ICML 2026. Project page: https://motimotion.github.io/</p></details> |
+| **[Vector Policy Optimization: Training for Diversity Improves Test-Time Search](https://arxiv.org/abs/2605.22817v1)** | 2026-05-21 | 24 pages |
+| **[AwareVLN: Reasoning with Self-awareness for Vision-Language Navigation](https://arxiv.org/abs/2605.22816v1)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Project page: https://gwxuan.github.io/AwareVLN/</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Addressing prior dependence in hierarchical Bayesian modeling for PTA data analysis II: Noise and SGWB inference through parameter decorrelation](https://arxiv.org/abs/2511.01959v2)** | 2026-05-19 | <details><summary>27 pa...</summary><p>27 pages, 5 figures. Extended analysis and appendix added. Submitted to the Astronomy and Computing special issue HPC in Cosmology and Astrophysics</p></details> |
-| **[BuildArena: A Physics-Aligned Interactive Benchmark of LLMs for Engineering Construction](https://arxiv.org/abs/2510.16559v5)** | 2026-05-19 | 33 pages, 10 figures |
-| **[PiKV: KV Cache Management System for Mixture of Experts](https://arxiv.org/abs/2508.06526v3)** | 2026-05-19 | <details><summary>Githu...</summary><p>Github Link: https://github.com/NoakLiu/PiKV</p></details> |
-| **[Tail Annealing for Heavy-Tailed Flow Matching](https://arxiv.org/abs/2605.20068v1)** | 2026-05-19 | 18 pages |
-| **[Cyclotomic finite-field Fourier spectra: Galois descent, native subfields, and residual coding](https://arxiv.org/abs/2605.20062v1)** | 2026-05-19 | 20 pages |
-| **[The Last Human-Written Paper: Agent-Native Research Artifacts](https://arxiv.org/abs/2604.24658v3)** | 2026-05-19 | <details><summary>46 pa...</summary><p>46 pages, 15 figures, 14 tables</p></details> |
+| **[Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention](https://arxiv.org/abs/2605.22791v1)** | 2026-05-21 | <details><summary>Gated...</summary><p>Gated DeltaNet-2 technical report; code at https://github.com/NVlabs/GatedDeltaNet-2</p></details> |
+| **[MambaGaze: Bidirectional Mamba with Explicit Missing Data Modeling for Cognitive Load Assessment from Eye-Gaze Tracking Data](https://arxiv.org/abs/2605.22775v1)** | 2026-05-21 | <details><summary>Submi...</summary><p>Submitted to IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI 2026)</p></details> |
+| **[CogAdapt: Transferring Clinical ECG Foundation Models to Wearable Cognitive Load Assessment via Lead Adaptation](https://arxiv.org/abs/2605.22774v1)** | 2026-05-21 | <details><summary>7 pag...</summary><p>7 pages, 7 figures. Submitted to IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI 2026)</p></details> |
+| **[Optimization over the intersection of manifolds](https://arxiv.org/abs/2605.22736v1)** | 2026-05-21 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, 3 tables</p></details> |
+| **[WorldKV: Efficient World Memory with World Retrieval and Compression](https://arxiv.org/abs/2605.22718v1)** | 2026-05-21 | <details><summary>Proje...</summary><p>Project Page: https://cvlab-kaist.github.io/WorldKV/</p></details> |
+| **[Findings of the Counter Turing Test: AI-Generated Image Detection](https://arxiv.org/abs/2605.20787v2)** | 2026-05-21 | <details><summary>Defac...</summary><p>Defactify4 @AAAI 2025</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning](https://arxiv.org/abs/2605.20176v1)** | 2026-05-19 | <details><summary>24 pa...</summary><p>24 pages, 9 figures; Project Page: https://ucsc-vlaa.github.io/ClinSeekAgent/</p></details> |
-| **[LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation](https://arxiv.org/abs/2605.18739v2)** | 2026-05-19 | <details><summary>Code,...</summary><p>Code, model, and demos are available at https://github.com/NVlabs/LongLive</p></details> |
-| **[Addressing prior dependence in hierarchical Bayesian modeling for PTA data analysis II: Noise and SGWB inference through parameter decorrelation](https://arxiv.org/abs/2511.01959v2)** | 2026-05-19 | <details><summary>27 pa...</summary><p>27 pages, 5 figures. Extended analysis and appendix added. Submitted to the Astronomy and Computing special issue HPC in Cosmology and Astrophysics</p></details> |
-| **[LLM-MC-Affect: LLM-Based Monte Carlo Modeling of Affective Trajectories and Latent Ambiguity for Interpersonal Dynamic Insight](https://arxiv.org/abs/2601.03645v2)** | 2026-05-19 | <details><summary>Accep...</summary><p>Accepted to the 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)</p></details> |
-| **[When Does Model Collapse Occur in Structured Interactive Learning?](https://arxiv.org/abs/2605.20151v1)** | 2026-05-19 | 57 pages, 12 figures |
-| **[Neurosymbolic Learning for Inference-Time Argumentation](https://arxiv.org/abs/2605.20098v1)** | 2026-05-19 | Under review |
+| **[Vector Policy Optimization: Training for Diversity Improves Test-Time Search](https://arxiv.org/abs/2605.22817v1)** | 2026-05-21 | 24 pages |
+| **[Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention](https://arxiv.org/abs/2605.22791v1)** | 2026-05-21 | <details><summary>Gated...</summary><p>Gated DeltaNet-2 technical report; code at https://github.com/NVlabs/GatedDeltaNet-2</p></details> |
+| **[MambaGaze: Bidirectional Mamba with Explicit Missing Data Modeling for Cognitive Load Assessment from Eye-Gaze Tracking Data](https://arxiv.org/abs/2605.22775v1)** | 2026-05-21 | <details><summary>Submi...</summary><p>Submitted to IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI 2026)</p></details> |
+| **[Uniform Diffusion Models Revisited: Leave-One-Out Denoiser and Absorbing State Reformulation](https://arxiv.org/abs/2605.22765v1)** | 2026-05-21 | preprint |
+| **[LEMUR: Learned Multi-Vector Retrieval](https://arxiv.org/abs/2601.21853v2)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
+| **[Quantization Effects of Artificial Neural Networks for Embedded Edge-Computing Applications](https://arxiv.org/abs/2511.05479v3)** | 2026-05-21 | <details><summary>deRSE...</summary><p>deRSE26 proceedings pre-print</p></details> |
 

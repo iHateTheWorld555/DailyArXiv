@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - May 25, 2026
+title: Latest 6 Papers - May 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Which Way Did It Move? Diagnosing and Overcoming Directional Motion Blindness in Video-LLMs](https://arxiv.org/abs/2605.22823v1)** | 2026-05-21 | <details><summary>Prepr...</summary><p>Preprint. 59 pages, including appendix. Code: https://github.com/KHU-VLL/DeltaDirect</p></details> |
-| **[Integrable Elasticity via Neural Demand Potentials](https://arxiv.org/abs/2605.22820v1)** | 2026-05-21 | 44 pages, 7 figures |
-| **[Cambrian-P: Pose-Grounded Video Understanding](https://arxiv.org/abs/2605.22819v1)** | 2026-05-21 | <details><summary>Proje...</summary><p>Project Page: https://cambrian-mllm.github.io/</p></details> |
-| **[MotiMotion: Motion-Controlled Video Generation with Visual Reasoning](https://arxiv.org/abs/2605.22818v1)** | 2026-05-21 | <details><summary>ICML ...</summary><p>ICML 2026. Project page: https://motimotion.github.io/</p></details> |
-| **[Vector Policy Optimization: Training for Diversity Improves Test-Time Search](https://arxiv.org/abs/2605.22817v1)** | 2026-05-21 | 24 pages |
-| **[AwareVLN: Reasoning with Self-awareness for Vision-Language Navigation](https://arxiv.org/abs/2605.22816v1)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Project page: https://gwxuan.github.io/AwareVLN/</p></details> |
+| **[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://arxiv.org/abs/2605.23904v1)** | 2026-05-22 | <details><summary>27 pa...</summary><p>27 pages, 4 figures, 6 tables</p></details> |
+| **[PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion](https://arxiv.org/abs/2605.23902v1)** | 2026-05-22 | <details><summary>Proje...</summary><p>Project Page: https://research.nvidia.com/labs/sil/projects/pid/</p></details> |
+| **[LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws](https://arxiv.org/abs/2605.23901v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
+| **[SPACENUM: Revisiting Spatial Numerical Understanding in VLMs](https://arxiv.org/abs/2605.23898v1)** | 2026-05-22 | <details><summary>Proje...</summary><p>Project page: https://sterzhang.github.io/SpaceNum-Home</p></details> |
+| **[ETCHR: Editing To Clarify and Harness Reasoning](https://arxiv.org/abs/2605.23897v1)** | 2026-05-22 | <details><summary>Code,...</summary><p>Code, model and data are open-sourced at https://github.com/InternLM/ETCHR</p></details> |
+| **[Complete-muE: Optimal Hyperparameter Transfer and Scaling for MoE Models](https://arxiv.org/abs/2605.23893v1)** | 2026-05-22 | 27 pages |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention](https://arxiv.org/abs/2605.22791v1)** | 2026-05-21 | <details><summary>Gated...</summary><p>Gated DeltaNet-2 technical report; code at https://github.com/NVlabs/GatedDeltaNet-2</p></details> |
-| **[MambaGaze: Bidirectional Mamba with Explicit Missing Data Modeling for Cognitive Load Assessment from Eye-Gaze Tracking Data](https://arxiv.org/abs/2605.22775v1)** | 2026-05-21 | <details><summary>Submi...</summary><p>Submitted to IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI 2026)</p></details> |
-| **[CogAdapt: Transferring Clinical ECG Foundation Models to Wearable Cognitive Load Assessment via Lead Adaptation](https://arxiv.org/abs/2605.22774v1)** | 2026-05-21 | <details><summary>7 pag...</summary><p>7 pages, 7 figures. Submitted to IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI 2026)</p></details> |
-| **[Optimization over the intersection of manifolds](https://arxiv.org/abs/2605.22736v1)** | 2026-05-21 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, 3 tables</p></details> |
-| **[WorldKV: Efficient World Memory with World Retrieval and Compression](https://arxiv.org/abs/2605.22718v1)** | 2026-05-21 | <details><summary>Proje...</summary><p>Project Page: https://cvlab-kaist.github.io/WorldKV/</p></details> |
-| **[Findings of the Counter Turing Test: AI-Generated Image Detection](https://arxiv.org/abs/2605.20787v2)** | 2026-05-21 | <details><summary>Defac...</summary><p>Defactify4 @AAAI 2025</p></details> |
+| **[ETCHR: Editing To Clarify and Harness Reasoning](https://arxiv.org/abs/2605.23897v1)** | 2026-05-22 | <details><summary>Code,...</summary><p>Code, model and data are open-sourced at https://github.com/InternLM/ETCHR</p></details> |
+| **[Complete-muE: Optimal Hyperparameter Transfer and Scaling for MoE Models](https://arxiv.org/abs/2605.23893v1)** | 2026-05-22 | 27 pages |
+| **[Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers](https://arxiv.org/abs/2605.23892v1)** | 2026-05-22 | <details><summary>Proje...</summary><p>Project Page: https://zsh2000.github.io/good-token-hunting.github.io, Code: https://github.com/zsh2000/gotohunt</p></details> |
+| **[Vision Transformers Need Better Token Interaction](https://arxiv.org/abs/2605.23868v1)** | 2026-05-22 | 7 pages |
+| **[Instrumentation for Imitation Learning: Enhancing Training Datasets for Clothes Hanger Insertion](https://arxiv.org/abs/2605.23847v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted for presentation at ICRA2026</p></details> |
+| **[Mechanistic Interpretability of EEG Foundation Models via Sparse Autoencoders](https://arxiv.org/abs/2605.13930v3)** | 2026-05-22 | <details><summary>Prepr...</summary><p>Preprint. 14 pages, 7 figures, 4 tables</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Vector Policy Optimization: Training for Diversity Improves Test-Time Search](https://arxiv.org/abs/2605.22817v1)** | 2026-05-21 | 24 pages |
-| **[Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention](https://arxiv.org/abs/2605.22791v1)** | 2026-05-21 | <details><summary>Gated...</summary><p>Gated DeltaNet-2 technical report; code at https://github.com/NVlabs/GatedDeltaNet-2</p></details> |
-| **[MambaGaze: Bidirectional Mamba with Explicit Missing Data Modeling for Cognitive Load Assessment from Eye-Gaze Tracking Data](https://arxiv.org/abs/2605.22775v1)** | 2026-05-21 | <details><summary>Submi...</summary><p>Submitted to IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI 2026)</p></details> |
-| **[Uniform Diffusion Models Revisited: Leave-One-Out Denoiser and Absorbing State Reformulation](https://arxiv.org/abs/2605.22765v1)** | 2026-05-21 | preprint |
-| **[LEMUR: Learned Multi-Vector Retrieval](https://arxiv.org/abs/2601.21853v2)** | 2026-05-21 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
-| **[Quantization Effects of Artificial Neural Networks for Embedded Edge-Computing Applications](https://arxiv.org/abs/2511.05479v3)** | 2026-05-21 | <details><summary>deRSE...</summary><p>deRSE26 proceedings pre-print</p></details> |
+| **[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](https://arxiv.org/abs/2605.23904v1)** | 2026-05-22 | <details><summary>27 pa...</summary><p>27 pages, 4 figures, 6 tables</p></details> |
+| **[PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion](https://arxiv.org/abs/2605.23902v1)** | 2026-05-22 | <details><summary>Proje...</summary><p>Project Page: https://research.nvidia.com/labs/sil/projects/pid/</p></details> |
+| **[MuellerPT: Decomposition Driven Pretraining for Dense Learning in Mueller Polarimetry](https://arxiv.org/abs/2605.23840v1)** | 2026-05-22 | <details><summary>Accep...</summary><p>Accepted to 29th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2026)</p></details> |
+| **[Compression as Adaptation: Implicit Visual Representation with Diffusion Foundation Models](https://arxiv.org/abs/2603.07615v3)** | 2026-05-22 | ICML 2026 |
+| **[Anytime Detection of Strategic Deviations in Multi-Agent Systems](https://arxiv.org/abs/2601.05427v3)** | 2026-05-22 | <details><summary>Code ...</summary><p>Code at: https://github.com/GauthierE/anytime-detection-deviation</p></details> |
+| **[Physics-Informed Machine Learning Regulated by Finite Element Analysis for Simulation Acceleration of Melt Pool Dynamics in Laser Powder Bed Fusion](https://arxiv.org/abs/2506.20537v3)** | 2026-05-22 | <details><summary>Furth...</summary><p>Further investigation revealed that the current version reflects an incomplete formulation and limited validation of the proposed method. We have since developed a substantially revised and extended study with updated assumptions and results, and therefore withdraw this version to prevent citation of superseded findings</p></details> |
 

@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - May 28, 2026
+title: Latest 6 Papers - May 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[G3T Up! Gravity Aligned Coordinate Frames Simplify Pointmap Processing](https://arxiv.org/abs/2605.27372v1)** | 2026-05-26 | <details><summary>Proje...</summary><p>Project Page: https://g3t-paper.github.io/</p></details> |
-| **[SpatialBench: Is Your Spatial Foundation Model an All-Round Player?](https://arxiv.org/abs/2605.27367v1)** | 2026-05-26 | <details><summary>Proje...</summary><p>Project Page: https://ropedia.github.io/SpatialBench/</p></details> |
-| **[MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation](https://arxiv.org/abs/2605.27366v1)** | 2026-05-26 | <details><summary>30 pa...</summary><p>30 pages, 8 figures, 13 tables, working in progress</p></details> |
-| **[GENESIS: Harnessing AI Agents for Autonomous 6G RAN Synthesis, Research, and Testing](https://arxiv.org/abs/2605.27360v1)** | 2026-05-26 | 18 pages, 16 figures |
-| **[Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases](https://arxiv.org/abs/2605.27355v1)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted at ICML 2026, Source code: https://alignment-tampering.github.io/</p></details> |
-| **[RSD: A Local Triangulation Audit Primitive for Learned Vector Blocks](https://arxiv.org/abs/2605.17482v2)** | 2026-05-26 | <details><summary>8 pag...</summary><p>8 pages, 1 figure. Revised version with clarified scope, experiments, and limitations</p></details> |
+| **[From Pixels to Words -- Towards Native One-Vision Models at Scale](https://arxiv.org/abs/2605.28820v1)** | 2026-05-27 | 13 pages, 6 figures |
+| **[PEFT-Arena: Understanding Parameter-Efficient Finetuning from a Stability-Plasticity Perspective](https://arxiv.org/abs/2605.28819v1)** | 2026-05-27 | <details><summary>Techn...</summary><p>Technical report v1 (28 pages, 9 figures, project page: https://spherelab.ai/PEFT-Arena/)</p></details> |
+| **[VLMs May Not Globally Enhance Human Alignment over LLMs During Natural Reading](https://arxiv.org/abs/2605.28818v1)** | 2026-05-27 | 17 pages, 10 figures |
+| **[Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players](https://arxiv.org/abs/2605.28816v1)** | 2026-05-27 | <details><summary>Proje...</summary><p>Project Page: https://research.nvidia.com/labs/sil/projects/gamma-world</p></details> |
+| **[HarmoVid: Relightful Video Portrait Harmonization](https://arxiv.org/abs/2605.28811v1)** | 2026-05-27 | CVPR 2026 |
+| **[AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning](https://arxiv.org/abs/2605.28809v1)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted to ICML 2026. Code is available at https://github.com/LAMDA-CL/ICML2026-AREA</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[G3T Up! Gravity Aligned Coordinate Frames Simplify Pointmap Processing](https://arxiv.org/abs/2605.27372v1)** | 2026-05-26 | <details><summary>Proje...</summary><p>Project Page: https://g3t-paper.github.io/</p></details> |
-| **[GENESIS: Harnessing AI Agents for Autonomous 6G RAN Synthesis, Research, and Testing](https://arxiv.org/abs/2605.27360v1)** | 2026-05-26 | 18 pages, 16 figures |
-| **[Feedforward 3D Editing Learns from Semantic-Part Transformation](https://arxiv.org/abs/2605.27351v1)** | 2026-05-26 | <details><summary>30 pa...</summary><p>30 pages, 22 figures. Project Page: https://dennis-jwweng.github.io/pxform/</p></details> |
-| **[A Post-Processing Conformal Prediction Approach for Conditional Coverage via Pivotal Scores](https://arxiv.org/abs/2605.25852v2)** | 2026-05-26 | 33 pages, 4 figures |
-| **[Kan Extension Transformers: A Categorical Unification of Attention, Diffusion, and Predict-Detach Self-Conditioning](https://arxiv.org/abs/2605.27259v1)** | 2026-05-26 | 30 pages |
-| **[Pair-In, Pair-Out: Latent Multi-Token Prediction for Efficient LLMs](https://arxiv.org/abs/2605.27255v1)** | 2026-05-26 | <details><summary>Proje...</summary><p>Project Page: GitHub.com/AlbertTan404/PIPO</p></details> |
+| **[FLAIR: Frequency- and Locality-Aware Implicit Neural Representations](https://arxiv.org/abs/2508.13544v6)** | 2026-05-27 | <details><summary>CVPR ...</summary><p>CVPR Findings 2026 (camera ready ver.). Please visit our project page at https://cmlab-korea.github.io/FLAIR/</p></details> |
+| **[MemTrace: Tracing and Attributing Errors in Large Language Model Memory Systems](https://arxiv.org/abs/2605.28732v1)** | 2026-05-27 | Ongoing work |
+| **[DirectEdit: Step-Level Accurate Inversion for Flow-Based Image Editing](https://arxiv.org/abs/2605.02417v2)** | 2026-05-27 | <details><summary>ICML ...</summary><p>ICML 2026. Project page: https://desongyang.github.io/Directedit/</p></details> |
+| **[Thinking as Compression: Your Reasoning Model is Secretly a Context Compressor](https://arxiv.org/abs/2605.28713v1)** | 2026-05-27 | Under Review |
+| **[Understanding Generalization and Forgetting in In-Context Continual Learning](https://arxiv.org/abs/2605.28705v1)** | 2026-05-27 | <details><summary>accep...</summary><p>accepted by ICML 2026</p></details> |
+| **[Capture Timing-Attention of Events in Clinical Time Series](https://arxiv.org/abs/2602.10385v4)** | 2026-05-27 | 8 pages of body text |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Feedforward 3D Editing Learns from Semantic-Part Transformation](https://arxiv.org/abs/2605.27351v1)** | 2026-05-26 | <details><summary>30 pa...</summary><p>30 pages, 22 figures. Project Page: https://dennis-jwweng.github.io/pxform/</p></details> |
-| **[Persona2Web: Benchmarking Personalized Web Agents for Contextual Reasoning with User History](https://arxiv.org/abs/2602.17003v2)** | 2026-05-26 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
-| **[Iterative Refinement Neural Operators are Learned Fixed-Point Solvers: A Principled Approach to Spectral Bias Mitigation](https://arxiv.org/abs/2605.24041v2)** | 2026-05-26 | <details><summary>47 pa...</summary><p>47 pages; accepted to ICML 2026 as a Spotlight</p></details> |
-| **[Causal Risk Minimization for High-Dimensional Treatments](https://arxiv.org/abs/2605.27281v1)** | 2026-05-26 | 18 pages, 4 figures |
-| **[Pair-In, Pair-Out: Latent Multi-Token Prediction for Efficient LLMs](https://arxiv.org/abs/2605.27255v1)** | 2026-05-26 | <details><summary>Proje...</summary><p>Project Page: GitHub.com/AlbertTan404/PIPO</p></details> |
-| **[Symbolic Regression via Latent Iterative Refinement](https://arxiv.org/abs/2605.27245v1)** | 2026-05-26 | <details><summary>Prepr...</summary><p>Preprint. 21 pages, 11 figures</p></details> |
+| **[Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players](https://arxiv.org/abs/2605.28816v1)** | 2026-05-27 | <details><summary>Proje...</summary><p>Project Page: https://research.nvidia.com/labs/sil/projects/gamma-world</p></details> |
+| **[AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning](https://arxiv.org/abs/2605.28809v1)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted to ICML 2026. Code is available at https://github.com/LAMDA-CL/ICML2026-AREA</p></details> |
+| **[Personal Visual Memory from Explicit and Implicit Evidence](https://arxiv.org/abs/2605.28806v1)** | 2026-05-27 | <details><summary>Proje...</summary><p>Project Page: https://viettmab.github.io/visualmem-page/</p></details> |
+| **[Human Label Variation as Stable Signal: Learning Annotator-Specific Explanation Behavior via Cross-Annotator Preference Optimization](https://arxiv.org/abs/2605.28802v1)** | 2026-05-27 | 43 pages, 20 figures |
+| **[CaMBRAIN: Real-time, Continuous EEG Inference with Causal State Space Models](https://arxiv.org/abs/2605.28792v1)** | 2026-05-27 | <details><summary>22 pa...</summary><p>22 pages, 3 figures, 8 tables</p></details> |
+| **[Test-Time Compute for Dense Retrieval: Agentic Program Generation with Frozen Embedding Models](https://arxiv.org/abs/2605.11374v4)** | 2026-05-27 | <details><summary>17 pa...</summary><p>17 pages, 4 figures, 5 tables</p></details> |
 

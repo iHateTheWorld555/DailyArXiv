@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - May 29, 2026
+title: Latest 6 Papers - June 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Pixels to Words -- Towards Native One-Vision Models at Scale](https://arxiv.org/abs/2605.28820v1)** | 2026-05-27 | 13 pages, 6 figures |
-| **[PEFT-Arena: Understanding Parameter-Efficient Finetuning from a Stability-Plasticity Perspective](https://arxiv.org/abs/2605.28819v1)** | 2026-05-27 | <details><summary>Techn...</summary><p>Technical report v1 (28 pages, 9 figures, project page: https://spherelab.ai/PEFT-Arena/)</p></details> |
-| **[VLMs May Not Globally Enhance Human Alignment over LLMs During Natural Reading](https://arxiv.org/abs/2605.28818v1)** | 2026-05-27 | 17 pages, 10 figures |
-| **[Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players](https://arxiv.org/abs/2605.28816v1)** | 2026-05-27 | <details><summary>Proje...</summary><p>Project Page: https://research.nvidia.com/labs/sil/projects/gamma-world</p></details> |
-| **[HarmoVid: Relightful Video Portrait Harmonization](https://arxiv.org/abs/2605.28811v1)** | 2026-05-27 | CVPR 2026 |
-| **[AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning](https://arxiv.org/abs/2605.28809v1)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted to ICML 2026. Code is available at https://github.com/LAMDA-CL/ICML2026-AREA</p></details> |
+| **[Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software](https://arxiv.org/abs/2605.30353v1)** | 2026-05-28 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 2 tables, 1 physicist and a few AI agents. Accepted by ICML 2026 AI for Science Workshop. Code and development log are available at this repo: https://github.com/MinhMPA/clax-pt</p></details> |
+| **[VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion](https://arxiv.org/abs/2605.30351v1)** | 2026-05-28 | <details><summary>Proje...</summary><p>Project Page: https://videomla.github.io/</p></details> |
+| **[LLMSurgeon: Diagnosing Data Mixture of Large Language Models](https://arxiv.org/abs/2605.30348v1)** | 2026-05-28 | <details><summary>ACL 2...</summary><p>ACL 2026 Main. Code at https://github.com/Yaxin9Luo/LLMSurgeon</p></details> |
+| **[AdaState: Self-Evolving Anchors for Streaming Video Generation](https://arxiv.org/abs/2605.30349v1)** | 2026-05-28 | <details><summary>Proje...</summary><p>Project page: https://adastate.github.io/</p></details> |
+| **[NeuROK: Generative 4D Neural Object Kinematics](https://arxiv.org/abs/2605.30347v1)** | 2026-05-28 | CVPR 2026 |
+| **[YoCausal: How Far is Video Generation from World Model? A Causality Perspective](https://arxiv.org/abs/2605.30346v1)** | 2026-05-28 | <details><summary>Proje...</summary><p>Project page: https://www.youzhexie.me/papers/YoCausal/index.html</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[FLAIR: Frequency- and Locality-Aware Implicit Neural Representations](https://arxiv.org/abs/2508.13544v6)** | 2026-05-27 | <details><summary>CVPR ...</summary><p>CVPR Findings 2026 (camera ready ver.). Please visit our project page at https://cmlab-korea.github.io/FLAIR/</p></details> |
-| **[MemTrace: Tracing and Attributing Errors in Large Language Model Memory Systems](https://arxiv.org/abs/2605.28732v1)** | 2026-05-27 | Ongoing work |
-| **[DirectEdit: Step-Level Accurate Inversion for Flow-Based Image Editing](https://arxiv.org/abs/2605.02417v2)** | 2026-05-27 | <details><summary>ICML ...</summary><p>ICML 2026. Project page: https://desongyang.github.io/Directedit/</p></details> |
-| **[Thinking as Compression: Your Reasoning Model is Secretly a Context Compressor](https://arxiv.org/abs/2605.28713v1)** | 2026-05-27 | Under Review |
-| **[Understanding Generalization and Forgetting in In-Context Continual Learning](https://arxiv.org/abs/2605.28705v1)** | 2026-05-27 | <details><summary>accep...</summary><p>accepted by ICML 2026</p></details> |
-| **[Capture Timing-Attention of Events in Clinical Time Series](https://arxiv.org/abs/2602.10385v4)** | 2026-05-27 | 8 pages of body text |
+| **[VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion](https://arxiv.org/abs/2605.30351v1)** | 2026-05-28 | <details><summary>Proje...</summary><p>Project Page: https://videomla.github.io/</p></details> |
+| **[NeuROK: Generative 4D Neural Object Kinematics](https://arxiv.org/abs/2605.30347v1)** | 2026-05-28 | CVPR 2026 |
+| **[SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations](https://arxiv.org/abs/2605.30345v1)** | 2026-05-28 | 19 pages, 7 figures |
+| **[Reasoning While Asking: Transforming Reasoning Large Language Models from Passive Solvers to Proactive Inquirers](https://arxiv.org/abs/2601.22139v2)** | 2026-05-28 | ACL Main Conference |
+| **[Veda: Scalable Video Diffusion via Distilled Sparse Attention](https://arxiv.org/abs/2605.30325v1)** | 2026-05-28 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
+| **[Preference-Shaped Expected Hypervolume and R2 Improvement: Exact Computation and Monotonicity](https://arxiv.org/abs/2605.28746v2)** | 2026-05-28 | <details><summary>17 pa...</summary><p>17 pages; Changes v1 (added strict Pareto compliance proof, removed missing figure references and redundant graphics section, added Liang et al 2026 citation in outlook. Improved figures and language</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players](https://arxiv.org/abs/2605.28816v1)** | 2026-05-27 | <details><summary>Proje...</summary><p>Project Page: https://research.nvidia.com/labs/sil/projects/gamma-world</p></details> |
-| **[AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning](https://arxiv.org/abs/2605.28809v1)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted to ICML 2026. Code is available at https://github.com/LAMDA-CL/ICML2026-AREA</p></details> |
-| **[Personal Visual Memory from Explicit and Implicit Evidence](https://arxiv.org/abs/2605.28806v1)** | 2026-05-27 | <details><summary>Proje...</summary><p>Project Page: https://viettmab.github.io/visualmem-page/</p></details> |
-| **[Human Label Variation as Stable Signal: Learning Annotator-Specific Explanation Behavior via Cross-Annotator Preference Optimization](https://arxiv.org/abs/2605.28802v1)** | 2026-05-27 | 43 pages, 20 figures |
-| **[CaMBRAIN: Real-time, Continuous EEG Inference with Causal State Space Models](https://arxiv.org/abs/2605.28792v1)** | 2026-05-27 | <details><summary>22 pa...</summary><p>22 pages, 3 figures, 8 tables</p></details> |
-| **[Test-Time Compute for Dense Retrieval: Agentic Program Generation with Frozen Embedding Models](https://arxiv.org/abs/2605.11374v4)** | 2026-05-27 | <details><summary>17 pa...</summary><p>17 pages, 4 figures, 5 tables</p></details> |
+| **[GMOS: Grounding Moving Object Segmentation in 3D Space and Time](https://arxiv.org/abs/2605.30352v1)** | 2026-05-28 | <details><summary>Proje...</summary><p>Project Page: https://www.robots.ox.ac.uk/vgg/research/gmos/</p></details> |
+| **[Benchmarking Single-Factor Physical Video-to-Audio Generation](https://arxiv.org/abs/2605.30339v1)** | 2026-05-28 | CVPR 2026 |
+| **[When, why, and how do diffusion posterior samplers fail? A finite-sample lens](https://arxiv.org/abs/2605.30330v1)** | 2026-05-28 | <details><summary>All c...</summary><p>All code for experiments is available at: https://github.com/voilalab/diagnosing-posterior-sampling</p></details> |
+| **[Causal-JEPA: Learning World Models through Object-Level Latent Masking](https://arxiv.org/abs/2602.11389v2)** | 2026-05-28 | <details><summary>Proje...</summary><p>Project Page: https://hazel-heejeong-nam.github.io/cjepa/ ICML 2026 Accepted</p></details> |
+| **[Reinforcing Few-step Generators via Reward-Tilted Distribution Matching](https://arxiv.org/abs/2605.26108v2)** | 2026-05-28 | <details><summary>Code ...</summary><p>Code and models are available at https://github.com/Harahan/RTDMD</p></details> |
+| **[Grounded 3D-Aware Spatial Vision-Language Modeling](https://arxiv.org/abs/2605.30307v1)** | 2026-05-28 | <details><summary>CVPR ...</summary><p>CVPR 2026 https://www.anjiecheng.me/gr3d</p></details> |
 

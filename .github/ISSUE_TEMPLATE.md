@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - June 02, 2026
+title: Latest 6 Papers - June 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Representation Forcing for Bottleneck-Free Unified Multimodal Models](https://arxiv.org/abs/2605.31604v1)** | 2026-05-29 | <details><summary>Proje...</summary><p>Project page: https://yuqingwang1029.github.io/RepresentationForcing</p></details> |
-| **[Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models](https://arxiv.org/abs/2605.31603v1)** | 2026-05-29 | <details><summary>Proje...</summary><p>Project page (https://jiazheng-xing.github.io/nexus-lumos-home/) and Code (https://github.com/alibaba-damo-academy/Lumos-Custom/) are available</p></details> |
-| **[Beyond Memorization: Assessing Semantic Generalization in Large Language Models Using Phrasal Constructions](https://arxiv.org/abs/2501.04661v3)** | 2026-05-29 | <details><summary>Camer...</summary><p>Camera Ready: AACL-IJCNLP (2025)</p></details> |
-| **[SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models](https://arxiv.org/abs/2605.31597v1)** | 2026-05-29 | <details><summary>Proje...</summary><p>Project page: https://genintel.github.io/SOCO/</p></details> |
-| **[KLIP: localized distribution shift detection via KL-divergence with diffusion priors in Inverse Problems](https://arxiv.org/abs/2605.31596v1)** | 2026-05-29 | CVPR 2026 |
-| **[Learning Global Motion with Compact Gaussians for Feed-Forward 4D Reconstruction](https://arxiv.org/abs/2605.31595v1)** | 2026-05-29 | <details><summary>Proje...</summary><p>Project Page: see https://cvlab-kaist.github.io/C4G</p></details> |
+| **[Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling](https://arxiv.org/abs/2606.02578v1)** | 2026-06-01 | ICML 2026 |
+| **[RoboDream: Compositional World Models for Scalable Robot Data Synthesis](https://arxiv.org/abs/2606.02577v1)** | 2026-06-01 | <details><summary>Proje...</summary><p>Project page: https://junjieye.com/RoboDream/</p></details> |
+| **[Paradoxical noise preference in RNNs](https://arxiv.org/abs/2601.04539v2)** | 2026-06-01 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR), 2026 21 pages, 8 figures</p></details> |
+| **[HumanNOVA: Photorealistic, Universal and Rapid 3D Human Avatar Modeling from a Single Image](https://arxiv.org/abs/2606.02573v1)** | 2026-06-01 | CVPR 2026 Highlight |
+| **[Benchmarking Waitlist Mortality Prediction in Heart Transplantation Through Time-to-Event Modeling using New Longitudinal UNOS Dataset](https://arxiv.org/abs/2507.07339v2)** | 2026-06-01 | <details><summary>Best ...</summary><p>Best Student Paper Finalist in Proceedings of AMIA Annual Symposium 2025</p></details> |
+| **[MineDraft: A Framework for Batch Parallel Speculative Decoding](https://arxiv.org/abs/2603.18016v2)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CoFiDA-M: Concept-Aware Feature Modulation for Cross-Domain Adaptation with Image-Only Inference](https://arxiv.org/abs/2605.31591v1)** | 2026-05-29 | <details><summary>'Acce...</summary><p>'Accepted by CVPR 2026'</p></details> |
-| **[TunerDiT: Training-free Progressive Steering of Diffusion Transformer for Multi-Event Video Generation](https://arxiv.org/abs/2605.31590v1)** | 2026-05-29 | 17 pages, 13 figures |
-| **[Giving Sensors a Voice: Multimodal JEPA for Semantic Time-Series Embeddings](https://arxiv.org/abs/2605.31580v1)** | 2026-05-29 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, accepted at ICML 2026. arXiv admin note: substantial text overlap with arXiv:2505.14543</p></details> |
-| **[A Behavioural and Representational Evaluation of Goal-Directedness in Language Model Agents](https://arxiv.org/abs/2602.08964v2)** | 2026-05-29 | <details><summary>Proce...</summary><p>Proceedings of the 43rd International Conference on Machine Learning (ICML 2026)</p></details> |
-| **[Functional Attention: From Pairwise Affinities to Functional Correspondences](https://arxiv.org/abs/2605.31559v1)** | 2026-05-29 | <details><summary>26 pa...</summary><p>26 pages, 12 figures. Accepted at the 43rd International Conference on Machine Learning (ICML 2026)</p></details> |
-| **[HiPPO Zoo: Explicit Memory Mechanisms for Interpretable State Space Models](https://arxiv.org/abs/2602.21340v2)** | 2026-05-29 | <details><summary>24 pa...</summary><p>24 pages, 7 figures; to be published in ICML 2026; additional experimental results included</p></details> |
+| **[Moment-Video: Diagnosing Temporal Fidelity of Video MLLMs on Momentary Visual Events](https://arxiv.org/abs/2606.02522v1)** | 2026-06-01 | <details><summary>28 pa...</summary><p>28 pages, 10 figures, 11 tables</p></details> |
+| **[Places in the Wild: A Large, High-Resolution RAW Photograph Dataset for Ecologically Valid Vision Research](https://arxiv.org/abs/2606.02481v1)** | 2026-06-01 | <details><summary>19 pa...</summary><p>19 pages, 3 tables, 4 figures</p></details> |
+| **[MCP-Persona: Benchmarking LLM Agents on Real-World Personal Applications via Environment Simulation](https://arxiv.org/abs/2606.02470v1)** | 2026-06-01 | <details><summary>ICML ...</summary><p>ICML 2026 Camera Ready</p></details> |
+| **[MASER: Modality-Adaptive Specialist Routing for Embodied 3D Spatial Intelligence](https://arxiv.org/abs/2606.02463v1)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026 Foundation Models Meet Embodied Agents Workshop</p></details> |
+| **[A Systematic Benchmark of Machine Transliteration Models for the Tajik-Farsi Language Pair: A Comparative Study from Rule-Based to Transformer Architectures](https://arxiv.org/abs/2605.02270v2)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted to CLIB 2026</p></details> |
+| **[Geometry-Aware Implicit Memory for Video World Models](https://arxiv.org/abs/2606.02436v1)** | 2026-06-01 | <details><summary>Proje...</summary><p>Project page: https://gim-world.github.io/</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models](https://arxiv.org/abs/2605.31603v1)** | 2026-05-29 | <details><summary>Proje...</summary><p>Project page (https://jiazheng-xing.github.io/nexus-lumos-home/) and Code (https://github.com/alibaba-damo-academy/Lumos-Custom/) are available</p></details> |
-| **[Beyond Memorization: Assessing Semantic Generalization in Large Language Models Using Phrasal Constructions](https://arxiv.org/abs/2501.04661v3)** | 2026-05-29 | <details><summary>Camer...</summary><p>Camera Ready: AACL-IJCNLP (2025)</p></details> |
-| **[CoFiDA-M: Concept-Aware Feature Modulation for Cross-Domain Adaptation with Image-Only Inference](https://arxiv.org/abs/2605.31591v1)** | 2026-05-29 | <details><summary>'Acce...</summary><p>'Accepted by CVPR 2026'</p></details> |
-| **[TIC-VLA: A Think-in-Control Vision-Language-Action Model for Robot Navigation in Dynamic Environments](https://arxiv.org/abs/2602.02459v2)** | 2026-05-29 | <details><summary>Inter...</summary><p>International Conference on Machine Learning (ICML) 2026</p></details> |
-| **[Native Hierarchical and Compositional Representations with Subspace Embeddings](https://arxiv.org/abs/2508.16687v2)** | 2026-05-29 | KDD 2026 |
-| **[MedFact: Benchmarking the Fact-Checking Capabilities of Large Language Models on Chinese Medical Texts](https://arxiv.org/abs/2509.12440v3)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted to The Fifth Workshop on Generation, Evaluation, and Metrics (GEM) at ACL 2026</p></details> |
+| **[HumanNOVA: Photorealistic, Universal and Rapid 3D Human Avatar Modeling from a Single Image](https://arxiv.org/abs/2606.02573v1)** | 2026-06-01 | CVPR 2026 Highlight |
+| **[MineDraft: A Framework for Batch Parallel Speculative Decoding](https://arxiv.org/abs/2603.18016v2)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
+| **[Permissive Safety Through Trusted Inference: Verifiable Belief-Space Neural Safety Filters for Assured Interactive Robotics](https://arxiv.org/abs/2606.02562v1)** | 2026-06-01 | <details><summary>Accep...</summary><p>Accepted to the 17th World Symposium on the Algorithmic Foundations of Robotics (WAFR 2026)</p></details> |
+| **[HERO'S JOURNEY: Testing Complex Rule Induction with Text Games](https://arxiv.org/abs/2606.02556v1)** | 2026-06-01 | 24 pages |
+| **[SimSD: Simple Speculative Decoding in Diffusion Language Models](https://arxiv.org/abs/2606.02544v1)** | 2026-06-01 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, code available at https://github.com/airevo2/SimSD-release</p></details> |
+| **[Drifting Preference Optimization for One-Step Generative Models](https://arxiv.org/abs/2606.02521v1)** | 2026-06-01 | 24 pages, 9 figures |
 

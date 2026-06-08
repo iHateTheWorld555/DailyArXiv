@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - June 08, 2026
+title: Latest 6 Papers - June 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[OdysseyArena: Benchmarking Large Language Models For Long-Horizon, Active and Inductive Interactions](https://arxiv.org/abs/2602.05843v2)** | 2026-06-04 | 34 pages |
-| **[PAR3D: A Unified 3D-MLLM with Part-Aware Representation for Scene Understanding](https://arxiv.org/abs/2606.06485v1)** | 2026-06-04 | <details><summary>Proje...</summary><p>Project page: https://atrovast.github.io/PAR3D/</p></details> |
-| **[Pretraining Recurrent Networks without Recurrence](https://arxiv.org/abs/2606.06479v1)** | 2026-06-04 | 30 pages, 23 figures |
-| **[Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators](https://arxiv.org/abs/2606.06476v1)** | 2026-06-04 | <details><summary>Proje...</summary><p>Project page: https://zcmax.github.io/projects/Thinking-With-Imagination</p></details> |
-| **[RREDCoT: Segment-Level Reward Redistribution for Reasoning Models](https://arxiv.org/abs/2606.06475v1)** | 2026-06-04 | <details><summary>Prepr...</summary><p>Preprint, under review</p></details> |
-| **[Self-Augmenting Retrieval for Diffusion Language Models](https://arxiv.org/abs/2606.06474v1)** | 2026-06-04 | ICML 2026 |
+| **[Predicting Dynamic Map States from Limited Field-of-View Sensor Data](https://arxiv.org/abs/2602.12360v2)** | 2026-06-05 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Accepted to the 2026 International Conference on Advanced Visual and Signal-Based Systems (AVSS)</p></details> |
+| **[Differences in Detection: Explainability Where it Matters](https://arxiv.org/abs/2606.07503v1)** | 2026-06-05 | <details><summary>Accep...</summary><p>Accepted to IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops 2026 - How Do Vision Models Work? (HOW)</p></details> |
+| **[Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings](https://arxiv.org/abs/2606.07502v1)** | 2026-06-05 | preprint |
+| **[Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning](https://arxiv.org/abs/2606.07500v1)** | 2026-06-05 | <details><summary>19 pa...</summary><p>19 pages. arXiv admin note: text overlap with arXiv:2601.17616</p></details> |
+| **[Mitigating Proxy-to-Wild Domain Gap in Deepfake Speech](https://arxiv.org/abs/2606.07494v1)** | 2026-06-05 | Work in progress |
+| **[Bradley-Terry Rankings for Recommender Systems Across Dataset Taxonomies](https://arxiv.org/abs/2606.07492v1)** | 2026-06-05 | KDD'26 |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Operation-Guided Progressive Human-to-AI Text Transformation Benchmark for Multi-Granularity AI-Text Detection](https://arxiv.org/abs/2606.06481v1)** | 2026-06-04 | <details><summary>Our c...</summary><p>Our code and data are available at https://github.com/VILA-Lab/OpAI-Bench</p></details> |
-| **[Pretraining Recurrent Networks without Recurrence](https://arxiv.org/abs/2606.06479v1)** | 2026-06-04 | 30 pages, 23 figures |
-| **[Unsupervised Monocular 3D Keypoint Discovery from Multi-View Diffusion Priors](https://arxiv.org/abs/2507.12336v2)** | 2026-06-04 | <details><summary>Accep...</summary><p>Accepted at CVPR 2026. Project page: https://subin6.github.io/keydiff3d-project/</p></details> |
-| **[Nonreversible Gauge Fields in Fokker--Planck Dynamics: Supersymmetric Hamiltonians and Learned Finite Forces](https://arxiv.org/abs/2606.06412v1)** | 2026-06-04 | 33 pages, 3 figures |
-| **[Do Transformers Need Three Projections? Systematic Study of QKV Variants](https://arxiv.org/abs/2606.04032v2)** | 2026-06-04 | <details><summary>Accep...</summary><p>Accepted at ICML 2026 (PMLR vol. 306). 26 pages, 12 figures, 16 tables. Code: https://github.com/Brainchip-Inc/Do-Transformers-Need-3-Projections</p></details> |
-| **[On Improving Robustness of Deepfake Image Detectors](https://arxiv.org/abs/2606.02797v2)** | 2026-06-04 | <details><summary>Accep...</summary><p>Accepted at Usenix Security 2026</p></details> |
+| **[Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings](https://arxiv.org/abs/2606.07502v1)** | 2026-06-05 | preprint |
+| **[Mitigating Proxy-to-Wild Domain Gap in Deepfake Speech](https://arxiv.org/abs/2606.07494v1)** | 2026-06-05 | Work in progress |
+| **[GS-KAN: Parameter-Efficient Kolmogorov-Arnold Networks via Sprecher-Type Shared Basis Functions](https://arxiv.org/abs/2512.09084v3)** | 2026-06-05 | 6 pages, 2 figures |
+| **[Planning-aligned Token Compression for Long-Context Autonomous Driving](https://arxiv.org/abs/2606.07464v1)** | 2026-06-05 | 9 pages |
+| **[Amortized Neural Optimization for Pre-Layout Signal Integrity Design Space Exploration using Differentiable Surrogates](https://arxiv.org/abs/2606.07463v1)** | 2026-06-05 | <details><summary>16 pa...</summary><p>16 pages, 20 figures, 8 tables</p></details> |
+| **[PAGE-4D: VGGT-4D Perception via Disentangled Pose and Geometry Estimation](https://arxiv.org/abs/2510.17568v7)** | 2026-06-05 | <details><summary>ICLR ...</summary><p>ICLR 2026, VGGT-4D, Dynamic VGGT</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators](https://arxiv.org/abs/2606.06476v1)** | 2026-06-04 | <details><summary>Proje...</summary><p>Project page: https://zcmax.github.io/projects/Thinking-With-Imagination</p></details> |
-| **[Human Adults and LLMs as Scientists: Who Benefits from Active Exploration?](https://arxiv.org/abs/2606.06464v1)** | 2026-06-04 | <details><summary>Accep...</summary><p>Accepted at the 48th Annual Conference of the Cognitive Science Society (CogSci 2026)</p></details> |
-| **[Scaffold, Not Vocabulary? A Controlled, Two-Tier, Pre-Registered Study of a Popperian Code-Generation Skill](https://arxiv.org/abs/2606.06454v1)** | 2026-06-04 | <details><summary>34 pa...</summary><p>34 pages, 5 figures, 8 tables</p></details> |
-| **[Causal Atlases from Entropic Inference: Bayesian Networks beyond Optimal DAGs](https://arxiv.org/abs/2606.06440v1)** | 2026-06-04 | 18 pages, 2 figures |
-| **[A Robust Framework for Model Order Selection in Correlated Large-Dimensional CES Noise](https://arxiv.org/abs/2606.06426v1)** | 2026-06-04 | <details><summary>13 pa...</summary><p>13 pages (Main Paper), 6 pages (Supplementary Material), 9 figures</p></details> |
-| **[RAG Security and Privacy: Formalizing the Threat Model and Attack Surface](https://arxiv.org/abs/2509.20324v2)** | 2026-06-04 | <details><summary>Publi...</summary><p>Published at the 5th ICDM Workshop in November 2025</p></details> |
+| **[Predicting Dynamic Map States from Limited Field-of-View Sensor Data](https://arxiv.org/abs/2602.12360v2)** | 2026-06-05 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Accepted to the 2026 International Conference on Advanced Visual and Signal-Based Systems (AVSS)</p></details> |
+| **[Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning](https://arxiv.org/abs/2606.07500v1)** | 2026-06-05 | <details><summary>19 pa...</summary><p>19 pages. arXiv admin note: text overlap with arXiv:2601.17616</p></details> |
+| **[Drifting Models for Surrogate Flow Modeling](https://arxiv.org/abs/2606.07481v1)** | 2026-06-05 | <details><summary>Accep...</summary><p>Accepted to the 2nd International Symposium AI and Fluid Mechanics 2026</p></details> |
+| **[Verifiable and Confidential DNN Inference on Low-End Edge Devices](https://arxiv.org/abs/2606.07470v1)** | 2026-06-05 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 5 tables, 1 algorithm</p></details> |
+| **[Amortized Neural Optimization for Pre-Layout Signal Integrity Design Space Exploration using Differentiable Surrogates](https://arxiv.org/abs/2606.07463v1)** | 2026-06-05 | <details><summary>16 pa...</summary><p>16 pages, 20 figures, 8 tables</p></details> |
+| **[Time series Foundation Models based on Physics-Informed Synthetic Histories for Cold-Start Photovoltaic Forecasting](https://arxiv.org/abs/2606.07457v1)** | 2026-06-05 | <details><summary>To be...</summary><p>To be published in the 2nd ICML Workshop on Foundation Models for Structured Data</p></details> |
 

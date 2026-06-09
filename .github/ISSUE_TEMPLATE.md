@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - June 09, 2026
+title: Latest 6 Papers - June 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Predicting Dynamic Map States from Limited Field-of-View Sensor Data](https://arxiv.org/abs/2602.12360v2)** | 2026-06-05 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Accepted to the 2026 International Conference on Advanced Visual and Signal-Based Systems (AVSS)</p></details> |
-| **[Differences in Detection: Explainability Where it Matters](https://arxiv.org/abs/2606.07503v1)** | 2026-06-05 | <details><summary>Accep...</summary><p>Accepted to IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops 2026 - How Do Vision Models Work? (HOW)</p></details> |
-| **[Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings](https://arxiv.org/abs/2606.07502v1)** | 2026-06-05 | preprint |
-| **[Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning](https://arxiv.org/abs/2606.07500v1)** | 2026-06-05 | <details><summary>19 pa...</summary><p>19 pages. arXiv admin note: text overlap with arXiv:2601.17616</p></details> |
-| **[Mitigating Proxy-to-Wild Domain Gap in Deepfake Speech](https://arxiv.org/abs/2606.07494v1)** | 2026-06-05 | Work in progress |
-| **[Bradley-Terry Rankings for Recommender Systems Across Dataset Taxonomies](https://arxiv.org/abs/2606.07492v1)** | 2026-06-05 | KDD'26 |
+| **[Latent Spatial Memory for Video World Models](https://arxiv.org/abs/2606.09828v1)** | 2026-06-08 | <details><summary>Proje...</summary><p>Project Page: https://aka.ms/latent-spatial-memory, Code: https://github.com/microsoft/LatentSpatialMemory</p></details> |
+| **[MemoryVLA++: Temporal Modeling via Memory and Imagination in Vision-Language-Action Models](https://arxiv.org/abs/2606.09827v1)** | 2026-06-08 | <details><summary>The p...</summary><p>The project is available at https://shihao1895.github.io/MemoryVLA-PP-Web</p></details> |
+| **[TSseek: Regular Expression-Based Similarity Search for Distributed Time Series Datasets](https://arxiv.org/abs/2606.09824v1)** | 2026-06-08 | <details><summary>Exten...</summary><p>Extended version with full ablation studies and additional experiments</p></details> |
+| **[iMaC: Translating Actions into Motion and Contact Images for Embodied World Models](https://arxiv.org/abs/2606.09813v1)** | 2026-06-08 | <details><summary>Proje...</summary><p>Project page: https://imac-wm.github.io/</p></details> |
+| **[Scalable Inference-Time Annealing with Surrogate Likelihood Estimators](https://arxiv.org/abs/2605.31498v3)** | 2026-06-08 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, submitted to JMLR 2026</p></details> |
+| **[AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing](https://arxiv.org/abs/2606.09811v1)** | 2026-06-08 | <details><summary>Proje...</summary><p>Project page: https://serene-sivy.github.io/aha-wam/</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings](https://arxiv.org/abs/2606.07502v1)** | 2026-06-05 | preprint |
-| **[Mitigating Proxy-to-Wild Domain Gap in Deepfake Speech](https://arxiv.org/abs/2606.07494v1)** | 2026-06-05 | Work in progress |
-| **[GS-KAN: Parameter-Efficient Kolmogorov-Arnold Networks via Sprecher-Type Shared Basis Functions](https://arxiv.org/abs/2512.09084v3)** | 2026-06-05 | 6 pages, 2 figures |
-| **[Planning-aligned Token Compression for Long-Context Autonomous Driving](https://arxiv.org/abs/2606.07464v1)** | 2026-06-05 | 9 pages |
-| **[Amortized Neural Optimization for Pre-Layout Signal Integrity Design Space Exploration using Differentiable Surrogates](https://arxiv.org/abs/2606.07463v1)** | 2026-06-05 | <details><summary>16 pa...</summary><p>16 pages, 20 figures, 8 tables</p></details> |
-| **[PAGE-4D: VGGT-4D Perception via Disentangled Pose and Geometry Estimation](https://arxiv.org/abs/2510.17568v7)** | 2026-06-05 | <details><summary>ICLR ...</summary><p>ICLR 2026, VGGT-4D, Dynamic VGGT</p></details> |
+| **[iMaC: Translating Actions into Motion and Contact Images for Embodied World Models](https://arxiv.org/abs/2606.09813v1)** | 2026-06-08 | <details><summary>Proje...</summary><p>Project page: https://imac-wm.github.io/</p></details> |
+| **[AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing](https://arxiv.org/abs/2606.09811v1)** | 2026-06-08 | <details><summary>Proje...</summary><p>Project page: https://serene-sivy.github.io/aha-wam/</p></details> |
+| **[Echo-Memory: A Controlled Study of Memory in Action World Models](https://arxiv.org/abs/2606.09803v1)** | 2026-06-08 | <details><summary>9 fig...</summary><p>9 figures and 28 pages, Code at \href{https://github.com/Echo-Team-Joy-Future-Academy-JD/Echo-Memory}{this URL}</p></details> |
+| **[POTATR: A Lightweight Image-to-Graph Model for Page-Level Table Extraction](https://arxiv.org/abs/2606.09788v1)** | 2026-06-08 | <details><summary>16 pa...</summary><p>16 pages, split from PubTables-v2 paper</p></details> |
+| **[Data Synthesis and Parameter-Efficient Fine-Tuning for Low-Resource NMT: A Case Study on Q'eqchi' Mayan](https://arxiv.org/abs/2606.09767v1)** | 2026-06-08 | <details><summary>Accep...</summary><p>Accepted to the 29th International Conference on Text, Speech and Dialogue (TSD 2026). This version of the contribution has been accepted for publication, after peer review but is not the Version of Record and does not reflect post-acceptance improvements, or any corrections</p></details> |
+| **[bbsolver: A Unified Error-Bounded Spatiotemporal Optimization Solver for Key Timing and Topology-Consistent Vector Paths](https://arxiv.org/abs/2606.09741v1)** | 2026-06-08 | <details><summary>18 pa...</summary><p>18 pages, 11 figures; source code and reproducibility artifact at https://github.com/ivg-design/bbsolver</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Predicting Dynamic Map States from Limited Field-of-View Sensor Data](https://arxiv.org/abs/2602.12360v2)** | 2026-06-05 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Accepted to the 2026 International Conference on Advanced Visual and Signal-Based Systems (AVSS)</p></details> |
-| **[Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning](https://arxiv.org/abs/2606.07500v1)** | 2026-06-05 | <details><summary>19 pa...</summary><p>19 pages. arXiv admin note: text overlap with arXiv:2601.17616</p></details> |
-| **[Drifting Models for Surrogate Flow Modeling](https://arxiv.org/abs/2606.07481v1)** | 2026-06-05 | <details><summary>Accep...</summary><p>Accepted to the 2nd International Symposium AI and Fluid Mechanics 2026</p></details> |
-| **[Verifiable and Confidential DNN Inference on Low-End Edge Devices](https://arxiv.org/abs/2606.07470v1)** | 2026-06-05 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 5 tables, 1 algorithm</p></details> |
-| **[Amortized Neural Optimization for Pre-Layout Signal Integrity Design Space Exploration using Differentiable Surrogates](https://arxiv.org/abs/2606.07463v1)** | 2026-06-05 | <details><summary>16 pa...</summary><p>16 pages, 20 figures, 8 tables</p></details> |
-| **[Time series Foundation Models based on Physics-Informed Synthetic Histories for Cold-Start Photovoltaic Forecasting](https://arxiv.org/abs/2606.07457v1)** | 2026-06-05 | <details><summary>To be...</summary><p>To be published in the 2nd ICML Workshop on Foundation Models for Structured Data</p></details> |
+| **[Scalable Inference-Time Annealing with Surrogate Likelihood Estimators](https://arxiv.org/abs/2605.31498v3)** | 2026-06-08 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, submitted to JMLR 2026</p></details> |
+| **[AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing](https://arxiv.org/abs/2606.09811v1)** | 2026-06-08 | <details><summary>Proje...</summary><p>Project page: https://serene-sivy.github.io/aha-wam/</p></details> |
+| **[POTATR: A Lightweight Image-to-Graph Model for Page-Level Table Extraction](https://arxiv.org/abs/2606.09788v1)** | 2026-06-08 | <details><summary>16 pa...</summary><p>16 pages, split from PubTables-v2 paper</p></details> |
+| **[See Less, Specify More: Visual Evidence Budgets for Generalizable VLAs](https://arxiv.org/abs/2606.02735v2)** | 2026-06-08 | <details><summary>Proje...</summary><p>Project page: https://s2.airoa.io</p></details> |
+| **[Difference-Aware Retrieval Policies for Imitation Learning](https://arxiv.org/abs/2606.09758v1)** | 2026-06-08 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 3 tables. Accepted to ICLR 2026. Code and demos available at https://weirdlabuw.github.io/darp-site/</p></details> |
+| **[Multi-Turn Evaluation of Deep Research Agents Under Process-Level Feedback](https://arxiv.org/abs/2606.09748v1)** | 2026-06-08 | <details><summary>Publi...</summary><p>Published as a workshop paper at SCALE - ICML 2026 (Oral)</p></details> |
 

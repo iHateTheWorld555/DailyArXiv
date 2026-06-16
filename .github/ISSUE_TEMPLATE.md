@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - June 16, 2026
+title: Latest 6 Papers - June 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[OmniVideo-100K: A Dataset for Audio-Visual Reasoning through Structured Scripts and Evidence Chains](https://arxiv.org/abs/2606.14702v1)** | 2026-06-12 | <details><summary>Proje...</summary><p>Project page: https://github.com/MiG-NJU/OmniVideo-100K</p></details> |
-| **[RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space](https://arxiv.org/abs/2606.14700v1)** | 2026-06-12 | <details><summary>Proje...</summary><p>Project Page: https://xichenpan.com/repfusion</p></details> |
-| **[Instruct-Particulate: Scaling Feed-Forward 3D Object Articulation with Kinematic Control](https://arxiv.org/abs/2606.14699v1)** | 2026-06-12 | <details><summary>Proje...</summary><p>Project page: https://instruct-particulate.github.io/</p></details> |
-| **[ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning](https://arxiv.org/abs/2606.14697v1)** | 2026-06-12 | <details><summary>Code ...</summary><p>Code and datasets: https://github.com/alibaba-damo-academy/ClinHallu</p></details> |
-| **[Persona-Pruner: Sculpting Lightweight Models for Role-Playing](https://arxiv.org/abs/2606.14695v1)** | 2026-06-12 | <details><summary>25 pa...</summary><p>25 pages; ICML 2026; Code is available at https://github.com/jsu-kim/Persona-Pruner</p></details> |
-| **[CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment](https://arxiv.org/abs/2606.14691v1)** | 2026-06-12 | <details><summary>Submi...</summary><p>Submitted to EMNLP 2026</p></details> |
+| **[The Value Axis: Language Models Encode Whether They're on the Right Track](https://arxiv.org/abs/2606.17056v1)** | 2026-06-15 | <details><summary>Code ...</summary><p>Code repository: https://github.com/nickjiang2378/value-axis</p></details> |
+| **[T-Rex: Tactile-Reactive Dexterous Manipulation](https://arxiv.org/abs/2606.17055v1)** | 2026-06-15 | <details><summary>Proje...</summary><p>Project page: https://tactile-rex.github.io/</p></details> |
+| **[Scale-Invariant Neural Network Optimization: Norm Geometry and Heavy-Tailed Noise](https://arxiv.org/abs/2605.18528v3)** | 2026-06-15 | <details><summary>Polis...</summary><p>Polished writing; Fixed typos and references; 45 pages</p></details> |
+| **[Human Universal Grasping](https://arxiv.org/abs/2606.17054v1)** | 2026-06-15 | <details><summary>28 pa...</summary><p>28 pages, 20 figures, 7 tables</p></details> |
+| **[Context-Aware RL for Agentic and Multimodal LLMs](https://arxiv.org/abs/2606.17053v1)** | 2026-06-15 | 29 pages, 9 figures |
+| **[A Diffusion Monte Carlo algorithm employing depth first traversal and a stack instead of a swarm](https://arxiv.org/abs/2606.08946v2)** | 2026-06-15 | <details><summary>12 pa...</summary><p>12 pages. The code in the original (v1) Arxiv submission could randomly get trapped in a cycle where the same walker is all the time restarted with ever decreasing weight. The issue is described and addressed in this (v2) submission</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[OmniVideo-100K: A Dataset for Audio-Visual Reasoning through Structured Scripts and Evidence Chains](https://arxiv.org/abs/2606.14702v1)** | 2026-06-12 | <details><summary>Proje...</summary><p>Project page: https://github.com/MiG-NJU/OmniVideo-100K</p></details> |
-| **[RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space](https://arxiv.org/abs/2606.14700v1)** | 2026-06-12 | <details><summary>Proje...</summary><p>Project Page: https://xichenpan.com/repfusion</p></details> |
-| **[Compressed Computation is (probably) not Computation in Superposition](https://arxiv.org/abs/2606.14673v1)** | 2026-06-12 | <details><summary>Prese...</summary><p>Presented at the Mechanistic Interpretability Workshop at NeurIPS 2025</p></details> |
-| **[Abstracting Cross-Domain Action Sequences into Interpretable Workflows](https://arxiv.org/abs/2606.14654v1)** | 2026-06-12 | <details><summary>prepr...</summary><p>preprint; 9 pages, 5 figures</p></details> |
-| **[Concavity of Tsallis Entropy and Tsallis Entropy Power along Heat Flow](https://arxiv.org/abs/2601.12944v3)** | 2026-06-12 | <details><summary>impro...</summary><p>improved the estimates,19pages</p></details> |
-| **[Listening with Attention: Entropy-Guided Explainability for Transformer-Based Audio Models](https://arxiv.org/abs/2606.14647v1)** | 2026-06-12 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, and 9 tables. Accepted in Interspeech 2026 conference</p></details> |
+| **[T-Rex: Tactile-Reactive Dexterous Manipulation](https://arxiv.org/abs/2606.17055v1)** | 2026-06-15 | <details><summary>Proje...</summary><p>Project page: https://tactile-rex.github.io/</p></details> |
+| **[MeshLoom: Feed-Forward Non-Rigid Registration of Mesh Sequences](https://arxiv.org/abs/2606.17027v1)** | 2026-06-15 | <details><summary>Proje...</summary><p>Project page: https://meshloom.github.io/</p></details> |
+| **[Compressed Qubit Noise Spectroscopy: Piecewise-Linear Modeling and Rademacher Measurements](https://arxiv.org/abs/2601.02516v2)** | 2026-06-15 | <details><summary>10 pa...</summary><p>10 pages, 4 figures; v2: fixed a bug in Figure 3, where the blue lines were plotted at an inappropriately high resolution</p></details> |
+| **[Airport Terminal Passenger Queue Forecasting for Departure Gates and Security Checkpoints](https://arxiv.org/abs/2606.07622v2)** | 2026-06-15 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, accepted at DASC 2026</p></details> |
+| **[PoseGAM: Robust Unseen Object Pose Estimation via Geometry-Aware Multi-View Reasoning](https://arxiv.org/abs/2512.10840v2)** | 2026-06-15 | <details><summary>Accep...</summary><p>Accepted by CVPR 2026 (Oral). Project page: https://windvchen.github.io/PoseGAM/</p></details> |
+| **[Semantic Flip: Synthetic OOD Generation for Robust Refusal in Embodied Question Answering and Spatial Localization](https://arxiv.org/abs/2606.16898v1)** | 2026-06-15 | <details><summary>18 pa...</summary><p>18 pages, 3 figures. Code and data: https://github.com/ndb796/SemanticFlip ; project page: https://ndb796.github.io/SemanticFlip</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space](https://arxiv.org/abs/2606.14700v1)** | 2026-06-12 | <details><summary>Proje...</summary><p>Project Page: https://xichenpan.com/repfusion</p></details> |
-| **[CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment](https://arxiv.org/abs/2606.14691v1)** | 2026-06-12 | <details><summary>Submi...</summary><p>Submitted to EMNLP 2026</p></details> |
-| **[Abstracting Cross-Domain Action Sequences into Interpretable Workflows](https://arxiv.org/abs/2606.14654v1)** | 2026-06-12 | <details><summary>prepr...</summary><p>preprint; 9 pages, 5 figures</p></details> |
-| **[Sub-Token Routing for KV Cache Compression](https://arxiv.org/abs/2604.21335v3)** | 2026-06-12 | <details><summary>17 pa...</summary><p>17 pages, 8 tables, 2 figures</p></details> |
-| **[Testing Preferential Sampling](https://arxiv.org/abs/2606.14615v1)** | 2026-06-12 | 23 pages, 19 figures |
-| **[Assessing (im)balance in signed brain networks](https://arxiv.org/abs/2508.00542v5)** | 2026-06-12 | <details><summary>44 pa...</summary><p>44 pages, 19 figures, 1 table</p></details> |
+| **[LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories](https://arxiv.org/abs/2606.13578v2)** | 2026-06-15 | <details><summary>Work ...</summary><p>Work in progress. Project website at https://zjunlp.github.io/LabVLA/</p></details> |
+| **[TokenPilot: Cache-Efficient Context Management for LLM Agents](https://arxiv.org/abs/2606.17016v1)** | 2026-06-15 | <details><summary>Light...</summary><p>LightMem Series: Work in Progress</p></details> |
+| **[TuneJury: An Open Metric for Improving Music Generation Preference Alignment](https://arxiv.org/abs/2606.17006v1)** | 2026-06-15 | 32 pages, 9 figures |
+| **[ActiveSAM: Image-Conditional Class Pruning for Fast and Accurate Open-Vocabulary Segmentation](https://arxiv.org/abs/2606.16996v1)** | 2026-06-15 | <details><summary>Prepr...</summary><p>Preprint. Code is available at https://github.com/VILA-Lab/ActiveSAM</p></details> |
+| **[When in Doubt, Plan It Out: Committed Small Language Model Deliberation for Reactive Reinforcement Learning](https://arxiv.org/abs/2606.16995v1)** | 2026-06-15 | <details><summary>LM4Pl...</summary><p>LM4Plan Workshop at ICML 2026</p></details> |
+| **[Dynestyx: A Probabilistic Programming Library for Dynamical Systems](https://arxiv.org/abs/2606.16985v1)** | 2026-06-15 | 7 pages |
 

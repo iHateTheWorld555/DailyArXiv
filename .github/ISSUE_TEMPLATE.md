@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - July 01, 2026
+title: Latest 6 Papers - July 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Good Can Linear Models Be for Time-Series Forecasting?](https://arxiv.org/abs/2606.27282v2)** | 2026-06-29 | <details><summary>Proje...</summary><p>Project page: https://sakanaai.github.io/SearchCast/ 17 pages, 10 figures, and 5 tables</p></details> |
-| **[Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models](https://arxiv.org/abs/2606.30627v1)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted in ICML 2026 workshop on Decision-Making from Offline Datasets to Online Adaptation: Black-Box Optimization to Reinforcement Learning</p></details> |
-| **[Pause and Think: A Dataset and Benchmark for Video-Grounded Assistive Action Suggestion](https://arxiv.org/abs/2606.00616v3)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted in IROS 2026 (IEEE/RSJ International Conference on Intelligent Robots and Systems)</p></details> |
-| **[Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent](https://arxiv.org/abs/2606.30616v1)** | 2026-06-29 | <details><summary>The m...</summary><p>The model checkpoints and evaluation codebase are available at https://huggingface.co/collections/InternScience/agents-a1 and https://github.com/InternScience/Agents-A1</p></details> |
-| **[Reweighting Framewise Attention in Video Transformers for Facial Expression Understanding](https://arxiv.org/abs/2606.30611v1)** | 2026-06-29 | ECCV 2026 |
-| **[PyMETA: A Benchmark Dataset for Hierarchical Student Code Error Classification with Python-Interpreter-Based Labels](https://arxiv.org/abs/2606.30610v1)** | 2026-06-29 | <details><summary>23 pa...</summary><p>23 pages, 15 figures, 23 tables</p></details> |
+| **[FaceMoE: Mixture of Experts for Low-Resolution Face Recognition](https://arxiv.org/abs/2606.32040v1)** | 2026-06-30 | <details><summary>ECCV ...</summary><p>ECCV 2026, Project Page: https://kartik-3004.github.io/FaceMoE/</p></details> |
+| **[StreamEdit: Training-Free Video Editing via Few-Step Streaming Video Generation](https://arxiv.org/abs/2605.21466v2)** | 2026-06-30 | <details><summary>ECCV ...</summary><p>ECCV 2026. Project Page: https://dsl-lab.github.io/StreamEdit/</p></details> |
+| **[Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision](https://arxiv.org/abs/2606.32038v1)** | 2026-06-30 | 32 pages, 19 figures |
+| **[PointSplat: Compact Gaussian Splatting via Human-Centric Prediction](https://arxiv.org/abs/2606.32036v1)** | 2026-06-30 | <details><summary>Proje...</summary><p>Project Page: https://zju3dv.github.io/pointsplat</p></details> |
+| **[QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents](https://arxiv.org/abs/2606.32034v1)** | 2026-06-30 | <details><summary>10 pa...</summary><p>10 pages, 5 figures in main text; 48 pages, 6 figures with appendix</p></details> |
+| **[Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs](https://arxiv.org/abs/2606.32032v1)** | 2026-06-30 | <details><summary>Code:...</summary><p>Code: https://github.com/yale-nlp/RLMF</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[How Good Can Linear Models Be for Time-Series Forecasting?](https://arxiv.org/abs/2606.27282v2)** | 2026-06-29 | <details><summary>Proje...</summary><p>Project page: https://sakanaai.github.io/SearchCast/ 17 pages, 10 figures, and 5 tables</p></details> |
-| **[Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models](https://arxiv.org/abs/2606.30627v1)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted in ICML 2026 workshop on Decision-Making from Offline Datasets to Online Adaptation: Black-Box Optimization to Reinforcement Learning</p></details> |
-| **[Reweighting Framewise Attention in Video Transformers for Facial Expression Understanding](https://arxiv.org/abs/2606.30611v1)** | 2026-06-29 | ECCV 2026 |
-| **[Towards in-the-wild Egocentric 3D Hand-Object Pose Estimation](https://arxiv.org/abs/2606.30598v1)** | 2026-06-29 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026; Project Page: https://sid2697.github.io/epic-contact/</p></details> |
-| **[SubEdge: A Subscriber-Centric Edge Computing Subsystem in 6G Networks for AI](https://arxiv.org/abs/2606.30554v1)** | 2026-06-29 | 6 pages, 5 figures |
-| **[MAS-Lab: A Specification-Driven Validation Framework for Reliable Multi-Agent Systems](https://arxiv.org/abs/2606.30546v1)** | 2026-06-29 | 16 pages, 12 figures |
+| **[PointSplat: Compact Gaussian Splatting via Human-Centric Prediction](https://arxiv.org/abs/2606.32036v1)** | 2026-06-30 | <details><summary>Proje...</summary><p>Project Page: https://zju3dv.github.io/pointsplat</p></details> |
+| **[SemRF: A Semantic Reference Frame for Residual-Stream Dynamics in Language Models](https://arxiv.org/abs/2606.32022v1)** | 2026-06-30 | <details><summary>an ea...</summary><p>an early-stage version</p></details> |
+| **[Radial Suppression Accelerates Algorithmic Generalization: A Geometric Analysis of Delayed Generalization](https://arxiv.org/abs/2606.32000v1)** | 2026-06-30 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, 10 tables. Presented at the Workshop on High-dimensional Learning Dynamics at the 43rd International Conference on Machine Learning (ICML 2026)</p></details> |
+| **[Profiling systematic uncertainties in Simulation-Based Inference with Factorizable Normalizing Flows](https://arxiv.org/abs/2602.13184v2)** | 2026-06-30 | <details><summary>27 pa...</summary><p>27 pages, 14 figures, Code: https://doi.org/10.5281/zenodo.21058119</p></details> |
+| **[Drop-In Perceptual Optimization for 3D Gaussian Splatting](https://arxiv.org/abs/2603.23297v2)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted as a conference paper at ECCV'26. Project page: https://apple.github.io/ml-perceptual-3dgs</p></details> |
+| **[ERA: Entropy-Guided Visual Token Pruning with Rectified Attention for Efficient MLLMs](https://arxiv.org/abs/2606.31982v1)** | 2026-06-30 | 17 pages, 7 figures |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Transport-Based Geometry of Belief-Cost](https://arxiv.org/abs/2606.21585v4)** | 2026-06-29 | 27 pages |
-| **[Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models](https://arxiv.org/abs/2605.31603v2)** | 2026-06-29 | <details><summary>ECCV ...</summary><p>ECCV 2026 Camera-Ready Version. Project page (https://jiazheng-xing.github.io/nexus-lumos-home/) and Code (https://github.com/alibaba-damo-academy/Lumos-Custom/) are available</p></details> |
-| **[Linguistic Firewall: Geometry as Defense in Multi-Agent Systems Routing](https://arxiv.org/abs/2606.30555v1)** | 2026-06-29 | <details><summary>8 pag...</summary><p>8 pages (9 more for appendix), 3 figures. Published at the Second Workshop on Agents in the Wild: Safety, Security, and Beyond (AIWILD) at ICML 2026</p></details> |
-| **[SubEdge: A Subscriber-Centric Edge Computing Subsystem in 6G Networks for AI](https://arxiv.org/abs/2606.30554v1)** | 2026-06-29 | 6 pages, 5 figures |
-| **[COSM: A Cooperative Scheduling Framework for Concurrent PIM and CPU Execution on Mobile Devices](https://arxiv.org/abs/2606.30553v1)** | 2026-06-29 | <details><summary>18 pa...</summary><p>18 pages, 13 figures, ISCA'26</p></details> |
-| **[MAS-Lab: A Specification-Driven Validation Framework for Reliable Multi-Agent Systems](https://arxiv.org/abs/2606.30546v1)** | 2026-06-29 | 16 pages, 12 figures |
+| **[StreamEdit: Training-Free Video Editing via Few-Step Streaming Video Generation](https://arxiv.org/abs/2605.21466v2)** | 2026-06-30 | <details><summary>ECCV ...</summary><p>ECCV 2026. Project Page: https://dsl-lab.github.io/StreamEdit/</p></details> |
+| **[PointSplat: Compact Gaussian Splatting via Human-Centric Prediction](https://arxiv.org/abs/2606.32036v1)** | 2026-06-30 | <details><summary>Proje...</summary><p>Project Page: https://zju3dv.github.io/pointsplat</p></details> |
+| **[When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors](https://arxiv.org/abs/2606.32029v1)** | 2026-06-30 | ACL 2026 (Oral) |
+| **[Cross-Space Distillation: Teaching One-Step Students with Modern Diffusion Teachers](https://arxiv.org/abs/2606.32020v1)** | 2026-06-30 | ECCV 2026 |
+| **[Profiling systematic uncertainties in Simulation-Based Inference with Factorizable Normalizing Flows](https://arxiv.org/abs/2602.13184v2)** | 2026-06-30 | <details><summary>27 pa...</summary><p>27 pages, 14 figures, Code: https://doi.org/10.5281/zenodo.21058119</p></details> |
+| **[CoLT: Teaching Multi-Modal Models to Think with Chain of Latent Thoughts](https://arxiv.org/abs/2606.31986v1)** | 2026-06-30 | <details><summary>Accep...</summary><p>Accepted by ECCV2026. Code is available at https://github.com/hulianyuyy/CoLT</p></details> |
 

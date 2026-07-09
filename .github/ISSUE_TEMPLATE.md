@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - July 09, 2026
+title: Latest 6 Papers - July 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation](https://arxiv.org/abs/2607.06564v1)** | 2026-07-07 | <details><summary>14 pa...</summary><p>14 pages, 7 figures. Project website: https://lift3dvla.github.io/</p></details> |
-| **[VisCoP: Visual Probing for Video Domain Adaptation of Vision Language Models](https://arxiv.org/abs/2510.13808v2)** | 2026-07-07 | ECCV 2026 |
-| **[Vision as Unified Multimodal Generation](https://arxiv.org/abs/2607.06560v1)** | 2026-07-07 | 48 pages,22 figures |
-| **[RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation](https://arxiv.org/abs/2607.06559v1)** | 2026-07-07 | <details><summary>Proje...</summary><p>Project Page: https://alibaba-damo-academy.github.io/RynnWorld-4D.github.io, Github: https://github.com/alibaba-damo-academy/RynnWorld-4D</p></details> |
-| **[RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation](https://arxiv.org/abs/2607.06558v1)** | 2026-07-07 | <details><summary>Proje...</summary><p>Project Page: https://alibaba-damo-academy.github.io/RynnWorld-Teleop.github.io, Github: https://github.com/alibaba-damo-academy/RynnWorld-Teleop</p></details> |
-| **[ProxyPose: 6-DoF Pose Tracking via Video-to-Video Translation](https://arxiv.org/abs/2607.06555v1)** | 2026-07-07 | 23 pages, 6 figures |
+| **[Co-LMLM: Continuous-Query Limited Memory Language Models](https://arxiv.org/abs/2607.07707v1)** | 2026-07-08 | preprint |
+| **[Weak-to-Strong Generalization via Direct On-Policy Distillation](https://arxiv.org/abs/2607.05394v2)** | 2026-07-08 | <details><summary>Proje...</summary><p>Project Page: https://bytedtsinghua-sia.github.io/Direct-OPD/</p></details> |
+| **[Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass](https://arxiv.org/abs/2607.07696v1)** | 2026-07-08 | <details><summary>To be...</summary><p>To be presented at AIDB 2026 (co-located with VLDB)</p></details> |
+| **[Geometry-Aware Single-Image 4D Synthesis via Dense Trajectory Generation](https://arxiv.org/abs/2512.05044v2)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
+| **[Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF](https://arxiv.org/abs/2607.07693v1)** | 2026-07-08 | <details><summary>19 pa...</summary><p>19 pages, 18 figures, 4 tables. Submission under review. A shorter, non-archival 4-page abstract version of this work was accepted to CVPR 2026 Workshops (GCV, CVEU)</p></details> |
+| **[Faster quantum linear system solver beyond the condition number](https://arxiv.org/abs/2607.07691v1)** | 2026-07-08 | 52 pages, 5 figures |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation](https://arxiv.org/abs/2607.06558v1)** | 2026-07-07 | <details><summary>Proje...</summary><p>Project Page: https://alibaba-damo-academy.github.io/RynnWorld-Teleop.github.io, Github: https://github.com/alibaba-damo-academy/RynnWorld-Teleop</p></details> |
-| **[CAIRN: Cross-Room 3D Scene Understanding with Topology-Aware Large Multimodal Models](https://arxiv.org/abs/2607.06534v1)** | 2026-07-07 | <details><summary>Proje...</summary><p>Project Page: https://oceansdepp.github.io/cairn_web/</p></details> |
-| **[DepthWeave-KV: Token-Adaptive Cross-Layer Residual Factorization for Long-Context KV Cache Compression](https://arxiv.org/abs/2607.06523v1)** | 2026-07-07 | 9 pages, 2 figures |
-| **[FreqDepthKV: Frequency-Guided Depth Sharing for Robust KV Cache Compression in Long-Context LLM Inference](https://arxiv.org/abs/2607.06519v1)** | 2026-07-07 | 11 pages, 2 figures |
-| **[Universal Algorithm-Implicit Learning](https://arxiv.org/abs/2602.14761v2)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[Gaussian Process Latent Factor Regression for Low-Data, High-Dimensional Output Problems](https://arxiv.org/abs/2606.06576v2)** | 2026-07-07 | <details><summary>9 pag...</summary><p>9 pages content + 23 pages appendix/references. Supporting code at https://github.com/edstevenson/GPLFR</p></details> |
+| **[Data-Driven Forecasting of three-Component Seismograms Using Transformer Architectures](https://arxiv.org/abs/2606.02912v2)** | 2026-07-08 | <details><summary>35 pa...</summary><p>35 pages, 13 figures and 4 tables. Submitted to JGR: Machine Learning and Computation</p></details> |
+| **[RL Post-Training Builds Compositional Reasoning Strategies](https://arxiv.org/abs/2607.07646v1)** | 2026-07-08 | <details><summary>8 pag...</summary><p>8 pages, 6 figures. Accepted to the 2nd Workshop on Compositional Learning at ICML 2026, Seoul, South Korea</p></details> |
+| **[Superstate Quantum Mechanics](https://arxiv.org/abs/2502.00037v4)** | 2026-07-08 | <details><summary>The M...</summary><p>The ML approach presented in arXiv:2407.04406 is extended to stationary and non-stationary quantum dynamics</p></details> |
+| **[Multi-Class vs. Multi-Label BERT for CVE-to-CWE Mapping: How Taxonomy Structure Shapes the Errors](https://arxiv.org/abs/2607.07573v1)** | 2026-07-08 | <details><summary>3 fig...</summary><p>3 figures, 7 tables, to be published at the ICANN 2026 (International Conference on Artificial Neural Networks)</p></details> |
+| **[On Computing Minimum Wheeler DFA From Their Language](https://arxiv.org/abs/2607.07563v1)** | 2026-07-08 | <details><summary>Full ...</summary><p>Full version of a paper accepted at the 33rd Annual European Symposium on Algorithms (ESA 2026). 26 pages, 1 figure</p></details> |
+| **[AA-ViT: Anatomically Aware Vision Transformer with Structural and Frequency Guidance for Contrast Enhanced Brain MRI Synthesis](https://arxiv.org/abs/2607.07553v1)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted for Publication in MIUA 2026 proceedings</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation](https://arxiv.org/abs/2607.06558v1)** | 2026-07-07 | <details><summary>Proje...</summary><p>Project Page: https://alibaba-damo-academy.github.io/RynnWorld-Teleop.github.io, Github: https://github.com/alibaba-damo-academy/RynnWorld-Teleop</p></details> |
-| **[Hierarchical Acoustic-Semantic Modeling: Modality Separation and Semantic Coherence for Full-Duplex SLMs](https://arxiv.org/abs/2607.06540v1)** | 2026-07-07 | 22 pages, 9 figures |
-| **[The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology](https://arxiv.org/abs/2607.06531v1)** | 2026-07-07 | <details><summary>22 pa...</summary><p>22 pages, 6 figures, 8 tables, 9 appendices, 14 references, Elsevier JBI format</p></details> |
-| **[RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-Flow and Decoupled LLM Generation](https://arxiv.org/abs/2607.06527v1)** | 2026-07-07 | <details><summary>Accep...</summary><p>Accepted for publication in ICML 2026 as a full research paper; 21 pages</p></details> |
-| **[Crossroads: A Smart Contract Layer for Chain-Abstracted Assets](https://arxiv.org/abs/2607.06525v1)** | 2026-07-07 | 18 pages, 4 figures |
-| **[DepthWeave-KV: Token-Adaptive Cross-Layer Residual Factorization for Long-Context KV Cache Compression](https://arxiv.org/abs/2607.06523v1)** | 2026-07-07 | 9 pages, 2 figures |
+| **[Mitigating the Winner's Curse While Controlling Multiplicity: e-Process Methods for Anytime-Valid Inference in Dose-Ranging Trials](https://arxiv.org/abs/2607.07699v1)** | 2026-07-08 | <details><summary>Prese...</summary><p>Presented at SAVI Conference 2026</p></details> |
+| **[Geometry-Aware Single-Image 4D Synthesis via Dense Trajectory Generation](https://arxiv.org/abs/2512.05044v2)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
+| **[Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning](https://arxiv.org/abs/2607.07690v1)** | 2026-07-08 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 8 tables</p></details> |
+| **[What's on My Network? Using Large Language Models to Identify Real-World IoT Devices at Scale](https://arxiv.org/abs/2510.13817v2)** | 2026-07-08 | 18 pages, 3 figures |
+| **[Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence](https://arxiv.org/abs/2607.07675v1)** | 2026-07-08 | <details><summary>Proje...</summary><p>Project page: https://technology.robbyant.com/lingbot-video</p></details> |
+| **[Allo{SR}$^2$: Rectifying One-Step Super-Resolution to Stay Real via Allomorphic Generative Flows](https://arxiv.org/abs/2604.19238v2)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
 

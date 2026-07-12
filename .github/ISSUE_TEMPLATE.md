@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - July 10, 2026
+title: Latest 6 Papers - July 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Co-LMLM: Continuous-Query Limited Memory Language Models](https://arxiv.org/abs/2607.07707v1)** | 2026-07-08 | preprint |
-| **[Weak-to-Strong Generalization via Direct On-Policy Distillation](https://arxiv.org/abs/2607.05394v2)** | 2026-07-08 | <details><summary>Proje...</summary><p>Project Page: https://bytedtsinghua-sia.github.io/Direct-OPD/</p></details> |
-| **[Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass](https://arxiv.org/abs/2607.07696v1)** | 2026-07-08 | <details><summary>To be...</summary><p>To be presented at AIDB 2026 (co-located with VLDB)</p></details> |
-| **[Geometry-Aware Single-Image 4D Synthesis via Dense Trajectory Generation](https://arxiv.org/abs/2512.05044v2)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
-| **[Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF](https://arxiv.org/abs/2607.07693v1)** | 2026-07-08 | <details><summary>19 pa...</summary><p>19 pages, 18 figures, 4 tables. Submission under review. A shorter, non-archival 4-page abstract version of this work was accepted to CVPR 2026 Workshops (GCV, CVEU)</p></details> |
-| **[Faster quantum linear system solver beyond the condition number](https://arxiv.org/abs/2607.07691v1)** | 2026-07-08 | 52 pages, 5 figures |
+| **[Wat3R: Underwater 3D Geometry Learning without Annotations](https://arxiv.org/abs/2607.08772v1)** | 2026-07-09 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. The dataset and code are available at https://github.com/LSXI7/Wat3R</p></details> |
+| **[ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device](https://arxiv.org/abs/2607.08771v1)** | 2026-07-09 | <details><summary>ECCV ...</summary><p>ECCV 2026. Code: https://github.com/fabiotosi92/ZipDepth - Project page: https://zipdepth.github.io/</p></details> |
+| **[LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models](https://arxiv.org/abs/2607.08770v1)** | 2026-07-09 | <details><summary>SIGGR...</summary><p>SIGGRAPH 2026. Project page: https://cdfan0627.github.io/LongE2V-page/</p></details> |
+| **[Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?](https://arxiv.org/abs/2606.26428v2)** | 2026-07-09 | <details><summary>22 pa...</summary><p>22 pages, 12 figures, 4 tables. Project page: https://play2perfect.github.io</p></details> |
+| **[Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction](https://arxiv.org/abs/2607.08769v1)** | 2026-07-09 | <details><summary>Proje...</summary><p>Project Webpage: https://insta360-research-team.github.io/GGPS-Website</p></details> |
+| **[UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks](https://arxiv.org/abs/2607.08768v1)** | 2026-07-09 | <details><summary>Proje...</summary><p>Project Page: https://uniclawbench.github.io | GitHub Repo: https://github.com/HKU-MMLab/UniClawBench</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Data-Driven Forecasting of three-Component Seismograms Using Transformer Architectures](https://arxiv.org/abs/2606.02912v2)** | 2026-07-08 | <details><summary>35 pa...</summary><p>35 pages, 13 figures and 4 tables. Submitted to JGR: Machine Learning and Computation</p></details> |
-| **[RL Post-Training Builds Compositional Reasoning Strategies](https://arxiv.org/abs/2607.07646v1)** | 2026-07-08 | <details><summary>8 pag...</summary><p>8 pages, 6 figures. Accepted to the 2nd Workshop on Compositional Learning at ICML 2026, Seoul, South Korea</p></details> |
-| **[Superstate Quantum Mechanics](https://arxiv.org/abs/2502.00037v4)** | 2026-07-08 | <details><summary>The M...</summary><p>The ML approach presented in arXiv:2407.04406 is extended to stationary and non-stationary quantum dynamics</p></details> |
-| **[Multi-Class vs. Multi-Label BERT for CVE-to-CWE Mapping: How Taxonomy Structure Shapes the Errors](https://arxiv.org/abs/2607.07573v1)** | 2026-07-08 | <details><summary>3 fig...</summary><p>3 figures, 7 tables, to be published at the ICANN 2026 (International Conference on Artificial Neural Networks)</p></details> |
-| **[On Computing Minimum Wheeler DFA From Their Language](https://arxiv.org/abs/2607.07563v1)** | 2026-07-08 | <details><summary>Full ...</summary><p>Full version of a paper accepted at the 33rd Annual European Symposium on Algorithms (ESA 2026). 26 pages, 1 figure</p></details> |
-| **[AA-ViT: Anatomically Aware Vision Transformer with Structural and Frequency Guidance for Contrast Enhanced Brain MRI Synthesis](https://arxiv.org/abs/2607.07553v1)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted for Publication in MIUA 2026 proceedings</p></details> |
+| **[ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation](https://arxiv.org/abs/2607.08741v1)** | 2026-07-09 | <details><summary>ACM T...</summary><p>ACM Transactions on Graphics (SIGGRAPH 2026)</p></details> |
+| **[Pose-to-Biomechanics: Bridging 3D Human Pose Estimation and Biomechanical Attribute Prediction](https://arxiv.org/abs/2607.08725v1)** | 2026-07-09 | 23 pages, 2 figures |
+| **[Deep Learning for Joint Narrowband Interference Cancellation and Soft Demodulation in OFDM Systems](https://arxiv.org/abs/2607.08717v1)** | 2026-07-09 | <details><summary>17 pa...</summary><p>17 pages, 11 figures, 6 tables. Preprint under review</p></details> |
+| **[SAM-MT: Real-Time Interactive Multi-Target Video Segmentation](https://arxiv.org/abs/2607.08688v1)** | 2026-07-09 | <details><summary>ECCV ...</summary><p>ECCV 2026, Project Page: https://henghuiding.com/SAM-MT/</p></details> |
+| **[Multi-Resolution Feature Stem for Diabetic Retinopathy lesion segmentation](https://arxiv.org/abs/2607.08679v1)** | 2026-07-09 | <details><summary>2026 ...</summary><p>2026 International Conference on Advances in Artificial Intelligence and Machine Learning (AAIML), 20-22 March 2026</p></details> |
+| **[WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search](https://arxiv.org/abs/2607.08662v1)** | 2026-07-09 | Work in progress |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Mitigating the Winner's Curse While Controlling Multiplicity: e-Process Methods for Anytime-Valid Inference in Dose-Ranging Trials](https://arxiv.org/abs/2607.07699v1)** | 2026-07-08 | <details><summary>Prese...</summary><p>Presented at SAVI Conference 2026</p></details> |
-| **[Geometry-Aware Single-Image 4D Synthesis via Dense Trajectory Generation](https://arxiv.org/abs/2512.05044v2)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
-| **[Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning](https://arxiv.org/abs/2607.07690v1)** | 2026-07-08 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 8 tables</p></details> |
-| **[What's on My Network? Using Large Language Models to Identify Real-World IoT Devices at Scale](https://arxiv.org/abs/2510.13817v2)** | 2026-07-08 | 18 pages, 3 figures |
-| **[Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence](https://arxiv.org/abs/2607.07675v1)** | 2026-07-08 | <details><summary>Proje...</summary><p>Project page: https://technology.robbyant.com/lingbot-video</p></details> |
-| **[Allo{SR}$^2$: Rectifying One-Step Super-Resolution to Stay Real via Allomorphic Generative Flows](https://arxiv.org/abs/2604.19238v2)** | 2026-07-08 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026</p></details> |
+| **[OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators](https://arxiv.org/abs/2607.08766v1)** | 2026-07-09 | <details><summary>Proje...</summary><p>Project page: https://meigen-ai.github.io/OPSD-V ; Code: https://github.com/MeiGen-AI/OPSD-V</p></details> |
+| **[ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation](https://arxiv.org/abs/2607.08741v1)** | 2026-07-09 | <details><summary>ACM T...</summary><p>ACM Transactions on Graphics (SIGGRAPH 2026)</p></details> |
+| **[Workflow as Knowledge: Semantic Persistence for LLM-Mediated Workflows](https://arxiv.org/abs/2607.08740v1)** | 2026-07-09 | 39 pages, 18 figures |
+| **[Does Mixture-of-Experts Actually Help Inference on Consumer and Edge Hardware? An Empirical Study](https://arxiv.org/abs/2606.21428v3)** | 2026-07-09 | <details><summary>18 pa...</summary><p>18 pages, 7 tables, 4 figures. Submitted to FAIEMA 2026. Code available at https://github.com/Analytics-Everywhere-Lab/edge-moe</p></details> |
+| **[WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search](https://arxiv.org/abs/2607.08662v1)** | 2026-07-09 | Work in progress |
+| **[Multi-Modal, Multi-Environment Machine Teaching for Robust Reward Learning](https://arxiv.org/abs/2607.08647v1)** | 2026-07-09 | <details><summary>Accep...</summary><p>Accepted to RLC 2026. Conference paper</p></details> |
 

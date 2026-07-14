@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - July 14, 2026
+title: Latest 6 Papers - July 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PanoWorld: Real-World Panoramic Generation](https://arxiv.org/abs/2607.09661v1)** | 2026-07-10 | <details><summary>Proje...</summary><p>Project page: https://lihaoy-ux.github.io/panoworld-page/ Code:https://github.com/Insta360-Research-Team/PanoWorld</p></details> |
-| **[OpenLongTail: Generative Scaling of Long-Tail Driving Data](https://arxiv.org/abs/2607.09655v1)** | 2026-07-10 | <details><summary>Proje...</summary><p>Project page: https://openlongtail.github.io/</p></details> |
-| **[Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories](https://arxiv.org/abs/2606.03979v2)** | 2026-07-10 | <details><summary>A ver...</summary><p>A version of this work has been publicly available from September 2025 on OpenReview</p></details> |
-| **[Machine Learning for Network Attacks Classification and Statistical Evaluation of Adversarial Learning Methodologies for Synthetic Data Generation](https://arxiv.org/abs/2603.17717v4)** | 2026-07-10 | <details><summary>Accep...</summary><p>Accepted at IEEE ISCC 2026, Portugal</p></details> |
-| **[Forbidding anticomplete planar minors: Induced Erdős--Pósa property and Maximum Independent Set in QP](https://arxiv.org/abs/2607.09646v1)** | 2026-07-10 | 21 pages |
-| **[Deep Gaussian Processes on Directed Acyclic Graphs](https://arxiv.org/abs/2607.09645v1)** | 2026-07-10 | 75 pages, 14 figures |
+| **[Latent-Identity Tuning in Text-to-Image Personalization Models](https://arxiv.org/abs/2607.11885v1)** | 2026-07-13 | <details><summary>Proje...</summary><p>Project page at: https://garibida.github.io/IdentityTuning/</p></details> |
+| **[Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data](https://arxiv.org/abs/2607.11883v1)** | 2026-07-13 | <details><summary>Code ...</summary><p>Code available at https://github.com/shikaiqiu/requential-coding</p></details> |
+| **[A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol](https://arxiv.org/abs/2607.11873v1)** | 2026-07-13 | 12 pages, 2 figures |
+| **[Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers?](https://arxiv.org/abs/2607.11859v1)** | 2026-07-13 | 4 pages, 1 figure |
+| **[Are DeepFakes Realistic Enough? Exploring Semantic Mismatch as a Novel Challenge](https://arxiv.org/abs/2604.28022v2)** | 2026-07-13 | <details><summary>Added...</summary><p>Added missing FGI results in semantic reinforcement eval (Table 9), showing an architecture-dependent effect. Abstract, contributions, and conclusion revised accordingly. Clarified RARV-SMM/semantic mismatch definition. Corrected SOTA comparison claim (Sec. 4.7). Added code link</p></details> |
+| **[Cycle-World: Mitigating Error Accumulation in Long-term Video World Models via Reverse-Prediction Cycle Consistency](https://arxiv.org/abs/2607.11836v1)** | 2026-07-13 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[OpenLongTail: Generative Scaling of Long-Tail Driving Data](https://arxiv.org/abs/2607.09655v1)** | 2026-07-10 | <details><summary>Proje...</summary><p>Project page: https://openlongtail.github.io/</p></details> |
-| **[Mosaic: Runtime-Efficient Multi-Agent Embodied Planning](https://arxiv.org/abs/2607.09603v1)** | 2026-07-10 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
-| **[Lost in Backpropagation: The LM Head is a Gradient Bottleneck](https://arxiv.org/abs/2603.10145v2)** | 2026-07-10 | <details><summary>To be...</summary><p>To be presented at COLM'26</p></details> |
-| **[Compression with Privacy-Preserving Random Access](https://arxiv.org/abs/2511.14524v2)** | 2026-07-10 | <details><summary>The p...</summary><p>The present version contains significant updates to the proofs and presentation</p></details> |
-| **[On the Gaussian-Quadratic Rate-Distortion Function for Vector Sources with Individual Distortion Constraints](https://arxiv.org/abs/2607.09545v1)** | 2026-07-10 | <details><summary>60 pa...</summary><p>60 pages, 7 figures. Accepted for publication in IEEE Transactions on Information Theory</p></details> |
-| **[Artificial Intelligence and the Generative Science of Food Formulation](https://arxiv.org/abs/2607.09529v1)** | 2026-07-10 | 20 pages, 5 figures |
+| **[Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data](https://arxiv.org/abs/2607.11883v1)** | 2026-07-13 | <details><summary>Code ...</summary><p>Code available at https://github.com/shikaiqiu/requential-coding</p></details> |
+| **[A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol](https://arxiv.org/abs/2607.11873v1)** | 2026-07-13 | 12 pages, 2 figures |
+| **[Input-Aware Dynamic Backdoor Attack Against Quantum Neural Networks](https://arxiv.org/abs/2607.11843v1)** | 2026-07-13 | <details><summary>Accep...</summary><p>Accepted at the 2026 IEEE International Conference on Quantum Computing and Engineering (QCE 2026)</p></details> |
+| **[A Multi-Model Metric-based Selection Framework for Abstractive Text summarization](https://arxiv.org/abs/2606.05494v3)** | 2026-07-13 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, IMSA2026</p></details> |
+| **[From Expressivity to Sample Complexity: Narrow Teachers for Transformers via C-RASP](https://arxiv.org/abs/2607.11760v1)** | 2026-07-13 | 9 pages total |
+| **[HiFi-LLP: High-Fidelity, Low-Cost Latency Predictors with Confidence for Robust HW-NAS](https://arxiv.org/abs/2607.11746v1)** | 2026-07-13 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 2025 IEEE 38th International System-on-Chip Conference (SOCC)</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Deep Gaussian Processes on Directed Acyclic Graphs](https://arxiv.org/abs/2607.09645v1)** | 2026-07-10 | 75 pages, 14 figures |
-| **[The Powerless Noise: How Experimental Settings Shape the Reported Power of Noise](https://arxiv.org/abs/2607.03615v2)** | 2026-07-10 | SIGIR 26 Repro |
-| **[RELISH: LLM REgression with a Latent Iterative State Head](https://arxiv.org/abs/2604.01206v2)** | 2026-07-10 | <details><summary>Accep...</summary><p>Accepted to the Third Conference on Language Modeling (COLM 2026)</p></details> |
-| **[Tokenizer Transplantation: Mitigating Autoregressive Collapse in Edge-Efficient Bengali ASR](https://arxiv.org/abs/2607.09598v1)** | 2026-07-10 | <details><summary>5 pag...</summary><p>5 pages, 2 figures. Accepted as a poster at the MusIML Workshop, ICML 2026</p></details> |
-| **[SpikeATac: A Multimodal Tactile Finger with Taxelized Dynamic Sensing for Dexterous Manipulation](https://arxiv.org/abs/2510.27048v3)** | 2026-07-10 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, ICRA 2026</p></details> |
-| **[How useful is a wrong model? Information-sharing for inference under mean misspecification in linear models](https://arxiv.org/abs/2607.09579v1)** | 2026-07-10 | <details><summary>21 pa...</summary><p>21 pages, 6 figures, 2 tables</p></details> |
+| **[Cycle-World: Mitigating Error Accumulation in Long-term Video World Models via Reverse-Prediction Cycle Consistency](https://arxiv.org/abs/2607.11836v1)** | 2026-07-13 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
+| **[Tutorial for Bayesian Factor Models](https://arxiv.org/abs/2607.11819v1)** | 2026-07-13 | <details><summary>Code ...</summary><p>Code available at https://github.com/peterdunson/factorverse</p></details> |
+| **[Multiple Instrument Methods Comparison by Precision weighted Deming Regression](https://arxiv.org/abs/2607.11776v1)** | 2026-07-13 | 27 pages 12 figures |
+| **[Severity-Aware Curriculum Learning with Multi-Model Response Selection for Medical Text Generation](https://arxiv.org/abs/2606.05510v3)** | 2026-07-13 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, IMSA2026</p></details> |
+| **[MET: Theory-Grounded and Culture-Aware Multilingual Moral Reasoning](https://arxiv.org/abs/2607.11736v1)** | 2026-07-13 | <details><summary>Publi...</summary><p>Published as a conference paper at COLM 2026</p></details> |
+| **[NeuralActuator: Neural Actuation Modeling for Robot Dynamics and External Force Perception](https://arxiv.org/abs/2607.11734v1)** | 2026-07-13 | <details><summary>Proje...</summary><p>Project Page: https://people.csail.mit.edu/frankzydou/projects/NeuralActuator/index.html Code: https://github.com/Frank-ZY-Dou/Dynamics-Modeling/tree/main/NeuralActuator</p></details> |
 

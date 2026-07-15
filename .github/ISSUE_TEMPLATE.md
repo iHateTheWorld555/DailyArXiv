@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - July 15, 2026
+title: Latest 6 Papers - July 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Latent-Identity Tuning in Text-to-Image Personalization Models](https://arxiv.org/abs/2607.11885v1)** | 2026-07-13 | <details><summary>Proje...</summary><p>Project page at: https://garibida.github.io/IdentityTuning/</p></details> |
-| **[Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data](https://arxiv.org/abs/2607.11883v1)** | 2026-07-13 | <details><summary>Code ...</summary><p>Code available at https://github.com/shikaiqiu/requential-coding</p></details> |
-| **[A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol](https://arxiv.org/abs/2607.11873v1)** | 2026-07-13 | 12 pages, 2 figures |
-| **[Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers?](https://arxiv.org/abs/2607.11859v1)** | 2026-07-13 | 4 pages, 1 figure |
-| **[Are DeepFakes Realistic Enough? Exploring Semantic Mismatch as a Novel Challenge](https://arxiv.org/abs/2604.28022v2)** | 2026-07-13 | <details><summary>Added...</summary><p>Added missing FGI results in semantic reinforcement eval (Table 9), showing an architecture-dependent effect. Abstract, contributions, and conclusion revised accordingly. Clarified RARV-SMM/semantic mismatch definition. Corrected SOTA comparison claim (Sec. 4.7). Added code link</p></details> |
-| **[Cycle-World: Mitigating Error Accumulation in Long-term Video World Models via Reverse-Prediction Cycle Consistency](https://arxiv.org/abs/2607.11836v1)** | 2026-07-13 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
+| **[Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution](https://arxiv.org/abs/2607.13034v1)** | 2026-07-14 | <details><summary>27 pa...</summary><p>27 pages, 8 figures, 8 tables. Code and benchmark: https://github.com/eejyin/Do-AI-Agents-Know-When-a-Task-Is-Simple-Toward-Complexity-Aware-Reasoning-and-Execution</p></details> |
+| **[DenseReward: Dense Reward Learning via Failure Synthesis for Robotic Manipulation](https://arxiv.org/abs/2607.13033v1)** | 2026-07-14 | <details><summary>Websi...</summary><p>Website: https://dense-reward.github.io/</p></details> |
+| **[The Seriality Gap in Video Diffusion Models](https://arxiv.org/abs/2607.13031v1)** | 2026-07-14 | <details><summary>Jorge...</summary><p>Jorge Diaz Chao and Konpat Preechakul contributed equally. 24 pages, 12 figures, and 5 tables. Project page: https://seriality-gap.jdiazchao.com</p></details> |
+| **[TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale](https://arxiv.org/abs/2607.13028v1)** | 2026-07-14 | <details><summary>Techn...</summary><p>Technical Report from Applied Intuition Research</p></details> |
+| **[Audio-Native Speech Recognition with a Frozen Discrete-Diffusion Language Model](https://arxiv.org/abs/2607.13013v1)** | 2026-07-14 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 6 tables</p></details> |
+| **[DermDepth: Toward Monocular Metric Scale 3D Reconstruction Models for Dermatology](https://arxiv.org/abs/2607.13010v1)** | 2026-07-14 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2026</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data](https://arxiv.org/abs/2607.11883v1)** | 2026-07-13 | <details><summary>Code ...</summary><p>Code available at https://github.com/shikaiqiu/requential-coding</p></details> |
-| **[A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol](https://arxiv.org/abs/2607.11873v1)** | 2026-07-13 | 12 pages, 2 figures |
-| **[Input-Aware Dynamic Backdoor Attack Against Quantum Neural Networks](https://arxiv.org/abs/2607.11843v1)** | 2026-07-13 | <details><summary>Accep...</summary><p>Accepted at the 2026 IEEE International Conference on Quantum Computing and Engineering (QCE 2026)</p></details> |
-| **[A Multi-Model Metric-based Selection Framework for Abstractive Text summarization](https://arxiv.org/abs/2606.05494v3)** | 2026-07-13 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, IMSA2026</p></details> |
-| **[From Expressivity to Sample Complexity: Narrow Teachers for Transformers via C-RASP](https://arxiv.org/abs/2607.11760v1)** | 2026-07-13 | 9 pages total |
-| **[HiFi-LLP: High-Fidelity, Low-Cost Latency Predictors with Confidence for Robust HW-NAS](https://arxiv.org/abs/2607.11746v1)** | 2026-07-13 | <details><summary>Publi...</summary><p>Published in the Proceedings of the 2025 IEEE 38th International System-on-Chip Conference (SOCC)</p></details> |
+| **[CD-MED: Cross-Domain Multimodal Emotion Descriptor for Visual Comparison of Digital Objects](https://arxiv.org/abs/2607.12958v1)** | 2026-07-14 | <details><summary>Submi...</summary><p>Submitted to 2026 Joint 14th International Conference on Soft Computing and Intelligent Systems and 27th International Symposium on Advanced Intelligent Systems (SCIS&ISIS 2026)</p></details> |
+| **[A 32-channel event-based bio-signal analog front-end with adaptive delta and pulse frequency encoding](https://arxiv.org/abs/2607.12901v1)** | 2026-07-14 | <details><summary>Submi...</summary><p>Submitted to NeuroPHY 2026 workshop, at the EWSN 2026 conference</p></details> |
+| **[Deep4ge: DNN Training Trajectories for Fault Detection and Diagnosis](https://arxiv.org/abs/2607.12868v1)** | 2026-07-14 | <details><summary>Accep...</summary><p>Accepted at ICSME Data & Tool Track, 2026</p></details> |
+| **[Toward Localizing and Repairing Bias in Transformer Attention Heads](https://arxiv.org/abs/2607.12863v1)** | 2026-07-14 | <details><summary>Accep...</summary><p>Accepted in ICSME NIER track, 2026</p></details> |
+| **[More Than Efficiency: Embedding Compression Improves Domain Adaptation in Dense Retrieval](https://arxiv.org/abs/2601.13525v3)** | 2026-07-14 | <details><summary>Oral ...</summary><p>Oral at SURGeLLM 2026 Workshop at ACL 2026</p></details> |
+| **[AVQ-Attention: Adaptive Vector-Quantized Attention](https://arxiv.org/abs/2607.12789v1)** | 2026-07-14 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Cycle-World: Mitigating Error Accumulation in Long-term Video World Models via Reverse-Prediction Cycle Consistency](https://arxiv.org/abs/2607.11836v1)** | 2026-07-13 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026</p></details> |
-| **[Tutorial for Bayesian Factor Models](https://arxiv.org/abs/2607.11819v1)** | 2026-07-13 | <details><summary>Code ...</summary><p>Code available at https://github.com/peterdunson/factorverse</p></details> |
-| **[Multiple Instrument Methods Comparison by Precision weighted Deming Regression](https://arxiv.org/abs/2607.11776v1)** | 2026-07-13 | 27 pages 12 figures |
-| **[Severity-Aware Curriculum Learning with Multi-Model Response Selection for Medical Text Generation](https://arxiv.org/abs/2606.05510v3)** | 2026-07-13 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, IMSA2026</p></details> |
-| **[MET: Theory-Grounded and Culture-Aware Multilingual Moral Reasoning](https://arxiv.org/abs/2607.11736v1)** | 2026-07-13 | <details><summary>Publi...</summary><p>Published as a conference paper at COLM 2026</p></details> |
-| **[NeuralActuator: Neural Actuation Modeling for Robot Dynamics and External Force Perception](https://arxiv.org/abs/2607.11734v1)** | 2026-07-13 | <details><summary>Proje...</summary><p>Project Page: https://people.csail.mit.edu/frankzydou/projects/NeuralActuator/index.html Code: https://github.com/Frank-ZY-Dou/Dynamics-Modeling/tree/main/NeuralActuator</p></details> |
+| **[TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale](https://arxiv.org/abs/2607.13028v1)** | 2026-07-14 | <details><summary>Techn...</summary><p>Technical Report from Applied Intuition Research</p></details> |
+| **[Privacy Attacks on Stable Marriage](https://arxiv.org/abs/2607.13015v1)** | 2026-07-14 | <details><summary>Accep...</summary><p>Accepted and presented at the 2026 IEEE International Conference on Distributed Computing Systems (ICDCS 2026)</p></details> |
+| **[MAMMOTH: A Multi-Modal End-to-End Policy for Off-Road Mobility Robust to Missing Modality](https://arxiv.org/abs/2607.12965v1)** | 2026-07-14 | <details><summary>Accep...</summary><p>Accepted to IROS 2026 Main Conference</p></details> |
+| **[RecRec: Recursive Refinement for Sequential Recommendation](https://arxiv.org/abs/2607.10541v2)** | 2026-07-14 | 7 pages, 3 figures |
+| **[RecRec: Latent Interests Recursive Reasoning for Sequential Recommendation](https://arxiv.org/abs/2607.12945v1)** | 2026-07-14 | <details><summary>Accep...</summary><p>Accepted at RecSys 2026, 10 pages</p></details> |
+| **[Point Tracking in Surgery--The 2025 Surgical Tattoos in Infrared Challenge (STIRC2025)](https://arxiv.org/abs/2607.12939v1)** | 2026-07-14 | <details><summary>9 pag...</summary><p>9 pages, 12 figures. arXiv admin note: substantial text overlap with arXiv:2503.24306</p></details> |
 

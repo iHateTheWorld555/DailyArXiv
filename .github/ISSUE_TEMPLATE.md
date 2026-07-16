@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - July 16, 2026
+title: Latest 6 Papers - July 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution](https://arxiv.org/abs/2607.13034v1)** | 2026-07-14 | <details><summary>27 pa...</summary><p>27 pages, 8 figures, 8 tables. Code and benchmark: https://github.com/eejyin/Do-AI-Agents-Know-When-a-Task-Is-Simple-Toward-Complexity-Aware-Reasoning-and-Execution</p></details> |
-| **[DenseReward: Dense Reward Learning via Failure Synthesis for Robotic Manipulation](https://arxiv.org/abs/2607.13033v1)** | 2026-07-14 | <details><summary>Websi...</summary><p>Website: https://dense-reward.github.io/</p></details> |
-| **[The Seriality Gap in Video Diffusion Models](https://arxiv.org/abs/2607.13031v1)** | 2026-07-14 | <details><summary>Jorge...</summary><p>Jorge Diaz Chao and Konpat Preechakul contributed equally. 24 pages, 12 figures, and 5 tables. Project page: https://seriality-gap.jdiazchao.com</p></details> |
-| **[TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale](https://arxiv.org/abs/2607.13028v1)** | 2026-07-14 | <details><summary>Techn...</summary><p>Technical Report from Applied Intuition Research</p></details> |
-| **[Audio-Native Speech Recognition with a Frozen Discrete-Diffusion Language Model](https://arxiv.org/abs/2607.13013v1)** | 2026-07-14 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 6 tables</p></details> |
-| **[DermDepth: Toward Monocular Metric Scale 3D Reconstruction Models for Dermatology](https://arxiv.org/abs/2607.13010v1)** | 2026-07-14 | <details><summary>Accep...</summary><p>Accepted at MICCAI 2026</p></details> |
+| **[VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders](https://arxiv.org/abs/2607.14088v1)** | 2026-07-15 | <details><summary>Home ...</summary><p>Home page: https://zhxie0117.github.io/VideoRAE</p></details> |
+| **[Executing Discrete/Continuous Declarative Process Specifications via Complex Event Processing](https://arxiv.org/abs/2512.05653v2)** | 2026-07-15 | Preprint |
+| **[VisualRepair: Dynamic Tool Calling and Region Focusing for Visual Software Issue Repair](https://arxiv.org/abs/2607.14075v1)** | 2026-07-15 | <details><summary>The p...</summary><p>The paper was completed in March 2026 and is currently under review. The code will be released upon acceptance</p></details> |
+| **[Representation-Based Exploration for Language Models: From Test-Time to Post-Training](https://arxiv.org/abs/2510.11686v2)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026. Website and code: https://rep-exp.github.io</p></details> |
+| **[MetaPerch: Learning from metadata for bioacoustics foundation models](https://arxiv.org/abs/2607.14072v1)** | 2026-07-15 | Accepted to ICML 26 |
+| **[Minimax Theory of Likelihood-Based Deep Learning for Speckle Regression](https://arxiv.org/abs/2607.14064v1)** | 2026-07-15 | 34 pages, 2 figures |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CD-MED: Cross-Domain Multimodal Emotion Descriptor for Visual Comparison of Digital Objects](https://arxiv.org/abs/2607.12958v1)** | 2026-07-14 | <details><summary>Submi...</summary><p>Submitted to 2026 Joint 14th International Conference on Soft Computing and Intelligent Systems and 27th International Symposium on Advanced Intelligent Systems (SCIS&ISIS 2026)</p></details> |
-| **[A 32-channel event-based bio-signal analog front-end with adaptive delta and pulse frequency encoding](https://arxiv.org/abs/2607.12901v1)** | 2026-07-14 | <details><summary>Submi...</summary><p>Submitted to NeuroPHY 2026 workshop, at the EWSN 2026 conference</p></details> |
-| **[Deep4ge: DNN Training Trajectories for Fault Detection and Diagnosis](https://arxiv.org/abs/2607.12868v1)** | 2026-07-14 | <details><summary>Accep...</summary><p>Accepted at ICSME Data & Tool Track, 2026</p></details> |
-| **[Toward Localizing and Repairing Bias in Transformer Attention Heads](https://arxiv.org/abs/2607.12863v1)** | 2026-07-14 | <details><summary>Accep...</summary><p>Accepted in ICSME NIER track, 2026</p></details> |
-| **[More Than Efficiency: Embedding Compression Improves Domain Adaptation in Dense Retrieval](https://arxiv.org/abs/2601.13525v3)** | 2026-07-14 | <details><summary>Oral ...</summary><p>Oral at SURGeLLM 2026 Workshop at ACL 2026</p></details> |
-| **[AVQ-Attention: Adaptive Vector-Quantized Attention](https://arxiv.org/abs/2607.12789v1)** | 2026-07-14 | <details><summary>Accep...</summary><p>Accepted at ECCV 2026</p></details> |
+| **[VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders](https://arxiv.org/abs/2607.14088v1)** | 2026-07-15 | <details><summary>Home ...</summary><p>Home page: https://zhxie0117.github.io/VideoRAE</p></details> |
+| **[Transforming Rank: How Architecture Navigates the Spectral Pathologies of Depth](https://arxiv.org/abs/2607.14018v1)** | 2026-07-15 | <details><summary>40 pa...</summary><p>40 pages. Code: https://github.com/everettk/transforming-rank-paper</p></details> |
+| **[Vision Transformers and Convolutional Neural Networks for Land Use Scene Classification](https://arxiv.org/abs/2605.21268v3)** | 2026-07-15 | 11 pages |
+| **[TRACE: Turn-level Reward Assignment via Credit Estimation for Long-Horizon Agents](https://arxiv.org/abs/2607.13988v1)** | 2026-07-15 | 26 pages |
+| **[Screening Is Effective for Visual Recognition](https://arxiv.org/abs/2607.13983v1)** | 2026-07-15 | Exploratory research |
+| **[GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch](https://arxiv.org/abs/2607.13960v1)** | 2026-07-15 | <details><summary>proje...</summary><p>project page: https://open-gigaai.github.io/giga-world-policy/</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale](https://arxiv.org/abs/2607.13028v1)** | 2026-07-14 | <details><summary>Techn...</summary><p>Technical Report from Applied Intuition Research</p></details> |
-| **[Privacy Attacks on Stable Marriage](https://arxiv.org/abs/2607.13015v1)** | 2026-07-14 | <details><summary>Accep...</summary><p>Accepted and presented at the 2026 IEEE International Conference on Distributed Computing Systems (ICDCS 2026)</p></details> |
-| **[MAMMOTH: A Multi-Modal End-to-End Policy for Off-Road Mobility Robust to Missing Modality](https://arxiv.org/abs/2607.12965v1)** | 2026-07-14 | <details><summary>Accep...</summary><p>Accepted to IROS 2026 Main Conference</p></details> |
-| **[RecRec: Recursive Refinement for Sequential Recommendation](https://arxiv.org/abs/2607.10541v2)** | 2026-07-14 | 7 pages, 3 figures |
-| **[RecRec: Latent Interests Recursive Reasoning for Sequential Recommendation](https://arxiv.org/abs/2607.12945v1)** | 2026-07-14 | <details><summary>Accep...</summary><p>Accepted at RecSys 2026, 10 pages</p></details> |
-| **[Point Tracking in Surgery--The 2025 Surgical Tattoos in Infrared Challenge (STIRC2025)](https://arxiv.org/abs/2607.12939v1)** | 2026-07-14 | <details><summary>9 pag...</summary><p>9 pages, 12 figures. arXiv admin note: substantial text overlap with arXiv:2503.24306</p></details> |
+| **[Representation-Based Exploration for Language Models: From Test-Time to Post-Training](https://arxiv.org/abs/2510.11686v2)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026. Website and code: https://rep-exp.github.io</p></details> |
+| **[Fast Rates for Semi-Supervised Learning via Data-Augmentation Graph Regularization](https://arxiv.org/abs/2607.07513v2)** | 2026-07-15 | 23 pages, 2 figures |
+| **[Avoiding unsafe sets when training with Langevin Dynamics](https://arxiv.org/abs/2607.07538v2)** | 2026-07-15 | <details><summary>v2: e...</summary><p>v2: expanded and revised; 21 pages, 3 figures</p></details> |
+| **[When Vision Overrides Language: Evaluating and Mitigating Counterfactual Failures in VLAs](https://arxiv.org/abs/2602.17659v2)** | 2026-07-15 | <details><summary>Websi...</summary><p>Website: https://vla-cf.github.io/</p></details> |
+| **[Algorithmic Recourse of In-Context Learning for Tabular Data](https://arxiv.org/abs/2605.31272v2)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted by ICML 2026</p></details> |
+| **[LLM-Based User Personas for Recommendations at Scale](https://arxiv.org/abs/2606.12198v2)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted by 2026 RecSys Industry Track</p></details> |
 

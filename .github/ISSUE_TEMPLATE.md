@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - July 20, 2026
+title: Latest 6 Papers - July 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RoboTTT: Context Scaling for Robot Policies](https://arxiv.org/abs/2607.15275v1)** | 2026-07-16 | <details><summary>Proje...</summary><p>Project website: http://research.nvidia.com/labs/gear/robottt/</p></details> |
-| **[MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators](https://arxiv.org/abs/2607.15273v1)** | 2026-07-16 | <details><summary>Proje...</summary><p>Project Page: https://harahan.github.io/meanflownft-project-page/, GitHub: https://github.com/Harahan/MeanFlowNFT, Hugging Face: https://huggingface.co/Harahan/MeanFlowNFT</p></details> |
-| **[Online Neural Space Time Memory for Dynamic Novel View Synthesis](https://arxiv.org/abs/2607.15271v1)** | 2026-07-16 | <details><summary>15 pa...</summary><p>15 pages. Preprint. Project page with demos and video results: https://nst-mem.github.io</p></details> |
-| **[SceneBind: Binding What and Where Across Vision, Audio and Language](https://arxiv.org/abs/2607.15265v1)** | 2026-07-16 | <details><summary>Proje...</summary><p>Project website: https://scenebind.github.io/</p></details> |
-| **[The Power of the Score Sequence of a Tournament](https://arxiv.org/abs/2607.15260v1)** | 2026-07-16 | <details><summary>To ap...</summary><p>To appear in ESA 2026</p></details> |
-| **[Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classifier](https://arxiv.org/abs/2607.15258v1)** | 2026-07-16 | <details><summary>This ...</summary><p>This manuscript has been accepted for presentation at the IEEE International Symposium on Computers and Communications (ISCC 2026)</p></details> |
+| **[Knowing the Self, Understanding the World: A Dual-Cognition Benchmark for UAV Spatio-temporal Reasoning with MLLMs](https://arxiv.org/abs/2607.16193v1)** | 2026-07-17 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 7 tables. Project website: https://uav-dualcog.lozumi.com</p></details> |
+| **[MotionForesight: Re-purposing Video Models for Future 3D Scene-Flow Prediction](https://arxiv.org/abs/2607.16192v1)** | 2026-07-17 | <details><summary>Websi...</summary><p>Website with visual results motionforesight.github.io</p></details> |
+| **[A Blueprint for Equilibrium-Based Differentiable Continuous-Variable Thermodynamic Computing](https://arxiv.org/abs/2607.16183v1)** | 2026-07-17 | 42 pages, 20 figures |
+| **[Vision-Language Assistant for Emotional Reactions to Risky Driving](https://arxiv.org/abs/2607.16181v1)** | 2026-07-17 | <details><summary>Trans...</summary><p>Transportation Research Record. Advance online publication (2026)</p></details> |
+| **[Evaluating Open-Weight LLMs for Generating Structured Threat Information for Autonomous Vehicle Vulnerabilities](https://arxiv.org/abs/2607.16175v1)** | 2026-07-17 | 9 pages |
+| **[Behaviour-Conditioned Neural Processes for Adaptive Residential Short-Term Load Forecasting](https://arxiv.org/abs/2607.16168v1)** | 2026-07-17 | <details><summary>Prepr...</summary><p>Preprint. 45 pages, 6 figures</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RoboTTT: Context Scaling for Robot Policies](https://arxiv.org/abs/2607.15275v1)** | 2026-07-16 | <details><summary>Proje...</summary><p>Project website: http://research.nvidia.com/labs/gear/robottt/</p></details> |
-| **[Language as a Wave Phenomenon: Semantic Phase Locking and Interference in Neural Networks](https://arxiv.org/abs/2512.01208v5)** | 2026-07-16 | ICML 2026 |
-| **[Structural-Semantic Reciprocal Learning for Unsupervised Visible-Infrared Person Re-Identification](https://arxiv.org/abs/2607.15220v1)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted by PRCV 2026</p></details> |
-| **[Towards Consistent Video Geometry Estimation](https://arxiv.org/abs/2605.30060v3)** | 2026-07-16 | <details><summary>Proje...</summary><p>Project webpage: https://pkqbajng.github.io/ViGeo/</p></details> |
-| **[DAPGNet: Dynamic Adaptive Physics-Guided Graph Diffusion Network for Hyperspectral Image Classification](https://arxiv.org/abs/2607.15128v1)** | 2026-07-16 | <details><summary>9 fig...</summary><p>9 figures and 9 tables. Pengkun Wang and Weijia Cao contributed equally to this work</p></details> |
-| **[Towards Hierarchical Structure Understanding of Newspaper Images](https://arxiv.org/abs/2607.15082v1)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted at ICDAR 2026 Workshop on Historical Document Imaging and Processing (HIP)</p></details> |
+| **[Knowing the Self, Understanding the World: A Dual-Cognition Benchmark for UAV Spatio-temporal Reasoning with MLLMs](https://arxiv.org/abs/2607.16193v1)** | 2026-07-17 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 7 tables. Project website: https://uav-dualcog.lozumi.com</p></details> |
+| **[A JoLT for the KV Cache: Near-Lossless KV Cache Compression via Joint Tucker and JL-Residual Allocation for LLMs](https://arxiv.org/abs/2607.12550v2)** | 2026-07-17 | 11 pages, 1 figure |
+| **[Learning Standard Model structure from LHC data with Riemannian flow matching](https://arxiv.org/abs/2607.16144v1)** | 2026-07-17 | 35 pages, 25 figures |
+| **[FAIR_XAI: Improving Multimodal Foundation Model Fairness via Explainability for Wellbeing Assessment](https://arxiv.org/abs/2604.23786v2)** | 2026-07-17 | 11 pages, 4 figures |
+| **[Boosted Enhanced Quantile Regression Neural Networks with Spatiotemporal Permutation Entropy for Complex System Prognostics](https://arxiv.org/abs/2507.14194v3)** | 2026-07-17 | <details><summary>Preli...</summary><p>Preliminary version of a predictive maintenance framework using spiking neural networks and entropy-based analysis. To be expanded in future publications with hardware implementations and real-time drift detection modules. arXiv admin note: substantial text overlap with arXiv:2501.05087</p></details> |
+| **[Rate-Utility Frontiers for Language Encodings: Comparing Tokens, Bytes, and Pixels Under Controlled Linguistic Content](https://arxiv.org/abs/2607.16117v1)** | 2026-07-17 | <details><summary>Prepr...</summary><p>Preprint. Code available at https://github.com/ziegler-ingo/rate-utility-frontiers</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[RoboTTT: Context Scaling for Robot Policies](https://arxiv.org/abs/2607.15275v1)** | 2026-07-16 | <details><summary>Proje...</summary><p>Project website: http://research.nvidia.com/labs/gear/robottt/</p></details> |
-| **[MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators](https://arxiv.org/abs/2607.15273v1)** | 2026-07-16 | <details><summary>Proje...</summary><p>Project Page: https://harahan.github.io/meanflownft-project-page/, GitHub: https://github.com/Harahan/MeanFlowNFT, Hugging Face: https://huggingface.co/Harahan/MeanFlowNFT</p></details> |
-| **[When Does Belief-Based Agent Memory Help? Reliability-Conditional Updating and Provenance-Capped Poisoning Defense](https://arxiv.org/abs/2606.22030v2)** | 2026-07-16 | <details><summary>Prepr...</summary><p>Preprint. 10 pages, 1 figure, 6 tables</p></details> |
-| **[A Complete-Data Likelihood for Epidemic Processes on Partially Observed Dynamic Networks](https://arxiv.org/abs/2607.15179v1)** | 2026-07-16 | <details><summary>42 pa...</summary><p>42 pages, 20 figures. For associated R files, see https://github.com/asadmdaz/infectious-disease-modelling</p></details> |
-| **[Seeing Through Uncertainty: Free-Energy-Inspired Real-Time Adaptation for Robust Visual Navigation](https://arxiv.org/abs/2403.01977v5)** | 2026-07-16 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Robotics and Automation Letters (RA-L)</p></details> |
-| **[How Inference Compute Shapes Frontier LLM Evaluation](https://arxiv.org/abs/2606.17930v3)** | 2026-07-16 | 34 pages, 4 figures |
+| **[MotionForesight: Re-purposing Video Models for Future 3D Scene-Flow Prediction](https://arxiv.org/abs/2607.16192v1)** | 2026-07-17 | <details><summary>Websi...</summary><p>Website with visual results motionforesight.github.io</p></details> |
+| **[A Blueprint for Equilibrium-Based Differentiable Continuous-Variable Thermodynamic Computing](https://arxiv.org/abs/2607.16183v1)** | 2026-07-17 | 42 pages, 20 figures |
+| **[Behaviour-Conditioned Neural Processes for Adaptive Residential Short-Term Load Forecasting](https://arxiv.org/abs/2607.16168v1)** | 2026-07-17 | <details><summary>Prepr...</summary><p>Preprint. 45 pages, 6 figures</p></details> |
+| **[A JoLT for the KV Cache: Near-Lossless KV Cache Compression via Joint Tucker and JL-Residual Allocation for LLMs](https://arxiv.org/abs/2607.12550v2)** | 2026-07-17 | 11 pages, 1 figure |
+| **[Attention-Guided Saliency Maps for Interpreting Visualization Literacy in VLMs](https://arxiv.org/abs/2607.16105v1)** | 2026-07-17 | <details><summary>To be...</summary><p>To be presented at IEEE VIS 2026</p></details> |
+| **[Markov Chains Approximate Message Passing](https://arxiv.org/abs/2512.02384v3)** | 2026-07-17 | <details><summary>41 pa...</summary><p>41 pages, 2 figures, added new results</p></details> |
 

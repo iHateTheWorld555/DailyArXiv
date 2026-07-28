@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - July 27, 2026
+title: Latest 6 Papers - July 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[3D-Aware VLMs with Implicit and Explicit Geometries](https://arxiv.org/abs/2607.21595v1)** | 2026-07-23 | <details><summary>Accep...</summary><p>Accepted by ECCV 2026, Open Sourced</p></details> |
-| **[Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers](https://arxiv.org/abs/2607.21594v1)** | 2026-07-23 | <details><summary>Proje...</summary><p>Project page: https://vail-ucla.github.io/worldweaver/</p></details> |
-| **[Unified Video Dense Prediction from Disjoint Data](https://arxiv.org/abs/2607.21592v1)** | 2026-07-23 | ECCV 2026 |
-| **[Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning](https://arxiv.org/abs/2607.21591v1)** | 2026-07-23 | <details><summary>Proje...</summary><p>Project page: https://www.vision.caltech.edu/psp. Code: https://github.com/rogerioagjr/psp</p></details> |
-| **[AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation](https://arxiv.org/abs/2607.21588v1)** | 2026-07-23 | <details><summary>Proje...</summary><p>Project Website: https://axisaiorg.github.io/AXIS-V1/</p></details> |
-| **[Syntax and semantics of focalisation with relative monads and comonads](https://arxiv.org/abs/2606.14652v2)** | 2026-07-23 | <details><summary>Prese...</summary><p>Presented at the Sixth International Workshop on Structures and Deduction 2026 (SD 2026)</p></details> |
+| **[Data Pyramid for Embodied Manipulation](https://arxiv.org/abs/2607.24744v1)** | 2026-07-27 | <details><summary>Aweso...</summary><p>Awesome Embodied Data Pyramid; Project Page at https://jasper-aaa.github.io/embodied-data-pyramid/ GitHub Repo at https://github.com/worldbench/awesome-embodied-data-pyramid</p></details> |
+| **[ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding](https://arxiv.org/abs/2607.24743v1)** | 2026-07-27 | <details><summary>Code:...</summary><p>Code: https://github.com/alibaba-damo-academy/ClinFusion; Models: https://huggingface.co/collections/Alibaba-DAMO-Academy/clinfusion</p></details> |
+| **[Fourier Weak SINDy: Spectral Test Function Selection for Robust Model Identification](https://arxiv.org/abs/2604.20141v2)** | 2026-07-27 | <details><summary>Publi...</summary><p>Published in the proceedings of the 8th Annual Learning for Dynamics & Control Conference (L4DC 2026)</p></details> |
+| **[Make or Take: How Students Navigate Self-Created and Instructor-Provided Cheat Sheets](https://arxiv.org/abs/2607.24736v1)** | 2026-07-27 | <details><summary>This ...</summary><p>This paper has been accepted for publication in ACM Transactions on Computing Education (TOCE)</p></details> |
+| **[KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability](https://arxiv.org/abs/2607.24730v1)** | 2026-07-27 | MICCAI 2026 |
+| **[Infrared Imaging Empowered by Artificial Intelligence for Pediatric Skeletal Triage: A Narrative Review and Future Perspectives](https://arxiv.org/abs/2607.24727v1)** | 2026-07-27 | 20 pages, 4 figures |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers](https://arxiv.org/abs/2607.21594v1)** | 2026-07-23 | <details><summary>Proje...</summary><p>Project page: https://vail-ucla.github.io/worldweaver/</p></details> |
-| **[AXIS: A Growable Community-Driven Data Engine for Scalable Robot Manipulation](https://arxiv.org/abs/2607.21588v1)** | 2026-07-23 | <details><summary>Proje...</summary><p>Project Website: https://axisaiorg.github.io/AXIS-V1/</p></details> |
-| **[Synthetic data generation framework for quality control automation in gravure printing](https://arxiv.org/abs/2607.21577v1)** | 2026-07-23 | <details><summary>27 pa...</summary><p>27 pages, 15 figures. To be submitted to Journal of Engineering Research (Elsevier). Certain TeX commands are supported</p></details> |
-| **[Self-Supervised Learning of Structured Dynamics from Videos](https://arxiv.org/abs/2607.21576v1)** | 2026-07-23 | <details><summary>prepr...</summary><p>preprint, Project page: https://lukasknobel.github.io/projects/StructuredDynamics</p></details> |
-| **[MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education](https://arxiv.org/abs/2607.21570v1)** | 2026-07-23 | <details><summary>Work ...</summary><p>Work in Progress; an explorational design and study on AI+Education+Game</p></details> |
-| **[Where You Tap Matters: A Probe-and-Model Benchmark for Open-Set RF Fingerprinting](https://arxiv.org/abs/2607.21564v1)** | 2026-07-23 | 10 pages, 8 figures |
+| **[Certified Parallel-in-Time Sinkhorn for Dynamic Entropic Optimal Transport](https://arxiv.org/abs/2607.24741v1)** | 2026-07-27 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 6 tables</p></details> |
+| **[Panda: Unsupervised Pelvic Anomaly Detection for Real-Time MR Imaging](https://arxiv.org/abs/2607.24703v1)** | 2026-07-27 | 10 pages, 5 figures |
+| **[Spatio-Temporal Conditional Denoising Transformer for Modality-Missing RGBT Tracking](https://arxiv.org/abs/2607.24701v1)** | 2026-07-27 | Accepted by CVPR2026 |
+| **[AdaRoPE: Not All Attention Heads Should Rotate and Scale Equally](https://arxiv.org/abs/2607.19363v2)** | 2026-07-27 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
+| **[MMOE: Modernizing Diffusion Transformers with Efficient Expert Design](https://arxiv.org/abs/2607.24665v1)** | 2026-07-27 | 13 pages, 5 figures |
+| **[Sampling Decisions: Exact Path-Space Correction, Prior Cancellation and Local-Boltzmann Guidance](https://arxiv.org/abs/2503.14549v3)** | 2026-07-27 | 22 pages, 6 figures |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning](https://arxiv.org/abs/2607.21591v1)** | 2026-07-23 | <details><summary>Proje...</summary><p>Project page: https://www.vision.caltech.edu/psp. Code: https://github.com/rogerioagjr/psp</p></details> |
-| **[Visual Contrastive Self-Distillation](https://arxiv.org/abs/2607.21556v1)** | 2026-07-23 | 15 pages |
-| **[Optimal use of a black-box learner in semiparametric estimation](https://arxiv.org/abs/2607.21541v1)** | 2026-07-23 | 30 pages |
-| **[Sources of Inequity and Fairness Risks inWellbeing Sensing](https://arxiv.org/abs/2607.21527v1)** | 2026-07-23 | <details><summary>16 pa...</summary><p>16 pages, 1 figure, 2 tables. Accepted to AIES 2026</p></details> |
-| **[Knowledge-Guided Time-Varying Causal Inference for Arctic Sea Ice Dynamics](https://arxiv.org/abs/2601.17647v3)** | 2026-07-23 | <details><summary>18 pa...</summary><p>18 pages, 4 figures. Accepted for publication at ECML PKDD 2026</p></details> |
-| **[SAGE: A Socially-Aware Generative Engine for Heterogeneous Multi-Agent Navigation](https://arxiv.org/abs/2607.16619v2)** | 2026-07-23 | <details><summary>16 pa...</summary><p>16 pages, 5 figures, and 14 tables. Includes supplementary experimental details</p></details> |
+| **[SADe: Sparse-Atom Support Decontamination for Few-Shot Segmentation with Weak Support Annotations](https://arxiv.org/abs/2607.24706v1)** | 2026-07-27 | <details><summary>19 pa...</summary><p>19 pages, 8 figures; includes a technical appendix</p></details> |
+| **[Co-Learning for Missing Arbitrary Modalities in Multi-modal Classification](https://arxiv.org/abs/2607.24683v1)** | 2026-07-27 | <details><summary>Accep...</summary><p>Accepted at Discovery Science 2026</p></details> |
+| **[A Heterogeneous Neural Network Accelerator for End-to-End Multitask RF Signal Recognition](https://arxiv.org/abs/2607.24669v1)** | 2026-07-27 | <details><summary>Accep...</summary><p>Accepted for publication in IEEE Transactions on Very Large Scale Integration (VLSI) Systems (TVLSI). 14 pages, 11 figures</p></details> |
+| **[Latency Decoupling in Low-Feedback Multi-User Networks via Overhearing-Driven NOMA](https://arxiv.org/abs/2607.24609v1)** | 2026-07-27 | 13 page, 7 figures |
+| **[QueenVIS: Rethinking Image-Only Training for Video Instance Segmentation via Query Enrichment](https://arxiv.org/abs/2607.24598v1)** | 2026-07-27 | <details><summary>Proje...</summary><p>Project website: https://aut-aisl.github.io/QueenVIS-Project-Page/</p></details> |
+| **[From Data to Device: ELMOD An Efficient German-First 2.7B Language Model for Mobile Inference](https://arxiv.org/abs/2607.24585v1)** | 2026-07-27 | <details><summary>Accep...</summary><p>Accepted to KONVENS 2026</p></details> |
 

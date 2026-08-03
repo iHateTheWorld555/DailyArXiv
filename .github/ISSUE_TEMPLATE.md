@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - August 03, 2026
+title: Latest 6 Papers - August 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Learning to Trace Seiberg Dualities](https://arxiv.org/abs/2607.28628v1)** | 2026-07-30 | <details><summary>59 pa...</summary><p>59 pages + appendices, 38 figures. Code and tools available at https://github.com/alexmininno/GNN-Pathfinders</p></details> |
-| **[ReToken: One Token to Improve Vision-Language Models for Visual Retrieval](https://arxiv.org/abs/2607.28627v1)** | 2026-07-30 | <details><summary>Code:...</summary><p>Code: https://github.com/avaxiao/ReToken</p></details> |
-| **[ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine](https://arxiv.org/abs/2607.28625v1)** | 2026-07-30 | <details><summary>Proje...</summary><p>Project Page: https://ace-data-engine.github.io/ACE-Data-0/</p></details> |
-| **[PhiZero: A World Model Built Around Physical Language](https://arxiv.org/abs/2607.28624v1)** | 2026-07-30 | <details><summary>Proje...</summary><p>Project page: https://phi-zero.github.io/</p></details> |
-| **[Neurosymbolic Imitation Learning with Human Guidance: A Privileged Information Approach](https://arxiv.org/abs/2605.07166v2)** | 2026-07-30 | <details><summary>Prepr...</summary><p>Preprint Accepted at IJCLR 2026</p></details> |
-| **[Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers](https://arxiv.org/abs/2607.28611v1)** | 2026-07-30 | 40 pages |
+| **[Toward Robust and 3D-Aware RGB-NIR Imaging in the Dark](https://arxiv.org/abs/2607.29684v1)** | 2026-07-31 | <details><summary>ACM M...</summary><p>ACM Multimedia 2026, Codes and Models: https://github.com/MyNiuuu/3DarkFusion</p></details> |
+| **[MemForest: An Efficient Agent Memory System with Hierarchical Temporal Indexing](https://arxiv.org/abs/2605.23986v2)** | 2026-07-31 | <details><summary>12 pa...</summary><p>12 pages. Extended version with appendix as supplemental material. Submitted to VLDB</p></details> |
+| **[Scaling Properties of Text Conditioning in Visual Generation](https://arxiv.org/abs/2607.29679v1)** | 2026-07-31 | <details><summary>Code:...</summary><p>Code: https://github.com/heheyas/context-scaling Models: https://huggingface.co/collections/heheyas/context-scaling Demo: https://heheyas-context-scaling.hf.space/ Project page: https://heheyas.github.io/context-scaling</p></details> |
+| **[The Kikuchi Hierarchy is Sharp for $k$XOR](https://arxiv.org/abs/2607.29672v1)** | 2026-07-31 | <details><summary>Compa...</summary><p>Companion paper to arXiv:2607.26028</p></details> |
+| **[From Physics to Surrogate Intelligence: A Unified Electro-Thermo-Optimization Framework for TSV Networks](https://arxiv.org/abs/2603.29268v3)** | 2026-07-31 | <details><summary>Publi...</summary><p>Published in the IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD)</p></details> |
+| **[Information Processing by Neuron Populations in the Central Nervous System: A Theory of the Mathematical Structure of Data and Operations](https://arxiv.org/abs/2309.02332v3)** | 2026-07-31 | <details><summary>60 pa...</summary><p>60 pages, 12 figures. Major revision. The neuron model is shown to perform online projected-gradient optimization for NNLS. New results connect neuron-local learning to conic projection and rejection through sparse, activity-selected mappings, strengthen the cone algebra with Moreau-based proofs, and characterize approximate invariance under sparse embeddings. Adds a sensorimotor application</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Learning to Trace Seiberg Dualities](https://arxiv.org/abs/2607.28628v1)** | 2026-07-30 | <details><summary>59 pa...</summary><p>59 pages + appendices, 38 figures. Code and tools available at https://github.com/alexmininno/GNN-Pathfinders</p></details> |
-| **[ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine](https://arxiv.org/abs/2607.28625v1)** | 2026-07-30 | <details><summary>Proje...</summary><p>Project Page: https://ace-data-engine.github.io/ACE-Data-0/</p></details> |
-| **[Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers](https://arxiv.org/abs/2607.28611v1)** | 2026-07-30 | 40 pages |
-| **[Functional Percolation: Criticality of Form and Function](https://arxiv.org/abs/2512.09317v5)** | 2026-07-30 | 8 pages, 6 figures |
-| **[FA-RDP: A Frequency-Adaptive Reactive Diffusion Policy for Contact-Rich Manipulation](https://arxiv.org/abs/2607.28596v1)** | 2026-07-30 | <details><summary>Proje...</summary><p>Project page: https://fa-rdp.github.io</p></details> |
-| **[Finding Change in Satellite Archives from Text: How to Combine Before-and-After Images Efficiently](https://arxiv.org/abs/2607.28571v1)** | 2026-07-30 | 10 pages, 3 figures |
+| **[Sign compression for Muon: SignMuon, MuonSign, and the Limits of Error Feedback](https://arxiv.org/abs/2607.29674v1)** | 2026-07-31 | <details><summary>42 pa...</summary><p>42 pages, 13 figures. Code: https://github.com/intsystems/signmuon</p></details> |
+| **[Information Processing by Neuron Populations in the Central Nervous System: A Theory of the Mathematical Structure of Data and Operations](https://arxiv.org/abs/2309.02332v3)** | 2026-07-31 | <details><summary>60 pa...</summary><p>60 pages, 12 figures. Major revision. The neuron model is shown to perform online projected-gradient optimization for NNLS. New results connect neuron-local learning to conic projection and rejection through sparse, activity-selected mappings, strengthen the cone algebra with Moreau-based proofs, and characterize approximate invariance under sparse embeddings. Adds a sensorimotor application</p></details> |
+| **[Reusing Past Repairs Through Hierarchical Trajectory Abstraction for Coding Agents](https://arxiv.org/abs/2607.29658v1)** | 2026-07-31 | 10 pages |
+| **[Explaining AI-Image Detection: What the Heatmap Actually Shows](https://arxiv.org/abs/2607.29581v1)** | 2026-07-31 | <details><summary>8 pag...</summary><p>8 pages of main text; 27 pages including references and appendix. 9 figures, 21 tables</p></details> |
+| **[SLIM: Saturation-Aware Lightweight Performance Modeling for LLM Serving](https://arxiv.org/abs/2607.29575v1)** | 2026-07-31 | <details><summary>Pol G...</summary><p>Pol G. Recasens and Ferran Agullo contributed equally to the work</p></details> |
+| **[Alteron: A Tool for Behavioral Regression Testing Across NLP Classifier Versions](https://arxiv.org/abs/2607.29557v1)** | 2026-07-31 | <details><summary>5 pag...</summary><p>5 pages, 1 figure. Accepted at the 2026 IEEE International Conference on Software Maintenance and Evolution (ICSME), Tool Demonstration and Data Showcase Track</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ReToken: One Token to Improve Vision-Language Models for Visual Retrieval](https://arxiv.org/abs/2607.28627v1)** | 2026-07-30 | <details><summary>Code:...</summary><p>Code: https://github.com/avaxiao/ReToken</p></details> |
-| **[PhiZero: A World Model Built Around Physical Language](https://arxiv.org/abs/2607.28624v1)** | 2026-07-30 | <details><summary>Proje...</summary><p>Project page: https://phi-zero.github.io/</p></details> |
-| **[FA-RDP: A Frequency-Adaptive Reactive Diffusion Policy for Contact-Rich Manipulation](https://arxiv.org/abs/2607.28596v1)** | 2026-07-30 | <details><summary>Proje...</summary><p>Project page: https://fa-rdp.github.io</p></details> |
-| **[BCNet: Bronchus Classification via Structure Guided Representation Learning](https://arxiv.org/abs/2205.06947v3)** | 2026-07-30 | <details><summary>The b...</summary><p>The benchmark is available at https://osf.io/pskr9/?viewonly=94fa3d87274b4095ac9a4b88cc9a1341</p></details> |
-| **[Thinking in Scales: Accelerating Gigapixel Pathology Image Analysis via Adaptive Continuous Reasoning](https://arxiv.org/abs/2605.19491v3)** | 2026-07-30 | <details><summary>Accep...</summary><p>Accepted to ICML 2026</p></details> |
-| **[Towards Autonomous Aircraft Surveillance from Nanosatellites through On-Board Inference and Generative Data Augmentation](https://arxiv.org/abs/2607.28470v1)** | 2026-07-30 | 43 pages, 14 figures |
+| **[The Kikuchi Hierarchy is Sharp for $k$XOR](https://arxiv.org/abs/2607.29672v1)** | 2026-07-31 | <details><summary>Compa...</summary><p>Companion paper to arXiv:2607.26028</p></details> |
+| **[Bootstrapping Self-Supervised Learning of Binary Classification Using Error Bounds: A Case Study on a Robotic Insertion Task](https://arxiv.org/abs/2607.29640v1)** | 2026-07-31 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 2 tables</p></details> |
+| **[QASP: Query-Adaptive Robust Vector Search Policy](https://arxiv.org/abs/2607.29606v1)** | 2026-07-31 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 6 tables, preprint</p></details> |
+| **[FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large Language Models](https://arxiv.org/abs/2607.29602v1)** | 2026-07-31 | 15 pages, 3 figures |
+| **[SLIM: Saturation-Aware Lightweight Performance Modeling for LLM Serving](https://arxiv.org/abs/2607.29575v1)** | 2026-07-31 | <details><summary>Pol G...</summary><p>Pol G. Recasens and Ferran Agullo contributed equally to the work</p></details> |
+| **[Predict-then-Diffuse: Adaptive Response Length for Compute-Budgeted Inference in Diffusion LLMs](https://arxiv.org/abs/2605.04215v3)** | 2026-07-31 | <details><summary>Accep...</summary><p>Accepted for publication in IJCNN 2026 (International Joint Conference on Neural Networks)</p></details> |
 

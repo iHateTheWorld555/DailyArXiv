@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - August 14, 2026
+title: Latest 6 Papers - August 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[3D Scene Generation: A Survey](https://arxiv.org/abs/2505.05474v2)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted by IJCV. Project Page: https://github.com/hzxie/Awesome-3D-Scene-Generation</p></details> |
-| **[StateFlow: Building, Evolving, and Accessing 3D World States for Previsualization](https://arxiv.org/abs/2608.12314v1)** | 2026-08-12 | <details><summary>Proje...</summary><p>Project Page: https://yuyangyin.github.io/StateFlow</p></details> |
-| **[The Role Specialization Model (RSM): Coordinating LLM-Based Tools in Agentic Software Development - An Exploratory Case Study](https://arxiv.org/abs/2608.12311v1)** | 2026-08-12 | <details><summary>28 pa...</summary><p>28 pages, 4 figures, 5 tables</p></details> |
-| **[DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation](https://arxiv.org/abs/2608.12308v1)** | 2026-08-12 | <details><summary>24 pa...</summary><p>24 pages, 6 figures, 3 tables</p></details> |
-| **[AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses](https://arxiv.org/abs/2608.12307v1)** | 2026-08-12 | <details><summary>23 Pa...</summary><p>23 Pages, 12 Figures, 6 Tables</p></details> |
-| **[Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2608.12304v1)** | 2026-08-12 | 36 Pages, 8 Figures |
+| **[AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design](https://arxiv.org/abs/2608.13560v1)** | 2026-08-13 | <details><summary>Tech ...</summary><p>Tech Report. Code at: https://github.com/Yaxin9Luo/AutoDesign</p></details> |
+| **[OmniScientist: An Omni-Modal Omni-Discipline AI Scientist](https://arxiv.org/abs/2608.13558v1)** | 2026-08-13 | <details><summary>30 pa...</summary><p>30 pages, 13 figures, 19 tables. Project page: https://omni-scientist.github.io/</p></details> |
+| **[V-RAE: Rethinking Video Latent Spaces for Generation](https://arxiv.org/abs/2608.13556v1)** | 2026-08-13 | <details><summary>26 pa...</summary><p>26 pages, 8 tables, 13 figures, project page: https://v-rae.github.io/</p></details> |
+| **[PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives](https://arxiv.org/abs/2608.13552v1)** | 2026-08-13 | <details><summary>proje...</summary><p>project page: https://kxding.github.io/project/PlayWorld/</p></details> |
+| **[QuoteBench: How Matched Scores Can Hide Command-Path Failures](https://arxiv.org/abs/2608.13547v1)** | 2026-08-13 | <details><summary>29 pa...</summary><p>29 pages, 5 figures. Project page: https://quotebench.lsamc.website/</p></details> |
+| **[Time-Series Forecasting in Safety-Critical Environments: An Open-Source Package for EU-AI-Act-Compliant Development / Zeitreihenprognose in sicherheitskritischen Umgebungen: Ein Open-Source-Paket für die KI-VO-konforme Entwicklung](https://arxiv.org/abs/2604.23859v3)** | 2026-08-13 | <details><summary>Versi...</summary><p>Version 3. Working paper. Bilingual twin paper: English version first, German original below (100 pages total). Single shared bibliography</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Redistribution-based Cost Inference Improves Sparse Safe Offline RL](https://arxiv.org/abs/2608.12306v1)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted at the 1st IJCAI Workshop on Safe Physical AI (SPAI 2026), affiliated with IJCAI/ECAI 2026</p></details> |
-| **[Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2608.12304v1)** | 2026-08-12 | 36 Pages, 8 Figures |
-| **[SCoPE: Sightline-Coordinate Positional Encoding for Video Diffusion Transformers](https://arxiv.org/abs/2606.27345v3)** | 2026-08-12 | <details><summary>Proje...</summary><p>Project page: https://visual-ai.github.io/scope/</p></details> |
-| **[A Neighborhood Attention Transformer Network for Enhanced 3D Segmentation of the Left Anterior Descending Artery](https://arxiv.org/abs/2608.12274v1)** | 2026-08-12 | <details><summary>Accet...</summary><p>Acceteed by Medical Physics 2026</p></details> |
-| **[Earth observation embeddings are effective sub-grid descriptors for probabilistic weather downscaling](https://arxiv.org/abs/2608.12271v1)** | 2026-08-12 | <details><summary>39 pa...</summary><p>39 pages, 12 figures, 6 tables</p></details> |
-| **[HAMP-LIC: Hessian-Aware Mixed-Precision Post-Training Quantization for Learned Image Compression](https://arxiv.org/abs/2608.12239v1)** | 2026-08-12 | <details><summary>Learn...</summary><p>Learned image compression, post-training quantization, mixed-precision quantization, Hessian-based sensitivity analysis, model compression</p></details> |
+| **[AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design](https://arxiv.org/abs/2608.13560v1)** | 2026-08-13 | <details><summary>Tech ...</summary><p>Tech Report. Code at: https://github.com/Yaxin9Luo/AutoDesign</p></details> |
+| **[V-RAE: Rethinking Video Latent Spaces for Generation](https://arxiv.org/abs/2608.13556v1)** | 2026-08-13 | <details><summary>26 pa...</summary><p>26 pages, 8 tables, 13 figures, project page: https://v-rae.github.io/</p></details> |
+| **[Exponential quantum advantage for learning signals with a single qubit](https://arxiv.org/abs/2608.13521v1)** | 2026-08-13 | <details><summary>131 p...</summary><p>131 pages, including 7 pages of main text, 4 main figures, and 8 supplementary figures</p></details> |
+| **[A Browser-Native Digital Test Range for Benchmarking 4D Ocean-Glider Planning Algorithms](https://arxiv.org/abs/2608.13511v1)** | 2026-08-13 | 6 pages, 5 figures |
+| **[DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation](https://arxiv.org/abs/2608.13489v1)** | 2026-08-13 | <details><summary>Code:...</summary><p>Code: https://github.com/AMAP-ML/DreamX-Phi</p></details> |
+| **[Neural Message Passing on Structural Interaction Graphs for Fully-Inductive Graph Neural Networks](https://arxiv.org/abs/2608.08567v2)** | 2026-08-13 | <details><summary>7 pag...</summary><p>7 pages, 1 figure in the main body. 12 pages, 5 figures in appendix. Submitted to AAAI 2027 (main track) and currently under review</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses](https://arxiv.org/abs/2608.12307v1)** | 2026-08-12 | <details><summary>23 Pa...</summary><p>23 Pages, 12 Figures, 6 Tables</p></details> |
-| **[Redistribution-based Cost Inference Improves Sparse Safe Offline RL](https://arxiv.org/abs/2608.12306v1)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted at the 1st IJCAI Workshop on Safe Physical AI (SPAI 2026), affiliated with IJCAI/ECAI 2026</p></details> |
-| **[Latent-Centroid Steering: Single-Pass Classifier-Free Guidance for Command-Aligned Autonomous Driving](https://arxiv.org/abs/2608.00237v2)** | 2026-08-12 | IROS 2026 |
-| **[COLORA: Efficient Fine-Tuning for Convolutional Models with a Study Case on Optical Coherence Tomography Image Classification](https://arxiv.org/abs/2505.18315v3)** | 2026-08-12 | 15 pages, 13 figures |
-| **[One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL](https://arxiv.org/abs/2608.12253v1)** | 2026-08-12 | 41 pages, 28 figures |
-| **[ASIDE: From Conflict Participants to Co-Observers Through Dyadic Spectator Reflection](https://arxiv.org/abs/2608.05690v2)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted at the 39th Annual ACM Symposium on User Interface Software and Technology (UIST 2026)</p></details> |
+| **[Exponential quantum advantage for learning signals with a single qubit](https://arxiv.org/abs/2608.13521v1)** | 2026-08-13 | <details><summary>131 p...</summary><p>131 pages, including 7 pages of main text, 4 main figures, and 8 supplementary figures</p></details> |
+| **[Intervention-Aware Clinical World Model for Post-Op Outcome Forecasting in Cardiology](https://arxiv.org/abs/2608.13518v1)** | 2026-08-13 | <details><summary>Medic...</summary><p>Medical World Models (MWM) Workshop at MICCAI 2026</p></details> |
+| **[OpScale: Operator-level Provisioning and Autoscaling for LLM Serving](https://arxiv.org/abs/2608.13499v1)** | 2026-08-13 | 22 pages, 29 figures |
+| **[AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)](https://arxiv.org/abs/2608.13492v1)** | 2026-08-13 | <details><summary>Autho...</summary><p>Authors are listed alphabetically by the first name and their role. See the contribution section for details</p></details> |
+| **[Spectral Independence and Local-to-Global Techniques for Optimal Mixing of Markov Chains](https://arxiv.org/abs/2307.13826v5)** | 2026-08-13 | <details><summary>Final...</summary><p>Final version of monograph to appear in Foundations and Trends in Theoretical Computer Science</p></details> |
+| **[Retrospective Statistical Inference](https://arxiv.org/abs/2608.13439v1)** | 2026-08-13 | 17 pages, 5 figures |
 

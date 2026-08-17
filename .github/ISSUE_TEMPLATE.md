@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - August 17, 2026
+title: Latest 6 Papers - August 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design](https://arxiv.org/abs/2608.13560v1)** | 2026-08-13 | <details><summary>Tech ...</summary><p>Tech Report. Code at: https://github.com/Yaxin9Luo/AutoDesign</p></details> |
-| **[OmniScientist: An Omni-Modal Omni-Discipline AI Scientist](https://arxiv.org/abs/2608.13558v1)** | 2026-08-13 | <details><summary>30 pa...</summary><p>30 pages, 13 figures, 19 tables. Project page: https://omni-scientist.github.io/</p></details> |
-| **[V-RAE: Rethinking Video Latent Spaces for Generation](https://arxiv.org/abs/2608.13556v1)** | 2026-08-13 | <details><summary>26 pa...</summary><p>26 pages, 8 tables, 13 figures, project page: https://v-rae.github.io/</p></details> |
-| **[PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives](https://arxiv.org/abs/2608.13552v1)** | 2026-08-13 | <details><summary>proje...</summary><p>project page: https://kxding.github.io/project/PlayWorld/</p></details> |
-| **[QuoteBench: How Matched Scores Can Hide Command-Path Failures](https://arxiv.org/abs/2608.13547v1)** | 2026-08-13 | <details><summary>29 pa...</summary><p>29 pages, 5 figures. Project page: https://quotebench.lsamc.website/</p></details> |
-| **[Time-Series Forecasting in Safety-Critical Environments: An Open-Source Package for EU-AI-Act-Compliant Development / Zeitreihenprognose in sicherheitskritischen Umgebungen: Ein Open-Source-Paket für die KI-VO-konforme Entwicklung](https://arxiv.org/abs/2604.23859v3)** | 2026-08-13 | <details><summary>Versi...</summary><p>Version 3. Working paper. Bilingual twin paper: English version first, German original below (100 pages total). Single shared bibliography</p></details> |
+| **[Forging Self-Funded Marketplaces among Strategic Agents](https://arxiv.org/abs/2608.14548v1)** | 2026-08-14 | <details><summary>Exten...</summary><p>Extended Abstract accepted 27th ACM Conference on Economics and Computation (ACM EC 2026)</p></details> |
+| **[CPI-Bench: A Comprehensive,Practical and Intelligent Benchmark for Real-World Image Editing](https://arxiv.org/abs/2608.14546v1)** | 2026-08-14 | <details><summary>13 pa...</summary><p>13 pages, benchmark report</p></details> |
+| **[MagnifiQ: Patch-aware Text Guided Progressive Upscaling for High-Resolution Image Restoration](https://arxiv.org/abs/2608.14543v1)** | 2026-08-14 | <details><summary>Camer...</summary><p>Camera-ready version (ECCV workshop - LoViF'26)</p></details> |
+| **[Generation-Powered Inference for Distribution-Valued Outcomes](https://arxiv.org/abs/2608.14542v1)** | 2026-08-14 | 36 pages, 5 figures |
+| **[Why we need an AI-resilient society](https://arxiv.org/abs/1912.08786v3)** | 2026-08-14 | <details><summary>Versi...</summary><p>Version 3. 21 pages. For associated TEDx video, see https://youtu.be/f6c2ngp7rqY</p></details> |
+| **[Joint Estimation of Sparse Multilayer Networks via Graph Limits](https://arxiv.org/abs/2608.14536v1)** | 2026-08-14 | <details><summary>Total...</summary><p>Total 60 pages, 7 figures</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design](https://arxiv.org/abs/2608.13560v1)** | 2026-08-13 | <details><summary>Tech ...</summary><p>Tech Report. Code at: https://github.com/Yaxin9Luo/AutoDesign</p></details> |
-| **[V-RAE: Rethinking Video Latent Spaces for Generation](https://arxiv.org/abs/2608.13556v1)** | 2026-08-13 | <details><summary>26 pa...</summary><p>26 pages, 8 tables, 13 figures, project page: https://v-rae.github.io/</p></details> |
-| **[Exponential quantum advantage for learning signals with a single qubit](https://arxiv.org/abs/2608.13521v1)** | 2026-08-13 | <details><summary>131 p...</summary><p>131 pages, including 7 pages of main text, 4 main figures, and 8 supplementary figures</p></details> |
-| **[A Browser-Native Digital Test Range for Benchmarking 4D Ocean-Glider Planning Algorithms](https://arxiv.org/abs/2608.13511v1)** | 2026-08-13 | 6 pages, 5 figures |
-| **[DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation](https://arxiv.org/abs/2608.13489v1)** | 2026-08-13 | <details><summary>Code:...</summary><p>Code: https://github.com/AMAP-ML/DreamX-Phi</p></details> |
-| **[Neural Message Passing on Structural Interaction Graphs for Fully-Inductive Graph Neural Networks](https://arxiv.org/abs/2608.08567v2)** | 2026-08-13 | <details><summary>7 pag...</summary><p>7 pages, 1 figure in the main body. 12 pages, 5 figures in appendix. Submitted to AAAI 2027 (main track) and currently under review</p></details> |
+| **[Generation-Powered Inference for Distribution-Valued Outcomes](https://arxiv.org/abs/2608.14542v1)** | 2026-08-14 | 36 pages, 5 figures |
+| **[ArGEnT: Arbitrary Geometry-encoded Transformer for Operator Learning](https://arxiv.org/abs/2602.11626v3)** | 2026-08-14 | <details><summary>45 pa...</summary><p>45 pages, 21 figures, 10 tables</p></details> |
+| **[Why we need an AI-resilient society](https://arxiv.org/abs/1912.08786v3)** | 2026-08-14 | <details><summary>Versi...</summary><p>Version 3. 21 pages. For associated TEDx video, see https://youtu.be/f6c2ngp7rqY</p></details> |
+| **[CVT-Bench: Probing Spatial-State Integrity through Counterfactual Viewpoint Transformations](https://arxiv.org/abs/2603.21114v2)** | 2026-08-14 | <details><summary>Refra...</summary><p>Reframed CVT-Bench around spatial-state integrity, added real-world benchmark derived from 3dSGG, context controls and other minor changes. 21 pages, 10 figures, 15 tables. Project page: https://shanmukha-here.github.io/CVT-Bench</p></details> |
+| **[RecipeNet: A Hierarchical Transformer for Recipe Data](https://arxiv.org/abs/2608.14505v1)** | 2026-08-14 | <details><summary>Accep...</summary><p>Accepted at CIKM 2026</p></details> |
+| **[Ensuring Safe Physical AI in Urban Mobility via Hazard-Informed Synthesized Envelopes](https://arxiv.org/abs/2608.14481v1)** | 2026-08-14 | <details><summary>The 2...</summary><p>The 2026 International Conference on Control, Robotics Engineering and Technology (CRET 2026), https://www.cret.net/</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Exponential quantum advantage for learning signals with a single qubit](https://arxiv.org/abs/2608.13521v1)** | 2026-08-13 | <details><summary>131 p...</summary><p>131 pages, including 7 pages of main text, 4 main figures, and 8 supplementary figures</p></details> |
-| **[Intervention-Aware Clinical World Model for Post-Op Outcome Forecasting in Cardiology](https://arxiv.org/abs/2608.13518v1)** | 2026-08-13 | <details><summary>Medic...</summary><p>Medical World Models (MWM) Workshop at MICCAI 2026</p></details> |
-| **[OpScale: Operator-level Provisioning and Autoscaling for LLM Serving](https://arxiv.org/abs/2608.13499v1)** | 2026-08-13 | 22 pages, 29 figures |
-| **[AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)](https://arxiv.org/abs/2608.13492v1)** | 2026-08-13 | <details><summary>Autho...</summary><p>Authors are listed alphabetically by the first name and their role. See the contribution section for details</p></details> |
-| **[Spectral Independence and Local-to-Global Techniques for Optimal Mixing of Markov Chains](https://arxiv.org/abs/2307.13826v5)** | 2026-08-13 | <details><summary>Final...</summary><p>Final version of monograph to appear in Foundations and Trends in Theoretical Computer Science</p></details> |
-| **[Retrospective Statistical Inference](https://arxiv.org/abs/2608.13439v1)** | 2026-08-13 | 17 pages, 5 figures |
+| **[MagnifiQ: Patch-aware Text Guided Progressive Upscaling for High-Resolution Image Restoration](https://arxiv.org/abs/2608.14543v1)** | 2026-08-14 | <details><summary>Camer...</summary><p>Camera-ready version (ECCV workshop - LoViF'26)</p></details> |
+| **[Generation-Powered Inference for Distribution-Valued Outcomes](https://arxiv.org/abs/2608.14542v1)** | 2026-08-14 | 36 pages, 5 figures |
+| **[Twin: Playing an Unknown Game with a Test-Time Digital Twin](https://arxiv.org/abs/2608.14490v1)** | 2026-08-14 | <details><summary>Proje...</summary><p>Project website with action-by-action replays of all 25 runs: https://arc-agi-3-twin.vercel.app/ Code: https://github.com/Alexyskoutnev/TWIN-ARC-AGI-3</p></details> |
+| **[Expected Free Energy-based Informative Path Planning for Robotic Mars Exploration](https://arxiv.org/abs/2608.14466v1)** | 2026-08-14 | <details><summary>accep...</summary><p>accepted for IWAI 2026</p></details> |
+| **[You Only Pass Once: Answering and Abstaining Together in a Single Forward Pass of a Frozen Language Model](https://arxiv.org/abs/2608.14465v1)** | 2026-08-14 | <details><summary>24 pa...</summary><p>24 pages. Ziyang Luo and Zhongyao Chu contributed equally</p></details> |
+| **[PriCoRec: A Privacy-Aware Cloud-Device Collaborative Framework for Ad Recommendation under Feature Constraints](https://arxiv.org/abs/2608.14429v1)** | 2026-08-14 | <details><summary>5 pag...</summary><p>5 pages, 1 figure. Accepted to RecSys'26</p></details> |
 

@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - August 20, 2026
+title: Latest 6 Papers - August 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Hydra-0: Action Flow for Generalist World Modeling and Control](https://arxiv.org/abs/2608.18077v1)** | 2026-08-18 | <details><summary>Proje...</summary><p>Project page: https://nvidia-isaac.github.io/video_to_data/hydra-0/</p></details> |
-| **[From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation](https://arxiv.org/abs/2608.18076v1)** | 2026-08-18 | 19 pages, 10 figures |
-| **[Multi-Agent AI System for Radiology Report Structuring and Quality Assurance with Independent Radiologist Evaluation](https://arxiv.org/abs/2608.18072v1)** | 2026-08-18 | <details><summary>14 pa...</summary><p>14 pages, 2 figures, 4 tables</p></details> |
-| **[TokEval: A Tokenizer Evaluation Suite](https://arxiv.org/abs/2608.18062v1)** | 2026-08-18 | <details><summary>Publi...</summary><p>Published as a conference paper at COLM 2026; Library hosted at https://github.com/cimeister/tokenizer-intrinsic-evals</p></details> |
-| **[Data-Dependent Memory-Hard Functions: Sustained Space and Cumulative Complexity Trade-offs in the Parallel Random Oracle Model](https://arxiv.org/abs/2508.06795v2)** | 2026-08-18 | <details><summary>Accep...</summary><p>Accepted at CRYPTO 2026</p></details> |
-| **[StagedWorkspace: A Versioned Workspace for Knowledge-Work Agents](https://arxiv.org/abs/2608.18050v1)** | 2026-08-18 | Under Review |
+| **[SPADE: Self-Play in Adaptive Synthetic Executable Environments](https://arxiv.org/abs/2608.19197v1)** | 2026-08-19 | <details><summary>Work ...</summary><p>Work in progress. Project page: https://spade-rl.github.io ; Code: https://github.com/spade-rl/spade</p></details> |
+| **[SiNMULI: Novel Signed Network Approach for Malicious URL Identification](https://arxiv.org/abs/2608.19190v1)** | 2026-08-19 | <details><summary>31 Pa...</summary><p>31 Pages , 13 Figures</p></details> |
+| **[AMPLIFAI: A Multiphase CT Dataset for Benchmarking Clinical Reasoning in LI-RADS Assessment of Liver Lesions](https://arxiv.org/abs/2608.14778v2)** | 2026-08-19 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 3 tables</p></details> |
+| **[SkillNet: Create, Evaluate, and Connect AI Skills](https://arxiv.org/abs/2603.04448v2)** | 2026-08-19 | <details><summary>http:...</summary><p>http://skillnet.openkg.cn/; add SkillNet-Gym, a benchmark for evaluating skill retrieval, utilization, composition, and SkillNet-Fabric for task-specific skill routing through lightweight Wikis</p></details> |
+| **[Lévy Attention: Single-Pass Predictive Uncertainty for Continuous-Time Attention](https://arxiv.org/abs/2608.19171v1)** | 2026-08-19 | <details><summary>23 pa...</summary><p>23 pages, 2 figures. Under review at TMLR</p></details> |
+| **[Cross-Cohort Spectral-Temporal Dissociation in Frozen EEG Foundation-Model Representations](https://arxiv.org/abs/2607.24834v3)** | 2026-08-19 | <details><summary>I fou...</summary><p>I found a computational error in one of the tables that needs to be fixed; and it may take 2-3 weeks</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation](https://arxiv.org/abs/2608.18076v1)** | 2026-08-18 | 19 pages, 10 figures |
-| **[TokEval: A Tokenizer Evaluation Suite](https://arxiv.org/abs/2608.18062v1)** | 2026-08-18 | <details><summary>Publi...</summary><p>Published as a conference paper at COLM 2026; Library hosted at https://github.com/cimeister/tokenizer-intrinsic-evals</p></details> |
-| **[Language Has Two Parameters: Narrative-Induced Semantic Plasticity and Phase-Sensitive Interpretation](https://arxiv.org/abs/2608.18041v1)** | 2026-08-18 | <details><summary>23 pa...</summary><p>23 pages; 0 figuresCC</p></details> |
-| **[CoSeP: Complementary Separability Pruning via Class-Separability Clustering](https://arxiv.org/abs/2505.13225v3)** | 2026-08-18 | <details><summary>Accep...</summary><p>Accepted at BMVC 2026. Camera-ready version</p></details> |
-| **[Where A Small Language Model Helps in Invoice Categorisation, Understood Through Embedding Geometry](https://arxiv.org/abs/2608.18033v1)** | 2026-08-18 | 22 pages, 10 figures |
-| **[Quantum encodings that preserve persistent homology](https://arxiv.org/abs/2605.28927v2)** | 2026-08-18 | <details><summary>Comme...</summary><p>Comments are welcome! v2: removed disclaimer and affiliation</p></details> |
+| **[SCORE: Subject Coordinate Recovery for Label-Free Cross-Subject EEG-to-Image Retrieval](https://arxiv.org/abs/2608.19134v1)** | 2026-08-19 | 9 pages, 6 figures |
+| **[Toward Quantum Advantage in Learning Parities with Structured Noise via Lower Bound Optimization of the Condition Number](https://arxiv.org/abs/2608.19122v1)** | 2026-08-19 | <details><summary>21 pa...</summary><p>21 pages, 9 figures. Submitted to Quantum</p></details> |
+| **[Tatarstan Toponyms: A Bilingual Dataset and Hybrid RAG System for Geospatial Question Answering](https://arxiv.org/abs/2605.05962v2)** | 2026-08-19 | <details><summary>Prepr...</summary><p>Preprint. 23 pages, 6 figures, 7 tables. Published in Computational Linguistics in Bulgaria</p></details> |
+| **[Planning-aligned Token Compression for Long-Context Autonomous Driving](https://arxiv.org/abs/2606.07464v3)** | 2026-08-19 | <details><summary>Accep...</summary><p>Accepted by IEEE Robotics and Automation Letters (RA-L) 2026. 8 pages</p></details> |
+| **[An Information-theoretic Propagation Denoising and Fusion Framework for Fake News Detection](https://arxiv.org/abs/2605.02259v2)** | 2026-08-19 | <details><summary>Camer...</summary><p>Camera-ready version for IJCAI-ECAI 2026</p></details> |
+| **[Generalized Audio-Driven Synthesis of Precise Drummer Motion](https://arxiv.org/abs/2608.19055v1)** | 2026-08-19 | <details><summary>Best ...</summary><p>Best Paper Award at the 25th ACM SIGGRAPH / Eurographics Symposium on Computer Animation (SCA 2026). For Supplementary Video, see https://studios.disneyresearch.com/2026/08/18/generalized-audio-driven-synthesis-of-precise-drummer-motion/</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Language Has Two Parameters: Narrative-Induced Semantic Plasticity and Phase-Sensitive Interpretation](https://arxiv.org/abs/2608.18041v1)** | 2026-08-18 | <details><summary>23 pa...</summary><p>23 pages; 0 figuresCC</p></details> |
-| **[CoSeP: Complementary Separability Pruning via Class-Separability Clustering](https://arxiv.org/abs/2505.13225v3)** | 2026-08-18 | <details><summary>Accep...</summary><p>Accepted at BMVC 2026. Camera-ready version</p></details> |
-| **[Chain-of-Experience for Continual LLM Improvement](https://arxiv.org/abs/2608.18027v1)** | 2026-08-18 | <details><summary>H.T. ...</summary><p>H.T. and Y.F. contributed to this work equally</p></details> |
-| **[Can Large Language Models Explain Flight Safety Events? A Prior-Guided Semantic LLM-based Approach](https://arxiv.org/abs/2608.18017v1)** | 2026-08-18 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, submitted to IEEE Transactions on Intelligent Transportation Systems</p></details> |
-| **[Memory Tree Guided Key Frame Querying for Efficient 3D Question Answering](https://arxiv.org/abs/2608.18009v1)** | 2026-08-18 | ECCV 2026 |
-| **[Quantum encodings that preserve persistent homology](https://arxiv.org/abs/2605.28927v2)** | 2026-08-18 | <details><summary>Comme...</summary><p>Comments are welcome! v2: removed disclaimer and affiliation</p></details> |
+| **[SiNMULI: Novel Signed Network Approach for Malicious URL Identification](https://arxiv.org/abs/2608.19190v1)** | 2026-08-19 | <details><summary>31 Pa...</summary><p>31 Pages , 13 Figures</p></details> |
+| **[FedGuard-DC: Privacy-Preserving Federated Load Forecasting and Cyber-Attack Detection for Data-Center Loads in Transmission Systems](https://arxiv.org/abs/2608.19155v1)** | 2026-08-19 | <details><summary>Accep...</summary><p>Accepted on North American Power Symposium (NAPS) 2026</p></details> |
+| **[Subgroup performance analysis of adaptation strategies for chest X-ray foundation models](https://arxiv.org/abs/2608.19078v1)** | 2026-08-19 | <details><summary>Accep...</summary><p>Accepted at MICCAI Workshop on Fairness of AI in Medical Imaging (FAIMI) 2026</p></details> |
+| **[Structure, Association, and Decision Value: Representation-Based Difficulty Estimation for Adaptive Inference in African-Language NLI](https://arxiv.org/abs/2608.19003v1)** | 2026-08-19 | <details><summary>21 pa...</summary><p>21 pages, 3 figures, 10 tables. Submitted to MIRG-ICAIR 2026</p></details> |
+| **[Open at the Edge, Captured at the Center: llama.cpp and the Political Economy of Local AI Inference](https://arxiv.org/abs/2608.19001v1)** | 2026-08-19 | 18 pages, 7 figures |
+| **[Monroe: A Molecular Foundation Model for In-Context Probabilistic Inference](https://arxiv.org/abs/2608.18982v1)** | 2026-08-19 | <details><summary>Prepr...</summary><p>Preprint; Open source weights and code</p></details> |
 

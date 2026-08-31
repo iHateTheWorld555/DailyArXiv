@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - August 31, 2026
+title: Latest 6 Papers - September 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City](https://arxiv.org/abs/2608.27456v1)** | 2026-08-27 | <details><summary>35 pa...</summary><p>35 pages, 11 figures, 7 tables. Project Page: https://urbanground.github.io, Code Repository: https://github.com/UrbanGround/UrbanGround</p></details> |
-| **[CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes](https://arxiv.org/abs/2608.27455v1)** | 2026-08-27 | <details><summary>https...</summary><p>https://github.com/umwyf/CRITICL</p></details> |
-| **[Using VLM Reasoning to Constrain Task and Motion Planning](https://arxiv.org/abs/2510.25548v3)** | 2026-08-27 | <details><summary>9 pag...</summary><p>9 pages, 7 figures, 1 table. Submitted to AAAI 2027</p></details> |
-| **[SWE-Prime: Fewer Trajectories, Better Performance](https://arxiv.org/abs/2608.27449v1)** | 2026-08-27 | 9 pages, 5 figures |
-| **[TTPO: Test-Time Policy Optimization](https://arxiv.org/abs/2608.27448v1)** | 2026-08-27 | <details><summary>Proje...</summary><p>Project Page: https://zju-real.github.io/TTPO Code: https://github.com/ZJU-REAL/TTPO</p></details> |
-| **[Do User-Authored Permission Policies Improve Protection Against AI Agent Overreach?](https://arxiv.org/abs/2608.27443v1)** | 2026-08-27 | 15 pages, 5 figures |
+| **[Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning](https://arxiv.org/abs/2608.28578v1)** | 2026-08-28 | <details><summary>20 pa...</summary><p>20 pages, 9 figures. Project page: https://tetheria.github.io/aero-hand-open/</p></details> |
+| **[Learning a Size-Weight Frontier for Synthetic-Augmented Inference](https://arxiv.org/abs/2608.28576v1)** | 2026-08-28 | 19 pages, 5 figures |
+| **[ChainSplat: A Physics-Inspired Screw-Theoretic Model for Learning Deformable Linear Object Dynamics from Multi-View RGB Videos](https://arxiv.org/abs/2608.28570v1)** | 2026-08-28 | 18 pages, 12 figures |
+| **[SignRR: Retrieve and Refine Real Motion for Sign Language Production](https://arxiv.org/abs/2608.28568v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted at the 37th British Machine Vision Conference (BMVC 2026)</p></details> |
+| **[Autotune: fast, accurate, and automatic tuning parameter selection for Lasso](https://arxiv.org/abs/2512.11139v3)** | 2026-08-28 | 53 pages, 35 figures |
+| **[A Formal Limitation on Learning Human Language From Textual Corpora](https://arxiv.org/abs/2608.28560v1)** | 2026-08-28 | <details><summary>this ...</summary><p>this is a draft; comments welcome</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Tacet: A Language and Type System for Automatic Statistical Validity Accounting](https://arxiv.org/abs/2608.27451v1)** | 2026-08-27 | <details><summary>67 pa...</summary><p>67 pages, 2 figures, 10 tables, including 10 appendices. Lean 4 mechanization: https://github.com/abuach/tacet-mech ; reference implementation and case-study replication code: https://github.com/abuach/tacet-python</p></details> |
-| **[Successive Capacity Growth: Task-Complexity-Driven Width and Depth Expansion for Vision Transformer Encoders in JEPA World Models](https://arxiv.org/abs/2608.27367v1)** | 2026-08-27 | <details><summary>12 pa...</summary><p>12 pages, 2 figures, 6 tables</p></details> |
-| **[Pre-training Visual Dexterity in Simulation](https://arxiv.org/abs/2608.15917v2)** | 2026-08-27 | <details><summary>Proje...</summary><p>Project page: https://spd.bot</p></details> |
-| **[PrismWF: A Multi-Granularity Patch-Based Transformer for Robust Website Fingerprinting Attack](https://arxiv.org/abs/2603.21117v2)** | 2026-08-27 | 14 pages, 7 figures |
-| **[SCIT: Testing Causal Cache Carriers in Latent Chain-of-Thought Models](https://arxiv.org/abs/2608.27265v1)** | 2026-08-27 | accept by emnlp2026 |
-| **[A Framework for Low-Effort Training Data Generation for Urban Semantic Segmentation](https://arxiv.org/abs/2510.11567v2)** | 2026-08-27 | <details><summary>Updat...</summary><p>Updated to match the published ICPR 2026 version; updated author order, affiliations, acknowledgements, and minor textual corrections</p></details> |
+| **[Texture Image Classification Using DWT AlexNet Feature Fusion and Deep Neural Networks](https://arxiv.org/abs/2608.28524v1)** | 2026-08-28 | 15 pages, 15 figures |
+| **[ContextPilot: Teaching Agents for Proactive Context Management via Fine-grained RL](https://arxiv.org/abs/2608.28476v1)** | 2026-08-28 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, 5 tables, accepted to EMNLP 2026 (Main Track)</p></details> |
+| **[ARC-CT: Anatomy-Routed Contrastive Vision-Language Learning for 3D Chest CT](https://arxiv.org/abs/2608.28455v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted to the Thoracic Image Analysis (TIA) Workshop at MICCAI 2026</p></details> |
+| **[Between Algorithm (AI) and Intuition (Human): Preserving Designer Agency in AI-Assisted Sensemaking of Qualitative UX Data](https://arxiv.org/abs/2608.28420v1)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted as a workshop paper in Proceedings of (CHI 26 Workshop on Sensemaking and AI 2026: Uses, Behaviors, Design, and Recommendations, April 13th, 2026, Barcelona, Spain) ACM, New York, NY, USA, 5 pages. Workshop website: https://sites.google.com/view/sensemakingworkshop2026/home</p></details> |
+| **[A Declarative-Procedural Perspective on Expert Routing in Bilingual Mixture-of-Experts Language Models](https://arxiv.org/abs/2608.15102v2)** | 2026-08-28 | <details><summary>15 pa...</summary><p>15 pages, 6 figures, 12 tables (including appendix)</p></details> |
+| **[Talk in Pieces, See in Whole: Disentangled and Hierarchical Representation Learning in Language-based Object Detection](https://arxiv.org/abs/2509.24192v2)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes](https://arxiv.org/abs/2608.27455v1)** | 2026-08-27 | <details><summary>https...</summary><p>https://github.com/umwyf/CRITICL</p></details> |
-| **[Scaling Graph Neural Networks for Friend Recommendation: Multi-Hash User Embeddings and Temporal Neighbor Sampling](https://arxiv.org/abs/2608.27413v1)** | 2026-08-27 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 8 tables; accepted at the 35th ACM International Conference on Information and Knowledge Management (CIKM 2026); code: https://github.com/makut/VK-GNN</p></details> |
-| **[FlashVLA: Streaming Action Decoding for Fast and Asynchronous VLA Inference](https://arxiv.org/abs/2608.27384v1)** | 2026-08-27 | 17 pages, 8 figures |
-| **[ET-Prune: Evidence-Aware Dynamic Budgeting for Visual Token Pruning in Text-Rich MLLMs](https://arxiv.org/abs/2608.01979v2)** | 2026-08-27 | <details><summary>Code ...</summary><p>Code and supplementary material is at https://github.com/Labyrinth0419/ET-Prune</p></details> |
-| **[D2C-Routing: Dimension-to-Composition Evidence Routing for Mixed-Origin AI-Generated Text Detection](https://arxiv.org/abs/2608.27380v1)** | 2026-08-27 | <details><summary>17 pa...</summary><p>17 pages, 4 figures. To appear in EMNLP 2026</p></details> |
-| **[One Model, Many Minds: Unlocking Multi-Agent Synergy in a Single Agent via Mixture of Roles](https://arxiv.org/abs/2608.27338v1)** | 2026-08-27 | 19 pages, 10 figures |
+| **[Learning a Size-Weight Frontier for Synthetic-Augmented Inference](https://arxiv.org/abs/2608.28576v1)** | 2026-08-28 | 19 pages, 5 figures |
+| **[Autotune: fast, accurate, and automatic tuning parameter selection for Lasso](https://arxiv.org/abs/2512.11139v3)** | 2026-08-28 | 53 pages, 35 figures |
+| **[PRISM: Self-Pruning Intrinsic Selection Method for Training-Free Multimodal Data Selection](https://arxiv.org/abs/2502.12119v5)** | 2026-08-28 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 and selected for the ACL 2026 Best Paper Consideration</p></details> |
+| **[Offline-Verifiable Accountability for Cross-Organization Agent Messaging: A Preserved Evidence-Bundle Approach](https://arxiv.org/abs/2608.28542v1)** | 2026-08-28 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 9 tables</p></details> |
+| **[3D MRI-Based Alzheimer's Disease Classification Using Multi-Modal 3D CNN with Leakage-Aware Subject-Level Evaluation](https://arxiv.org/abs/2603.17304v2)** | 2026-08-28 | <details><summary>4 tab...</summary><p>4 tables, 6 figures, Accepted at 2026 International Conference on Power, Electronics, Communications, Computing, and Intelligent Infrastructure (PECCII)</p></details> |
+| **[Conformal Uncertainty Quantification Guarantees for Neural Operators](https://arxiv.org/abs/2608.28515v1)** | 2026-08-28 | 19 pages, 6 figures |
 

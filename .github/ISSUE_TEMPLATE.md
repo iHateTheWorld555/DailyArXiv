@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - September 03, 2026
+title: Latest 6 Papers - September 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation](https://arxiv.org/abs/2609.01604v1)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026 Main Conference</p></details> |
-| **[Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation](https://arxiv.org/abs/2609.01603v1)** | 2026-09-01 | Under review |
-| **[CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?](https://arxiv.org/abs/2609.01600v1)** | 2026-09-01 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, 5 tables. Code: https://github.com/sileod/cordis-bench ; Data: https://huggingface.co/datasets/sileod/cordis-bench</p></details> |
-| **[Keep Everyone Happy: Online Fair Division of Numerous Items with Few Copies](https://arxiv.org/abs/2408.12845v3)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[Facet-0: A Robotic Foundation Model for Contact-Rich Precise Manipulation](https://arxiv.org/abs/2609.01596v1)** | 2026-09-01 | <details><summary>Proje...</summary><p>Project page: https://pine-lab-ntu.github.io/facet-0/</p></details> |
-| **[MineDraft: A Framework for Batch Parallel Speculative Decoding](https://arxiv.org/abs/2603.18016v3)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
+| **[SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models](https://arxiv.org/abs/2609.02886v1)** | 2026-09-02 | <details><summary>https...</summary><p>https://junchao-cs.github.io/SolarWM-Web/</p></details> |
+| **[Differential Space-Time Block Coding for Phase-Unsynchronized Cell-Free MIMO Downlink](https://arxiv.org/abs/2511.06510v2)** | 2026-09-02 | <details><summary>Paper...</summary><p>Paper published in IEEE Transactions on Wireless Communications on August 16, 2026. This manuscript builds upon and significantly extends our prior works: https://ieeexplore.ieee.org/document/11027597/ and https://ieeexplore.ieee.org/document/11143305 | © 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses</p></details> |
+| **[GRADSOLVE: fast exact gradients for ODE ensembles on GPUs](https://arxiv.org/abs/2609.02876v1)** | 2026-09-02 | <details><summary>38 pa...</summary><p>38 pages, 12 figures. GRADSOLVE available at https://github.com/ECLIPSE-AI4Science/gradsolve</p></details> |
+| **[Approximately Efficient Multidimensional Bilateral Trade](https://arxiv.org/abs/2609.02872v1)** | 2026-09-02 | <details><summary>To ap...</summary><p>To appear in the 67th IEEE Symposium on Foundations of Computer Science (FOCS 2026)</p></details> |
+| **[Mediocrity is the key for LLM as a Judge Anchor Selection](https://arxiv.org/abs/2603.16848v2)** | 2026-09-02 | ACL 2026 |
+| **[When Does Authorization End? Effect Closure at Provider Boundaries](https://arxiv.org/abs/2609.02866v1)** | 2026-09-02 | <details><summary>13 pa...</summary><p>13 pages body - 18 total</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Quantum matrix arithmetics with Hamiltonian evolution](https://arxiv.org/abs/2510.06316v3)** | 2026-09-01 | <details><summary>94 pa...</summary><p>94 pages, 14 figures. Improved Hamiltonian QSVT for even polynomials with polylogarithmic query overhead</p></details> |
-| **[What, Where, and How: Probing Spatiotemporal Representations in Video Foundation Models](https://arxiv.org/abs/2609.01551v1)** | 2026-09-01 | <details><summary>Inter...</summary><p>Interactive visualizations are available at https://vid-rep-pca.netlify.app/</p></details> |
-| **[The Topological Trouble With Transformers](https://arxiv.org/abs/2604.17121v5)** | 2026-09-01 | <details><summary>added...</summary><p>added citations to recent papers</p></details> |
-| **[Benchmarking Spatial, Spectral, and Self-Supervised Cues for Face Forgery Detection under Realistic Degradation](https://arxiv.org/abs/2609.01511v1)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted for presentation at the 2026 Conference on Graphics, Patterns and Images (SIBGRAPI)</p></details> |
-| **[Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Improvement](https://arxiv.org/abs/2609.01481v1)** | 2026-09-01 | <details><summary>Githu...</summary><p>Github: https://github.com/Flesymeb/HarnessOfHarness Project Page: https://flesymeb.github.io/HarnessOfHarness/</p></details> |
-| **[Binary Multiple-Node-Erasure-Correcting Codes over Complete Graphs: Constructions, q-Ary Metric Balls, and Duality](https://arxiv.org/abs/2609.01474v1)** | 2026-09-01 | 52 pages |
+| **[Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework](https://arxiv.org/abs/2609.02861v1)** | 2026-09-02 | <details><summary>7 pag...</summary><p>7 pages. Accepted version. Published in SoutheastCon 2026, IEEE, pp. 1-6</p></details> |
+| **[MUCOCO: Automated Consistency Testing of Code LLMs](https://arxiv.org/abs/2604.19086v2)** | 2026-09-02 | <details><summary>MuCoC...</summary><p>MuCoCo has been accepted into EMNLP Findings 2026</p></details> |
+| **[Efficient All-in-One Weather Restoration using Spectral Harmonization](https://arxiv.org/abs/2609.02839v1)** | 2026-09-02 | Technical Report |
+| **[Understanding Automatic Mixing: A Subtask-Oriented Analysis of Two-Stage Mixing System](https://arxiv.org/abs/2609.02835v1)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted at the International Society for Music Information Retrieval Conference (ISMIR 2026). 6 pages, 5 figures. https://sparrowreivun.github.io/TwoStageMixingAnalysis/</p></details> |
+| **[Benchmarking RAW and RGB Restoration in Image Signal Processors](https://arxiv.org/abs/2609.02831v1)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted BMVC 2026: The 37th British Machine Vision Conference</p></details> |
+| **[Why we need an AI-resilient society- Profiling Large Language Models](https://arxiv.org/abs/1912.08786v5)** | 2026-09-02 | <details><summary>Versi...</summary><p>Version 5. 47 pages. For associated TEDx video, see https://youtu.be/f6c2ngp7rqY</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?](https://arxiv.org/abs/2609.01600v1)** | 2026-09-01 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, 5 tables. Code: https://github.com/sileod/cordis-bench ; Data: https://huggingface.co/datasets/sileod/cordis-bench</p></details> |
-| **[MineDraft: A Framework for Batch Parallel Speculative Decoding](https://arxiv.org/abs/2603.18016v3)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[Leakage-Audited Benchmarking Reveals Limited Evidence for Cross-Subject Auditory-Evoked EEG Vowel Perception Decoding](https://arxiv.org/abs/2605.00865v4)** | 2026-09-01 | <details><summary>Revis...</summary><p>Revised manuscript with 6 main figures</p></details> |
-| **[Beyond Localization: A Comprehensive Diagnosis of Perspective-Conditioned Spatial Reasoning in MLLMs from Omnidirectional Images](https://arxiv.org/abs/2605.12413v4)** | 2026-09-01 | 10pages, 4 figures |
-| **[FlintKV: A Fast Durable Storage Engine for Modern Databases](https://arxiv.org/abs/2607.02401v2)** | 2026-09-01 | <details><summary>Minor...</summary><p>Minor edits to the proof in Appendix and changes to the recovery time evaluation</p></details> |
-| **[Sierpiński--Knopp Wasserstein Distance for Persistence Diagrams and Applications to 2-Wasserstein Approximation](https://arxiv.org/abs/2609.01528v1)** | 2026-09-01 | <details><summary>49 pa...</summary><p>49 pages, 11 figures, 6 tables. Code and reproducibility package: https://github.com/sebastien-tchitchek/SK-Wasserstein-Reproducibility</p></details> |
+| **[SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models](https://arxiv.org/abs/2609.02886v1)** | 2026-09-02 | <details><summary>https...</summary><p>https://junchao-cs.github.io/SolarWM-Web/</p></details> |
+| **[GRADSOLVE: fast exact gradients for ODE ensembles on GPUs](https://arxiv.org/abs/2609.02876v1)** | 2026-09-02 | <details><summary>38 pa...</summary><p>38 pages, 12 figures. GRADSOLVE available at https://github.com/ECLIPSE-AI4Science/gradsolve</p></details> |
+| **[Aletheia: An Offline-First Clinical Decision Support System for Differential Diagnosis in Low-Resource Healthcare Settings](https://arxiv.org/abs/2607.24814v2)** | 2026-09-02 | <details><summary>8 pag...</summary><p>8 pages, 7 figures, 4 tables</p></details> |
+| **[A Lightweight Multi-Metric No-Reference Image Quality Assessment Framework for UAV Imaging](https://arxiv.org/abs/2604.13112v2)** | 2026-09-02 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, article</p></details> |
+| **[NS-VLA: Towards Neuro-Symbolic Vision-Language-Action Models](https://arxiv.org/abs/2603.09542v2)** | 2026-09-02 | <details><summary>32 pa...</summary><p>32 pages, 10 figures, 2 tables. Major revision: updated author list and affiliations; revised methods, experiments, analysis, and appendices; added project page, code, model, and dataset links. Project page: https://zuzuzzy.github.io/NS-VLA/</p></details> |
+| **[AtlasPatch: Scalable Foundation Model-based Tissue Detection and Patch Extraction for Computational Pathology](https://arxiv.org/abs/2602.03998v3)** | 2026-09-02 | Under review |
 

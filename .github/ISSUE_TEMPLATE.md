@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - September 17, 2026
+title: Latest 6 Papers - September 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ICON Decomposition: Auditing deep neural networks for shortcuts by decomposing layer-wise representations using concepts](https://arxiv.org/abs/2608.26083v3)** | 2026-09-15 | <details><summary>44 pa...</summary><p>44 pages, 12 figures, 3 tables. Includes Extended Data (7 figures, 2 tables). Code: https://github.com/RoshanRane/ICON_decomposition</p></details> |
-| **[You Shall Not Pass into Ring-0! A User Privacy-Friendly Anti-Cheat Architecture for Personal Computers](https://arxiv.org/abs/2609.17525v1)** | 2026-09-15 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, 2 tables. To appear in Proceedings of the 2026 ACM SIGSAC Conference on Computer and Communications Security (CCS '26), November 15-19, 2026, The Hague, Netherlands</p></details> |
-| **[Modality-Autoregressive World-Action Models](https://arxiv.org/abs/2609.17524v1)** | 2026-09-15 | <details><summary>Proje...</summary><p>Project page: https://adamhung60.github.io/ModAR/</p></details> |
-| **[ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents](https://arxiv.org/abs/2609.17523v1)** | 2026-09-15 | <details><summary>Websi...</summary><p>Website: http://science-buddy.io, Code: https://github.com/Gen-Verse/ScienceBuddy-RSI</p></details> |
-| **[Graph-Enabled Efficient Federated Bayesian Modeling](https://arxiv.org/abs/2408.02122v3)** | 2026-09-15 | 40 pages, 12 figures |
-| **[What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity](https://arxiv.org/abs/2609.17515v1)** | 2026-09-15 | <details><summary>Submi...</summary><p>Submitted to EACL Industry Track</p></details> |
+| **[Objective vs. Search: Decomposing What Makes a Good Tokeniser](https://arxiv.org/abs/2609.19145v1)** | 2026-09-16 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026. 20 pages, 4 figures, 10 tables. Code: https://github.com/Ahmetcanyvz/comp-vs-like</p></details> |
+| **[A Zeroth-Order Paradigm for LLM Preference Alignment](https://arxiv.org/abs/2609.19144v1)** | 2026-09-16 | 39 pages |
+| **[PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics](https://arxiv.org/abs/2609.19142v1)** | 2026-09-16 | <details><summary>https...</summary><p>https://pointzero-wm.github.io/</p></details> |
+| **[AgentLSD: Evaluating AI Security Agents Under Adversarial Task Contamination](https://arxiv.org/abs/2609.19140v1)** | 2026-09-16 | <details><summary>To be...</summary><p>To be published in the 19th ACM Workshop on Artificial Intelligence and Security (AISec 2026) co-located with CCS 2026</p></details> |
+| **[In-Context Robot Learning with VLM Agents](https://arxiv.org/abs/2609.19138v1)** | 2026-09-16 | <details><summary>Proje...</summary><p>Project Page: https://cheng-haha.github.io/GPT-Policy GitHub Code: https://github.com/cheng-haha/GPT-Policy</p></details> |
+| **[ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments](https://arxiv.org/abs/2609.19134v1)** | 2026-09-16 | <details><summary>Code:...</summary><p>Code: https://github.com/aitofound/ScienceIDE</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[$B$-sure. Part II. Scattering transforms as robustness test for tensor-to-scalar ratio detection from CMB observations](https://arxiv.org/abs/2609.17531v1)** | 2026-09-15 | <details><summary>16 pa...</summary><p>16 pages plus 10 pages of appendices and references; 3 tables, 10 figures. Prepared for submission to JCAP. Comments are welcome</p></details> |
-| **[ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents](https://arxiv.org/abs/2609.17523v1)** | 2026-09-15 | <details><summary>Websi...</summary><p>Website: http://science-buddy.io, Code: https://github.com/Gen-Verse/ScienceBuddy-RSI</p></details> |
-| **[What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity](https://arxiv.org/abs/2609.17515v1)** | 2026-09-15 | <details><summary>Submi...</summary><p>Submitted to EACL Industry Track</p></details> |
-| **[LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs](https://arxiv.org/abs/2609.17509v1)** | 2026-09-15 | <details><summary>Accep...</summary><p>Accepted to SLT 2026. 8 pages, 5 figures</p></details> |
-| **[JustFit: 200K-Token LLM Serving on a 24 GiB Laptop with Just-in-Time State Management](https://arxiv.org/abs/2609.17475v1)** | 2026-09-15 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, 9 tables</p></details> |
-| **[The Biomimetic Architecture of Software 4.0](https://arxiv.org/abs/2606.04025v2)** | 2026-09-15 | <details><summary>14 pa...</summary><p>14 pages v2: Refines core terminology to strictly distinguish structural verification from formal verification, and expands theoretical framing in Abstract and Section 1</p></details> |
+| **[Objective vs. Search: Decomposing What Makes a Good Tokeniser](https://arxiv.org/abs/2609.19145v1)** | 2026-09-16 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026. 20 pages, 4 figures, 10 tables. Code: https://github.com/Ahmetcanyvz/comp-vs-like</p></details> |
+| **[PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics](https://arxiv.org/abs/2609.19142v1)** | 2026-09-16 | <details><summary>https...</summary><p>https://pointzero-wm.github.io/</p></details> |
+| **[ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments](https://arxiv.org/abs/2609.19134v1)** | 2026-09-16 | <details><summary>Code:...</summary><p>Code: https://github.com/aitofound/ScienceIDE</p></details> |
+| **[PhysVGGT: Feed-Forward Dense Physical Property Estimation from A Single Image](https://arxiv.org/abs/2609.18920v1)** | 2026-09-16 | Technical report |
+| **[Linear Algebra of Generalized Contextuality in All Prepare-Transform-Measure Scenarios](https://arxiv.org/abs/2607.26139v2)** | 2026-09-16 | <details><summary>28 pa...</summary><p>28 pages, one figure, comments are welcome</p></details> |
+| **[Time-Aware Diffusion based on Preference Disentanglement for Generative Recommendation](https://arxiv.org/abs/2606.01670v2)** | 2026-09-16 | <details><summary>We wa...</summary><p>We wanna re-design the whole methodology and paper-writing</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Graph-Enabled Efficient Federated Bayesian Modeling](https://arxiv.org/abs/2408.02122v3)** | 2026-09-15 | 40 pages, 12 figures |
-| **[LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs](https://arxiv.org/abs/2609.17509v1)** | 2026-09-15 | <details><summary>Accep...</summary><p>Accepted to SLT 2026. 8 pages, 5 figures</p></details> |
-| **[MessyMem: Learning-from-Doing Memory for Mobile Manipulation](https://arxiv.org/abs/2609.15976v2)** | 2026-09-15 | <details><summary>Accep...</summary><p>Accepted at CoRL 2026. 26 pages, 8 figures. Project page: https://messymem.github.io</p></details> |
-| **[Verifiable Social Reasoning for LLM Assistants](https://arxiv.org/abs/2609.17496v1)** | 2026-09-15 | <details><summary>First...</summary><p>First two authors contributed equally and the order between them was chosen randomly</p></details> |
-| **[JustFit: 200K-Token LLM Serving on a 24 GiB Laptop with Just-in-Time State Management](https://arxiv.org/abs/2609.17475v1)** | 2026-09-15 | <details><summary>13 pa...</summary><p>13 pages, 4 figures, 9 tables</p></details> |
-| **[The Biomimetic Architecture of Software 4.0](https://arxiv.org/abs/2606.04025v2)** | 2026-09-15 | <details><summary>14 pa...</summary><p>14 pages v2: Refines core terminology to strictly distinguish structural verification from formal verification, and expands theoretical framing in Abstract and Section 1</p></details> |
+| **[Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments](https://arxiv.org/abs/2609.19128v1)** | 2026-09-16 | 13 pages, 1 figure |
+| **[Track, Articulate, Act: Generating Articulation from Casual Human Videos](https://arxiv.org/abs/2609.19119v1)** | 2026-09-16 | <details><summary>Prepr...</summary><p>Preprint. Under Review</p></details> |
+| **[Analog Pin Directionality as an Exfiltration Attack Surface in Mixed-Signal ICs](https://arxiv.org/abs/2609.19111v1)** | 2026-09-16 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Information Forensics and Security (TIFS)</p></details> |
+| **[Long-Lived Characters, Local Inference: Incremental Memory Maintenance for Game NPCs](https://arxiv.org/abs/2609.18935v1)** | 2026-09-16 | <details><summary>18 pa...</summary><p>18 pages, 6 figures. Supporting numerical snapshots included as ancillary files</p></details> |
+| **[Comprehensive reconstruction of collider events with hypergraph representation learning and graph-conditioned diffusion](https://arxiv.org/abs/2609.18928v1)** | 2026-09-16 | <details><summary>23 pa...</summary><p>23 pages, 9 figures, to be submitted to PRX Intelligence</p></details> |
+| **[PhysVGGT: Feed-Forward Dense Physical Property Estimation from A Single Image](https://arxiv.org/abs/2609.18920v1)** | 2026-09-16 | Technical report |
 

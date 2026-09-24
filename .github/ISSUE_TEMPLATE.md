@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - September 24, 2026
+title: Latest 6 Papers - September 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs](https://arxiv.org/abs/2609.26796v1)** | 2026-09-22 | <details><summary>Code ...</summary><p>Code available at: https://github.com/VILA-Lab/Flash-dLLM</p></details> |
-| **[HARMONY: Hierarchical Agentic Reasoning for MONocular Image-to-Scene Synthesis](https://arxiv.org/abs/2609.26793v1)** | 2026-09-22 | <details><summary>Proje...</summary><p>Project Page: http://cwchenwang.github.io/harmony</p></details> |
-| **[DreamStream: Towards Policy-Oriented Generative Simulation for End-to-End Driving](https://arxiv.org/abs/2609.26792v1)** | 2026-09-22 | <details><summary>Accep...</summary><p>Accepted to CoRL 2026. Project page: https://vail-ucla.github.io/DreamStream/</p></details> |
-| **[Quantifying Overclaiming Propensity in Frontier LLM Agents](https://arxiv.org/abs/2609.20812v3)** | 2026-09-22 | <details><summary>28 pa...</summary><p>28 pages, 7 figures, 8 tables</p></details> |
-| **[A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing](https://arxiv.org/abs/2609.26783v1)** | 2026-09-22 | 15 pages, 2 figures |
-| **[FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry](https://arxiv.org/abs/2607.18227v3)** | 2026-09-22 | <details><summary>Due t...</summary><p>Due to file size constraints, the figures in the arXiv file have been heavily lossy-compressed. Please visit the uncompressed file at: https://huggingface.co/datasets/FlowMimic/Uncompressed/blob/main/main.pdf</p></details> |
+| **[MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research](https://arxiv.org/abs/2605.26114v3)** | 2026-09-23 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Main Conference</p></details> |
+| **[On the Diffusibility of High-Dimensional Latents](https://arxiv.org/abs/2609.28473v1)** | 2026-09-23 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. Project page: https://cfeng16.github.io/on_the_diffusibility/</p></details> |
+| **[Contrastive Learning for Authorship Verification](https://arxiv.org/abs/2609.28471v1)** | 2026-09-23 | <details><summary>Publi...</summary><p>Published in the proceedings of CLEF 2026. Code: https://github.com/petekirby/contrastive-av</p></details> |
+| **[StudentBench: AI and human tutoring yield equivalent GRE learning gains](https://arxiv.org/abs/2609.28470v1)** | 2026-09-23 | <details><summary>47 pa...</summary><p>47 pages, including references and appendices. Project site: https://studentbench.org. GitHub: https://github.com/Handshake-AI-Research/studentbench</p></details> |
+| **[LiFR v2: Completion-Augmented Event Propagation for High-Rate Dense Prediction](https://arxiv.org/abs/2609.25803v2)** | 2026-09-23 | <details><summary>15 pa...</summary><p>15 pages, 9 figures, 6 tables</p></details> |
+| **[TransBERT: A Framework for Synthetic Translation in Domain-Specific Language Modeling](https://arxiv.org/abs/2609.26347v2)** | 2026-09-23 | 17 pages |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Route-MHT: Multimodal Transformer Guardrails for Thermal Visual Place Recognition](https://arxiv.org/abs/2607.04745v2)** | 2026-09-22 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, technical report</p></details> |
-| **[Evaluating the Semantic-to-Geometric Gap in Adversarial Defenses Against Vision-Language Model-Based Plagiarism](https://arxiv.org/abs/2609.26733v1)** | 2026-09-22 | <details><summary>10 Pa...</summary><p>10 Pages, 3 figures, 2 tables</p></details> |
-| **[STAR-VAE: A Scalable Latent-Variable Transformer for Controllable Molecular Generation](https://arxiv.org/abs/2511.02769v2)** | 2026-09-22 | <details><summary>46 pa...</summary><p>46 pages, 4 figures, 10 tables, and Supporting Information</p></details> |
-| **[Rice's Theorem under Self-Modification: Elevation Operators and a Normal Form](https://arxiv.org/abs/2609.11326v2)** | 2026-09-22 | <details><summary>v2: s...</summary><p>v2: substantially revised, extended and retitled. Corrects the definition of the class U and the instrumentation synthesiser; the claim that the proof rests on the recursion theorem is replaced by the precise statement (the s-m-n reduction within a behavioural fibre). Sections 6-9 are new. 33 pages. Companion paper: arXiv:2606.28639 (applied consequences)</p></details> |
-| **[Fast inversion of the generalized Fisher transformation of correlation matrices](https://arxiv.org/abs/2609.19028v2)** | 2026-09-22 | <details><summary>28 pa...</summary><p>28 pages, 1 figure, 9 tables. Julia and R packages: https://github.com/reinhardhansen/GFT (v1.2.0); R package GFT 1.2.0 on CRAN</p></details> |
-| **[Capable yet Parsimonious: Extracting and Characterizing Hidden Chain-of-Thought in Frontier Models](https://arxiv.org/abs/2609.26637v1)** | 2026-09-22 | 33 pages,14 figures |
+| **[Nonequilibrium Phases of Repulsive Self-Attention: Chaos, Attention Condensation, and Emergent Locality](https://arxiv.org/abs/2609.28448v1)** | 2026-09-23 | <details><summary>54 pa...</summary><p>54 pages, 21 figures, including appendices</p></details> |
+| **[Predicting the Progression of Adolescent Idiopathic Scoliosis](https://arxiv.org/abs/2609.28434v1)** | 2026-09-23 | <details><summary>Publi...</summary><p>Published in MICCAI ShapeMI 2026 Workshop</p></details> |
+| **[The Skin-Restricted Reinhard Transform:Uniqueness under a Lightness-Preserving Constraint](https://arxiv.org/abs/2609.28424v1)** | 2026-09-23 | <details><summary>Code:...</summary><p>Code: https://github.com/vijeshkpaei/skin-restricted-reinhard-transform</p></details> |
+| **[PointCast: One World Model for Rigid, Articulated, and Deformable Object Manipulation](https://arxiv.org/abs/2609.28393v1)** | 2026-09-23 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 5 tables. Project page: https://pointcast-wm.github.io. This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible</p></details> |
+| **[Automated Palynological Analysis System: Integrating Deep Metric Learning, Detection and Classification in Bright Field Microscopy](https://arxiv.org/abs/2604.16743v2)** | 2026-09-23 | 12 pages, 16 figures |
+| **[MicroQonv: Reshaping Convolution Tensors for Efficient Microscaling in Training and Inference](https://arxiv.org/abs/2609.28358v1)** | 2026-09-23 | 12 pages, 7 figures |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs](https://arxiv.org/abs/2609.26796v1)** | 2026-09-22 | <details><summary>Code ...</summary><p>Code available at: https://github.com/VILA-Lab/Flash-dLLM</p></details> |
-| **[Quantifying Overclaiming Propensity in Frontier LLM Agents](https://arxiv.org/abs/2609.20812v3)** | 2026-09-22 | <details><summary>28 pa...</summary><p>28 pages, 7 figures, 8 tables</p></details> |
-| **[FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry](https://arxiv.org/abs/2607.18227v3)** | 2026-09-22 | <details><summary>Due t...</summary><p>Due to file size constraints, the figures in the arXiv file have been heavily lossy-compressed. Please visit the uncompressed file at: https://huggingface.co/datasets/FlowMimic/Uncompressed/blob/main/main.pdf</p></details> |
-| **[SARA: SLO-Aware Resource Allocation for Disaggregated Agentic LLM Services](https://arxiv.org/abs/2609.26763v1)** | 2026-09-22 | 17 pages, 12 figures |
-| **[Grow the Harness, Not the Context: From Strategy-Free Scaffolds to Reusable Specialist Agents](https://arxiv.org/abs/2609.26760v1)** | 2026-09-22 | 16 pages, 6 figures |
-| **[Unified Multimodal Uncertain Inference](https://arxiv.org/abs/2604.08701v3)** | 2026-09-22 | <details><summary>Updat...</summary><p>Update CI and modality training exps</p></details> |
+| **[ROBBIN: Rowhammer-Based Backdoor Injection during Inference](https://arxiv.org/abs/2608.23774v2)** | 2026-09-23 | <details><summary>Inter...</summary><p>International Conference on Computer-Aided Design (ICCAD) 2026</p></details> |
+| **[Multivariate Continuous-Time Autoregressive Moving Average Processes for Astronomical Multiband Time Series](https://arxiv.org/abs/2609.28419v1)** | 2026-09-23 | 49 pages, 7 figures |
+| **[Bayesian inference for the learning rate in Generalised Bayesian inference](https://arxiv.org/abs/2506.12532v3)** | 2026-09-23 | <details><summary>33 pa...</summary><p>33 pages, 7 figures, 1 Table with 43 pages of appendices including 19 further figures and 4 further tables</p></details> |
+| **[Copy-Move Forgery Detection and Question Answering for Remote Sensing Image](https://arxiv.org/abs/2412.02575v3)** | 2026-09-23 | 17 figs, 14 tables |
+| **[MicroQonv: Reshaping Convolution Tensors for Efficient Microscaling in Training and Inference](https://arxiv.org/abs/2609.28358v1)** | 2026-09-23 | 12 pages, 7 figures |
+| **[Mizar: A 159M-Parameter Audio-Language Model for Audio Understanding](https://arxiv.org/abs/2609.28344v1)** | 2026-09-23 | <details><summary>5 pag...</summary><p>5 pages, submitted to ICASSP 2027</p></details> |
 

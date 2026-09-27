@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - September 25, 2026
+title: Latest 6 Papers - September 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research](https://arxiv.org/abs/2605.26114v3)** | 2026-09-23 | <details><summary>EMNLP...</summary><p>EMNLP 2026 Main Conference</p></details> |
-| **[On the Diffusibility of High-Dimensional Latents](https://arxiv.org/abs/2609.28473v1)** | 2026-09-23 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026. Project page: https://cfeng16.github.io/on_the_diffusibility/</p></details> |
-| **[Contrastive Learning for Authorship Verification](https://arxiv.org/abs/2609.28471v1)** | 2026-09-23 | <details><summary>Publi...</summary><p>Published in the proceedings of CLEF 2026. Code: https://github.com/petekirby/contrastive-av</p></details> |
-| **[StudentBench: AI and human tutoring yield equivalent GRE learning gains](https://arxiv.org/abs/2609.28470v1)** | 2026-09-23 | <details><summary>47 pa...</summary><p>47 pages, including references and appendices. Project site: https://studentbench.org. GitHub: https://github.com/Handshake-AI-Research/studentbench</p></details> |
-| **[LiFR v2: Completion-Augmented Event Propagation for High-Rate Dense Prediction](https://arxiv.org/abs/2609.25803v2)** | 2026-09-23 | <details><summary>15 pa...</summary><p>15 pages, 9 figures, 6 tables</p></details> |
-| **[TransBERT: A Framework for Synthetic Translation in Domain-Specific Language Modeling](https://arxiv.org/abs/2609.26347v2)** | 2026-09-23 | 17 pages |
+| **[AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control](https://arxiv.org/abs/2609.30264v1)** | 2026-09-24 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 4 tables. Project page: https://ad-wm.github.io/</p></details> |
+| **[SechKAN: Kolmogorov-Arnold Networks with Hyperbolic Secant Functions](https://arxiv.org/abs/2607.18290v4)** | 2026-09-24 | 37 pages |
+| **[Rolling-WAM: World Action Models with Rolling Imagination](https://arxiv.org/abs/2609.30247v1)** | 2026-09-24 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 5 tables. Under review. Project page: https://rolling-wam.github.io/</p></details> |
+| **[JevOut: Natural Context Can Flip Decision Models](https://arxiv.org/abs/2609.30243v1)** | 2026-09-24 | <details><summary>32 pa...</summary><p>32 pages, 5 figures, 23 tables. Homepage: https://xzx34.github.io/jevout/ ; Code: https://github.com/xzx34/JevOut</p></details> |
+| **[Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improvement](https://arxiv.org/abs/2608.31046v2)** | 2026-09-24 | 23 pages, 14 figures |
+| **[SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data](https://arxiv.org/abs/2609.30238v1)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Nonequilibrium Phases of Repulsive Self-Attention: Chaos, Attention Condensation, and Emergent Locality](https://arxiv.org/abs/2609.28448v1)** | 2026-09-23 | <details><summary>54 pa...</summary><p>54 pages, 21 figures, including appendices</p></details> |
-| **[Predicting the Progression of Adolescent Idiopathic Scoliosis](https://arxiv.org/abs/2609.28434v1)** | 2026-09-23 | <details><summary>Publi...</summary><p>Published in MICCAI ShapeMI 2026 Workshop</p></details> |
-| **[The Skin-Restricted Reinhard Transform:Uniqueness under a Lightness-Preserving Constraint](https://arxiv.org/abs/2609.28424v1)** | 2026-09-23 | <details><summary>Code:...</summary><p>Code: https://github.com/vijeshkpaei/skin-restricted-reinhard-transform</p></details> |
-| **[PointCast: One World Model for Rigid, Articulated, and Deformable Object Manipulation](https://arxiv.org/abs/2609.28393v1)** | 2026-09-23 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 5 tables. Project page: https://pointcast-wm.github.io. This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible</p></details> |
-| **[Automated Palynological Analysis System: Integrating Deep Metric Learning, Detection and Classification in Bright Field Microscopy](https://arxiv.org/abs/2604.16743v2)** | 2026-09-23 | 12 pages, 16 figures |
-| **[MicroQonv: Reshaping Convolution Tensors for Efficient Microscaling in Training and Inference](https://arxiv.org/abs/2609.28358v1)** | 2026-09-23 | 12 pages, 7 figures |
+| **[Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning](https://arxiv.org/abs/2609.30258v1)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
+| **[OmniFabric: Coherent UV Space Texture Synthesis for 3D Garment Reconstruction](https://arxiv.org/abs/2609.30234v1)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted to SIGGRAPH Asia 2026. Project Page: https://humansensinglab.github.io/OmniFabric/</p></details> |
+| **[DeGRe: Dense-supervised Generative Reranking for Recommendation](https://arxiv.org/abs/2605.25749v2)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted to KDD 2026 ADS Track (Oral). Best Paper Award Honorable Mention</p></details> |
+| **[Practical and Space-Efficient LZ77 and LZ Pre-Compression via String Synchronizing Sets](https://arxiv.org/abs/2609.30193v1)** | 2026-09-24 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 4 tables. Accepted at ALENEX 2027. Code: https://github.com/LukasNalbach/lz77-sss</p></details> |
+| **[The shifted-prime Erdős-Wintner law for primitive-root determinant densities: extremal order, dimension zero, and Fourier decay](https://arxiv.org/abs/2603.11196v12)** | 2026-09-24 | <details><summary>Subst...</summary><p>Substantial revision: sharp minimum-density asymptotic; two-sided typical Fourier decay and stronger exceptional-set bounds; sharper $σ$-endpoint remainder; revised prior-work attribution and applications. Removed the standalone $σ$-extremal section</p></details> |
+| **[Context-aware Skin Cancer Epithelial Cell Classification with Scalable Graph Transformers](https://arxiv.org/abs/2602.15783v2)** | 2026-09-24 | <details><summary>17 pa...</summary><p>17 pages, 2 figures. Version 2: add links to dataset and code repository, now published and open-source. Add citation of paper in related work</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ROBBIN: Rowhammer-Based Backdoor Injection during Inference](https://arxiv.org/abs/2608.23774v2)** | 2026-09-23 | <details><summary>Inter...</summary><p>International Conference on Computer-Aided Design (ICCAD) 2026</p></details> |
-| **[Multivariate Continuous-Time Autoregressive Moving Average Processes for Astronomical Multiband Time Series](https://arxiv.org/abs/2609.28419v1)** | 2026-09-23 | 49 pages, 7 figures |
-| **[Bayesian inference for the learning rate in Generalised Bayesian inference](https://arxiv.org/abs/2506.12532v3)** | 2026-09-23 | <details><summary>33 pa...</summary><p>33 pages, 7 figures, 1 Table with 43 pages of appendices including 19 further figures and 4 further tables</p></details> |
-| **[Copy-Move Forgery Detection and Question Answering for Remote Sensing Image](https://arxiv.org/abs/2412.02575v3)** | 2026-09-23 | 17 figs, 14 tables |
-| **[MicroQonv: Reshaping Convolution Tensors for Efficient Microscaling in Training and Inference](https://arxiv.org/abs/2609.28358v1)** | 2026-09-23 | 12 pages, 7 figures |
-| **[Mizar: A 159M-Parameter Audio-Language Model for Audio Understanding](https://arxiv.org/abs/2609.28344v1)** | 2026-09-23 | <details><summary>5 pag...</summary><p>5 pages, submitted to ICASSP 2027</p></details> |
+| **[Forte: A sensitivity type system for imperative Rust](https://arxiv.org/abs/2609.30254v1)** | 2026-09-24 | <details><summary>29 pa...</summary><p>29 pages. Submitted to the Journal of Functional Programming</p></details> |
+| **[SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data](https://arxiv.org/abs/2609.30238v1)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026</p></details> |
+| **[A Neural Hierarchical-Matrix Preconditioner for Real-Time GPU Solves](https://arxiv.org/abs/2605.13343v3)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted to SIGGRAPH Asia 2026 Posters (SA Posters '26). 3 pages; 2-page supplement as ancillary file. Supersedes v1-v2 (Hierarchical Transformer Preconditioning for Interactive Physics Simulation): their cosine-Hutchinson objective carries a factor lambda in its gradient on near-null modes; this version trains a truncated Kaporin condition number and evaluates on 3D tet meshes</p></details> |
+| **[One View Is Enough: In-the-Wild Monocular Pretraining for Novel View Generation](https://arxiv.org/abs/2603.23488v3)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. Code: https://github.com/kyutai-labs/ovie. Project page: https://kyutai.org/blog/2026-04-14-ovie/</p></details> |
+| **[Anchored Extra-Proximal Methods: Optimal Higher-Order Methods for Monotone Inclusion Problems](https://arxiv.org/abs/2609.30212v1)** | 2026-09-24 | 51 pages |
+| **[DeGRe: Dense-supervised Generative Reranking for Recommendation](https://arxiv.org/abs/2605.25749v2)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted to KDD 2026 ADS Track (Oral). Best Paper Award Honorable Mention</p></details> |
 

@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - September 28, 2026
+title: Latest 6 Papers - September 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control](https://arxiv.org/abs/2609.30264v1)** | 2026-09-24 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 4 tables. Project page: https://ad-wm.github.io/</p></details> |
-| **[SechKAN: Kolmogorov-Arnold Networks with Hyperbolic Secant Functions](https://arxiv.org/abs/2607.18290v4)** | 2026-09-24 | 37 pages |
-| **[Rolling-WAM: World Action Models with Rolling Imagination](https://arxiv.org/abs/2609.30247v1)** | 2026-09-24 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 5 tables. Under review. Project page: https://rolling-wam.github.io/</p></details> |
-| **[JevOut: Natural Context Can Flip Decision Models](https://arxiv.org/abs/2609.30243v1)** | 2026-09-24 | <details><summary>32 pa...</summary><p>32 pages, 5 figures, 23 tables. Homepage: https://xzx34.github.io/jevout/ ; Code: https://github.com/xzx34/JevOut</p></details> |
-| **[Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improvement](https://arxiv.org/abs/2608.31046v2)** | 2026-09-24 | 23 pages, 14 figures |
-| **[SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data](https://arxiv.org/abs/2609.30238v1)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026</p></details> |
+| **[GraphWrit3R: End-to-End 3D Scene Graph Writing](https://arxiv.org/abs/2609.31595v1)** | 2026-09-25 | <details><summary>Proje...</summary><p>Project page at https://graphwrit3r.insait.ai</p></details> |
+| **[AgentWorld: Benchmarking Long-Horizon Collaboration of Multi-agent LLMs](https://arxiv.org/abs/2609.31590v1)** | 2026-09-25 | <details><summary>Accep...</summary><p>Accepted at COLM 2026. Project website: https://agentworld.io</p></details> |
+| **[ChemMLLM: Chemical Multimodal Large Language Model](https://arxiv.org/abs/2505.16326v3)** | 2026-09-25 | 19 pages |
+| **[Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer](https://arxiv.org/abs/2609.31587v1)** | 2026-09-25 | <details><summary>13 pa...</summary><p>13 pages. Code and data: https://github.com/haw-ai-i/roundtrip</p></details> |
+| **[Trust Guided Decision Transformer](https://arxiv.org/abs/2609.31586v1)** | 2026-09-25 | <details><summary>To ap...</summary><p>To appear in Neurips 2026</p></details> |
+| **[Generate, Track, Improve: Perceptive Multi-Skill Humanoid Locomotion with RL-Fine-Tuned Motion Generators](https://arxiv.org/abs/2609.31577v1)** | 2026-09-25 | 12 pages |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning](https://arxiv.org/abs/2609.30258v1)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
-| **[OmniFabric: Coherent UV Space Texture Synthesis for 3D Garment Reconstruction](https://arxiv.org/abs/2609.30234v1)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted to SIGGRAPH Asia 2026. Project Page: https://humansensinglab.github.io/OmniFabric/</p></details> |
-| **[DeGRe: Dense-supervised Generative Reranking for Recommendation](https://arxiv.org/abs/2605.25749v2)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted to KDD 2026 ADS Track (Oral). Best Paper Award Honorable Mention</p></details> |
-| **[Practical and Space-Efficient LZ77 and LZ Pre-Compression via String Synchronizing Sets](https://arxiv.org/abs/2609.30193v1)** | 2026-09-24 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 4 tables. Accepted at ALENEX 2027. Code: https://github.com/LukasNalbach/lz77-sss</p></details> |
-| **[The shifted-prime Erdős-Wintner law for primitive-root determinant densities: extremal order, dimension zero, and Fourier decay](https://arxiv.org/abs/2603.11196v12)** | 2026-09-24 | <details><summary>Subst...</summary><p>Substantial revision: sharp minimum-density asymptotic; two-sided typical Fourier decay and stronger exceptional-set bounds; sharper $σ$-endpoint remainder; revised prior-work attribution and applications. Removed the standalone $σ$-extremal section</p></details> |
-| **[Context-aware Skin Cancer Epithelial Cell Classification with Scalable Graph Transformers](https://arxiv.org/abs/2602.15783v2)** | 2026-09-24 | <details><summary>17 pa...</summary><p>17 pages, 2 figures. Version 2: add links to dataset and code repository, now published and open-source. Add citation of paper in related work</p></details> |
+| **[Trust Guided Decision Transformer](https://arxiv.org/abs/2609.31586v1)** | 2026-09-25 | <details><summary>To ap...</summary><p>To appear in Neurips 2026</p></details> |
+| **[When to Think Fast and Slow? AMOR: Adaptive Entropy Gate for Hybrid Models](https://arxiv.org/abs/2602.13215v3)** | 2026-09-25 | 34 pages, 11 figures |
+| **[Statistical Foundations for a Google Play User-Review Sentiment Index: Signal Fusion, Shrinkage, Distributional Validation, and Dynamic Smoothing](https://arxiv.org/abs/2609.31513v1)** | 2026-09-25 | <details><summary>16 pa...</summary><p>16 pages, 2 tables, no figures</p></details> |
+| **[Prompt Minimization: Reducing Input Redundancy Without Sacrificing Output Fidelity](https://arxiv.org/abs/2609.31505v1)** | 2026-09-25 | 14 pages, 13 figures |
+| **[Nonparametric In-Context Learning under Growing Geometric Complexity: Minimax Optimality and Local Geometry-Adaptivity of Transformers](https://arxiv.org/abs/2609.31458v1)** | 2026-09-25 | <details><summary>63 pa...</summary><p>63 pages, 2 figures. Accepted at NeurIPS 2026</p></details> |
+| **[Implicit Neural Representation for Hyperspectral Video Compression](https://arxiv.org/abs/2609.31435v1)** | 2026-09-25 | <details><summary>Accep...</summary><p>Accepted at IEEE WHISPERS 2026</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Forte: A sensitivity type system for imperative Rust](https://arxiv.org/abs/2609.30254v1)** | 2026-09-24 | <details><summary>29 pa...</summary><p>29 pages. Submitted to the Journal of Functional Programming</p></details> |
-| **[SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data](https://arxiv.org/abs/2609.30238v1)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026</p></details> |
-| **[A Neural Hierarchical-Matrix Preconditioner for Real-Time GPU Solves](https://arxiv.org/abs/2605.13343v3)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted to SIGGRAPH Asia 2026 Posters (SA Posters '26). 3 pages; 2-page supplement as ancillary file. Supersedes v1-v2 (Hierarchical Transformer Preconditioning for Interactive Physics Simulation): their cosine-Hutchinson objective carries a factor lambda in its gradient on near-null modes; this version trains a truncated Kaporin condition number and evaluates on 3D tet meshes</p></details> |
-| **[One View Is Enough: In-the-Wild Monocular Pretraining for Novel View Generation](https://arxiv.org/abs/2603.23488v3)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. Code: https://github.com/kyutai-labs/ovie. Project page: https://kyutai.org/blog/2026-04-14-ovie/</p></details> |
-| **[Anchored Extra-Proximal Methods: Optimal Higher-Order Methods for Monotone Inclusion Problems](https://arxiv.org/abs/2609.30212v1)** | 2026-09-24 | 51 pages |
-| **[DeGRe: Dense-supervised Generative Reranking for Recommendation](https://arxiv.org/abs/2605.25749v2)** | 2026-09-24 | <details><summary>Accep...</summary><p>Accepted to KDD 2026 ADS Track (Oral). Best Paper Award Honorable Mention</p></details> |
+| **[Beyond Forecasting: Recasting Volatility Control as a Routing Problem](https://arxiv.org/abs/2608.10375v2)** | 2026-09-25 | <details><summary>24 pa...</summary><p>24 pages, 6 figures, ACM ICAIF</p></details> |
+| **[GraphWrit3R: End-to-End 3D Scene Graph Writing](https://arxiv.org/abs/2609.31595v1)** | 2026-09-25 | <details><summary>Proje...</summary><p>Project page at https://graphwrit3r.insait.ai</p></details> |
+| **[Governance Records as Supervision: Verifier-Selected Self-Training for Structured Workflow Repair](https://arxiv.org/abs/2608.18324v2)** | 2026-09-25 | <details><summary>28 pa...</summary><p>28 pages, 7 figures, 13 tables. v2 adds prospective eight-seed replications: the Self-24 lift replicates, while selector capability advantages do not pass seed-level reliability gates; claims and discussion revised accordingly</p></details> |
+| **[When to Think Fast and Slow? AMOR: Adaptive Entropy Gate for Hybrid Models](https://arxiv.org/abs/2602.13215v3)** | 2026-09-25 | 34 pages, 11 figures |
+| **[Can You Check That? The Checkability Boundary for Local LLM Network Automation](https://arxiv.org/abs/2609.31540v1)** | 2026-09-25 | <details><summary>Corre...</summary><p>Correspondence: Maleeha Masood (maleeha2@illinois.edu) or Momina Nofal (mominanofal@hotmail.com)</p></details> |
+| **[Fast and Secure Simultaneous Authentication of Equals for WPA3](https://arxiv.org/abs/2609.31519v1)** | 2026-09-25 | <details><summary>Submi...</summary><p>Submitted to the 2026 IEEE International Conference on Cyber Security and Resilience (IEEE CSR), August 2026, Lisbon, Portugal</p></details> |
 

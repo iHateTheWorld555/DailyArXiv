@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - September 29, 2026
+title: Latest 6 Papers - September 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GraphWrit3R: End-to-End 3D Scene Graph Writing](https://arxiv.org/abs/2609.31595v1)** | 2026-09-25 | <details><summary>Proje...</summary><p>Project page at https://graphwrit3r.insait.ai</p></details> |
-| **[AgentWorld: Benchmarking Long-Horizon Collaboration of Multi-agent LLMs](https://arxiv.org/abs/2609.31590v1)** | 2026-09-25 | <details><summary>Accep...</summary><p>Accepted at COLM 2026. Project website: https://agentworld.io</p></details> |
-| **[ChemMLLM: Chemical Multimodal Large Language Model](https://arxiv.org/abs/2505.16326v3)** | 2026-09-25 | 19 pages |
-| **[Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer](https://arxiv.org/abs/2609.31587v1)** | 2026-09-25 | <details><summary>13 pa...</summary><p>13 pages. Code and data: https://github.com/haw-ai-i/roundtrip</p></details> |
-| **[Trust Guided Decision Transformer](https://arxiv.org/abs/2609.31586v1)** | 2026-09-25 | <details><summary>To ap...</summary><p>To appear in Neurips 2026</p></details> |
-| **[Generate, Track, Improve: Perceptive Multi-Skill Humanoid Locomotion with RL-Fine-Tuned Motion Generators](https://arxiv.org/abs/2609.31577v1)** | 2026-09-25 | 12 pages |
+| **[FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets](https://arxiv.org/abs/2609.35770v1)** | 2026-09-28 | <details><summary>14 pa...</summary><p>14 pages, 13 figures, 4 tables. Project page: https://toshi2k2.github.io/fure</p></details> |
+| **[Telescopic Language Models](https://arxiv.org/abs/2609.35769v1)** | 2026-09-28 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 2 tables. Code: https://github.com/ZhilinGuo/telescopic-language-models</p></details> |
+| **[Reliability-Gated Fusion of Consumer Head and Foot IMUs for Lower-Body 3D Pose](https://arxiv.org/abs/2609.35764v1)** | 2026-09-28 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 3 tables. Code: https://github.com/ZhilinGuo/reliability-gated-imu-fusion</p></details> |
+| **[Statistical Learning of Contractive Dynamical Representations for Composite Adaptive Control](https://arxiv.org/abs/2609.35758v1)** | 2026-09-28 | <details><summary>9 pag...</summary><p>9 pages, including an additional one-page appendix in this arXiv version. Accepted to the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026)</p></details> |
+| **[How to Loop MoE: Flatten the Experts, Untie the Attention](https://arxiv.org/abs/2609.35751v1)** | 2026-09-28 | <details><summary>24 pa...</summary><p>24 pages, 6 figures, 13 tables</p></details> |
+| **[Robust Active Learning for Few-Shot Example Selection in Text-to-SQL](https://arxiv.org/abs/2606.10125v2)** | 2026-09-28 | <details><summary>42 pa...</summary><p>42 pages, 7 figures. Major revision</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Trust Guided Decision Transformer](https://arxiv.org/abs/2609.31586v1)** | 2026-09-25 | <details><summary>To ap...</summary><p>To appear in Neurips 2026</p></details> |
-| **[When to Think Fast and Slow? AMOR: Adaptive Entropy Gate for Hybrid Models](https://arxiv.org/abs/2602.13215v3)** | 2026-09-25 | 34 pages, 11 figures |
-| **[Statistical Foundations for a Google Play User-Review Sentiment Index: Signal Fusion, Shrinkage, Distributional Validation, and Dynamic Smoothing](https://arxiv.org/abs/2609.31513v1)** | 2026-09-25 | <details><summary>16 pa...</summary><p>16 pages, 2 tables, no figures</p></details> |
-| **[Prompt Minimization: Reducing Input Redundancy Without Sacrificing Output Fidelity](https://arxiv.org/abs/2609.31505v1)** | 2026-09-25 | 14 pages, 13 figures |
-| **[Nonparametric In-Context Learning under Growing Geometric Complexity: Minimax Optimality and Local Geometry-Adaptivity of Transformers](https://arxiv.org/abs/2609.31458v1)** | 2026-09-25 | <details><summary>63 pa...</summary><p>63 pages, 2 figures. Accepted at NeurIPS 2026</p></details> |
-| **[Implicit Neural Representation for Hyperspectral Video Compression](https://arxiv.org/abs/2609.31435v1)** | 2026-09-25 | <details><summary>Accep...</summary><p>Accepted at IEEE WHISPERS 2026</p></details> |
+| **[Telescopic Language Models](https://arxiv.org/abs/2609.35769v1)** | 2026-09-28 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 2 tables. Code: https://github.com/ZhilinGuo/telescopic-language-models</p></details> |
+| **[Neural Harmonic Measure Operator](https://arxiv.org/abs/2609.35752v1)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted at the 40th Conference on Neural Information Processing Systems (NeurIPS 2026). 30 pages, 11 figures, 19 tables</p></details> |
+| **[How to Loop MoE: Flatten the Experts, Untie the Attention](https://arxiv.org/abs/2609.35751v1)** | 2026-09-28 | <details><summary>24 pa...</summary><p>24 pages, 6 figures, 13 tables</p></details> |
+| **[Luce: Relightable Gaussians for 3D Asset Generation](https://arxiv.org/abs/2608.23943v2)** | 2026-09-28 | <details><summary>28 pa...</summary><p>28 pages, 19 figures, 5 tables</p></details> |
+| **[Squeeze3D: Extreme Neural Compression with Latent Space Bridging](https://arxiv.org/abs/2506.07932v2)** | 2026-09-28 | <details><summary>Proje...</summary><p>Project Page: https://squeeze3d.github.io/</p></details> |
+| **[FlowAct-R2: Beyond Talking Avatar via Streaming Multimodal References and Proactive Agent Planning](https://arxiv.org/abs/2609.35728v1)** | 2026-09-28 | <details><summary>Proje...</summary><p>Project page: https://bone-11.github.io/Flowact-R2; Hugging Face Space: https://huggingface.co/spaces/ProAudience/FlowAct-R2</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Beyond Forecasting: Recasting Volatility Control as a Routing Problem](https://arxiv.org/abs/2608.10375v2)** | 2026-09-25 | <details><summary>24 pa...</summary><p>24 pages, 6 figures, ACM ICAIF</p></details> |
-| **[GraphWrit3R: End-to-End 3D Scene Graph Writing](https://arxiv.org/abs/2609.31595v1)** | 2026-09-25 | <details><summary>Proje...</summary><p>Project page at https://graphwrit3r.insait.ai</p></details> |
-| **[Governance Records as Supervision: Verifier-Selected Self-Training for Structured Workflow Repair](https://arxiv.org/abs/2608.18324v2)** | 2026-09-25 | <details><summary>28 pa...</summary><p>28 pages, 7 figures, 13 tables. v2 adds prospective eight-seed replications: the Self-24 lift replicates, while selector capability advantages do not pass seed-level reliability gates; claims and discussion revised accordingly</p></details> |
-| **[When to Think Fast and Slow? AMOR: Adaptive Entropy Gate for Hybrid Models](https://arxiv.org/abs/2602.13215v3)** | 2026-09-25 | 34 pages, 11 figures |
-| **[Can You Check That? The Checkability Boundary for Local LLM Network Automation](https://arxiv.org/abs/2609.31540v1)** | 2026-09-25 | <details><summary>Corre...</summary><p>Correspondence: Maleeha Masood (maleeha2@illinois.edu) or Momina Nofal (mominanofal@hotmail.com)</p></details> |
-| **[Fast and Secure Simultaneous Authentication of Equals for WPA3](https://arxiv.org/abs/2609.31519v1)** | 2026-09-25 | <details><summary>Submi...</summary><p>Submitted to the 2026 IEEE International Conference on Cyber Security and Resilience (IEEE CSR), August 2026, Lisbon, Portugal</p></details> |
+| **[Telescopic Language Models](https://arxiv.org/abs/2609.35769v1)** | 2026-09-28 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 2 tables. Code: https://github.com/ZhilinGuo/telescopic-language-models</p></details> |
+| **[Neural Harmonic Measure Operator](https://arxiv.org/abs/2609.35752v1)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted at the 40th Conference on Neural Information Processing Systems (NeurIPS 2026). 30 pages, 11 figures, 19 tables</p></details> |
+| **[Beyond Accuracy: Behavioral Dynamics of Agentic Multi-Hunk Repair](https://arxiv.org/abs/2511.11012v3)** | 2026-09-28 | <details><summary>Accep...</summary><p>Accepted for publication in ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
+| **[Provable Benefits of Regularization: Fast Rates for Adversarial Imitation Learning](https://arxiv.org/abs/2609.35698v1)** | 2026-09-28 | 33 pages, 1 table |
+| **[Learned Relay Representations for Forward-Thinking Discrete Diffusion Models](https://arxiv.org/abs/2605.22967v4)** | 2026-09-28 | <details><summary>18 pa...</summary><p>18 pages, 3 figures. Equal contribution: Benjamin Rozonoyer, Jacopo Minniti, and Dhruvesh Patel. Code: https://github.com/jacopo-minniti/relay</p></details> |
+| **[GPUPhysBench: Benchmarking Coding Agents for Correct and Efficient GPU Physics Simulation](https://arxiv.org/abs/2609.35639v1)** | 2026-09-28 | 41 pages |
 

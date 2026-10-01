@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - October 01, 2026
+title: Latest 6 Papers - October 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Point2Part: Unified 3D Partitioning from Point Prompts](https://arxiv.org/abs/2609.38180v1)** | 2026-09-29 | <details><summary>Proje...</summary><p>Project Page: https://henrytsui000.github.io/Point2Part</p></details> |
-| **[Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering](https://arxiv.org/abs/2609.38177v1)** | 2026-09-29 | <details><summary>NeurI...</summary><p>NeurIPS 2026; Project Page: https://cvlab-kaist.github.io/Imagine3D-LLM</p></details> |
-| **[Breakdown of Local Denoising as Semantic Speciation](https://arxiv.org/abs/2609.38176v1)** | 2026-09-29 | <details><summary>9 pag...</summary><p>9 pages main, 13 pages appendix, 4 figures. Comments very welcome</p></details> |
-| **[ClusterAttention: A training-free speedup of bidirectional attention](https://arxiv.org/abs/2608.26965v2)** | 2026-09-29 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, plus appendix. September update: Faster compensation kernel, fixed TabPFN-3 preprocessing and autocast scope (giving better accuracy and larger speedup), corrections in the error analysis and complexities, expanded comparison with similar work, revised the writing</p></details> |
-| **[STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization](https://arxiv.org/abs/2609.38169v1)** | 2026-09-29 | Technical Report |
-| **[LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization](https://arxiv.org/abs/2609.38166v1)** | 2026-09-29 | 17 pages, 11 figures |
+| **[Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces](https://arxiv.org/abs/2609.40362v1)** | 2026-09-30 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 10 tables. Code and model: https://github.com/hustvl/Multimodal-Flow</p></details> |
+| **[Image Classifiers are Efficient Self-Supervised Video Representation Learners](https://arxiv.org/abs/2609.40347v1)** | 2026-09-30 | <details><summary>Accep...</summary><p>Accepted in BMVC 2026</p></details> |
+| **[EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery](https://arxiv.org/abs/2609.40340v1)** | 2026-09-30 | <details><summary>Proje...</summary><p>Project page: https://open-galapagos.github.io/evoduet_project_page/</p></details> |
+| **[Local Relaxation Hierarchies for Quantum Ground State Energies: Convergence Guarantees and Message Passing Algorithms](https://arxiv.org/abs/2609.40336v1)** | 2026-09-30 | 39 pages, 4 figures |
+| **[Is Weight Tying Still Beneficial for Decoder-Only LLMs in Private Settings Under DP-SGD?](https://arxiv.org/abs/2609.40335v1)** | 2026-09-30 | <details><summary>Accep...</summary><p>Accepted at the 8th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (IEEE TPS 2026). 12 pages (10 pages of main content), 1 figure, 13 tables</p></details> |
+| **[IatroBench: A Pre-Registered Benchmark of Clinical Omission in Language Models](https://arxiv.org/abs/2604.07709v6)** | 2026-09-30 | <details><summary>28 pa...</summary><p>28 pages, 3 figures, 15 tables. Pre-registered on OSF (DOI: https://doi.org/10.17605/OSF.IO/G6VMZ). Code and derived results: https://github.com/davidgringras/iatrobench. v6 completes the revision begun in v5: physician validation reported against the primary judge; pair-by-model cluster tests added; examples, rubrics and reference excerpts moved to ancillary files; Figure 1 redrawn</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization](https://arxiv.org/abs/2609.38169v1)** | 2026-09-29 | Technical Report |
-| **[LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization](https://arxiv.org/abs/2609.38166v1)** | 2026-09-29 | 17 pages, 11 figures |
-| **[Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Dataset Disparity for Crop Segmentation in Satellite Imagery Time Series Data](https://arxiv.org/abs/2609.38165v1)** | 2026-09-29 | <details><summary>Main ...</summary><p>Main body: 19 pages, 7 figures; Appendices: 15 pages, 16 figures. All code and models associated with this work are available at https://github.com/JoeMetc/CroplandPAtteRNS , along with preparation guides for the two publicly available crop segmentation datasets used in this work</p></details> |
-| **[Screening Is Enough](https://arxiv.org/abs/2604.01178v4)** | 2026-09-29 | <details><summary>43 pa...</summary><p>43 pages, 25 figures. Substantially revised version with all experiments rerun, extensive controlled attention-mechanism comparisons and architectural ablations, and corrections and minor refinements to the mathematical specification</p></details> |
-| **[Pruning for Efficiency, Paying in Fairness: Demographic Disparities in Pruned Speech-LLMs](https://arxiv.org/abs/2609.38106v1)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted to IMPACT-SPEECH@EMNLP'26</p></details> |
-| **[Traversing the solution space of neural networks with Hessian Null Space Continuation](https://arxiv.org/abs/2609.38081v1)** | 2026-09-29 | <details><summary>55 pa...</summary><p>55 pages, 39 figures. Project page and code: https://ann-huang-0.github.io/Hessian-null-space-continuation/</p></details> |
+| **[Image Classifiers are Efficient Self-Supervised Video Representation Learners](https://arxiv.org/abs/2609.40347v1)** | 2026-09-30 | <details><summary>Accep...</summary><p>Accepted in BMVC 2026</p></details> |
+| **[GLARE: Generating Listening Heads with Appropriate Reactions](https://arxiv.org/abs/2609.40317v1)** | 2026-09-30 | <details><summary>Accep...</summary><p>Accepted in NeurIPS 2026. Project page: https://github.com/lzk901372/glare</p></details> |
+| **[Scaling Laws for Looped Mixture of Experts](https://arxiv.org/abs/2609.40316v1)** | 2026-09-30 | 19 pages |
+| **[Planted Cliques and Quantum Symmetry-Adapted Measurements](https://arxiv.org/abs/2609.40310v1)** | 2026-09-30 | 35 pages, 1 figure |
+| **[Looped Diffusion Transformer](https://arxiv.org/abs/2609.40305v1)** | 2026-09-30 | 21 pages, 9 figures |
+| **[Superlinear Quantum Query Lower Bounds for Subgraph Detection](https://arxiv.org/abs/2609.40263v1)** | 2026-09-30 | 41 pages |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering](https://arxiv.org/abs/2609.38177v1)** | 2026-09-29 | <details><summary>NeurI...</summary><p>NeurIPS 2026; Project Page: https://cvlab-kaist.github.io/Imagine3D-LLM</p></details> |
-| **[ClusterAttention: A training-free speedup of bidirectional attention](https://arxiv.org/abs/2608.26965v2)** | 2026-09-29 | <details><summary>13 pa...</summary><p>13 pages, 2 figures, plus appendix. September update: Faster compensation kernel, fixed TabPFN-3 preprocessing and autocast scope (giving better accuracy and larger speedup), corrections in the error analysis and complexities, expanded comparison with similar work, revised the writing</p></details> |
-| **[LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization](https://arxiv.org/abs/2609.38166v1)** | 2026-09-29 | 17 pages, 11 figures |
-| **[LongLive-Plug: Once-for-All Distillation for Video Generation](https://arxiv.org/abs/2609.38154v1)** | 2026-09-29 | <details><summary>Code ...</summary><p>Code and models are available at https://github.com/NVlabs/LongLive</p></details> |
-| **[Screening Is Enough](https://arxiv.org/abs/2604.01178v4)** | 2026-09-29 | <details><summary>43 pa...</summary><p>43 pages, 25 figures. Substantially revised version with all experiments rerun, extensive controlled attention-mechanism comparisons and architectural ablations, and corrections and minor refinements to the mathematical specification</p></details> |
-| **[GA-EIRFS: A Geometry-Augmented Repeat-Factor Sampling Method for Long-Tailed LiDAR 3D Object Detection](https://arxiv.org/abs/2609.38116v1)** | 2026-09-29 | <details><summary>5 pag...</summary><p>5 pages, 4 figures, Submitted to IEEE ICASSP 2027</p></details> |
+| **[Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces](https://arxiv.org/abs/2609.40362v1)** | 2026-09-30 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, 10 tables. Code and model: https://github.com/hustvl/Multimodal-Flow</p></details> |
+| **[Local Relaxation Hierarchies for Quantum Ground State Energies: Convergence Guarantees and Message Passing Algorithms](https://arxiv.org/abs/2609.40336v1)** | 2026-09-30 | 39 pages, 4 figures |
+| **[DynaHarness: A Dynamic Physical Harness for Self-Evolving Robot Agents](https://arxiv.org/abs/2609.40306v1)** | 2026-09-30 | <details><summary>37 pa...</summary><p>37 pages, 19 figures. Project page: https://denghaoyuan123.github.io/Dynaharness_page/</p></details> |
+| **[Looped Diffusion Transformer](https://arxiv.org/abs/2609.40305v1)** | 2026-09-30 | 21 pages, 9 figures |
+| **[Belief-Aware Multi-Agent Path Finding under Map Uncertainty](https://arxiv.org/abs/2609.40269v1)** | 2026-09-30 | Under review |
+| **[Herschel: Continuous Optimization of Production LLM Inference through On-Demand Profiling](https://arxiv.org/abs/2609.40247v1)** | 2026-09-30 | 17 pages |
 

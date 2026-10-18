@@ -1,5 +1,5 @@
 ---
-title: Latest 6 Papers - October 16, 2026
+title: Latest 6 Papers - October 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## Efficient Diffusion Models
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Can Learning to Answer Spatial Questions Improve Novel-View Generation?](https://arxiv.org/abs/2610.20610v1)** | 2026-10-14 | <details><summary>Proje...</summary><p>Project Page: https://cvlab-kaist.github.io/Ask4NV/</p></details> |
-| **[SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving](https://arxiv.org/abs/2610.20609v1)** | 2026-10-14 | <details><summary>Accep...</summary><p>Accepted at CoRL 2026. Project page: https://safedrive-vla.github.io/SafeDriveVLA/</p></details> |
-| **[Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion](https://arxiv.org/abs/2610.20606v1)** | 2026-10-14 | <details><summary>Proje...</summary><p>Project page: https://humanoid-weight-diffusion.github.io/</p></details> |
-| **[Representation Conditioning for Generation](https://arxiv.org/abs/2610.20608v1)** | 2026-10-14 | <details><summary>Proje...</summary><p>Project Page: https://recondiffusion.github.io/</p></details> |
-| **[Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance](https://arxiv.org/abs/2610.20607v1)** | 2026-10-14 | <details><summary>Confe...</summary><p>Conference on Robot Learning (CoRL 2026); Project Website: https://hire-moma.github.io/</p></details> |
-| **[VITAL: From Visual Motion to Precise Action](https://arxiv.org/abs/2610.20604v1)** | 2026-10-14 | <details><summary>Techn...</summary><p>Technical Report; 37 pages, 14 figures, 19 tables; Project Page at https://worldbench.github.io/vital GitHub at https://github.com/worldbench/VITAL</p></details> |
+| **[LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation](https://arxiv.org/abs/2610.22372v1)** | 2026-10-15 | <details><summary>Confe...</summary><p>Conference on Neural Information Processing Systems (NeurIPS 2026); Project Website: https://libero-perm.github.io/</p></details> |
+| **[Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation](https://arxiv.org/abs/2610.22370v1)** | 2026-10-15 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. Code: https://github.com/SeungJuCha/DaTMe</p></details> |
+| **[SoftCache: Adaptive Step Size Caching for Diffusion Transformers](https://arxiv.org/abs/2610.22369v1)** | 2026-10-15 | <details><summary>Proje...</summary><p>Project page: https://malnick.net/softcache</p></details> |
+| **[Discovering state-of-the-art quantum circuits with large language models](https://arxiv.org/abs/2610.22367v1)** | 2026-10-15 | <details><summary>46 pa...</summary><p>46 pages, 10 figures, 6 tables</p></details> |
+| **[Grounding Generative Verification in 3D Content](https://arxiv.org/abs/2610.22360v1)** | 2026-10-15 | <details><summary>35 pa...</summary><p>35 pages, 6 figures. Project page: https://ai-yeslab.github.io/3DVerifier-page/</p></details> |
+| **[DK-VLM: Geometry as Position for Spatial Reasoning in Vision-Language Models](https://arxiv.org/abs/2610.22356v1)** | 2026-10-15 | <details><summary>Proje...</summary><p>Project page: https://sumuru789.github.io/DK-VLM-website/</p></details> |
 
 ## Transformer Compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Can Learning to Answer Spatial Questions Improve Novel-View Generation?](https://arxiv.org/abs/2610.20610v1)** | 2026-10-14 | <details><summary>Proje...</summary><p>Project Page: https://cvlab-kaist.github.io/Ask4NV/</p></details> |
-| **[Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion](https://arxiv.org/abs/2610.20606v1)** | 2026-10-14 | <details><summary>Proje...</summary><p>Project page: https://humanoid-weight-diffusion.github.io/</p></details> |
-| **[Representation Conditioning for Generation](https://arxiv.org/abs/2610.20608v1)** | 2026-10-14 | <details><summary>Proje...</summary><p>Project Page: https://recondiffusion.github.io/</p></details> |
-| **[CoWear: Towards Collaborative Wearable Inertial Localization with Multiple Smart Devices](https://arxiv.org/abs/2610.20596v1)** | 2026-10-14 | 8 pages, 5 figures |
-| **[Your Transformer Is Secretly Elastic](https://arxiv.org/abs/2610.20588v1)** | 2026-10-14 | <details><summary>Code ...</summary><p>Code available at https://github.com/WalterSimoncini/secretly-elastic</p></details> |
-| **[Latent Compaction with Test-Time Training](https://arxiv.org/abs/2610.20582v1)** | 2026-10-14 | 19 pages, 21 figures |
+| **[Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation](https://arxiv.org/abs/2610.22370v1)** | 2026-10-15 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026. Code: https://github.com/SeungJuCha/DaTMe</p></details> |
+| **[SoftCache: Adaptive Step Size Caching for Diffusion Transformers](https://arxiv.org/abs/2610.22369v1)** | 2026-10-15 | <details><summary>Proje...</summary><p>Project page: https://malnick.net/softcache</p></details> |
+| **[DK-VLM: Geometry as Position for Spatial Reasoning in Vision-Language Models](https://arxiv.org/abs/2610.22356v1)** | 2026-10-15 | <details><summary>Proje...</summary><p>Project page: https://sumuru789.github.io/DK-VLM-website/</p></details> |
+| **[SUPRA-TEX: 3D Generation with Super-Aligned Texture](https://arxiv.org/abs/2610.22352v1)** | 2026-10-15 | <details><summary>Proje...</summary><p>Project page: https://supra-3d.github.io/supratex/</p></details> |
+| **[WorkflowPerturb: Calibrated Stress Tests for Evaluating Multi-Agent Workflow Metrics](https://arxiv.org/abs/2602.17990v4)** | 2026-10-15 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Industry Track. 18 pages</p></details> |
+| **[Grid-Bench: Can LLMs Predict How Discrete Worlds Change?](https://arxiv.org/abs/2610.22312v1)** | 2026-10-15 | <details><summary>39 pa...</summary><p>39 pages, 15 figures, 15 tables, including appendices. Project website: https://grid-bench.github.io/ ; Code: https://github.com/grid-bench/Grid-Bench ; Data: https://huggingface.co/datasets/xzx34/Grid-Bench</p></details> |
 
 ## Fast Inference
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Representation Conditioning for Generation](https://arxiv.org/abs/2610.20608v1)** | 2026-10-14 | <details><summary>Proje...</summary><p>Project Page: https://recondiffusion.github.io/</p></details> |
-| **[VITAL: From Visual Motion to Precise Action](https://arxiv.org/abs/2610.20604v1)** | 2026-10-14 | <details><summary>Techn...</summary><p>Technical Report; 37 pages, 14 figures, 19 tables; Project Page at https://worldbench.github.io/vital GitHub at https://github.com/worldbench/VITAL</p></details> |
-| **[Price of Anarchy of First-Price Auctions in Agentic Markets](https://arxiv.org/abs/2610.20587v1)** | 2026-10-14 | 40 pages |
-| **[Fast Forgiving Base64 Decoding with SIMD Instructions](https://arxiv.org/abs/2610.17406v2)** | 2026-10-14 | <details><summary>softw...</summary><p>software at https://simdutf.github.io/simdutf/</p></details> |
-| **[PerSo: Investigating Facets of LLMs' Social Intelligence in Real-World Persuasion Scenarios](https://arxiv.org/abs/2610.20548v1)** | 2026-10-14 | <details><summary>25 pa...</summary><p>25 pages, 17 figures, 10 tables. Ali Zamani and Soroush Esfahanian contributed equally</p></details> |
-| **[Decoupled Marginal Sharpening for Training-Free Inference-Time Scaling](https://arxiv.org/abs/2610.20483v1)** | 2026-10-14 | <details><summary>17 pa...</summary><p>17 pages, 3 figures, 6 tables</p></details> |
+| **[Spark-0: Scaling Spatially Aligned Tactile Pretraining for Robot Dexterous Manipulation](https://arxiv.org/abs/2610.22342v1)** | 2026-10-15 | <details><summary>Websi...</summary><p>Website: https://xsparkai.com/Spark-0</p></details> |
+| **[ACEdit: Stable Multi-Turn Image Editing via Asymmetric Conditioning](https://arxiv.org/abs/2610.22328v1)** | 2026-10-15 | <details><summary>Proje...</summary><p>Project page: https://saradorfman1.github.io/ACEdit/</p></details> |
+| **[Learning to Steer LLM Agents and Multi-Agent Systems](https://arxiv.org/abs/2610.22316v1)** | 2026-10-15 | 21 pages, 6 figures |
+| **[TraHist: Fast and Accurate Cardinality Estimation for Trajectory Data (Extended Version)](https://arxiv.org/abs/2610.22310v1)** | 2026-10-15 | <details><summary>Exten...</summary><p>Extended version of the paper to appear in PACMMOD Vol. 4, No. 6 (SIGMOD 2027)</p></details> |
+| **[ARC-SORT: Adaptive, Robust, Compensated Multi-Object Tracking with Interacting Multiple Models](https://arxiv.org/abs/2610.22306v1)** | 2026-10-15 | <details><summary>14 pa...</summary><p>14 pages, 4 figures, 13 tables; supplementary material included as appendix; qualitative video as ancillary file</p></details> |
+| **[Visual Contrastive Self-Distillation](https://arxiv.org/abs/2607.21556v2)** | 2026-10-15 | <details><summary>22 pa...</summary><p>22 pages, 7 figures, 8 tables. Project page: https://joliang17.github.io/VisualCSD/</p></details> |
 
